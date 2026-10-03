@@ -1,0 +1,3777 @@
+AP EAPCET 2021
+Andhra Pradesh State Council of Higher 
+Education
+   
+ 
+Notations :
+1.Options shown in green color and with 
+ icon are correct.
+2.Options shown in red color and with 
+ icon are incorrect.
+ 
+ 
+ 
+Question Paper Name :
+ENGINEERING 19th Aug 2021 Shift 2
+Duration :
+180
+Total Marks :
+160
+Display Marks:
+No
+Calculator :
+None
+Magnifying Glass Required? :
+No
+Ruler Required? :
+No
+Eraser Required? :
+No
+Scratch Pad Required? :
+No
+Rough Sketch/Notepad Required? :
+No
+Protractor Required? :
+No
+Show Watermark on Console? :
+Yes
+Highlighter :
+No
+Auto Save on Console? ( SA type of questions will 
+be always auto saved ) :
+Yes
+Is this Group for Examiner? :
+No
+ 
+ 
+ 
+ 
+Mathematics
+AP EAPCET 2021
+
+AP EAPCET 2021
+Section Id :
+5447344
+Section Number :
+1
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+80
+Section Marks :
+80
+Enable Mark as Answered Mark for Review and 
+Clear Response :
+Yes
+ 
+ 
+Question Number : 1 Question Id : 544734161 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 2 Question Id : 544734162 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 3 Question Id : 544734163 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+Question Number : 4 Question Id : 544734164 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 5 Question Id : 544734165 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 6 Question Id : 544734166 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 7 Question Id : 544734167 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 8 Question Id : 544734168 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 9 Question Id : 544734169 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+ 
+ 
+Question Number : 10 Question Id : 544734170 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 11 Question Id : 544734171 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 12 Question Id : 544734172 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 13 Question Id : 544734173 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+AP EAPCET 2021
+
+AP EAPCET 2021
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 14 Question Id : 544734174 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 15 Question Id : 544734175 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 16 Question Id : 544734176 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 17 Question Id : 544734177 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 18 Question Id : 544734178 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 19 Question Id : 544734179 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 20 Question Id : 544734180 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 21 Question Id : 544734181 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 22 Question Id : 544734182 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 23 Question Id : 544734183 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 24 Question Id : 544734184 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 25 Question Id : 544734185 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 26 Question Id : 544734186 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 27 Question Id : 544734187 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 28 Question Id : 544734188 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+ 
+Question Number : 29 Question Id : 544734189 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 30 Question Id : 544734190 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+AP EAPCET 2021
+
+AP EAPCET 2021
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 31 Question Id : 544734191 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+ 
+ 
+Question Number : 32 Question Id : 544734192 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 33 Question Id : 544734193 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 34 Question Id : 544734194 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 35 Question Id : 544734195 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 36 Question Id : 544734196 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 37 Question Id : 544734197 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+Question Number : 38 Question Id : 544734198 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 39 Question Id : 544734199 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 40 Question Id : 544734200 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 41 Question Id : 544734201 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 42 Question Id : 544734202 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 43 Question Id : 544734203 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 44 Question Id : 544734204 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 45 Question Id : 544734205 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+ 
+Question Number : 46 Question Id : 544734206 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 47 Question Id : 544734207 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 48 Question Id : 544734208 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 49 Question Id : 544734209 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 50 Question Id : 544734210 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 51 Question Id : 544734211 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 52 Question Id : 544734212 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 53 Question Id : 544734213 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 54 Question Id : 544734214 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 55 Question Id : 544734215 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 56 Question Id : 544734216 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 57 Question Id : 544734217 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 58 Question Id : 544734218 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 59 Question Id : 544734219 Display Question Number : Yes Is Question 
+AP EAPCET 2021
+
+AP EAPCET 2021
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 60 Question Id : 544734220 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 61 Question Id : 544734221 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 62 Question Id : 544734222 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 63 Question Id : 544734223 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 64 Question Id : 544734224 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 65 Question Id : 544734225 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 66 Question Id : 544734226 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 67 Question Id : 544734227 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 68 Question Id : 544734228 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 69 Question Id : 544734229 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 70 Question Id : 544734230 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+AP EAPCET 2021
+
+AP EAPCET 2021
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 71 Question Id : 544734231 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 72 Question Id : 544734232 Display Question Number : Yes Is Question 
+AP EAPCET 2021
+
+AP EAPCET 2021
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 73 Question Id : 544734233 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 74 Question Id : 544734234 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 75 Question Id : 544734235 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 76 Question Id : 544734236 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+ 
+ 
+Question Number : 77 Question Id : 544734237 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 78 Question Id : 544734238 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 79 Question Id : 544734239 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 80 Question Id : 544734240 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Physics
+Section Id :
+5447345
+Section Number :
+2
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+40
+Section Marks :
+40
+Enable Mark as Answered Mark for Review and 
+Clear Response :
+Yes
+ 
+ 
+Question Number : 81 Question Id : 544734241 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 82 Question Id : 544734242 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 83 Question Id : 544734243 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 84 Question Id : 544734244 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 85 Question Id : 544734245 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 86 Question Id : 544734246 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 87 Question Id : 544734247 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+AP EAPCET 2021
+
+AP EAPCET 2021
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 88 Question Id : 544734248 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+Question Number : 89 Question Id : 544734249 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 90 Question Id : 544734250 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 91 Question Id : 544734251 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 92 Question Id : 544734252 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 93 Question Id : 544734253 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+AP EAPCET 2021
+
+AP EAPCET 2021
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 94 Question Id : 544734254 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 95 Question Id : 544734255 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 96 Question Id : 544734256 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 97 Question Id : 544734257 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 98 Question Id : 544734258 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 99 Question Id : 544734259 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 100 Question Id : 544734260 Display Question Number : Yes Is Question 
+AP EAPCET 2021
+
+AP EAPCET 2021
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 101 Question Id : 544734261 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+AP EAPCET 2021
+
+AP EAPCET 2021
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 102 Question Id : 544734262 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 103 Question Id : 544734263 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 104 Question Id : 544734264 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 105 Question Id : 544734265 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 106 Question Id : 544734266 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 107 Question Id : 544734267 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 108 Question Id : 544734268 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 109 Question Id : 544734269 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 110 Question Id : 544734270 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 111 Question Id : 544734271 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+ 
+Question Number : 112 Question Id : 544734272 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 113 Question Id : 544734273 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 114 Question Id : 544734274 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+Question Number : 115 Question Id : 544734275 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 116 Question Id : 544734276 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 117 Question Id : 544734277 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 118 Question Id : 544734278 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 119 Question Id : 544734279 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+ 
+Question Number : 120 Question Id : 544734280 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chemistry
+Section Id :
+5447346
+Section Number :
+3
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+40
+Section Marks :
+40
+Enable Mark as Answered Mark for Review and 
+Clear Response :
+Yes
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+Question Number : 121 Question Id : 544734281 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 122 Question Id : 544734282 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 123 Question Id : 544734283 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 124 Question Id : 544734284 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 125 Question Id : 544734285 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+ 
+ 
+Question Number : 126 Question Id : 544734286 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 127 Question Id : 544734287 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 128 Question Id : 544734288 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 129 Question Id : 544734289 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 130 Question Id : 544734290 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 131 Question Id : 544734291 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 132 Question Id : 544734292 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 133 Question Id : 544734293 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 134 Question Id : 544734294 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 135 Question Id : 544734295 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 136 Question Id : 544734296 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 137 Question Id : 544734297 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 138 Question Id : 544734298 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+AP EAPCET 2021
+
+AP EAPCET 2021
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 139 Question Id : 544734299 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 140 Question Id : 544734300 Display Question Number : Yes Is Question 
+AP EAPCET 2021
+
+AP EAPCET 2021
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 141 Question Id : 544734301 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 142 Question Id : 544734302 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+ 
+ 
+Question Number : 143 Question Id : 544734303 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 144 Question Id : 544734304 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+AP EAPCET 2021
+
+AP EAPCET 2021
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 145 Question Id : 544734305 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 146 Question Id : 544734306 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 147 Question Id : 544734307 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+AP EAPCET 2021
+
+AP EAPCET 2021
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 148 Question Id : 544734308 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 149 Question Id : 544734309 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 150 Question Id : 544734310 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 151 Question Id : 544734311 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 152 Question Id : 544734312 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 153 Question Id : 544734313 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 154 Question Id : 544734314 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+AP EAPCET 2021
+
+AP EAPCET 2021
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 155 Question Id : 544734315 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 156 Question Id : 544734316 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 157 Question Id : 544734317 Display Question Number : Yes Is Question 
+Mandatory : No
+AP EAPCET 2021
+
+AP EAPCET 2021
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 158 Question Id : 544734318 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 159 Question Id : 544734319 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+AP EAPCET 2021
+
+AP EAPCET 2021
+Question Number : 160 Question Id : 544734320 Display Question Number : Yes Is Question 
+Mandatory : No
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+AP EAPCET 2021

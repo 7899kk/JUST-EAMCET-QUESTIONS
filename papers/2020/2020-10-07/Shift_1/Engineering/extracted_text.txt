@@ -1,0 +1,4281 @@
+AP EAMCET 2020
+Andhra Pradesh State Council of Higher 
+Education
+   
+ 
+Notations :
+1.Options shown in green color and with 
+ icon are correct.
+2.Options shown in red color and with 
+ icon are incorrect.
+ 
+ 
+ 
+Question Paper Name :
+ENGINEERING 7th Oct 2020 Shift 1
+Subject Name :
+ENGINEERING
+Creation Date :
+2020-10-07 12:17:34
+Duration :
+180
+Number of Questions :
+160
+Total Marks :
+160
+Display Marks:
+No
+Share Answer Key With Delivery Engine :
+Yes
+Actual Answer Key :
+Yes
+Calculator :
+None
+Magnifying Glass Required? :
+No
+Ruler Required? :
+No
+Eraser Required? :
+No
+Scratch Pad Required? :
+No
+Rough Sketch/Notepad Required? :
+No
+Protractor Required? :
+No
+Show Watermark on Console? :
+Yes
+Highlighter :
+No
+Auto Save on Console? :
+Yes
+AP EAMCET 2020
+
+AP EAMCET 2020
+Is this Group for Examiner? :
+No
+ 
+ 
+ 
+ 
+Mathematics
+Section Id :
+81356148
+Section Number :
+1
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+80
+Section Marks :
+80
+Mark As Answered Required? :
+Yes
+ 
+ 
+Question Number : 1 Question Id : 8135612241 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 2 Question Id : 8135612242 Question Type : MCQ Display Question 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 3 Question Id : 8135612243 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 4 Question Id : 8135612244 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 5 Question Id : 8135612245 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 6 Question Id : 8135612246 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+ 
+Question Number : 7 Question Id : 8135612247 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 8 Question Id : 8135612248 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 9 Question Id : 8135612249 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 10 Question Id : 8135612250 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+Question Number : 11 Question Id : 8135612251 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 12 Question Id : 8135612252 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 13 Question Id : 8135612253 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 14 Question Id : 8135612254 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 15 Question Id : 8135612255 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 16 Question Id : 8135612256 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 17 Question Id : 8135612257 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 18 Question Id : 8135612258 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 19 Question Id : 8135612259 Question Type : MCQ Display Question 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 20 Question Id : 8135612260 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 21 Question Id : 8135612261 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 22 Question Id : 8135612262 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 23 Question Id : 8135612263 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+Question Number : 24 Question Id : 8135612264 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 25 Question Id : 8135612265 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 26 Question Id : 8135612266 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Question Number : 27 Question Id : 8135612267 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 28 Question Id : 8135612268 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 29 Question Id : 8135612269 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 30 Question Id : 8135612270 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 31 Question Id : 8135612271 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 32 Question Id : 8135612272 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 33 Question Id : 8135612273 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 34 Question Id : 8135612274 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 35 Question Id : 8135612275 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 36 Question Id : 8135612276 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+AP EAMCET 2020
+
+AP EAMCET 2020
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 37 Question Id : 8135612277 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 38 Question Id : 8135612278 Question Type : MCQ Display Question 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 39 Question Id : 8135612279 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+Question Number : 40 Question Id : 8135612280 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 41 Question Id : 8135612281 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 42 Question Id : 8135612282 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Question Number : 43 Question Id : 8135612283 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 44 Question Id : 8135612284 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 45 Question Id : 8135612285 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 46 Question Id : 8135612286 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 47 Question Id : 8135612287 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 48 Question Id : 8135612288 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 49 Question Id : 8135612289 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 50 Question Id : 8135612290 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Question Number : 51 Question Id : 8135612291 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 52 Question Id : 8135612292 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 53 Question Id : 8135612293 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 54 Question Id : 8135612294 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 55 Question Id : 8135612295 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+Question Number : 56 Question Id : 8135612296 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 57 Question Id : 8135612297 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 58 Question Id : 8135612298 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 59 Question Id : 8135612299 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 60 Question Id : 8135612300 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Question Number : 61 Question Id : 8135612301 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 62 Question Id : 8135612302 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 63 Question Id : 8135612303 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 64 Question Id : 8135612304 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 65 Question Id : 8135612305 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 66 Question Id : 8135612306 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 67 Question Id : 8135612307 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 68 Question Id : 8135612308 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 69 Question Id : 8135612309 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 70 Question Id : 8135612310 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 71 Question Id : 8135612311 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 72 Question Id : 8135612312 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 73 Question Id : 8135612313 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+Question Number : 74 Question Id : 8135612314 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 75 Question Id : 8135612315 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 76 Question Id : 8135612316 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 77 Question Id : 8135612317 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 78 Question Id : 8135612318 Question Type : MCQ Display Question 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 79 Question Id : 8135612319 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 80 Question Id : 8135612320 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Physics
+Section Id :
+81356149
+Section Number :
+2
+AP EAMCET 2020
+
+AP EAMCET 2020
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+40
+Section Marks :
+40
+Mark As Answered Required? :
+Yes
+ 
+ 
+Question Number : 81 Question Id : 8135612321 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 82 Question Id : 8135612322 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 83 Question Id : 8135612323 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 84 Question Id : 8135612324 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 85 Question Id : 8135612325 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 86 Question Id : 8135612326 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 87 Question Id : 8135612327 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 88 Question Id : 8135612328 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 89 Question Id : 8135612329 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 90 Question Id : 8135612330 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 91 Question Id : 8135612331 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 92 Question Id : 8135612332 Question Type : MCQ Display Question 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 93 Question Id : 8135612333 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 94 Question Id : 8135612334 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 95 Question Id : 8135612335 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 96 Question Id : 8135612336 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 97 Question Id : 8135612337 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 98 Question Id : 8135612338 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 99 Question Id : 8135612339 Question Type : MCQ Display Question 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 100 Question Id : 8135612340 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 101 Question Id : 8135612341 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 102 Question Id : 8135612342 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 103 Question Id : 8135612343 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 104 Question Id : 8135612344 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+AP EAMCET 2020
+
+AP EAMCET 2020
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 105 Question Id : 8135612345 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Question Number : 106 Question Id : 8135612346 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 107 Question Id : 8135612347 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 108 Question Id : 8135612348 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 109 Question Id : 8135612349 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 110 Question Id : 8135612350 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+AP EAMCET 2020
+
+AP EAMCET 2020
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 111 Question Id : 8135612351 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Question Number : 112 Question Id : 8135612352 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 113 Question Id : 8135612353 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 114 Question Id : 8135612354 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 115 Question Id : 8135612355 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 116 Question Id : 8135612356 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 117 Question Id : 8135612357 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 118 Question Id : 8135612358 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 119 Question Id : 8135612359 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 120 Question Id : 8135612360 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chemistry
+Section Id :
+81356150
+Section Number :
+3
+AP EAMCET 2020
+
+AP EAMCET 2020
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+40
+Section Marks :
+40
+Mark As Answered Required? :
+Yes
+ 
+ 
+Question Number : 121 Question Id : 8135612361 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 122 Question Id : 8135612362 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 123 Question Id : 8135612363 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 124 Question Id : 8135612364 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 125 Question Id : 8135612365 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 126 Question Id : 8135612366 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Question Number : 127 Question Id : 8135612367 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 128 Question Id : 8135612368 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 129 Question Id : 8135612369 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 130 Question Id : 8135612370 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 131 Question Id : 8135612371 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 132 Question Id : 8135612372 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 133 Question Id : 8135612373 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+Question Number : 134 Question Id : 8135612374 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 135 Question Id : 8135612375 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 136 Question Id : 8135612376 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+ 
+Question Number : 137 Question Id : 8135612377 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 138 Question Id : 8135612378 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 139 Question Id : 8135612379 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 140 Question Id : 8135612380 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 141 Question Id : 8135612381 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 142 Question Id : 8135612382 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 143 Question Id : 8135612383 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 144 Question Id : 8135612384 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 145 Question Id : 8135612385 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+AP EAMCET 2020
+
+AP EAMCET 2020
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 146 Question Id : 8135612386 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 147 Question Id : 8135612387 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 148 Question Id : 8135612388 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 149 Question Id : 8135612389 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+Question Number : 150 Question Id : 8135612390 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 151 Question Id : 8135612391 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 152 Question Id : 8135612392 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 153 Question Id : 8135612393 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 154 Question Id : 8135612394 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 155 Question Id : 8135612395 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 156 Question Id : 8135612396 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 157 Question Id : 8135612397 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 158 Question Id : 8135612398 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 159 Question Id : 8135612399 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 160 Question Id : 8135612400 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Option Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020 Engineering Stream 
+Preliminary Key for Master Question Paper 
+Day-8 (07th Oct 2020) Covid Session-1 (FN) 
+ 
+S.No 
+Ques ID 
+Ans 
+S.No 
+Ques ID 
+Ans 
+S.No 
+Ques ID 
+Ans 
+S.No 
+Ques ID 
+Ans 
+1 
+8135612241 
+1 
+41 
+8135612281 
+2 
+81 
+8135612321 
+1 
+121 
+8135612361 
+1 
+2 
+8135612242 
+3 
+42 
+8135612282 
+3 
+82 
+8135612322 
+2 
+122 
+8135612362 
+1 
+3 
+8135612243 
+3 
+43 
+8135612283 
+3 
+83 
+8135612323 
+1 
+123 
+8135612363 
+1 
+4 
+8135612244 
+4 
+44 
+8135612284 
+2 
+84 
+8135612324 
+3 
+124 
+8135612364 
+4 
+5 
+8135612245 
+3 
+45 
+8135612285 
+4 
+85 
+8135612325 
+4 
+125 
+8135612365 
+3 
+6 
+8135612246 
+3 
+46 
+8135612286 
+4 
+86 
+8135612326 
+1 
+126 
+8135612366 
+2 
+7 
+8135612247 
+2 
+47 
+8135612287 
+2 
+87 
+8135612327 
+3 
+127 
+8135612367 
+2 
+8 
+8135612248 
+3 
+48 
+8135612288 
+4 
+88 
+8135612328 
+2 
+128 
+8135612368 
+2 
+9 
+8135612249 
+2 
+49 
+8135612289 
+3 
+89 
+8135612329 
+2 
+129 
+8135612369 
+2 
+10 
+8135612250 
+4 
+50 
+8135612290 
+4 
+90 
+8135612330 
+3 
+130 
+8135612370 
+3 
+11 
+8135612251 
+2 
+51 
+8135612291 
+4 
+91 
+8135612331 
+1 
+131 
+8135612371 
+1 
+12 
+8135612252 
+2 
+52 
+8135612292 
+4 
+92 
+8135612332 
+3 
+132 
+8135612372 
+1 
+13 
+8135612253 
+2 
+53 
+8135612293 
+2 
+93 
+8135612333 
+4 
+133 
+8135612373 
+2 
+14 
+8135612254 
+4 
+54 
+8135612294 
+4 
+94 
+8135612334 
+3 
+134 
+8135612374 
+1 
+15 
+8135612255 
+3 
+55 
+8135612295 
+1 
+95 
+8135612335 
+1 
+135 
+8135612375 
+1 
+16 
+8135612256 
+1 
+56 
+8135612296 
+4 
+96 
+8135612336 
+3 
+136 
+8135612376 
+1 
+17 
+8135612257 
+1 
+57 
+8135612297 
+4 
+97 
+8135612337 
+3 
+137 
+8135612377 
+4 
+18 
+8135612258 
+1 
+58 
+8135612298 
+4 
+98 
+8135612338 
+3 
+138 
+8135612378 
+3 
+19 
+8135612259 
+3 
+59 
+8135612299 
+1 
+99 
+8135612339 
+4 
+139 
+8135612379 
+2 
+20 
+8135612260 
+2 
+60 
+8135612300 
+1 
+100 
+8135612340 
+1 
+140 
+8135612380 
+2 
+21 
+8135612261 
+4 
+61 
+8135612301 
+2 
+101 
+8135612341 
+1 
+141 
+8135612381 
+3 
+22 
+8135612262 
+3 
+62 
+8135612302 
+2 
+102 
+8135612342 
+2 
+142 
+8135612382 
+4 
+23 
+8135612263 
+3 
+63 
+8135612303 
+1 
+103 
+8135612343 
+2 
+143 
+8135612383 
+2 
+24 
+8135612264 
+1 
+64 
+8135612304 
+3 
+104 
+8135612344 
+1 
+144 
+8135612384 
+1 
+25 
+8135612265 
+4 
+65 
+8135612305 
+2 
+105 
+8135612345 
+4 
+145 
+8135612385 
+3 
+26 
+8135612266 
+1 
+66 
+8135612306 
+1 
+106 
+8135612346 
+2 
+146 
+8135612386 
+2 
+27 
+8135612267 
+1 
+67 
+8135612307 
+3 
+107 
+8135612347 
+2 
+147 
+8135612387 
+3 
+28 
+8135612268 
+3 
+68 
+8135612308 
+2 
+108 
+8135612348 
+3 
+148 
+8135612388 
+2 
+29 
+8135612269 
+3 
+69 
+8135612309 
+2 
+109 
+8135612349 
+2 
+149 
+8135612389 
+3 
+30 
+8135612270 
+3 
+70 
+8135612310 
+2 
+110 
+8135612350 
+3 
+150 
+8135612390 
+2 
+31 
+8135612271 
+3 
+71 
+8135612311 
+2 
+111 
+8135612351 
+2 
+151 
+8135612391 
+4 
+32 
+8135612272 
+1 
+72 
+8135612312 
+3 
+112 
+8135612352 
+2 
+152 
+8135612392 
+4 
+33 
+8135612273 
+4 
+73 
+8135612313 
+3 
+113 
+8135612353 
+3 
+153 
+8135612393 
+3 
+34 
+8135612274 
+1 
+74 
+8135612314 
+1 
+114 
+8135612354 
+1 
+154 
+8135612394 
+2 
+35 
+8135612275 
+3 
+75 
+8135612315 
+4 
+115 
+8135612355 
+3 
+155 
+8135612395 
+4 
+36 
+8135612276 
+3 
+76 
+8135612316 
+4 
+116 
+8135612356 
+1 
+156 
+8135612396 
+4 
+37 
+8135612277 
+2 
+77 
+8135612317 
+3 
+117 
+8135612357 
+3 
+157 
+8135612397 
+1 
+38 
+8135612278 
+3 
+78 
+8135612318 
+2 
+118 
+8135612358 
+3 
+158 
+8135612398 
+2 
+39 
+8135612279 
+4 
+79 
+8135612319 
+3 
+119 
+8135612359 
+2 
+159 
+8135612399 
+4 
+40 
+8135612280 
+1 
+80 
+8135612320 
+4 
+120 
+8135612360 
+3 
+160 
+8135612400 
+4 
+ 

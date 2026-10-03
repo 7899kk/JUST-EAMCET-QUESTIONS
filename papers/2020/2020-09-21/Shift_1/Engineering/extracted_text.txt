@@ -1,0 +1,4457 @@
+AP EAMCET 2020
+Andhra Pradesh State Council of Higher 
+Education
+   
+ 
+Notations :
+1.Options shown in green color and with 
+ icon are correct.
+2.Options shown in red color and with 
+ icon are incorrect.
+ 
+ 
+ 
+Question Paper Name :
+ENGINEERING 21st Sep 2020 Shift1
+Subject Name :
+ENGINEERING
+Creation Date :
+2020-09-21 13:28:47
+Duration :
+180
+Total Marks :
+160
+Display Marks:
+No
+Share Answer Key With Delivery Engine :
+Yes
+Actual Answer Key :
+Yes
+Calculator :
+None
+Magnifying Glass Required? :
+No
+Ruler Required? :
+No
+Eraser Required? :
+No
+Scratch Pad Required? :
+No
+Rough Sketch/Notepad Required? :
+No
+Protractor Required? :
+No
+Show Watermark on Console? :
+Yes
+Highlighter :
+No
+Auto Save on Console? :
+Yes
+Is this Group for Examiner? :
+No
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+ 
+Mathematics
+Section Number :
+1
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+80
+Number of Questions to be attempted :
+80
+Section Marks :
+80
+Display Number Panel :
+Yes
+Group All Questions :
+Yes
+Mark As Answered Required? :
+Yes
+ 
+ 
+Question Number : 1 Question Id : 813561641 Question Type : MCQ Display Question Number 
+: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : 
+Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+Question Number : 2 Question Id : 813561642 Question Type : MCQ Display Question Number 
+: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : 
+Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 3 Question Id : 813561643 Question Type : MCQ Display Question Number 
+: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : 
+Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 4 Question Id : 813561644 Question Type : MCQ Display Question Number 
+: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : 
+Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Question Number : 5 Question Id : 813561645 Question Type : MCQ Display Question Number 
+: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : 
+Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 6 Question Id : 813561646 Question Type : MCQ Display Question Number 
+: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : 
+Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 7 Question Id : 813561647 Question Type : MCQ Display Question Number 
+: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : 
+Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 8 Question Id : 813561648 Question Type : MCQ Display Question Number 
+: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : 
+Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 9 Question Id : 813561649 Question Type : MCQ Display Question Number 
+: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : 
+Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 10 Question Id : 813561650 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 11 Question Id : 813561651 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 12 Question Id : 813561652 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 13 Question Id : 813561653 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 14 Question Id : 813561654 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 15 Question Id : 813561655 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 16 Question Id : 813561656 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 17 Question Id : 813561657 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 18 Question Id : 813561658 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 19 Question Id : 813561659 Question Type : MCQ Display Question 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 20 Question Id : 813561660 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+AP EAMCET 2020
+
+AP EAMCET 2020
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 21 Question Id : 813561661 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Question Number : 22 Question Id : 813561662 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 23 Question Id : 813561663 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 24 Question Id : 813561664 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 25 Question Id : 813561665 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 26 Question Id : 813561666 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+Question Number : 27 Question Id : 813561667 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 28 Question Id : 813561668 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 29 Question Id : 813561669 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 30 Question Id : 813561670 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+ 
+Question Number : 31 Question Id : 813561671 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 32 Question Id : 813561672 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+AP EAMCET 2020
+
+AP EAMCET 2020
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 33 Question Id : 813561673 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Question Number : 34 Question Id : 813561674 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 35 Question Id : 813561675 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 36 Question Id : 813561676 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 37 Question Id : 813561677 Question Type : MCQ Display Question 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 38 Question Id : 813561678 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+Question Number : 39 Question Id : 813561679 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 40 Question Id : 813561680 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 41 Question Id : 813561681 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+Question Number : 42 Question Id : 813561682 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 43 Question Id : 813561683 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 44 Question Id : 813561684 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 45 Question Id : 813561685 Question Type : MCQ Display Question 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 46 Question Id : 813561686 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+Question Number : 47 Question Id : 813561687 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 48 Question Id : 813561688 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 49 Question Id : 813561689 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 50 Question Id : 813561690 Question Type : MCQ Display Question 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 51 Question Id : 813561691 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 52 Question Id : 813561692 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 53 Question Id : 813561693 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 54 Question Id : 813561694 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 55 Question Id : 813561695 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 56 Question Id : 813561696 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 57 Question Id : 813561697 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 58 Question Id : 813561698 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 59 Question Id : 813561699 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 60 Question Id : 813561700 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 61 Question Id : 813561701 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 62 Question Id : 813561702 Question Type : MCQ Display Question 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 63 Question Id : 813561703 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+Question Number : 64 Question Id : 813561704 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 65 Question Id : 813561705 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 66 Question Id : 813561706 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 67 Question Id : 813561707 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 68 Question Id : 813561708 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 69 Question Id : 813561709 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 70 Question Id : 813561710 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 71 Question Id : 813561711 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+AP EAMCET 2020
+
+AP EAMCET 2020
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 72 Question Id : 813561712 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 73 Question Id : 813561713 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 74 Question Id : 813561714 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 75 Question Id : 813561715 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 76 Question Id : 813561716 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+AP EAMCET 2020
+
+AP EAMCET 2020
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 77 Question Id : 813561717 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 78 Question Id : 813561718 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 79 Question Id : 813561719 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 80 Question Id : 813561720 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Physics
+Section Number :
+2
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+40
+AP EAMCET 2020
+
+AP EAMCET 2020
+Number of Questions to be attempted :
+40
+Section Marks :
+40
+Display Number Panel :
+Yes
+Group All Questions :
+Yes
+Mark As Answered Required? :
+Yes
+ 
+ 
+Question Number : 81 Question Id : 813561721 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 82 Question Id : 813561722 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 83 Question Id : 813561723 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 84 Question Id : 813561724 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Question Number : 85 Question Id : 813561725 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 86 Question Id : 813561726 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 87 Question Id : 813561727 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+AP EAMCET 2020
+
+AP EAMCET 2020
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 88 Question Id : 813561728 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 89 Question Id : 813561729 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 90 Question Id : 813561730 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 91 Question Id : 813561731 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 92 Question Id : 813561732 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 93 Question Id : 813561733 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 94 Question Id : 813561734 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 95 Question Id : 813561735 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 96 Question Id : 813561736 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 97 Question Id : 813561737 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 98 Question Id : 813561738 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 99 Question Id : 813561739 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 100 Question Id : 813561740 Question Type : MCQ Display Question 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 101 Question Id : 813561741 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+AP EAMCET 2020
+
+AP EAMCET 2020
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 102 Question Id : 813561742 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+Question Number : 103 Question Id : 813561743 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 104 Question Id : 813561744 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 105 Question Id : 813561745 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 106 Question Id : 813561746 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 107 Question Id : 813561747 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+Question Number : 108 Question Id : 813561748 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 109 Question Id : 813561749 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 110 Question Id : 813561750 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 111 Question Id : 813561751 Question Type : MCQ Display Question 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 112 Question Id : 813561752 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 113 Question Id : 813561753 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Question Number : 114 Question Id : 813561754 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 115 Question Id : 813561755 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 116 Question Id : 813561756 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 117 Question Id : 813561757 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+Question Number : 118 Question Id : 813561758 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 119 Question Id : 813561759 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+AP EAMCET 2020
+
+AP EAMCET 2020
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 120 Question Id : 813561760 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chemistry
+Section Number :
+3
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+40
+Number of Questions to be attempted :
+40
+Section Marks :
+40
+Display Number Panel :
+Yes
+Group All Questions :
+Yes
+Mark As Answered Required? :
+Yes
+ 
+ 
+Question Number : 121 Question Id : 813561761 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 122 Question Id : 813561762 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 123 Question Id : 813561763 Question Type : MCQ Display Question 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 124 Question Id : 813561764 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 125 Question Id : 813561765 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 126 Question Id : 813561766 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 127 Question Id : 813561767 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 128 Question Id : 813561768 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 129 Question Id : 813561769 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 130 Question Id : 813561770 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 131 Question Id : 813561771 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 132 Question Id : 813561772 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 133 Question Id : 813561773 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 134 Question Id : 813561774 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 135 Question Id : 813561775 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 136 Question Id : 813561776 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 137 Question Id : 813561777 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 138 Question Id : 813561778 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+ 
+Question Number : 139 Question Id : 813561779 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 140 Question Id : 813561780 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 141 Question Id : 813561781 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 142 Question Id : 813561782 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 143 Question Id : 813561783 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 144 Question Id : 813561784 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 145 Question Id : 813561785 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 146 Question Id : 813561786 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+ 
+Question Number : 147 Question Id : 813561787 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 148 Question Id : 813561788 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 149 Question Id : 813561789 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 150 Question Id : 813561790 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 151 Question Id : 813561791 Question Type : MCQ Display Question 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 152 Question Id : 813561792 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+ 
+ 
+ 
+Question Number : 153 Question Id : 813561793 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 154 Question Id : 813561794 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+AP EAMCET 2020
+
+AP EAMCET 2020
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 155 Question Id : 813561795 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 156 Question Id : 813561796 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+AP EAMCET 2020
+
+AP EAMCET 2020
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 157 Question Id : 813561797 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 158 Question Id : 813561798 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+Question Number : 159 Question Id : 813561799 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 160 Question Id : 813561800 Question Type : MCQ Display Question 
+Number : Yes Is Question Mandatory : No Single Line Question Option : No Option 
+Orientation : Vertical
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020
+ 
+4. 
+ 
+ 
+ 
+AP EAMCET 2020
+
+AP EAMCET 2020 Engineering Stream 
+Preliminary Key for Master Question Paper 
+Day-3 (21st Sep 2020) Session-1 (FN) 
+ 
+S.No 
+Ques ID 
+Ans 
+S.No 
+Ques ID 
+Ans 
+S.No 
+Ques ID 
+Ans 
+S.No 
+Ques ID 
+Ans 
+1 
+813561641 
+1 
+41 
+813561681 
+1 
+81 
+813561721 
+4 
+121 
+813561761 
+1 
+2 
+813561642 
+1 
+42 
+813561682 
+2 
+82 
+813561722 
+3 
+122 
+813561762 
+4 
+3 
+813561643 
+2 
+43 
+813561683 
+2 
+83 
+813561723 
+3 
+123 
+813561763 
+1 
+4 
+813561644 
+1 
+44 
+813561684 
+2 
+84 
+813561724 
+3 
+124 
+813561764 
+2 
+5 
+813561645 
+3 
+45 
+813561685 
+3 
+85 
+813561725 
+3 
+125 
+813561765 
+2 
+6 
+813561646 
+1 
+46 
+813561686 
+3 
+86 
+813561726 
+4 
+126 
+813561766 
+2 
+7 
+813561647 
+2 
+47 
+813561687 
+3 
+87 
+813561727 
+2 
+127 
+813561767 
+3 
+8 
+813561648 
+3 
+48 
+813561688 
+1 
+88 
+813561728 
+4 
+128 
+813561768 
+3 
+9 
+813561649 
+4 
+49 
+813561689 
+4 
+89 
+813561729 
+1 
+129 
+813561769 
+3 
+10 
+813561650 
+1 
+50 
+813561690 
+4 
+90 
+813561730 
+1 
+130 
+813561770 
+2 
+11 
+813561651 
+1 
+51 
+813561691 
+2 
+91 
+813561731 
+1 
+131 
+813561771 
+2 
+12 
+813561652 
+3 
+52 
+813561692 
+2 
+92 
+813561732 
+3 
+132 
+813561772 
+1 
+13 
+813561653 
+3 
+53 
+813561693 
+2 
+93 
+813561733 
+4 
+133 
+813561773 
+2 
+14 
+813561654 
+4 
+54 
+813561694 
+1 
+94 
+813561734 
+2 
+134 
+813561774 
+2 
+15 
+813561655 
+1 
+55 
+813561695 
+4 
+95 
+813561735 
+4 
+135 
+813561775 
+4 
+16 
+813561656 
+2 
+56 
+813561696 
+4 
+96 
+813561736 
+4 
+136 
+813561776 
+4 
+17 
+813561657 
+2 
+57 
+813561697 
+2 
+97 
+813561737 
+1 
+137 
+813561777 
+2 
+18 
+813561658 
+4 
+58 
+813561698 
+1 
+98 
+813561738 
+1 
+138 
+813561778 
+3 
+19 
+813561659 
+2 
+59 
+813561699 
+2 
+99 
+813561739 
+2 
+139 
+813561779 
+2 
+20 
+813561660 
+2 
+60 
+813561700 
+1 
+100 
+813561740 
+3 
+140 
+813561780 
+4 
+21 
+813561661 
+3 
+61 
+813561701 
+3 
+101 
+813561741 
+1 
+141 
+813561781 
+4 
+22 
+813561662 
+4 
+62 
+813561702 
+1 
+102 
+813561742 
+1 
+142 
+813561782 
+3 
+23 
+813561663 
+3 
+63 
+813561703 
+2 
+103 
+813561743 
+2 
+143 
+813561783 
+2 
+24 
+813561664 
+4 
+64 
+813561704 
+1 
+104 
+813561744 
+3 
+144 
+813561784 
+4 
+25 
+813561665 
+1 
+65 
+813561705 
+1 
+105 
+813561745 
+3 
+145 
+813561785 
+3 
+26 
+813561666 
+4 
+66 
+813561706 
+2 
+106 
+813561746 
+4 
+146 
+813561786 
+4 
+27 
+813561667 
+3 
+67 
+813561707 
+4 
+107 
+813561747 
+1 
+147 
+813561787 
+1 
+28 
+813561668 
+4 
+68 
+813561708 
+2 
+108 
+813561748 
+2 
+148 
+813561788 
+3 
+29 
+813561669 
+1 
+69 
+813561709 
+4 
+109 
+813561749 
+3 
+149 
+813561789 
+3 
+30 
+813561670 
+3 
+70 
+813561710 
+2 
+110 
+813561750 
+4 
+150 
+813561790 
+4 
+31 
+813561671 
+1 
+71 
+813561711 
+3 
+111 
+813561751 
+1 
+151 
+813561791 
+3 
+32 
+813561672 
+1 
+72 
+813561712 
+3 
+112 
+813561752 
+3 
+152 
+813561792 
+3 
+33 
+813561673 
+4 
+73 
+813561713 
+1 
+113 
+813561753 
+2 
+153 
+813561793 
+3 
+34 
+813561674 
+3 
+74 
+813561714 
+1 
+114 
+813561754 
+2 
+154 
+813561794 
+3 
+35 
+813561675 
+4 
+75 
+813561715 
+2 
+115 
+813561755 
+3 
+155 
+813561795 
+2 
+36 
+813561676 
+4 
+76 
+813561716 
+3 
+116 
+813561756 
+1 
+156 
+813561796 
+2 
+37 
+813561677 
+3 
+77 
+813561717 
+1 
+117 
+813561757 
+3 
+157 
+813561797 
+1 
+38 
+813561678 
+1 
+78 
+813561718 
+3 
+118 
+813561758 
+3 
+158 
+813561798 
+4 
+39 
+813561679 
+3 
+79 
+813561719 
+2 
+119 
+813561759 
+3 
+159 
+813561799 
+4 
+40 
+813561680 
+4 
+80 
+813561720 
+2 
+120 
+813561760 
+2 
+160 
+813561800 
+3 
+ 

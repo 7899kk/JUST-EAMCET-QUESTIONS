@@ -1,0 +1,817 @@
+{
+  "source": "CollegeDekho",
+  "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+  "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/9faf2b46-8bb8-47df-a600-2bbbba6a5b6b.pdf",
+  "title": "AP EAMCET 2020 Agriculture Question Paper & Answer Key (PDF Download) September 24 - Shift 2 Click Here Click Here",
+  "sha256": "5ac88568d5bbede080394bd9c3fa76e7d5ea10d1fb7fc6b357d356e58b52438a",
+  "year": 2020,
+  "exam_date": "2020-09-24",
+  "shift": "Shift_2",
+  "stream": "Agriculture_Pharmacy",
+  "file_path": "papers/2020/2020-09-24/Shift_2/Agriculture_Pharmacy/answer_key_5ac88568d5bb.pdf",
+  "key_type": "published_educational_source",
+  "answers": [
+    {
+      "question_number": 1,
+      "correct_answer": "B",
+      "original_question_id": "8135611761"
+    },
+    {
+      "question_number": 41,
+      "correct_answer": "A",
+      "original_question_id": "8135611801"
+    },
+    {
+      "question_number": 81,
+      "correct_answer": "C",
+      "original_question_id": "8135611841"
+    },
+    {
+      "question_number": 121,
+      "correct_answer": "B",
+      "original_question_id": "8135611881"
+    },
+    {
+      "question_number": 2,
+      "correct_answer": "A",
+      "original_question_id": "8135611762"
+    },
+    {
+      "question_number": 42,
+      "correct_answer": "B",
+      "original_question_id": "8135611802"
+    },
+    {
+      "question_number": 82,
+      "correct_answer": "D",
+      "original_question_id": "8135611842"
+    },
+    {
+      "question_number": 122,
+      "correct_answer": "D",
+      "original_question_id": "8135611882"
+    },
+    {
+      "question_number": 3,
+      "correct_answer": "C",
+      "original_question_id": "8135611763"
+    },
+    {
+      "question_number": 43,
+      "correct_answer": "D",
+      "original_question_id": "8135611803"
+    },
+    {
+      "question_number": 83,
+      "correct_answer": "C",
+      "original_question_id": "8135611843"
+    },
+    {
+      "question_number": 123,
+      "correct_answer": "D",
+      "original_question_id": "8135611883"
+    },
+    {
+      "question_number": 4,
+      "correct_answer": "B",
+      "original_question_id": "8135611764"
+    },
+    {
+      "question_number": 44,
+      "correct_answer": "C",
+      "original_question_id": "8135611804"
+    },
+    {
+      "question_number": 84,
+      "correct_answer": "B",
+      "original_question_id": "8135611844"
+    },
+    {
+      "question_number": 124,
+      "correct_answer": "B",
+      "original_question_id": "8135611884"
+    },
+    {
+      "question_number": 5,
+      "correct_answer": "C",
+      "original_question_id": "8135611765"
+    },
+    {
+      "question_number": 45,
+      "correct_answer": "D",
+      "original_question_id": "8135611805"
+    },
+    {
+      "question_number": 85,
+      "correct_answer": "B",
+      "original_question_id": "8135611845"
+    },
+    {
+      "question_number": 125,
+      "correct_answer": "D",
+      "original_question_id": "8135611885"
+    },
+    {
+      "question_number": 6,
+      "correct_answer": "B",
+      "original_question_id": "8135611766"
+    },
+    {
+      "question_number": 46,
+      "correct_answer": "A",
+      "original_question_id": "8135611806"
+    },
+    {
+      "question_number": 86,
+      "correct_answer": "D",
+      "original_question_id": "8135611846"
+    },
+    {
+      "question_number": 126,
+      "correct_answer": "B",
+      "original_question_id": "8135611886"
+    },
+    {
+      "question_number": 7,
+      "correct_answer": "A",
+      "original_question_id": "8135611767"
+    },
+    {
+      "question_number": 47,
+      "correct_answer": "A",
+      "original_question_id": "8135611807"
+    },
+    {
+      "question_number": 87,
+      "correct_answer": "C",
+      "original_question_id": "8135611847"
+    },
+    {
+      "question_number": 127,
+      "correct_answer": "D",
+      "original_question_id": "8135611887"
+    },
+    {
+      "question_number": 8,
+      "correct_answer": "B",
+      "original_question_id": "8135611768"
+    },
+    {
+      "question_number": 48,
+      "correct_answer": "B",
+      "original_question_id": "8135611808"
+    },
+    {
+      "question_number": 88,
+      "correct_answer": "B",
+      "original_question_id": "8135611848"
+    },
+    {
+      "question_number": 128,
+      "correct_answer": "A",
+      "original_question_id": "8135611888"
+    },
+    {
+      "question_number": 9,
+      "correct_answer": "D",
+      "original_question_id": "8135611769"
+    },
+    {
+      "question_number": 49,
+      "correct_answer": "A",
+      "original_question_id": "8135611809"
+    },
+    {
+      "question_number": 89,
+      "correct_answer": "C",
+      "original_question_id": "8135611849"
+    },
+    {
+      "question_number": 129,
+      "correct_answer": "A",
+      "original_question_id": "8135611889"
+    },
+    {
+      "question_number": 10,
+      "correct_answer": "A",
+      "original_question_id": "8135611770"
+    },
+    {
+      "question_number": 50,
+      "correct_answer": "D",
+      "original_question_id": "8135611810"
+    },
+    {
+      "question_number": 90,
+      "correct_answer": "B",
+      "original_question_id": "8135611850"
+    },
+    {
+      "question_number": 130,
+      "correct_answer": "D",
+      "original_question_id": "8135611890"
+    },
+    {
+      "question_number": 11,
+      "correct_answer": "A",
+      "original_question_id": "8135611771"
+    },
+    {
+      "question_number": 51,
+      "correct_answer": "C",
+      "original_question_id": "8135611811"
+    },
+    {
+      "question_number": 91,
+      "correct_answer": "B",
+      "original_question_id": "8135611851"
+    },
+    {
+      "question_number": 131,
+      "correct_answer": "A",
+      "original_question_id": "8135611891"
+    },
+    {
+      "question_number": 12,
+      "correct_answer": "A",
+      "original_question_id": "8135611772"
+    },
+    {
+      "question_number": 52,
+      "correct_answer": "D",
+      "original_question_id": "8135611812"
+    },
+    {
+      "question_number": 92,
+      "correct_answer": "A",
+      "original_question_id": "8135611852"
+    },
+    {
+      "question_number": 132,
+      "correct_answer": "D",
+      "original_question_id": "8135611892"
+    },
+    {
+      "question_number": 13,
+      "correct_answer": "B",
+      "original_question_id": "8135611773"
+    },
+    {
+      "question_number": 53,
+      "correct_answer": "A",
+      "original_question_id": "8135611813"
+    },
+    {
+      "question_number": 93,
+      "correct_answer": "A",
+      "original_question_id": "8135611853"
+    },
+    {
+      "question_number": 133,
+      "correct_answer": "C",
+      "original_question_id": "8135611893"
+    },
+    {
+      "question_number": 14,
+      "correct_answer": "C",
+      "original_question_id": "8135611774"
+    },
+    {
+      "question_number": 54,
+      "correct_answer": "C",
+      "original_question_id": "8135611814"
+    },
+    {
+      "question_number": 94,
+      "correct_answer": "C",
+      "original_question_id": "8135611854"
+    },
+    {
+      "question_number": 134,
+      "correct_answer": "A",
+      "original_question_id": "8135611894"
+    },
+    {
+      "question_number": 15,
+      "correct_answer": "C",
+      "original_question_id": "8135611775"
+    },
+    {
+      "question_number": 55,
+      "correct_answer": "C",
+      "original_question_id": "8135611815"
+    },
+    {
+      "question_number": 95,
+      "correct_answer": "D",
+      "original_question_id": "8135611855"
+    },
+    {
+      "question_number": 135,
+      "correct_answer": "A",
+      "original_question_id": "8135611895"
+    },
+    {
+      "question_number": 16,
+      "correct_answer": "A",
+      "original_question_id": "8135611776"
+    },
+    {
+      "question_number": 56,
+      "correct_answer": "D",
+      "original_question_id": "8135611816"
+    },
+    {
+      "question_number": 96,
+      "correct_answer": "D",
+      "original_question_id": "8135611856"
+    },
+    {
+      "question_number": 136,
+      "correct_answer": "C",
+      "original_question_id": "8135611896"
+    },
+    {
+      "question_number": 17,
+      "correct_answer": "A",
+      "original_question_id": "8135611777"
+    },
+    {
+      "question_number": 57,
+      "correct_answer": "B",
+      "original_question_id": "8135611817"
+    },
+    {
+      "question_number": 97,
+      "correct_answer": "A",
+      "original_question_id": "8135611857"
+    },
+    {
+      "question_number": 137,
+      "correct_answer": "A",
+      "original_question_id": "8135611897"
+    },
+    {
+      "question_number": 18,
+      "correct_answer": "D",
+      "original_question_id": "8135611778"
+    },
+    {
+      "question_number": 58,
+      "correct_answer": "A",
+      "original_question_id": "8135611818"
+    },
+    {
+      "question_number": 98,
+      "correct_answer": "C",
+      "original_question_id": "8135611858"
+    },
+    {
+      "question_number": 138,
+      "correct_answer": "C",
+      "original_question_id": "8135611898"
+    },
+    {
+      "question_number": 19,
+      "correct_answer": "D",
+      "original_question_id": "8135611779"
+    },
+    {
+      "question_number": 59,
+      "correct_answer": "C",
+      "original_question_id": "8135611819"
+    },
+    {
+      "question_number": 99,
+      "correct_answer": "B",
+      "original_question_id": "8135611859"
+    },
+    {
+      "question_number": 139,
+      "correct_answer": "C",
+      "original_question_id": "8135611899"
+    },
+    {
+      "question_number": 20,
+      "correct_answer": "A",
+      "original_question_id": "8135611780"
+    },
+    {
+      "question_number": 60,
+      "correct_answer": "B",
+      "original_question_id": "8135611820"
+    },
+    {
+      "question_number": 100,
+      "correct_answer": "D",
+      "original_question_id": "8135611860"
+    },
+    {
+      "question_number": 140,
+      "correct_answer": "B",
+      "original_question_id": "8135611900"
+    },
+    {
+      "question_number": 21,
+      "correct_answer": "A",
+      "original_question_id": "8135611781"
+    },
+    {
+      "question_number": 61,
+      "correct_answer": "D",
+      "original_question_id": "8135611821"
+    },
+    {
+      "question_number": 101,
+      "correct_answer": "C",
+      "original_question_id": "8135611861"
+    },
+    {
+      "question_number": 141,
+      "correct_answer": "C",
+      "original_question_id": "8135611901"
+    },
+    {
+      "question_number": 22,
+      "correct_answer": "C",
+      "original_question_id": "8135611782"
+    },
+    {
+      "question_number": 62,
+      "correct_answer": "B",
+      "original_question_id": "8135611822"
+    },
+    {
+      "question_number": 102,
+      "correct_answer": "B",
+      "original_question_id": "8135611862"
+    },
+    {
+      "question_number": 142,
+      "correct_answer": "B",
+      "original_question_id": "8135611902"
+    },
+    {
+      "question_number": 23,
+      "correct_answer": "C",
+      "original_question_id": "8135611783"
+    },
+    {
+      "question_number": 63,
+      "correct_answer": "A",
+      "original_question_id": "8135611823"
+    },
+    {
+      "question_number": 103,
+      "correct_answer": "C",
+      "original_question_id": "8135611863"
+    },
+    {
+      "question_number": 143,
+      "correct_answer": "B",
+      "original_question_id": "8135611903"
+    },
+    {
+      "question_number": 24,
+      "correct_answer": "B",
+      "original_question_id": "8135611784"
+    },
+    {
+      "question_number": 64,
+      "correct_answer": "B",
+      "original_question_id": "8135611824"
+    },
+    {
+      "question_number": 104,
+      "correct_answer": "D",
+      "original_question_id": "8135611864"
+    },
+    {
+      "question_number": 144,
+      "correct_answer": "B",
+      "original_question_id": "8135611904"
+    },
+    {
+      "question_number": 25,
+      "correct_answer": "B",
+      "original_question_id": "8135611785"
+    },
+    {
+      "question_number": 65,
+      "correct_answer": "B",
+      "original_question_id": "8135611825"
+    },
+    {
+      "question_number": 105,
+      "correct_answer": "C",
+      "original_question_id": "8135611865"
+    },
+    {
+      "question_number": 145,
+      "correct_answer": "C",
+      "original_question_id": "8135611905"
+    },
+    {
+      "question_number": 26,
+      "correct_answer": "C",
+      "original_question_id": "8135611786"
+    },
+    {
+      "question_number": 66,
+      "correct_answer": "D",
+      "original_question_id": "8135611826"
+    },
+    {
+      "question_number": 106,
+      "correct_answer": "B",
+      "original_question_id": "8135611866"
+    },
+    {
+      "question_number": 146,
+      "correct_answer": "C",
+      "original_question_id": "8135611906"
+    },
+    {
+      "question_number": 27,
+      "correct_answer": "A",
+      "original_question_id": "8135611787"
+    },
+    {
+      "question_number": 67,
+      "correct_answer": "A",
+      "original_question_id": "8135611827"
+    },
+    {
+      "question_number": 107,
+      "correct_answer": "A",
+      "original_question_id": "8135611867"
+    },
+    {
+      "question_number": 147,
+      "correct_answer": "D",
+      "original_question_id": "8135611907"
+    },
+    {
+      "question_number": 28,
+      "correct_answer": "A",
+      "original_question_id": "8135611788"
+    },
+    {
+      "question_number": 68,
+      "correct_answer": "D",
+      "original_question_id": "8135611828"
+    },
+    {
+      "question_number": 108,
+      "correct_answer": "C",
+      "original_question_id": "8135611868"
+    },
+    {
+      "question_number": 148,
+      "correct_answer": "D",
+      "original_question_id": "8135611908"
+    },
+    {
+      "question_number": 29,
+      "correct_answer": "B",
+      "original_question_id": "8135611789"
+    },
+    {
+      "question_number": 69,
+      "correct_answer": "B",
+      "original_question_id": "8135611829"
+    },
+    {
+      "question_number": 109,
+      "correct_answer": "B",
+      "original_question_id": "8135611869"
+    },
+    {
+      "question_number": 149,
+      "correct_answer": "C",
+      "original_question_id": "8135611909"
+    },
+    {
+      "question_number": 30,
+      "correct_answer": "B",
+      "original_question_id": "8135611790"
+    },
+    {
+      "question_number": 70,
+      "correct_answer": "D",
+      "original_question_id": "8135611830"
+    },
+    {
+      "question_number": 110,
+      "correct_answer": "A",
+      "original_question_id": "8135611870"
+    },
+    {
+      "question_number": 150,
+      "correct_answer": "B",
+      "original_question_id": "8135611910"
+    },
+    {
+      "question_number": 31,
+      "correct_answer": "D",
+      "original_question_id": "8135611791"
+    },
+    {
+      "question_number": 71,
+      "correct_answer": "C",
+      "original_question_id": "8135611831"
+    },
+    {
+      "question_number": 111,
+      "correct_answer": "D",
+      "original_question_id": "8135611871"
+    },
+    {
+      "question_number": 151,
+      "correct_answer": "A",
+      "original_question_id": "8135611911"
+    },
+    {
+      "question_number": 32,
+      "correct_answer": "B",
+      "original_question_id": "8135611792"
+    },
+    {
+      "question_number": 72,
+      "correct_answer": "B",
+      "original_question_id": "8135611832"
+    },
+    {
+      "question_number": 112,
+      "correct_answer": "C",
+      "original_question_id": "8135611872"
+    },
+    {
+      "question_number": 152,
+      "correct_answer": "A",
+      "original_question_id": "8135611912"
+    },
+    {
+      "question_number": 33,
+      "correct_answer": "C",
+      "original_question_id": "8135611793"
+    },
+    {
+      "question_number": 73,
+      "correct_answer": "D",
+      "original_question_id": "8135611833"
+    },
+    {
+      "question_number": 113,
+      "correct_answer": "B",
+      "original_question_id": "8135611873"
+    },
+    {
+      "question_number": 153,
+      "correct_answer": "D",
+      "original_question_id": "8135611913"
+    },
+    {
+      "question_number": 34,
+      "correct_answer": "B",
+      "original_question_id": "8135611794"
+    },
+    {
+      "question_number": 74,
+      "correct_answer": "D",
+      "original_question_id": "8135611834"
+    },
+    {
+      "question_number": 114,
+      "correct_answer": "D",
+      "original_question_id": "8135611874"
+    },
+    {
+      "question_number": 154,
+      "correct_answer": "D",
+      "original_question_id": "8135611914"
+    },
+    {
+      "question_number": 35,
+      "correct_answer": "A",
+      "original_question_id": "8135611795"
+    },
+    {
+      "question_number": 75,
+      "correct_answer": "B",
+      "original_question_id": "8135611835"
+    },
+    {
+      "question_number": 115,
+      "correct_answer": "A",
+      "original_question_id": "8135611875"
+    },
+    {
+      "question_number": 155,
+      "correct_answer": "D",
+      "original_question_id": "8135611915"
+    },
+    {
+      "question_number": 36,
+      "correct_answer": "D",
+      "original_question_id": "8135611796"
+    },
+    {
+      "question_number": 76,
+      "correct_answer": "A",
+      "original_question_id": "8135611836"
+    },
+    {
+      "question_number": 116,
+      "correct_answer": "A",
+      "original_question_id": "8135611876"
+    },
+    {
+      "question_number": 156,
+      "correct_answer": "D",
+      "original_question_id": "8135611916"
+    },
+    {
+      "question_number": 37,
+      "correct_answer": "D",
+      "original_question_id": "8135611797"
+    },
+    {
+      "question_number": 77,
+      "correct_answer": "D",
+      "original_question_id": "8135611837"
+    },
+    {
+      "question_number": 117,
+      "correct_answer": "C",
+      "original_question_id": "8135611877"
+    },
+    {
+      "question_number": 157,
+      "correct_answer": "A",
+      "original_question_id": "8135611917"
+    },
+    {
+      "question_number": 38,
+      "correct_answer": "B",
+      "original_question_id": "8135611798"
+    },
+    {
+      "question_number": 78,
+      "correct_answer": "C",
+      "original_question_id": "8135611838"
+    },
+    {
+      "question_number": 118,
+      "correct_answer": "C",
+      "original_question_id": "8135611878"
+    },
+    {
+      "question_number": 158,
+      "correct_answer": "D",
+      "original_question_id": "8135611918"
+    },
+    {
+      "question_number": 39,
+      "correct_answer": "B",
+      "original_question_id": "8135611799"
+    },
+    {
+      "question_number": 79,
+      "correct_answer": "B",
+      "original_question_id": "8135611839"
+    },
+    {
+      "question_number": 119,
+      "correct_answer": "C",
+      "original_question_id": "8135611879"
+    },
+    {
+      "question_number": 159,
+      "correct_answer": "A",
+      "original_question_id": "8135611919"
+    },
+    {
+      "question_number": 40,
+      "correct_answer": "D",
+      "original_question_id": "8135611800"
+    },
+    {
+      "question_number": 80,
+      "correct_answer": "A",
+      "original_question_id": "8135611840"
+    },
+    {
+      "question_number": 120,
+      "correct_answer": "A",
+      "original_question_id": "8135611880"
+    },
+    {
+      "question_number": 160,
+      "correct_answer": "C",
+      "original_question_id": "8135611920"
+    }
+  ],
+  "mapping_status": "validated_160_rows",
+  "metadata_evidence": "AP EAMCET 2020 Agriculture & Medicine Stream \nPreliminary Key for Master Question Paper \nDay-6 (24th Sep 2020) Session-2 (AN) \n \nS.No \nQues ID \nAns \nS.No \nQues ID \nAns \nS.No \nQues ID \nAns \nS.No \nQues ID \nAns \n1 \n8135611761 \n2 \n41 \n8135611801 \n1 \n81 \n8135611841 \n3 \n121 \n8135611881 \n2 \n2 \n8135611762 \n1 \n42 \n8135611802 \n2 \n82 \n8135611842 \n4 \n122 \n8135611882 \n4 \n3 \n8135611763 \n3 \n43 \n8135611803 \n4 \n83 \n8135611843 \n3 \n123 \n8135611883 \n4 \n4 \n8135611764 \n2 \n44 \n8135611804 \n3 \n84 \n8135611844 \n2 \n124 \n81"
+}

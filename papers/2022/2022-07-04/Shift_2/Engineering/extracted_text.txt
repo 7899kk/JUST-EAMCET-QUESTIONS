@@ -1,0 +1,2305 @@
+Andhra Pradesh State Council of Higher Education
+  
+ 
+Notations :
+1.Options shown in green color and with 
+ icon are correct.
+2.Options shown in red color and with 
+ icon are incorrect.
+ 
+ 
+ 
+Question Paper Name :
+ENGINEERING 04th July 2022 Shift2
+Duration :
+180
+Total Marks :
+160
+Display Marks:
+No
+Share Answer Key With Delivery Engine :
+Yes
+Calculator :
+None
+Magnifying Glass Required? :
+No
+Ruler Required? :
+No
+Eraser Required? :
+No
+Scratch Pad Required? :
+No
+Rough Sketch/Notepad Required? :
+No
+Protractor Required? :
+No
+Show Watermark on Console? :
+Yes
+Highlighter :
+No
+Auto Save on Console?
+Yes
+Change Font Color :
+No
+Change Background Color :
+No
+Change Theme :
+No
+Help Button :
+No
+Show Reports :
+No
+Show Progress Bar :
+No
+Is this Group for Examiner? :
+No
+Examiner permission :
+Cant View
+Show Progress Bar? :
+No
+ 
+ 
+ 
+ 
+Mathematics
+
+Section Id :
+438719101
+Section Number :
+1
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+80
+Section Marks :
+80
+Enable Mark as Answered Mark for Review and Clear Response :
+Yes
+Maximum Instruction Time :
+0
+ 
+ 
+Question Number : 1 Question Id : 4387194801 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time : N.A
+Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 2 Question Id : 4387194802 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time : N.A
+Think Time : N.A Minimum Instruction Time : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 3 Question Id : 4387194803 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time : N.A
+Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 4 Question Id : 4387194804 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time : N.A
+Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 5 Question Id : 4387194805 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time : N.A
+Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 6 Question Id : 4387194806 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time : N.A
+Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 7 Question Id : 4387194807 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time : N.A
+Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 8 Question Id : 4387194808 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time : N.A
+Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 9 Question Id : 4387194809 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time : N.A
+Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 10 Question Id : 4387194810 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 11 Question Id : 4387194811 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 12 Question Id : 4387194812 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+
+ 
+ 
+Question Number : 13 Question Id : 4387194813 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 14 Question Id : 4387194814 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 15 Question Id : 4387194815 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 16 Question Id : 4387194816 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 17 Question Id : 4387194817 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 18 Question Id : 4387194818 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 19 Question Id : 4387194819 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 20 Question Id : 4387194820 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 21 Question Id : 4387194821 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 22 Question Id : 4387194822 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 23 Question Id : 4387194823 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 24 Question Id : 4387194824 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 25 Question Id : 4387194825 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 26 Question Id : 4387194826 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 27 Question Id : 4387194827 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 28 Question Id : 4387194828 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 29 Question Id : 4387194829 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 30 Question Id : 4387194830 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 31 Question Id : 4387194831 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 32 Question Id : 4387194832 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 33 Question Id : 4387194833 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 34 Question Id : 4387194834 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 35 Question Id : 4387194835 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 36 Question Id : 4387194836 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 37 Question Id : 4387194837 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 38 Question Id : 4387194838 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 39 Question Id : 4387194839 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 40 Question Id : 4387194840 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+
+Question Number : 41 Question Id : 4387194841 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 42 Question Id : 4387194842 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 43 Question Id : 4387194843 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 44 Question Id : 4387194844 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 45 Question Id : 4387194845 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 46 Question Id : 4387194846 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 47 Question Id : 4387194847 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 48 Question Id : 4387194848 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 49 Question Id : 4387194849 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 50 Question Id : 4387194850 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 51 Question Id : 4387194851 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 52 Question Id : 4387194852 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 53 Question Id : 4387194853 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 54 Question Id : 4387194854 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 55 Question Id : 4387194855 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 56 Question Id : 4387194856 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 57 Question Id : 4387194857 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 58 Question Id : 4387194858 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 59 Question Id : 4387194859 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 60 Question Id : 4387194860 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 61 Question Id : 4387194861 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 62 Question Id : 4387194862 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 63 Question Id : 4387194863 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 64 Question Id : 4387194864 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 65 Question Id : 4387194865 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 66 Question Id : 4387194866 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 67 Question Id : 4387194867 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 68 Question Id : 4387194868 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 69 Question Id : 4387194869 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 70 Question Id : 4387194870 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+
+ 
+ 
+Question Number : 71 Question Id : 4387194871 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 72 Question Id : 4387194872 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 73 Question Id : 4387194873 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 74 Question Id : 4387194874 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 75 Question Id : 4387194875 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 76 Question Id : 4387194876 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 77 Question Id : 4387194877 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+
+Question Number : 78 Question Id : 4387194878 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 79 Question Id : 4387194879 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 80 Question Id : 4387194880 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Physics
+Section Id :
+438719102
+Section Number :
+2
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+40
+Section Marks :
+40
+Enable Mark as Answered Mark for Review and Clear Response :
+Yes
+Maximum Instruction Time :
+0
+ 
+ 
+Question Number : 81 Question Id : 4387194881 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 82 Question Id : 4387194882 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 83 Question Id : 4387194883 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+
+Question Number : 84 Question Id : 4387194884 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 85 Question Id : 4387194885 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 86 Question Id : 4387194886 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 87 Question Id : 4387194887 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 88 Question Id : 4387194888 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 89 Question Id : 4387194889 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 90 Question Id : 4387194890 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 91 Question Id : 4387194891 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 92 Question Id : 4387194892 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 93 Question Id : 4387194893 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 94 Question Id : 4387194894 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 95 Question Id : 4387194895 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 96 Question Id : 4387194896 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 97 Question Id : 4387194897 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 98 Question Id : 4387194898 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 99 Question Id : 4387194899 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 100 Question Id : 4387194900 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 101 Question Id : 4387194901 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 102 Question Id : 4387194902 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+
+Question Number : 103 Question Id : 4387194903 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 104 Question Id : 4387194904 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 105 Question Id : 4387194905 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 106 Question Id : 4387194906 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+
+ 
+ 
+Question Number : 107 Question Id : 4387194907 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 108 Question Id : 4387194908 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 109 Question Id : 4387194909 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 110 Question Id : 4387194910 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 111 Question Id : 4387194911 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 112 Question Id : 4387194912 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 113 Question Id : 4387194913 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 114 Question Id : 4387194914 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 115 Question Id : 4387194915 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 116 Question Id : 4387194916 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 117 Question Id : 4387194917 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 118 Question Id : 4387194918 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 119 Question Id : 4387194919 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 120 Question Id : 4387194920 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Chemistry
+Section Id :
+438719103
+Section Number :
+3
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+40
+Section Marks :
+40
+
+Enable Mark as Answered Mark for Review and Clear Response :
+Yes
+Maximum Instruction Time :
+0
+ 
+ 
+Question Number : 121 Question Id : 4387194921 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 122 Question Id : 4387194922 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 123 Question Id : 4387194923 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 124 Question Id : 4387194924 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 125 Question Id : 4387194925 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+
+ 
+ 
+Question Number : 126 Question Id : 4387194926 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 127 Question Id : 4387194927 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 128 Question Id : 4387194928 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 129 Question Id : 4387194929 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 130 Question Id : 4387194930 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 131 Question Id : 4387194931 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 132 Question Id : 4387194932 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 133 Question Id : 4387194933 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 134 Question Id : 4387194934 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 135 Question Id : 4387194935 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 136 Question Id : 4387194936 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 137 Question Id : 4387194937 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 138 Question Id : 4387194938 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+
+Question Number : 139 Question Id : 4387194939 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 140 Question Id : 4387194940 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 141 Question Id : 4387194941 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+
+Question Number : 142 Question Id : 4387194942 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 143 Question Id : 4387194943 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+
+ 
+ 
+Question Number : 144 Question Id : 4387194944 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 145 Question Id : 4387194945 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 146 Question Id : 4387194946 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 147 Question Id : 4387194947 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 148 Question Id : 4387194948 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 149 Question Id : 4387194949 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 150 Question Id : 4387194950 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 151 Question Id : 4387194951 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 152 Question Id : 4387194952 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 153 Question Id : 4387194953 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 154 Question Id : 4387194954 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 155 Question Id : 4387194955 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 156 Question Id : 4387194956 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 157 Question Id : 4387194957 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+
+ 
+ 
+Question Number : 158 Question Id : 4387194958 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 159 Question Id : 4387194959 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 160 Question Id : 4387194960 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response Time :
+N.A Think Time : N.A Minimum Instruction Time : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 

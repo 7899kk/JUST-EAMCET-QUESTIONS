@@ -1,0 +1,49 @@
+{
+  "source": "CareerIndia",
+  "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+  "download_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-engineering-shift-2-8th-july-22-question-paper-2022-2037.pdf",
+  "title": "AP EAMCET (EAPCET) Engineering Shift 2 (8th July, 22) Question Paper 2022",
+  "stream": "Engineering",
+  "paper_type_hint": "question_paper",
+  "paper_id": "2022_2022-07-08_Shift_2_Engineering_75d75548",
+  "year": 2022,
+  "exam_date": "2022-07-08",
+  "shift": "Shift_2",
+  "subjects": [
+    "Chemistry",
+    "Mathematics",
+    "Physics"
+  ],
+  "paper_type": "question_paper",
+  "file_name": "question_paper.pdf",
+  "pdf_path": "papers/2022/2022-07-08/Shift_2/Engineering/question_paper.pdf",
+  "sha256": "75d75548c31c00343f90c7eb1807e2ca5ab70933fdc54f5ce317083ee8ad12ae",
+  "pages": 124,
+  "metadata_evidence": "Print\nAndhra Pradesh State Council of Higher Education\n  \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 08th July 2022 Shift2\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console?\nYes\nChange Font Color :\nNo\nChange Background Color :\nNo\nChange Theme :\nNo\nHelp Button :\nNo\nShow Reports :\nNo\nShow Progress Bar :\nNo\nIs this Group for Examiner? :\nNo\nExaminer permission :\nCant View\n\nShow Progress Bar? :\nNo\n \n \n \n \nMathematics\nSection Id :\n438719143\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nSection Marks :\n80\nEnable Mark as Answered Mark for Review and Clear Response :\nYes\nMaximum Instruction Time :\n0\n \n \nQuestion Number : 1 Question Id : 4387197041 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response\nTime : N.A Think Time : N.A Minimum Instruction Time : 0\nOptions :\n1. \n \n2. \n \n3. \n \n\n4. \n \n \n \nQuestion Number : 2 Question Id : 4387197042 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response\nTime : N.A Think Time : N.A Minimum Instruction Time : 0\nOptions :\n1. \n \n2. \n \n3. \n \n4. \n \n \n \nQuestion Number : 3 Question Id : 4387197043 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response\nTime : N.A Think Time : N.A Minimum Instruction Time : 0\n\nOptions :\n1. \n \n2. \n \n3. \n \n4. \n \n \n \nQuestion Number : 4 Question Id : 4387197044 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response\nTime : N.A Think Time : N.A Minimum Instruction Time : 0\nOptions :\n1. \n \n2. \n \n3. \n \n4. \n \n\n \n \nQuestion Number : 5 Question Id : 4387197045 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response\nTime : N.A Think Time : N.A Minimum Instruction Time : 0\nOptions :\n1. \n \n2. \n \n3. \n \n4. \n \n \n \nQuestion Number : 6 Question Id : 4387197046 Display Question Number : Yes Is Question Mandatory : No Calculator : None Response\nTime : N.A Think Time : N.A Minimum Instruction Time : 0\n\nOptions :\n1. \n \n2. \n \n3. \n \n4. \n \n \n \nQuestion Number : 7 Question Id : 4387197047 Display Question Number : Yes Is Question Ma",
+  "date_verification": "embedded PDF",
+  "answer_key_status": "embedded_colored_options",
+  "answer_key_type": "published_educational_source",
+  "extraction_status": "indexed",
+  "metadata_path": "papers/2022/2022-07-08/Shift_2/Engineering/metadata.json",
+  "question_count": 160,
+  "answers_mapped": 160,
+  "content_signature": "32e9406ab8c3f0c099ea38331ce7d2a346fd5328221dce369fbea6abeff56852",
+  "text_path": "papers/2022/2022-07-08/Shift_2/Engineering/question_paper_text.txt",
+  "additional_sources": [
+    {
+      "source": "BYJU'S",
+      "source_url": "https://byjus.com/jee/ap-eamcet-question-paper/",
+      "download_url": "https://cdn1.byjus.com/wp-content/uploads/2023/03/AP-EAMCET-08-Jul-2022-Afternoon.pdf",
+      "sha256": "e918e3a54f8833968cc54fd98f945a0bd30f1ca46fa696371c62dfd4cf3ece7e",
+      "content_signature": "32e9406ab8c3f0c099ea38331ce7d2a346fd5328221dce369fbea6abeff56852"
+    },
+    {
+      "source": "CollegeDekho",
+      "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+      "download_url": "https://static.collegedekho.com/media/uploads/2022/07/12/qpk_s10.pdf",
+      "sha256": "e918e3a54f8833968cc54fd98f945a0bd30f1ca46fa696371c62dfd4cf3ece7e",
+      "content_signature": "32e9406ab8c3f0c099ea38331ce7d2a346fd5328221dce369fbea6abeff56852"
+    }
+  ],
+  "attachments": []
+}
