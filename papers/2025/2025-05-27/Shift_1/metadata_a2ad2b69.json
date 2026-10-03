@@ -12,7 +12,10 @@
   "source": "APSCHE",
   "source_url": "https://cets.apsche.ap.gov.in/EAPCET25/Eapcet/EAPCET_ExamPapersFinal.aspx",
   "download_url": "https://cets.apsche.ap.gov.in/EAPCET/PDF/EXAM_PAPER_FINAL/QPK_27th_MAY_SHIFT_1_FINAL.pdf",
-  "additional_sources": [],
+  "additional_sources": [
+    "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/year-wise/2025/ap-eamcet-27-may-2025-shift-1/1206065",
+    "https://www.selfstudys.com/advance-pdf-viewer/ap-eamcet-previous-year-paper/english/year-wise/2025/ap-eamcet-27-may-2025-shift-1/1206065"
+  ],
   "pdf_path": "papers/2025/2025-05-27/Shift_1/question_paper_a2ad2b69.pdf",
   "sha256": "a2ad2b69f352d4fcd73edf991fb4d59747acd1320da0b40935cfa951799ca459",
   "bytes": 7264152,

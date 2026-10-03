@@ -12,7 +12,10 @@
   "source": "APSCHE",
   "source_url": "https://cets.apsche.ap.gov.in/EAPCET25/Eapcet/EAPCET_ExamPapersFinal.aspx",
   "download_url": "https://cets.apsche.ap.gov.in/EAPCET/PDF/EXAM_PAPER_FINAL/QPK_26th_MAY_SHIFT_2_FINAL.pdf",
-  "additional_sources": [],
+  "additional_sources": [
+    "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/year-wise/2025/ap-eamcet-26-may-2025-shift-2/1206066",
+    "https://www.selfstudys.com/advance-pdf-viewer/ap-eamcet-previous-year-paper/english/year-wise/2025/ap-eamcet-26-may-2025-shift-2/1206066"
+  ],
   "pdf_path": "papers/2025/Date_Not_Found/Session_Not_Found/question_paper_5aed86b4.pdf",
   "sha256": "5aed86b4387da57c22dd37e003dc5f0c2a51d0d8160e207dc78e660ebde54503",
   "bytes": 6530415,
