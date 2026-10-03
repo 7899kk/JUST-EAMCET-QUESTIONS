@@ -1,0 +1,3907 @@
+www.careerindia.com
+Andhra Pradesh State Council of Higher 
+Education
+   
+ 
+Notations :
+1.Options shown in green color and with 
+ icon are correct.
+2.Options shown in red color and with 
+ icon are incorrect.
+ 
+ 
+ 
+Question Paper Name :
+ENGINEERING 21st May 2024 Shift 2
+Duration :
+180
+Total Marks :
+160
+Display Marks:
+No
+Share Answer Key With Delivery Engine :
+Yes
+Calculator :
+None
+Magnifying Glass Required? :
+No
+Ruler Required? :
+No
+Eraser Required? :
+No
+Scratch Pad Required? :
+No
+Rough Sketch/Notepad Required? :
+No
+Protractor Required? :
+No
+Show Watermark on Console? :
+Yes
+Highlighter :
+No
+Auto Save on Console?
+Yes
+Change Font Color :
+No
+Change Background Color :
+No
+Change Theme :
+No
+Help Button :
+No
+Show Reports :
+No
+
+www.careerindia.com
+Show Progress Bar :
+No
+Is this Group for Examiner? :
+No
+Examiner permission :
+Cant View
+Show Progress Bar? :
+No
+ 
+ 
+ 
+ 
+Mathematics
+Section Id :
+450938150
+Section Number :
+1
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+80
+Section Marks :
+80
+Enable Mark as Answered Mark for Review and 
+Clear Response :
+Yes
+Maximum Instruction Time :
+0
+Is Section Default? :
+null
+ 
+ 
+Question Number : 1 Question Id : 4509387041 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+
+www.careerindia.com
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 2 Question Id : 4509387042 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+
+www.careerindia.com
+ 
+ 
+ 
+Question Number : 3 Question Id : 4509387043 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 4 Question Id : 4509387044 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+
+www.careerindia.com
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 5 Question Id : 4509387045 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+
+www.careerindia.com
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 6 Question Id : 4509387046 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+
+www.careerindia.com
+ 
+ 
+Question Number : 7 Question Id : 4509387047 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 8 Question Id : 4509387048 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+
+www.careerindia.com
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 9 Question Id : 4509387049 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+
+www.careerindia.com
+ 
+ 
+ 
+ 
+Question Number : 10 Question Id : 4509387050 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 11 Question Id : 4509387051 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 12 Question Id : 4509387052 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+
+www.careerindia.com
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 13 Question Id : 4509387053 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+
+www.careerindia.com
+Question Number : 14 Question Id : 4509387054 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 15 Question Id : 4509387055 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 16 Question Id : 4509387056 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+
+www.careerindia.com
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 17 Question Id : 4509387057 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 18 Question Id : 4509387058 Display Question Number : Yes Is Question 
+
+www.careerindia.com
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 19 Question Id : 4509387059 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 20 Question Id : 4509387060 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+
+www.careerindia.com
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 21 Question Id : 4509387061 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+
+www.careerindia.com
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 22 Question Id : 4509387062 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+
+www.careerindia.com
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 23 Question Id : 4509387063 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 24 Question Id : 4509387064 Display Question Number : Yes Is Question 
+
+www.careerindia.com
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 25 Question Id : 4509387065 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+
+www.careerindia.com
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 26 Question Id : 4509387066 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+
+www.careerindia.com
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 27 Question Id : 4509387067 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 28 Question Id : 4509387068 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+
+www.careerindia.com
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 29 Question Id : 4509387069 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+
+www.careerindia.com
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 30 Question Id : 4509387070 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+
+www.careerindia.com
+Question Number : 31 Question Id : 4509387071 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 32 Question Id : 4509387072 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+
+www.careerindia.com
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 33 Question Id : 4509387073 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+
+www.careerindia.com
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 34 Question Id : 4509387074 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+
+www.careerindia.com
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 35 Question Id : 4509387075 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+
+www.careerindia.com
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 36 Question Id : 4509387076 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+
+www.careerindia.com
+Question Number : 37 Question Id : 4509387077 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 38 Question Id : 4509387078 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 39 Question Id : 4509387079 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 40 Question Id : 4509387080 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+
+www.careerindia.com
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 41 Question Id : 4509387081 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+
+www.careerindia.com
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 42 Question Id : 4509387082 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+
+www.careerindia.com
+ 
+ 
+Question Number : 43 Question Id : 4509387083 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 44 Question Id : 4509387084 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 45 Question Id : 4509387085 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+
+www.careerindia.com
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 46 Question Id : 4509387086 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+
+www.careerindia.com
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 47 Question Id : 4509387087 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 48 Question Id : 4509387088 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 49 Question Id : 4509387089 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+
+www.careerindia.com
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 50 Question Id : 4509387090 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+
+www.careerindia.com
+ 
+ 
+ 
+Question Number : 51 Question Id : 4509387091 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 52 Question Id : 4509387092 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 53 Question Id : 4509387093 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 54 Question Id : 4509387094 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+
+www.careerindia.com
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 55 Question Id : 4509387095 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+
+www.careerindia.com
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 56 Question Id : 4509387096 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 57 Question Id : 4509387097 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 58 Question Id : 4509387098 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+
+www.careerindia.com
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 59 Question Id : 4509387099 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+
+www.careerindia.com
+ 
+ 
+Question Number : 60 Question Id : 4509387100 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 61 Question Id : 4509387101 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+
+www.careerindia.com
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 62 Question Id : 4509387102 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+
+www.careerindia.com
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 63 Question Id : 4509387103 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 64 Question Id : 4509387104 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 65 Question Id : 4509387105 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+
+www.careerindia.com
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 66 Question Id : 4509387106 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 67 Question Id : 4509387107 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 68 Question Id : 4509387108 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+
+www.careerindia.com
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 69 Question Id : 4509387109 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+
+www.careerindia.com
+ 
+ 
+ 
+ 
+Question Number : 70 Question Id : 4509387110 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 71 Question Id : 4509387111 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 72 Question Id : 4509387112 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+
+www.careerindia.com
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 73 Question Id : 4509387113 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 74 Question Id : 4509387114 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 75 Question Id : 4509387115 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+
+www.careerindia.com
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 76 Question Id : 4509387116 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+
+www.careerindia.com
+Question Number : 77 Question Id : 4509387117 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 78 Question Id : 4509387118 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+
+www.careerindia.com
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 79 Question Id : 4509387119 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+
+www.careerindia.com
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 80 Question Id : 4509387120 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Physics
+Section Id :
+450938151
+Section Number :
+2
+Mandatory or Optional :
+Mandatory
+
+www.careerindia.com
+Number of Questions :
+40
+Section Marks :
+40
+Enable Mark as Answered Mark for Review and 
+Clear Response :
+Yes
+Maximum Instruction Time :
+0
+Is Section Default? :
+null
+ 
+ 
+Question Number : 81 Question Id : 4509387121 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 82 Question Id : 4509387122 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 83 Question Id : 4509387123 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 84 Question Id : 4509387124 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 85 Question Id : 4509387125 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+
+www.careerindia.com
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 86 Question Id : 4509387126 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+
+www.careerindia.com
+ 
+ 
+ 
+Question Number : 87 Question Id : 4509387127 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+
+www.careerindia.com
+ 
+ 
+ 
+ 
+Question Number : 88 Question Id : 4509387128 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 89 Question Id : 4509387129 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 90 Question Id : 4509387130 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 91 Question Id : 4509387131 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 92 Question Id : 4509387132 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+
+www.careerindia.com
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 93 Question Id : 4509387133 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+
+www.careerindia.com
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 94 Question Id : 4509387134 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 95 Question Id : 4509387135 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 96 Question Id : 4509387136 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 97 Question Id : 4509387137 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 98 Question Id : 4509387138 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+
+www.careerindia.com
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 99 Question Id : 4509387139 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+
+www.careerindia.com
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 100 Question Id : 4509387140 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+
+www.careerindia.com
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 101 Question Id : 4509387141 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+
+www.careerindia.com
+ 
+ 
+ 
+ 
+Question Number : 102 Question Id : 4509387142 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 103 Question Id : 4509387143 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+
+www.careerindia.com
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 104 Question Id : 4509387144 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+
+www.careerindia.com
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 105 Question Id : 4509387145 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+
+www.careerindia.com
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 106 Question Id : 4509387146 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+
+www.careerindia.com
+Question Number : 107 Question Id : 4509387147 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 108 Question Id : 4509387148 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 109 Question Id : 4509387149 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+
+www.careerindia.com
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 110 Question Id : 4509387150 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+
+www.careerindia.com
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 111 Question Id : 4509387151 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 112 Question Id : 4509387152 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 113 Question Id : 4509387153 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+
+www.careerindia.com
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 114 Question Id : 4509387154 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+
+www.careerindia.com
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 115 Question Id : 4509387155 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+
+www.careerindia.com
+Question Number : 116 Question Id : 4509387156 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 117 Question Id : 4509387157 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 118 Question Id : 4509387158 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+
+www.careerindia.com
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 119 Question Id : 4509387159 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 120 Question Id : 4509387160 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chemistry
+Section Id :
+450938152
+Section Number :
+3
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+40
+Section Marks :
+40
+Enable Mark as Answered Mark for Review and 
+Clear Response :
+Yes
+Maximum Instruction Time :
+0
+Is Section Default? :
+null
+ 
+ 
+
+www.careerindia.com
+Question Number : 121 Question Id : 4509387161 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 122 Question Id : 4509387162 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+
+www.careerindia.com
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 123 Question Id : 4509387163 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+
+www.careerindia.com
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 124 Question Id : 4509387164 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+
+www.careerindia.com
+Question Number : 125 Question Id : 4509387165 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 126 Question Id : 4509387166 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 127 Question Id : 4509387167 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 128 Question Id : 4509387168 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 129 Question Id : 4509387169 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+
+www.careerindia.com
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 130 Question Id : 4509387170 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+
+www.careerindia.com
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 131 Question Id : 4509387171 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 132 Question Id : 4509387172 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 133 Question Id : 4509387173 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+
+www.careerindia.com
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 134 Question Id : 4509387174 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+
+www.careerindia.com
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 135 Question Id : 4509387175 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+
+www.careerindia.com
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 136 Question Id : 4509387176 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+
+www.careerindia.com
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 137 Question Id : 4509387177 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+
+www.careerindia.com
+ 
+ 
+Question Number : 138 Question Id : 4509387178 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 139 Question Id : 4509387179 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 140 Question Id : 4509387180 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 141 Question Id : 4509387181 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 142 Question Id : 4509387182 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+
+www.careerindia.com
+ 
+ 
+ 
+Question Number : 143 Question Id : 4509387183 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+
+www.careerindia.com
+ 
+ 
+ 
+ 
+Question Number : 144 Question Id : 4509387184 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 145 Question Id : 4509387185 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+
+www.careerindia.com
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 146 Question Id : 4509387186 Display Question Number : Yes Is Question 
+
+www.careerindia.com
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 147 Question Id : 4509387187 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+
+www.careerindia.com
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 148 Question Id : 4509387188 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+
+www.careerindia.com
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 149 Question Id : 4509387189 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 150 Question Id : 4509387190 Display Question Number : Yes Is Question 
+
+www.careerindia.com
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 151 Question Id : 4509387191 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+
+www.careerindia.com
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 152 Question Id : 4509387192 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+
+www.careerindia.com
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 153 Question Id : 4509387193 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+
+www.careerindia.com
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 154 Question Id : 4509387194 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+
+www.careerindia.com
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 155 Question Id : 4509387195 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+
+www.careerindia.com
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 156 Question Id : 4509387196 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+
+www.careerindia.com
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 157 Question Id : 4509387197 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+
+www.careerindia.com
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 158 Question Id : 4509387198 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+
+www.careerindia.com
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 159 Question Id : 4509387199 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+
+www.careerindia.com
+4. 
+ 
+ 
+ 
+ 
+ 
+Question Number : 160 Question Id : 4509387200 Display Question Number : Yes Is Question 
+Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction 
+Time : 0
+Options :
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+4. 
+ 
+ 
+
+www.careerindia.com
+ 
