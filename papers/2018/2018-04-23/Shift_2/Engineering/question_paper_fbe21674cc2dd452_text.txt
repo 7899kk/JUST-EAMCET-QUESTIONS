@@ -1,0 +1,20378 @@
+ 
+ 
+ 
+AP EAMCET-2018-Engineering-23 Apr-Shift-2 
+Mathematics  
+ 
+ 
+1. If 
+( )
+2
+2
+g x
+x
+x
+=
++
+− and 
+(
+)( )
+2
+1
+2
+5
+2
+2 g f
+x
+x
+x
+ο
+=
+−
++  then one 
+such function ( )
+f x = 
+(1) 2
+3
+x − 
+(2) 2
+3
+x +  
+(3) 2
+2x
++
+ 
+(d) 
+2
+2
+3
+1
+x
+x
+−
+− 
+ 
+2. If 
+:
+f
+R
+A
+→
+ 
+defined 
+by 
+( )
+2
+1
+,
+2
+2
+f x
+x
+R
+x
+x
+=
+∀∈
++
++
+ 
+is 
+subjective, then A = 
+(1) [
+]
+1, ∞ 
+(2) (
+)
+1, ∞ 
+(3) [
+]
+0,1  
+(4) (
+]
+0,1  
+ 
+
+ 
+ 
+ 
+3. If 
+(
+)
+2
+1
+3
+1
+2
+4
+3
+n
+n
++
++
+⋅
++
+ is divisible by k , 
+1
+k >  for all n
+N
+∈
+, then the 
+value of k  is 
+(1) 19 
+(2) 17 
+(3) 11 
+(4) 13 
+ 
+4. If 
+0
+1
+1
+0
+A
+−
+
+
+= 
+
+
+
+ then the incorrect option among the following is 
+(1) 
+(
+)
+3
+A
+I
+A A
+I
+−
+=
+−
+ 
+(2) (
+)
+(
+)
+3
+3
+A
+I
+A A
+I
++
+=
+−
+ 
+(3) 
+4
+2
+A
+I
+A
+I
+−
+=
++  
+(4) 
+(
+)
+2
+2
+A
+I
+A A
+I
++
+=
+−
+ 
+ 
+5. If 
+1,
+1,
+1
+a
+b
+c
+≠
+≠−
+≠− and the system of equations and the 
+system of equations 
+(
+)
+(
+)
+(
+)
+,
+,
+x
+a y
+z
+y
+b z
+x
+z
+c x
+y
+=
++
+=
++
+=
++
+ has 
+a non trivial solution then, 
+(1) 
+0
+1
+1
+1
+a
+b
+c
+a
+b
+c
++
++
+=
++
++
++
+ 
+
+ 
+ 
+ 
+(2) 
+1
+1
+1
+1
+a
+b
+c
+a
+b
+c
++
++
+=
++
++
++
+ 
+(3) (
+)(
+)(
+)
+1
+1
+1
+1
+abc
+a
+b
+c
+=
++
++
++
+ 
+(4) (
+)(
+)(
+)
+2
+1
+1
+1
+a
+b
+c
+a
+b
+c
++
++
+=
++
++
++
+ 
+ 
+6. The rank of following matrix A is, 
+1
+2
+3
+4
+2
+9
+4
+5
+4
+5
+10
+3
+1
+11
+1
+9
+A
+−
+−
+
+
+
+
+
+
+=
+−
+
+
+
+
+−
+
+
+ 
+(1) 4 
+(2) 3 
+(3) 2 
+(4) 1 
+ 
+7. If a complex number z satisfies 
+2
+2
+1
+1
+z
+z
++ =
+− then the locus of 
+z is 
+(1) a circle 
+(2) the real axis 
+
+ 
+ 
+ 
+(3) the imaginary axis 
+(4) the straight line y
+x
+=
+ 
+ 
+8. P is a point denoting z in the Argand diagram and if 
+1
+z
+i
+z
+−
++  is 
+always purely imaginary then the locus of P is 
+(1) The circle with centre 1 1
+,
+2 2
+
+
+
+
+
+
+ and radius 1
+2
+ 
+(2) The circle with centre 
+1
+1
+,
+2
+2
+
+
+−
+−
+
+
+
+
+ and radius 1
+2
+ 
+(3) The point on the circle with centre 1 1
+,
+2 2
+
+
+
+
+
+
+ and radius 1
+2
+, 
+excluding the point (
+)
+1, 0  and (
+)
+0,1  
+(4) The point on the circle with centre 
+1
+1
+,
+2
+2
+
+
+−
+−
+
+
+
+
+ and radius 
+1
+2
+, excluding the origin 
+ 
+9. If 
+, ,
+a b c are non zero real number with 
+1
+c ≠ such that 
+2
+2
+2
+a
+b
+c
+c
++
++
+=  and if 
+1
+a
+ib
+c
+α
++
+=
+−
+ then 
+2
+2
+a
+b
++
+= 
+
+ 
+ 
+ 
+(1) 
+(
+)
+2
+2
+2
+1
+α
+α
++
+ 
+(2) 
+(
+)
+4
+2
+2
+1
+α
+α
++
+ 
+(3) 
+(
+)
+2
+1
+α
+α
++
+ 
+(4) 1
+α
+α
++
+ 
+ 
+10. For n
+Z +
+∈
+, (
+)
+(
+)
+1 sin
+cos
+1 sin
+cos
+n
+n
+i
+i
+θ
+θ
+θ
+θ
++
++
++
++
+−
+= 
+(1) 
+1
+2
+cos
+cos
+4
+2
+4
+2
+n
+n
+n
+π
+θ
+π
+θ
++
+
+
+
+
+⋅
+−
+−
+
+
+
+
+
+
+
+
+  
+(2) 
+1
+2
+cos
+sin
+4
+2
+4
+2
+n
+n
+n
+π
+θ
+π
+θ
++
+
+
+
+
+⋅
+−
+−
+
+
+
+
+
+
+
+
+  
+(3) 
+1
+2
+cos
+cos
+4
+2
+4
+2
+n
+n
+n
+n
+π
+θ
+π
+θ
++
+
+
+
+
+⋅
+−
+−
+
+
+
+
+
+
+
+
+ 
+(4) 
+1
+2
+cos
+sin
+4
+2
+4
+2
+n
+n
+n
+n
+π
+θ
+π
+θ
++
+
+
+
+
+⋅
+−
+−
+
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+ 
+11. If the quadratic equation formed by eliminating x from 
+2
+0
+x
+x
+α
+β
++
++
+=
+ and 
+(
+)
+0
+xy
+l x
+y
+m
++
++
++
+=
+ has same roots as to 
+the given quadratic equation, then the set of values of β  is 
+(1) {
+}
+,
+m
+l
+m
+α −
+ 
+(2) {
+}
+,
+m l
+m
++
+ 
+(3) {
+}
+,
+m
+l
+m
+α +
+ 
+(4) {
+}
+,
+m l
+m
+−
+ 
+ 
+12. If x is real then the range of 
+2
+2
+2
+1
+2
+7
+x
+x
+x
+x
++
++
++
++
+ is 
+(1) [
+)
+0,1  
+(2) (
+)
+(
+)
+, 0
+1,
+−∞
+∪
+∞ 
+(3) (
+)
+0,1  
+(4) R 
+ 
+13. If [ ]
+x  denotes the greatest integer not exceeding x, then the 
+value of x satisfying [ ]
+[ ]
+2
+7
+12
+0
+x
+x
+−
++
+≤
+ is 
+(1) 1
+4
+x
+≤
+<
+ 
+(2) 3
+5
+x
+≤
+<
+ 
+
+ 
+ 
+ 
+(3) 5
+3
+x
+−<
+≤−  
+(4) 2
+4
+x
+≤
+≤
+ 
+ 
+14. If the equation whose roots are p times the roots of 
+4
+3
+2
+2
+4
+8
+16
+0
+x
+ax
+bx
+ax
+−
++
++
++
+=
+ is a reciprocal equation then 
+p = 
+(1) 3 
+(2) 2 
+(3) 1
+2 
+(4) 1
+3 
+ 
+15. The number of three digit numbers in which 9 appears only in 
+one place is 
+(1) 243 
+(2) 234 
+(3) 217 
+(4) 225 
+ 
+16. 
+(
+)
+(
+)
+34
+34
+34
+34
+10
+9
+8
+7
+3
+3
+C
+C
+C
+C
++
++
++
+= 
+
+ 
+ 
+ 
+(1) 38
+10
+C  
+(2) 36
+10
+C  
+(3) 37
+10
+C  
+(4) 35
+10
+C  
+ 
+17. If 
+the 
+coefficient 
+of 
+50
+x  
+in 
+the 
+expansion 
+of 
+(
+)
+(
+)
+(
+)
+100
+99
+95
+2
+100
+1
+20 1
+3
+1
+101
+x
+x
+x
+x
+x
++
++
++
++
++
++
++
+
+, is 
+(1) 100
+50
+C  
+(2) 101
+50
+C  
+(3) 102
+50
+C  
+(4) 103
+50
+C  
+ 
+18. If 
+3
+3
+5
+5
+7
+5
+7
+9
+2! 3
+3! 3
+4! 3
+α
+×
+× ×
+=
++
++
++
+×
+×
+×
+, then 
+2
+4
+α
+α
++
+= 
+(1) 21 
+(2) 23 
+(3) 25 
+(4) 27 
+ 
+
+ 
+ 
+ 
+19. If 
+(
+)
+(
+)
+(
+)
+4
+2
+3
+2
+2
+2
+2
+2
+2
+24
+28
+1
+1
+1
+1
+x
+x
+A
+B
+C
+x
+x
+x
+x
++
++
+=
++
++
++
++
++
++
+ then A
+C
++
+= 
+(1) 12 
+(2) 10 
+(3) 9 
+(4) 6 
+ 
+20. If 
+cos25
+sin 25
+tan
+cos25
+sin 25
+θ
+° +
+°
+=
+° −
+° and θ  is in the third quadrant, then 
+θ = 
+(1) 200° 
+(2) 205° 
+(3) 225°
+ 
+ 
+(4) 250° 
+ 
+21. If 
+7
+3
+cos
+and
+2
+25
+2
+A
+A
+π
+π
+=
+<
+>
+ then cos
+cos
+cos2
+4
+2
+A
+A
+A
++
+−
+=  
+(1) 
+1
+27
+625
+10
++
+ 
+(2) 
+3
+27
+625
+10
+−
+ 
+
+ 
+ 
+ 
+(3) 
+3
+27
+625
+10
++
+  
+(4) 
+1
+27
+625
+10
+−
+  
+ 
+22. In 
+ABC
+∆
+, if cos3
+cos3
+cos3
+cos3
+0
+A
+B
+C
+π
++
++
++
+=
+ then the least 
+value of the sum of two of its angles is 
+(1) 6
+π  
+(2) 2
+3
+π  
+(3) 3
+π  
+(4) 4
+π   
+ 
+23. If θ  is in the interval 0, 2
+π
+
+
+
+
+
+
+ satisfying the equation 
+4
+2
+cos2
+sec
+sec
+0
+θ
+θ
+θ
+−
++
+=
+ then 
+2
+sin θ =  
+(1) 1
+3 
+(2) 3
+4 
+
+ 
+ 
+ 
+(3) 1
+2 
+(4) 2
+3 
+ 
+24. 
+1
+4
+2
+1
+2
+lim
+tan
+2
+n
+n
+r
+r
+r
+r
+−
+→∞
+=
+
+=
+
+
++
++
+
+
+∑
+ 
+(1) 4
+π  
+(2) 2
+π  
+(3) 4
+π
+− 
+(4) 2
+π
+−  
+ 
+25. 
+(
+)
+2
+1
+2
+1
+1
+sech
+tanh
+cosech
+coth
+3
+2
+−
+−
+
++
+=
+
+
+
+
+  
+(1) 35
+9  
+(2) 3
+2 
+
+ 
+ 
+ 
+(3) 25
+4  
+(4) 35
+4  
+ 
+26. In ∆ABC, if 
+2
+2
+3
+cos
+cos
+2
+2
+2
+C
+A
+b
+a
+c
++
+=
+ then 
+(1) 2b
+a
+c
+=
++  
+(2) 
+2
+b
+ac
+=
+ 
+(3) 1
+1
+1
+b
+a
+c
+=
++
+ 
+(4) a
+c
+=  
+ 
+27. If s is the semi perimeter of 
+ABC
+∆
+ and if 
+4
+5
+6
+s
+a
+s
+b
+s
+c
+−
+−
+−
+=
+=
+ 
+then 
+2
+sin
+2
+A
+
+=
+
+
+
+
+∑
+ 
+(1) 74
+25 
+(2) 25
+74 
+(3) 74
+33 
+
+ 
+ 
+ 
+(4) 25
+33 
+ 
+28. If I  is the incentre of 
+ABC
+∆
+ and 
+1
+2
+3
+,
+,
+P P P  are respectively the 
+radii of the circumcircles of the 
+,
+and
+,
+IBC
+ICA
+IAB
+∆
+∆
+∆
+ then 
+1
+2
+3
+PP P = 
+(1) 2Rr 
+(2) 
+2
+2Rr  
+(3) 
+2
+2R r 
+(4) 4R
+r  
+ 
+29. If a and b
+ are unit vectors such that a
+b
++
+
+
+ is also a unit vector, 
+then a
+b
+−
+=
+2
+
+
+ 
+(1) 1 
+(2) 2 
+(3) 3 
+(4) 0 
+ 
+
+ 
+ 
+ 
+30. If the line joining the points ˆ
+ˆ
++
+i
+j, and ˆ
+ˆ
+ˆ
+3 + −
+i
+j
+k meets the plane 
+that passes through the point ˆ
+ˆ
+2
+4
++
+i
+j and parallel to the vector 
+ˆ
+ˆ
+3
+5
++
+j
+k  and ˆ
+ˆ
+3 −
+i
+k  at P, then the position vector of the point P 
+is, 
+(1) 
+ˆ
+ˆ
+ˆ
+27
+14
+−
++ +
+i
+j
+k 
+(2) 
+ˆ
+ˆ
+ˆ
+29
+14
++ −
+i
+j
+k  
+(3) 
+ˆ
+ˆ
+ˆ
+14
+89
+3
+−
++
++
+i
+j
+k 
+(4) ˆ
+ˆ
+ˆ
+2
+5
+7
++
+−
+i
+j
+k 
+ 
+31. If 
+,
+,
+,
+A B C D are four points in the plane such that 
+2
+2
+2
+2
+100
++
+=
++
+=
+AB
+CD
+BC
+DA
+ then 
+⋅
+=
+AC BD
+ 
+(1) 10 
+(2) 0 
+(3) 1
+10 
+(4) 1 
+ 
+
+ 
+ 
+ 
+32.  if 
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+2
+3 ,
+2
+3
+2
+= +
++
+=
++
++
+a
+i
+j
+k b
+i
+j
+k and c is a vector 
+perpendicular to b then, 
+(
+) (
+)
+2
+2
+2
+
+
+
+
+
+
+⋅
+×
+⋅
+⋅
+×
++
++
+=
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+a
+b
+c
+a b
+a c
+b
+c
+b
+b
+c
+b
+c
+ 
+(1) 14  
+(2) 14 
+(3) 13 
+(4) 17  
+ 
+33. If , ,
+a b c are the three vectors such that 
+1,
+2,
+3
+=
+=
+=
+a
+b
+c
+ and 
+2
+2
+⋅
+=
+⋅= ⋅
+=
+a b
+b c
+c a
+ then [
+]
+2 =
+a b c
+  
+(1) 15 
+(2) 14 
+(3) 12 
+(4) 8 
+ 
+34. If 
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+,
+,
+= +
+= +
+= +
+a
+i
+j b
+j
+k c
+i
+k and c is a vector perpendicular to 
+b then, (
+) (
+) (
+)(
+) (
+) (
+)
+[
+][
+]
+×
+×
+×
+×
+×
+×
+×
+×
+
+
+
+
++
++
++
+×
+×
+×
+b c
+c a
+c a
+a b
+a b
+b c
+b
+c c
+a a
+b b c c a a b
+ 
+
+ 
+ 
+ 
+(1) 0 
+(2) 1 
+(3) 
+3 
+(4) 
+2  
+ 
+35. The standard deviation of the scores 505,510,515,520,
+,595
+
+ is 
+(1) 500
+5 30
++
+ 
+(2) 505
+30
++
+  
+(3) 5 30 
+(4) 5
+30
++
+  
+ 
+36. If the variance of the distribution 
+ix  
+4 
+8 
+11 
+17 
+20 
+24 
+32 
+if  
+3 
+5 
+9 
+5 
+4 
+3 
+1 
+is 45.8, then the variance of distribution 
+iy  
+10 
+18 
+24 
+36 
+42 
+50 
+66 
+if  
+3 
+5 
+9 
+5 
+4 
+3 
+1 
+(1) 93.6 
+(2) 
+93.9  
+
+ 
+ 
+ 
+(3) 183.2 
+(4) 183.2 
+ 
+37. A die is formed so that the probability of getting a number i 
+when it is rolled is proportional to i, (
+)
+1, 2, 3, 4, 5, 6
+i =
+. The 
+probability of getting an odd number on the die when it is rolled 
+is 
+(1) 1
+2 
+(2) 4
+7 
+(3) 2
+7 
+(4) 3
+7 
+ 
+38. A problem is given to 3 students A,B and C whose chances to 
+solving it are 1 1
+1
+,
+and
+2 3
+4  respectively. Then, the probability of 
+the problem being solved by exactly one of them, if all the three 
+try independently, is 
+
+ 
+ 
+ 
+(1) 3
+4 
+(2) 11
+24 
+(3) 23
+24 
+(4) 1
+4 
+ 
+39. A certain recruitment test with multiple choice questions, there 
+are four options to answer each question, out of which one is 
+correct. An intelligent student knows 90% correct answers while 
+a weak student known only 20% correct answers. If an 
+intelligent student gets the correct answer for a question then the 
+probability that he was guessing it, is 
+(1) 1
+37  
+(2) 1
+10 
+(3) 9
+37  
+(4) 1
+2 
+
+ 
+ 
+ 
+ 
+40. A random variable X has the following distribution 
+Values 
+of 
+( )
+X x  
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+(
+)
+P X
+x
+=
+ 
+0 
+k  
+2k  
+2k  3k  
+2
+k  
+2
+2k  
+2
+7k
+k
++
+ 
+Then (
+)
+0
+6
+P
+X
+<
+<
+= 
+(1) 9
+10 
+(2) 
+2
+9
+10
+
+
+
+
+
+
+ 
+(3) 
+3
+10
+
+
+
+
+
+
+ 
+(4) 1
+10 
+ 
+41. An unbiased coin is tossed n times. If the probability of getting 
+one head is greater than 0.8, then the least value of n is, 
+(1) 2 
+(2) 3 
+(3) 4 
+(4) 5 
+
+ 
+ 
+ 
+ 
+42. If a point P moves such that the sum of the distances from P to 
+the point 
+(
+)
+1,
+1
+A
+−
+ and 
+(
+)
+1,1
+B −
+ is always 4, then the equation 
+for the locus of P is 
+(1) 
+2
+2
+16
+64
+7
+x
+x
+y
+−
++
+ 
+(2) 
+2
+2
+3
+2
+3
+8
+x
+xy
+y
++
++
+=  
+(3) 6
+4
+3
+x
+y
++
+=  
+(4) 
+2
+2
+8
+6
+0
+x
+y
+x
+y
++
+−
++
+=  
+ 
+43. The transformed equation of 
+2
+2
+3
+6
+8
+8
+x
+xy
+y
+−
++
+=  when the axes 
+are rotated about the origin through an angle 4
+π  in the positive 
+direction is, 
+(1) 
+2
+2
+5
+10
+17
+16
+0
+x
+xy
+y
++
++
++
+=
+ 
+(2) 
+2
+2
+5
+10
+17
+16
+0
+x
+xy
+y
++
++
+−
+=
+ 
+(3) 
+2
+2
+5
+10
+17
+16
+0
+x
+xy
+y
+−
++
+−
+=
+ 
+(4) 
+2
+2
+5
+10
+17
+16
+0
+x
+xy
+y
+−
++
++
+=
+ 
+ 
+
+ 
+ 
+ 
+44. A variable line passing through a fixed point (
+)
+,
+α β  intersects 
+the coordinate axes at A and B. if O is the origin, then the locus 
+of the centroid of the triangle OAB is 
+(1) 
+2
+0
+x
+y
+β
+α
+αβ
++
+−
+=
+ 
+(2) 
+3
+0
+x
+y
+xy
+β
+α
++
+−
+=
+ 
+(3) 
+(
+)
+2
+2
+0
+x
+y
+α
+β
+α
+β
++
+−
++
+=
+ 
+(4) 
+3
+0
+x
+y
+xy
+β
+α
++
++
+=
+  
+ 
+45. If 
+1
+m =  is the slope of a line L, then the product of the slopes of 
+non parallel lines which are inclined at an angle of 60° with L is 
+(1) 1 
+(2) 1
+− 
+(3) 
+3 
+(4) 
+1
+2
+−
+ 
+ 
+46. The area (in sq units) of the quadrilateral formed by the lines 
+2
+3
+6
+0,
+x
+y
+−
++
+=
+ 2
+3
+6
+0,
+x
+y
++
++
+=
+ 2
+3
+6
+0
+x
+y
++
+−
+=
+ and 
+2
+3
+6
+0
+x
+y
+−
+−
+=
+ is 
+(1) 12 
+
+ 
+ 
+ 
+(2) 36 
+(3) 6 
+(4) 18 
+ 
+47. If the straight lines 2
+3
+1
+0,
+2
+1
+0
+x
+y
+x
+y
++
+−=
++
+−=  and 
+1
+0
+ax
+by
++
+−=  forms a triangle with orthocentre at the origin, 
+then (
+)
+,a b = 
+(1) (
+)
+8, 8
+−
+ 
+(2) (
+)
+0, 7  
+(3) (
+)
+6, 4  
+(4) (
+)
+3, 3
+−
+ 
+ 
+48. The product of the perpendicular distance from (
+)
+1,
+1
+−
+ to the 
+pair of lines 
+2
+2
+4
+0
+x
+xy
+y
+−
++
+=
+ is 
+(1) 1 
+(2) 2
+3 
+(3) 3
+2 
+(4) 2 
+
+ 
+ 
+ 
+ 
+49. If 
+the 
+circle 
+touches 
+the 
+line 
+3
+4
+10
+0
+x
+y
+−
+−
+=  
+and 
+3
+4
+30
+0
+x
+y
+−
++
+=
+ and its centre lies on the line 
+2
+0
+x
+y
++
+=
+, then 
+the equation of the circle is 
+(1) 
+2
+2
+4
+2
+11
+0
+x
+y
+x
+y
++
++
+−
+−
+=
+ 
+(2) 
+2
+2
+2
+4
+11
+0
+x
+y
+x
+y
++
++
+−
+−
+=
+ 
+(3) 
+2
+2
+4
+2
+11
+0
+x
+y
+x
+y
++
+−
++
+−
+=
+ 
+(4) 
+2
+2
+2
+11
+0
+x
+y
+x
+y
++
++
+−
+−
+=
+ 
+ 
+50. If 
+the 
+line 
+4
+4
+11
+0
+x
+y
++
+−
+=  
+intersects 
+the 
+circle 
+2
+2
+4
+6
+4
+0
+x
+y
+x
+y
++
+−
+−
++
+=
+ at A and B, then the point of 
+intersection of the tangents drawn at A, B is 
+(1) (
+)
+1, 2
+−
+ 
+(2) (
+)
+1,
+2
+−
+−
+ 
+(3) (
+)
+2,1  
+(4) (
+)
+2,
+1
+−
+−
+ 
+ 
+
+ 
+ 
+ 
+51. The equation of the circle which passes through the point (
+)
+3, 2  
+bisects the circumference of the circle 
+2
+2
+15
+x
+y
++
+=
+ and cuts the 
+circle 
+2
+2
+4
+6
+3
+0
+x
+y
+x
+y
++
++
++
++
+=
+ orthogonally is 
+(1) 
+2
+2
+6
+8
+43
+0
+x
+y
+x
+y
++
++
++
+−
+=
+ 
+(2) 
+2
+2
+6
+8
+15
+0
+x
+y
+x
+y
++
++
+−
+−
+=  
+(3) 
+2
+2
+6
+8
+11
+0
+x
+y
+x
+y
++
+−
++
+−
+=
+ 
+(4) 
+2
+2
+6
+8
+21
+0
+x
+y
+x
+y
++
+−
+−
++
+=
+ 
+ 
+52. 
+2
+2
+2
+4
+20
+0
+x
+y
+x
+y
++
++
++
+−
+=
+ and 
+2
+2
+6
+8
+10
+0
+x
+y
+x
+y
++
++
+−
++
+=  are 
+given circles. Which one of the following is correct? 
+(1) They intersect orthogonally and will have two common 
+tangents. The length of their common chord is 5 3
+2
+ 
+(2) They intersect at right angles and will have two common 
+tangents. The length of their common chord is 2. 
+(3) They do not intersect orthogonally and will have three 
+common tangents. The length of their direct chord is 5. 
+(4) They touch each other internally and will have only one 
+common tangent. 
+ 
+
+ 
+ 
+ 
+53. The equation of the circle passing through the point of 
+intersection of the circles 
+2
+2
+4
+6
+12
+0
+x
+y
+x
+y
++
++
++
+−
+=
+ and 
+2
+2
+6
+4
+12
+0
+x
+y
+x
+y
++
+−
+−
+−
+=  
+and 
+cutting 
+the 
+circle 
+2
+2
+4
+4
+8
+0
+x
+y
+x
+y
++
+−
++
++
+=
+ orthogonally is 
+(1) 
+2
+2
+6
+8
+12
+0
+x
+y
+x
+y
++
++
++
++
+=
+ 
+(2) 
+2
+2
+8
+6
+12
+0
+x
+y
+x
+y
++
++
++
+−
+=  
+(3) 
+2
+2
+6
+8
+12
+0
+x
+y
+x
+y
++
++
++
+−
+=  
+(4) 
+2
+2
+6
+8
+12
+0
+x
+y
+x
+y
++
+−
+−
+−
+=
+ 
+ 
+54. If the parabola passes through the points (
+)
+2,1
+−
+, (
+)
+1, 2  and 
+(
+)
+1, 3
+−
+ having horizontal axis, then the length of the latus 
+rectum of that parabola is 
+(1) 5 
+(2) 5
+2 
+(3) 2
+5 
+(4) 1
+5 
+ 
+
+ 
+ 
+ 
+55. The equation of one of the common tangents of the circle 
+2
+2
+6
+4
+0
+x
+y
+y
++
+−
++
+=
+ and the parabola 
+2
+y
+x
+=
+ is 
+(1) 2
+1
+0
+x
+y
+−
++ =
+ 
+(2) 2
+1
+x
+y
+−
+=  
+(3) 4
+1
+0
+x
+y
+−
++ =
+ 
+(4) 
+2
+1
+0
+x
+y
+−
++ =
+ 
+ 
+56. The equation of the ellipse having a vertex at (
+)
+6,1 , a focus at 
+(
+)
+4,1  and the eccentricity 3
+5 is 
+(1) (
+)
+(
+)
+2
+2
+1
+1
+1
+16
+25
+x
+y
+−
+−
++
+=  
+(2) (
+)
+(
+)
+2
+2
+1
+1
+1
+25
+16
+x
+y
+−
+−
++
+=  
+(3) (
+)
+(
+)
+2
+2
+1
+1
+1
+25
+16
+x
+y
++
++
++
+=  
+(4) (
+)
+(
+)
+2
+2
+1
+1
+1
+16
+25
+x
+y
++
++
++
+=   
+ 
+
+ 
+ 
+ 
+57. If the tangent at the point 
+16
+4cos ,
+sin 2
+11
+θ
+θ
+
+
+
+
+
+
+ on the ellipse 
+2
+2
+16
+11
+256
+x
+y
++
+=
+ and touches the circle 
+2
+2
+2
+15
+x
+y
+x
++
+−
+=
+, then 
+θ = 
+(1) 
+3
+π
+±
+ 
+(2) 
+6
+π
+±
+ 
+(3) 
+4
+π
+±
+ 
+(4) 
+8
+π
+±
+ 
+ 
+58. A tangent to the curve 
+2
+2
+2
+2
+2
+2
+9
+4
+36
+b x
+a y
+a b
+−
+=
+ makes intercept 
+of unit length on each of the coordinate axis, then the point 
+(
+)
+,a b  lies on 
+(1) 
+2
+2
+1
+x
+y
+−
+=  
+(2) 
+2
+2
+1
+x
+y
++
+=  
+(3) 
+2
+2
+4
+9
+1
+x
+y
+−
+=  
+(4) 
+2
+2
+4
+9
+1
+x
+y
++
+=  
+ 
+
+ 
+ 
+ 
+59. The harmonic conjugate of 
+(
+)
+9,12,
+15
+P −
+−
+ with respect to the 
+line segment AB, where 
+(
+)
+1,
+2, 3
+A =
+−
+ and 
+(
+)
+4, 5,
+6
+B = −
+−
+ is 
+(1) 
+2 1
+,
+, 0
+3 3
+
+
+−
+
+
+
+
+ 
+(2) (
+)
+6,
+9,12
+−
+ 
+(3) 
+7 8
+,
+,
+3
+3 3
+
+
+−
+−
+
+
+
+
+ 
+(4) 7
+8 9
+,
+,
+3
+3 3
+
+
+−
+
+
+
+
+ 
+ 
+60. If the direction ratios of the lines 
+1L  and 
+2
+L  are 2,
+1,1
+−
+ and 
+3,
+3, 4
+−
+ respectively, then the direction cosines of a line that is 
+perpendicular to both 
+1L  and 
+2
+L  are 
+(1) 
+2
+1
+1
+,
+,
+6
+6
+6
+±
+±
+±
+ 
+(2) 
+1
+5
+3
+,
+,
+35
+35
+35
+±
+±
+±
+ 
+(3) 
+3
+3
+4
+,
+,
+34
+34
+34
+±
+±
+±
+ 
+(4) 
+1
+2
+3
+,
+,
+14
+14
+14
+±
+±
+±
+  
+
+ 
+ 
+ 
+ 
+61. If the equation of the plane bisecting the line segment joining 
+the point (
+)
+3, 2, 4
+P
+ and 
+(
+)
+1, 0,
+2
+Q −
+−
+ and perpendicular to PQ is 
+0
+ax
+by
+cz
+d
++
++
++
+=
+ then ac
+bd
++
+= 
+(1) 0 
+(2) 12 
+(3) 6 
+(4) 1 
+ 
+62. 
+2
+2
+0
+cos
+cos
+2
+2
+cos lim
+lim
+3
+x
+x
+x
+x
+x
+x
+x
+x
+π
+π
+π
+→∞
+→
+
+
+
+
+
+
+
+
++
+
+
++
+=
+
+
+−
+
+
+
+
+
+
+ 
+(1) 1 
+(2) 1
+− 
+(3) 0 
+(4) 1
+2
+ 
+ 
+63. 
+(
+)
+[
+]
+2
+2
+2
+2
+2
+3
+3
+3
+3
+6
+12
+18
+6
+lim
+5 10 15
+5
+2
+4
+6
+8
+n
+n
+n
+n
+→∞
+
+
++
++
++
++
+
+
+=
+
+
++
++
++
++
++
++
++
++
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+(1) 4
+5 
+(2) 144
+5  
+(3) 4
+25 
+(4) 144
+25  
+ 
+64. If [ ]
+x  denotes the greatest integer nor exceeding the number x, 
+is defined by 
+( )
+[ ]
+[ ]
+,
+if
+2
+1
+2
+x
+x
+f x
+x
+if x
+<
+
+= 
+−
+≥
+
+  
+is continuous in the interval  
+(1) (
+)
+(
+)
+1, 2
+2, 3
+∪
+ 
+(2) [
+)
+1, 3  
+(3) (
+)
+1, 3  
+(4) R 
+ 
+65. If 
+0
+a >
+ and ( )
+1 2
+1
+a
+x
+a
+x
+f x
+x
++ +
++
+
+
+= 
+
++
+
+
+, then 
+( )
+0
+f ′
+= 
+
+ 
+ 
+ 
+(1) 
+1
+a
+a +  
+(2) 
+2
+1 1
+2log
+a
+a
+a
+a
+a
++ 
+
+−
++
+
+
+
+
+ 
+(3) 2loga 
+(4) 
+(
+)
+2
+1
+1
+2log
+a
+a
+a
+a
+a
++ 
+
++
+
+
+
+
+−
+
+
+
+
+ 
+ 
+66. If 
+(
+)
+2
+2
+log
+log
+,
+y
+x
+=
+ then dy
+dx = 
+(1) 
+2
+log
+2 loge
+e
+x
+x  
+(2) 
+1
+log
+log 2
+e
+e
+x
+x
+ 
+(3) 
+(
+)
+1
+log
+2
+x
+e
+x
+ 
+(4) 
+2
+1
+log
+loge
+e
+x  
+ 
+67. If 
+log 2
+3
+x
+y
+x
+x
+
+
+=
+
+
+−
+
+
+, for 
+2
+0
+3
+x
+<
+<
+ then 
+2
+2
+d y
+dx  at 
+1
+2
+x =
+ is 
+(1) 4 
+
+ 
+ 
+ 
+(2) 16 
+(3) 32 
+(4) 2 
+ 
+68. An approximate value of 4 18 is 
+(1) 2.0512 
+(2) 2.0425 
+(3) 2.0625 
+(4) 2.0834 
+ 
+69. The sum of the maximum and minimum values of 
+( )
+4
+3
+2
+3
+2
+6
+6
+4
+f x
+x
+x
+x
+x
+=
+−
+−
++
++
+ in (
+)
+0, 2  is 
+(1) 28 
+(2) 167
+16  
+(3) 134
+15  
+(4) 87
+16  
+ 
+
+ 
+ 
+ 
+70. The constant c of Lagrange's mean value theorem for 
+( )
+cos
+sin 2
+f x
+x
+x
+=
+−
+ in 
+,
+2 2
+π π
+
+
+−
+
+
+
+
+ is 
+(1) 0 
+(2) 
+1 1
+33
+sin
+8
+−
+
+±
+
+
+
+
+ 
+(3) 
+1 1
+33
+cos
+8
+−
+
++
+
+
+
+
+ 
+(4) 
+4
+π
+±
+ 
+ 
+71. Air is discharging from a large spherical balloon at the rate of 4 
+cubic meters per minute. Then the rate at which the surface area 
+is shrinking when the radius of balloon is 8 m is, 
+(1) 
+2
+2 m minute 
+(2) 
+2
+1m minute 
+(3) 
+2
+4 m minute 
+(4) 
+2
+8 m
+minute 
+ 
+
+ 
+ 
+ 
+72. 
+(
+) (
+)
+2
+1
+2
+x
+dx
+x
+x
+=
+−
++
+∫
+ 
+(1) 2
+1
+log
+9
+2
+x
+c
+x
+−
++
++
+ 
+(2) 2
+2
+log
+9
+1
+x
+c
+x
++
++
+−
+ 
+(3) 
+(
+)
+1
+1
+2
+1
+log
+3
+1
+9
+2
+x
+c
+x
+x
+
+
+−
++
++
+
+
+−
++
+
+
+ 
+(4) 
+(
+)
+1
+1
+2
+1
+log
+3
+1
+9
+2
+x
+c
+x
+x
+
+
+−
+−
++
++
+
+
+−
++
+
+
+ 
+ 
+73. 
+(
+)
+2
+2
+4
+1 log
+1
+2log
+x
+x
+x
+dx
+x
+
+
++
++
+−
+
+
+=
+∫
+ 
+(1) 
+3
+2
+2
+2
+1
+1
+1
+1
+2
+3log 1
+9
+c
+x
+x
+
+
+
+
+
+
++
+−
++
++
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+(2) 
+1
+2
+2
+2
+2
+1
+1
+1
+1
+6
+log 1
+3
+c
+x
+x
+
+
+
+
+
+
++
+−
++
++
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+(3) 
+1
+2
+2
+2
+1
+1
+1
+1
+3
+2log 1
+9
+c
+x
+x
+
+
+
+
+
+
+
+
++
+−
++
++
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+(4) 
+3
+2
+2
+2
+1
+1
+1
+1
+3
+log 1
+3
+c
+x
+x
+
+
+
+
+
+
++
++
++
++
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+74. sin
+sin 2
+dx
+x
+x =
++
+∫
+ 
+(1) 
+(
+)
+(
+)
+1
+1
+2
+log 1
+cos
+log 1
+cos
+log 1
+2cos
+6
+2
+3
+x
+x
+x
+c
+−
++
++
++
++
++  
+(2) 
+(
+)
+(
+)
+1
+1
+2
+log 1
+cos
+log 1
+cos
+log 1
+2cos
+6
+2
+3
+x
+x
+x
+c
+−
+−
++
+−
++
++  
+(3) 
+(
+)
+(
+)
+1
+1
+2
+log 1
+cos
+log 1
+cos
+log 1
+2cos
+6
+2
+3
+x
+x
+x
+c
+−
++
++
+−
++
++  
+(4) 
+(
+)(
+)
+1 log
+1
+cos
+1
+cos
+1
+2cos
+6
+x
+x
+x
+c
+−
++
++
++
+
+
+
+
+ 
+ 
+75. (
+)
+4
+4
+sec
+tan x dx
++
+=
+∫
+ 
+(1) 
+3
+2
+2
+tan
+tan
+3
+3
+x
+x
+x
+c
+−
++
++  
+(2) 
+3
+2
+1
+5
+tan
+sec
+tan
+tan
+3
+3
+3
+x
+x
+x
+x
+x
+c
++
++
++
++  
+(3) 
+3
+2 tan
+3
+x
+x
+c
++
++  
+
+ 
+ 
+ 
+(4) 
+3
+2
+1
+5
+tan
+sec
+tan
+tan
+3
+3
+3
+x
+x
+x
+x
+x
+c
+−
++
++
++  
+ 
+76. 
+5
+5
+5
+5
+1
+2
+3
+lim
+sin
+sin
+sin
+sin
+6
+6
+6
+2
+n
+n
+n
+n
+n
+π
+π
+π
+π
+→∞
+
+
+
+
+
+
+
+
+
+
++
++
++
++
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+(1) 8
+15π  
+(2) 8
+5π  
+(3) 32
+5π  
+(4) 16
+5π  
+ 
+77. 
+(
+)
+2
+0 log
+sin 2
+e
+x dx
+π
+=
+∫
+ 
+(1) 
+log2
+π
+ 
+(2) 
+log2
+π
+−
+ 
+(3) 
+log2
+2
+π
+ 
+(4) 
+log2
+2
+π
+−
+ 
+ 
+
+ 
+ 
+ 
+78. The area in (sq units) between the curves 
+2
+8
+y
+x
+=
+ and its latus 
+rectum is 
+(1) 32
+3  
+(2) 64
+3  
+(3) 16
+3  
+(4) 8 2
+3  
+ 
+79. The 
+order 
+and 
+degree 
+of 
+the 
+differential 
+equation 
+2
+2
+2
+y
+px
+a p
+b
+=
++
++
+ are respectively 
+(1) 2, 1 
+(2) 1, 2 
+(3) 1, 1 
+(4) 2, 2 
+ 
+80. The solution of the differential equation 
+2
+2
+dx
+yx
+y
+dy +
+=
+ which 
+passes through the point (
+)
+2, 0  is 
+
+ 
+ 
+ 
+(1) (
+)
+2
+1
+2
+y
+x
+e
+−
+=
+ 
+(2) (
+)
+2
+1
+2
+y
+x
+e−
+−
+=
+  
+(3) (
+)
+2
+1
+y
+x
+e
+−
+=
+ 
+(4) (
+)
+2
+1
+y
+x
+e−
+−
+=
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+AP EAMCET-2018-Engineering-23 Apr-Shift-2 
+Physics   
+ 
+81. Match the measurements given in List-I with the number of 
+significant figures given in List-II. 
+ 
+List-I 
+ 
+List-II 
+(A) 
+74.083 
+(I) 
+3 
+(B) 
+0.029 
+(II) 
+4 
+(C) 
+0.002407 
+(III) 
+2 
+(D) 
+7
+2.74 10
+×
+  
+(IV) 
+5 
+The correct answer is 
+(1) 
+A
+B
+C
+D
+IV
+II
+III
+I  
+(2) 
+A
+B
+C
+D
+IV
+III
+II
+I   
+(3) 
+A
+B
+C
+D
+III
+IV
+II
+I   
+(4) 
+A
+B
+C
+D
+I
+II
+III
+IV  
+ 
+82. The velocity-displacement (v-s) graph shows the motion of 
+particle moving in a straight line. Velocity-displacement graph 
+
+ 
+ 
+ 
+is a circle of radius 2 m and centre is at (2, 0) m. The value of 
+acceleration for this particle at a point (
+)
+2
+2,
+2
+−
+ m will be 
+_____ ms–2. 
+ 
+(1) 
+2   
+(2) 4 
+(3) 2 
+(4) 3 
+ 
+83. A body is projected horizontally from the top of a tall tower 
+with a velocity of 30 ms–1. At time t1, its horizontal and vertical 
+components of the velocity are equal and at t2, its horizontal and 
+vertical displacements are equal. Then (
+)
+2
+1
+–
+t
+t
+=  
+(g = 10 ms–2) 
+(1) 1 s 
+(2) 1.5 s 
+
+ 
+ 
+ 
+(3) 2 s 
+(4) 3 s 
+ 
+84. A particle is projected at an angle of 60° with the horizontal 
+from the ground with a velocity 
+1
+10 3 ms−. The angle between 
+velocity vector after 2 s and initial velocity vector is (g=10 ms–2) 
+(1) 0°  
+(2) 30°  
+(3) 60°  
+(4) 90°  
+ 
+85. A bead of mass 100 g is attached to one end of a spring of 
+natural length L and spring constant 
+(
+)
+3
+1 mg
+k
+L
++
+=
+, where m is 
+the mass of bead. The other end of the spring is fixed at point A 
+on a smooth vertical ring of radius R as shown in the figure. The 
+normal reaction at B just after it is released to move is (g = 9.8 
+ms–2) 
+
+ 
+ 
+ 
+ 
+(1) 1.73 N 
+(2) 2.23 N 
+(3) 2.44 N 
+(4) 2.55 N 
+ 
+86. A rocket with an initial mass ‘m0’ is going up with a constant 
+acceleration ‘a’ by exhausting gages with a velocity ‘v’ relative 
+to the rocket motion, then the mass of the rocket at any instant 
+of time is (Assume that no other forces act on it) 
+(1) 
+0
+at
+v
+m
+m e
+−
+=
+  
+(2) 
+2
+0
+at
+v
+m
+m e
+−
+=
+  
+(3) 
+2
+0
+a t
+v
+m
+m e
+−
+=
+  
+(4) 
+2
+2
+2
+0
+a t
+v
+m
+m e
+−
+=
+  
+
+ 
+ 
+ 
+ 
+87. A particle is released freely from a height H. At a certain height, 
+its kinetic energy is two times its potential energy. Then the 
+height and the speed of the particle at that instant are 
+respectively (g = acceleration due to gravity) 
+(1) 
+2
+,
+3
+3
+H
+gH   
+(2) 
+, 2
+3
+3
+H
+gH   
+(3) 2
+2
+,
+3
+3
+H
+gH   
+(4) 
+,
+2
+3
+H
+gH   
+ 
+88. A uniform chain of length ‘l’ and mass ‘m’ lies on the surface of 
+a smooth hemisphere of radius R (R > l) with one end tied to the 
+top of the hemisphere as shown in the figure. Gravitational 
+potential energy of the chain with respect to the base of the 
+hemisphere is 
+
+ 
+ 
+ 
+ 
+(1) 2
+mgl   
+(2) 
+2
+sin
+mgR
+l
+l
+R
+
+
+
+
+
+
+  
+(3) 
+2
+sin
+mgR
+R
+l
+l
+
+
+
+
+
+
+  
+(4) 
+2
+sin
+mgl
+l
+R
+R
+
+
+
+
+
+
+  
+ 
+89. A particle of mass 15 kg is moving with a uniform speed of 8 
+ms–1 in x – y plane along the line 3
+4
+10
+y
+x
+=
++
+, then the 
+magnitude of its angular momentum about the origin in 
+2
+1
+kg m s−
+⋅
+ is _____ 
+4
+sin53
+5
+
+
+° =
+
+
+
+
+  
+(1) 240 
+(2) 80 
+(3) 120 
+
+ 
+ 
+ 
+(4) 280 
+ 
+90. An empty bucket of mass 1 kg attached by a light cord passed 
+over a pulley of a water well is released from rest. If the pulley 
+assembly is assumed to be a uniform solid cylinder of mass 8 kg 
+and free to rotate about its axis without any friction, then the 
+speed of the bucket as it hits the water 16 m below is 
+(g = 10 ms–2) 
+(1) 4 ms–1 
+(2) 8 ms–1 
+(3) 16 ms–1 
+(4) 20 ms–1 
+ 
+91. The displacement of a particle of mass 2 g executing SHM is 
+given by 
+5sin 4
+3
+y
+t
+π
+
+
+=
++
+
+
+
+
+. Here y is in meters and t is in 
+seconds. The kinetic energy of the particle when 
+4
+T
+t =
+ is  
+(1) 0.4 J 
+(2) 0.5 J 
+(3) 3 J 
+
+ 
+ 
+ 
+(4) 0.3 J 
+ 
+92. Two bodies of equal masses are some distance apart. If 20% of 
+mass is transferred from the first body to the second body, the 
+gravitational force between them 
+(1) Increases by 4% 
+(2) Increases by 14% 
+(3) Decreases by 4% 
+(4) Decreases by 14% 
+ 
+93. One end of a long metallic wire of length L, area of cross-
+section A and Young’s modulus Y is tied to the ceiling. The 
+other end is tied to a massless spring of force constant K and a 
+mass ‘m’ is hung from the free end of the spring. If ‘m’ is 
+slightly pulled down and released, then its time period of 
+oscillation is 
+(1) 2
+m
+K
+π
+  
+(2) 2
+mYA
+KL
+π
+  
+
+ 
+ 
+ 
+(3) 
+(
+)
+2
+m KA
+YL
+KYA
+π
++
+  
+(4) 
+(
+)
+2
+m KL
+YA
+KYA
+π
++
+  
+ 
+94. Two solid spheres of radii 2 mm and 4 mm are tied to the two 
+ends of a light string and released in a liquid of specific gravity 
+1.3 and coefficient of viscosity 1 Pa s. The string is just taut 
+when the two spheres are completely in the liquid. If the density 
+of the materials of the two spheres is 
+3
+2800 kgm−, the terminal 
+velocity of the system of the spheres is  
+(g = 10 ms–2)  
+(1) 2 cms–1 
+(2) 4 cms–1 
+(3) 4 ms–1 
+(4) 2 ms–1 
+ 
+95. Assertion (A) : A room can be cooled by opening the door of a 
+refrigerator in it. 
+
+ 
+ 
+ 
+Reason (R) : Heat always flows from a body at higher 
+temperature to a body at lower temperature. 
+(1) (A) and (R) are true; (R) is the correct explanation of (A) 
+(2) (A), (R) are true; (R) is not the correct explanation of (A) 
+(3) (A) is true, (R) is false. 
+(4) (A) is false, (R) is true. 
+ 
+96. A wire of 20 Ω is immersed in ice. If 10 A current is passed 
+through this wire for 1 minute, ice completely melts. The mass 
+of the ice is nearly (
+)
+1
+79.7 calg
+ice
+L
+−
+=
+  
+(1) 3.5 g 
+(2) 359 g 
+(3) 540 g 
+(4) 3.5 kg 
+ 
+97. A graph drawn between absolute temperature and volume of 3 
+moles of helium gas as shown in the figure. If 5 cal of heat is 
+used in the process, then the work done is 
+
+ 
+ 
+ 
+ 
+(1) 21.0 J 
+(2) 8.4 J 
+(3) 12.6 J 
+(4) 6.2 J 
+ 
+98. An ideal gas is found to obey 
+3
+2
+constant
+PV
+=
+ during an 
+adiabatic process. If such a gas initially at a temperature T is 
+adiabatically compressed to half of its initial volume, then its 
+final temperature is 
+(1) 
+2T   
+(2) 2T 
+(3) 2 2T   
+(4) 4T 
+ 
+
+ 
+ 
+ 
+99. The rms speed of oxygen molecule at a certain temperature is 
+600 ms–1. If the temperature is doubled and oxygen molecules 
+dissociates into atomic oxygen atoms, the new rms speed is 
+(1) 120 ms–1 
+(2) 150 ms–1 
+(3) 1200 ms–1 
+(4) 600 ms–1 
+ 
+100. A progressive wave of frequency 500 Hz is travelling with a 
+velocity of 360 ms–1. The distance between the two points, 
+having a phase difference of 60°, is ______ 
+(1) 1.2 m 
+(2) 12 m 
+(3) 0.12 m 
+(4) 0.012 m 
+ 
+101. A source S emitting sound of frequency 288 Hz is fixed on 
+block B which is attached to the free end of a spring S2 and an 
+observer O is on block A which is attached to the free end of 
+spring S1; as shown in figure. The blocks A and B are 
+simultaneously displaced towards each other through a distance 
+
+ 
+ 
+ 
+of 0.5 m and then left to oscillate. If the angular velocity of each 
+block is 40 rads–1, the maximum frequency observed by the 
+observer is 
+(speed of sound in air is 340 m s–1) 
+ 
+(1) 288 Hz 
+(2) 310 Hz 
+(3) 324 Hz 
+(4) 256 Hz 
+ 
+102. In a compound microscope, the focal lengths of two lenses are 
+1.5 cm and 6.25 cm. An object is placed at 2 cm from the 
+objective and final image is formed at 25 cm from the eye lens. 
+The distance between the two lenses is _____ (in cm) 
+(1) 6 
+(2) 7.75 
+(3) 9.25 
+(4) 11 
+
+ 
+ 
+ 
+ 
+103. In Young’s double slit experiment, the intensity of central 
+fringe is 
+0I  and fringe width is β . If a point is at a distance x 
+from the central fringe, the intensity at that point is 
+(1) 
+2
+0 cos
+x
+I
+π
+β
+
+
+
+
+
+
+  
+(2) 
+2
+0 cos
+x
+I
+β
+
+
+
+
+
+
+  
+(3) 
+2
+0 cos
+4
+I
+x
+π
+β
+
+
+
+
+
+
+  
+(4) 
+2
+0 cos
+I
+x
+πβ
+
+
+
+
+
+
+  
+ 
+104. A proton and an α -particle start from rest in a uniform electric 
+field. The ratio of times taken by them to travel the same 
+distance in the field is _____ 
+(1) 
+5 :
+2   
+(2) 
+3 :1  
+(3) 2:1  
+(4) 1:
+2   
+
+ 
+ 
+ 
+ 
+105. Two charged balls moving in the same direction with same 
+velocity v are placed in an electric field. After some time, one 
+ball moves with velocity 2
+v  at an angle of 60° with the initial 
+direction and the other ball moves at right angles to the initial 
+direction with a velocity v′. Then the value of v′ is 
+(1) 
+2
+v   
+(2) 
+3
+v   
+(3) 2
+v   
+(4) v  
+ 
+106. Electric field vector in a region is given by 
+(
+)
+1
+ˆ
+ˆ
+3
+4
+Vm
+E
+i
+yj
+−
+=
++
+
+. The potential at the origin is zero. Then the potential at a point 
+(2, 1) m is 
+(1) 7 V 
+(2) 8 V 
+(3) 8 V
+−
+  
+
+ 
+ 
+ 
+(4) 7 V
+−
+  
+ 
+107. In the circuit shown in figure, if the point R is earthed and 
+point P is given a potential of +1800 V, then charges on C2 and 
+C3 are respectively _____ 
+ 
+(1) 
+3
+3
+2.4 10
+C;1.2 10
+C
+−
+−
+×
+×
+  
+(2) 
+3
+3
+1.6 10
+C; 0.8 10
+C
+−
+−
+×
+×
+  
+(3) 
+3
+3
+3.2 10
+C;1.6 10
+C
+−
+−
+×
+×
+  
+(4) 
+3
+3
+4.8 10
+C; 2.4 10
+C
+−
+−
+×
+×
+  
+ 
+108. The bulb which glows with maximum intensity in the given 
+circuit is 
+
+ 
+ 
+ 
+ 
+(1) 4 Ω bulb 
+(2) 2 Ω bulb 
+(3) 3 Ω bulb 
+(4) 6 Ω bulb 
+ 
+109. In the circuit shown in figure, power developed across 
+1
+, 2
+and 3
+Ω
+Ω
+Ω resistances are in the ratio 
+ 
+(1) 1 : 2 : 3 
+(2) 4 : 2 : 27 
+(3) 6 : 4 : 9 
+
+ 
+ 
+ 
+(4) 2 : 1 : 27 
+ 
+110. Two long straight parallel conductors are carrying currents i1 
+and i2 in the same direction. Work done per unit length when the 
+distance between them is doubled is 
+(1) 
+0
+1 2
+2
+2
+i i
+µ
+π
+×
+  
+(2) 
+[ ]
+0
+1 2 ln 2
+2
+i i
+µ
+π
+  
+(3) 
+[ ]
+0
+1 2 ln 4
+2
+i i
+µ
+π
+  
+(4) 0 
+ 
+111. A straight conductor of length 32 cm carries a current of 30 A. 
+Magnetic induction at a point in air at a perpendicular distance 
+of 12 cm from the midpoint of the conductor is _____ 
+(1) 0.2 gauss 
+(2) 0.3 gauss 
+(3) 0.4 gauss 
+(4) 0.5 gauss 
+ 
+
+ 
+ 
+ 
+112. A sample of a paramagnetic salt containing 
+24
+3 10
+×
+ atomic 
+dipoles each of dipole moment 
+23
+2
+2 10
+Am
+−
+×
+ is subjected to a 
+uniform magnetic field of 880 mT and cooled to a temperature 
+of 3.5 K. The degree of magnetic saturation achieved is 10%. If 
+the sample is subjected to a magnetic field of 990 mT and 
+cooled to a temperature of 2.1 K, the total dipole moment of the 
+sample is 
+(1) 
+2
+11.25 Am   
+(2) 
+2
+23.5 Am   
+(3) 
+2
+15 Am   
+(4) 
+2
+75 Am   
+ 
+113. A coil of wire of radius ‘r’ has 600 turns and self inductance of 
+108 mH. The self inductance of a coil with same radius and 500 
+turns is _____ 
+(1) 80 mH 
+(2) 75 mH 
+(3) 108 mH 
+(4) 90 mH 
+ 
+
+ 
+ 
+ 
+114. In 
+the 
+AC 
+circuit 
+shown, 
+(
+)
+0 sin
+E
+E
+t
+ω
+φ
+=
++
+ 
+and 
+0 sin
+4
+i
+i
+t
+π
+ω
+φ
+
+
+=
++
++
+
+
+
+
+. Then the box contains 
+ 
+(1) Only C 
+(2) L and R in series 
+(3) C and R in series or L, C and R in series 
+(4) Only R 
+ 
+115. The oscillating electric field of an electromagnetic wave is 
+given by 
+(
+)
+11
+1
+30sin 2 10
+300
+Vm
+y
+E
+t
+x
+π
+−
+=
+×
++
+. Then the value of 
+wavelength of the electromagnetic wave is _____  
+(1) 
+3
+5.67 10
+m
+−
+×
+  
+(2) 
+3
+6.67 10
+m
+−
+×
+  
+(3) 
+3
+66.7 10
+m
+−
+×
+  
+(4) 
+3
+7.66 10
+m
+−
+×
+  
+
+ 
+ 
+ 
+ 
+116. Photons of wavelength λ emitted by a source of power P 
+incident on a photo cell. If the current produced in the cell is I. 
+The percentage of incident photons which produce current in the 
+photo cell is 
+(h is Planck’s constant and c is the speed of light in vacuum)  
+(1) 100ePc
+Ihλ
+  
+(2) 100eP
+Ihc
+λ   
+(3) 100Ih
+ePc
+λ   
+(4) 100Ihc
+ePλ   
+ 
+117. If 
+1λ  and 
+2
+λ  are the wavelength of the photons emitted when 
+electrons in the nth orbit of hydrogen atom fall to first excited 
+state and ground state respectively, then the value of n is 
+(1) 
+(
+)
+2
+1
+2
+1
+2
+2
+λ
+λ
+λ
+λ
+−
+−
+  
+
+ 
+ 
+ 
+(2) 
+(
+)
+2
+1
+2
+1
+2
+2
+λ
+λ
+λ
+λ
+−
+−
+  
+(3) 
+(
+)
+2
+1
+2
+1
+4
+4
+λ
+λ
+λ
+λ
+−
+−
+  
+(4) 
+(
+)
+(
+)
+2
+1
+2
+1
+4
+4
+λ
+λ
+λ
+λ
+−
+−
+  
+ 
+118. The number of half lives elapsed before 93.75% of a 
+radioactive sample has decayed is  
+(1) 6 
+(2) 4 
+(3) 2 
+(4) 8 
+ 
+119. In the common base configuration, a transistor has current 
+amplification factor 0.95. If the transistor is used in common 
+emitter configuration and the base current changes by 2 μA, 
+then the change in the collector current is 
+(1) 19 μA  
+(2) 0.91μA 
+
+ 
+ 
+ 
+(3) 1.9 μA 
+(4) 38 μA 
+ 
+120. If the height of the transmitting tower is increased by 30%, the 
+area covered by it increases by 
+(1) 10% 
+(2) 21% 
+(3) 30% 
+(4) 60% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+AP EAMCET-2018-Engineering-23 Apr-Shift-2 
+Chemistry   
+ 
+121. When a metal surface is exposed to certain frequency of 
+electromagnetic radiation, the kinetic energy of electron ejected 
+from metal surface is 0.20 eV. If its work function (
+)
+0
+W  is 4.80 
+eV, the approximate frequency of radiation falling on the metal 
+surface in Hz is 
+(1) 
+15
+1.98 10
+×
+ 
+(2) 
+16
+1.21 10
+×
+ 
+(3) 
+15
+1.21 10
+×
+ 
+(4) 
+16
+1.98 10
+×
+ 
+ 
+122. If the ratio of energies of electron in the excited states of H and 
+2
+Li + is 1:9, the radius ratio of electron in the same excited states 
+of H and 
+2
+Li + is 
+(1) 9:1 
+(2) 3:1 
+(3) 1:9 
+(4) 1:3 
+ 
+
+ 
+ 
+ 
+123. Identify the correct statements from the following. 
+i. In the periodic table, about 78% of elements are metals. 
+ii. In a group, the metallic character decreases from top to 
+bottom and in a period the non-metallic character decreases 
+from left to right. 
+iii. The element Ho belongs to f-block. 
+(1) i, ii, iii 
+(2) ii, iii 
+(3) i, iii 
+(4) i, ii 
+ 
+124. The correct order of dipole moments of 
+3
+2
+3
+NH , H O and NF  is 
+(1) 
+2
+3
+3
+H O
+NH
+NF
+>
+>
+ 
+(2) 
+2
+3
+3
+H O
+NF
+NH
+>
+>
+ 
+(3) 
+3
+3
+2
+NF
+NH
+H O
+>
+>
+ 
+(4) 
+3
+3
+2
+NH
+NF
+H O
+>
+>
+ 
+ 
+125. The number of electrons present in bonding and antibonding 
+orbitals in 
+2
+2
+O −is respectively 
+(1) 10, 6 
+
+ 
+ 
+ 
+(2) 12, 6 
+(3) 11, 7 
+(4) 10, 8 
+ 
+126. If 1
+2
+3
+,
+and
+r r
+r  represent the most probable speeds of three 
+different gases at the same temperature as shown in figure with 
+molar masses 
+1
+2
+3
+M , M and M  respectively, the correct order of 
+molar masses of these gases is 
+ 
+(1) 
+1
+3
+2
+M
+M
+M
+>
+>
+ 
+(2) 
+3
+2
+1
+M
+M
+M
+>
+>
+ 
+(3) 
+2
+1
+3
+M
+M
+M
+>
+>
+ 
+(4) 
+2
+3
+1
+M
+M
+M
+>
+>
+ 
+ 
+127. The volume of 0.1 M HCl required in mL to neutralise 20 mL 
+of a solution containing 0.106 g of 
+2
+3
+Na CO  is 
+
+ 
+ 
+ 
+(1) 10 
+(2) 5 
+(3) 20 
+(4) 40 
+ 
+128. If enthalpy of combustion of carbon to 
+( )
+2
+CO
+g  is 
+1
+394.0 kJ mol−
+−
+, the enthalpy change for the formation of 17.6 g 
+of 
+2
+CO  from carbon and dioxygen at the same temperature in kJ 
+is 
+(1) 157.6
+−
+ 
+(2) 315.2 
+(3) 157.6 
+(4) 315.2
+−
+ 
+ 
+129. At 1000 K, if the equilibrium constant 
+p
+K  for the reaction 
+( )
+( )
+( )
+g
+g
+2 g
+2NOCl
+2NO
+Cl
++
+
+ 
+is 
+(
+)
+4
+1
+c
+4.157 10
+bar, the K
+in mol L
+−
+−
+×
+ is
+(
+)
+1
+1
+R
+0.083 L bar K
+mol
+−
+−
+=
+ 
+(1) 
+7
+4.16 10−
+×
+ 
+
+ 
+ 
+ 
+(2) 
+4
+4.16 10−
+×
+ 
+(3) 
+4
+5.0 10−
+×
+ 
+(4) 
+6
+5.0 10−
+×
+ 
+ 
+130. If the ionization constant of hypochlorous acid (HOCl) is 
+5
+2.5 10−
+×
+, the pH of 1.0 M of its solution is (
+)
+log5
+0.7
+=
+ 
+(1) 3.3 
+(2) 2.3 
+(3) 4.3 
+(4) 3.0 
+ 
+131. In which of the following reactions, oxygen is not liberated? 
+(1) Reaction of HOCl with 
+2
+2
+H O  
+(2) Reaction of acidified 
+4
+KMnO  with 
+2
+2
+H O  
+(3) Reaction of iodine with 
+2
+2
+H O  in basic medium 
+(4) Reaction of lead sulphide with 
+2
+2
+H O  
+ 
+132. A compound (
+)
+2
+2
+M O
+ of group I element (M) hydrolyses to 
+form M , OH and X
++
+−
+. Another compound(
+)
+2
+M O
+′
+ of group I 
+
+ 
+ 
+ 
+element (
+)
+M′  hydrolyses to form (
+)
+M
+, OH , X and Y
++
+−
+′
+. What 
+are X and Y respectively? 
+(1) 
+2
+2
+2
+H O , O  
+(2) 
+2
+2
+3
+H O , O  
+(3) 
+2
+2
+O , H  
+(4) 
+2
+2
+2
+H , H O  
+ 
+133. Identify the correct statements from the following 
+i. The atomic radius of Al is lower than the atomic radius of Ga. 
+ii. Boron exists in many allotropic forms. 
+iii. The melting point of Ga is lowest among the group 13 
+elements. 
+(1) i, ii, iii 
+(2) ii, iii 
+(3) i, ii 
+(4) i, iii 
+ 
+134. Which of the following is not correct corresponding to 
+chemistry of group 14 elements? 
+
+ 
+ 
+ 
+(1) Lead has no reaction with water due to formation of 
+protective oxide layer. 
+(2) 
+2
+GeX is more stable than 
+4
+GeX  
+(3) 
+2
+PbX  is more stable than 
+4
+PbX  
+(4) Tin on reaction with steam liberates hydrogen 
+ 
+135. The chemical substance of photochemical smog responsible for 
+eye irritation is 
+(1) 
+2
+CH
+CH
+CHO
+=
+−
+ 
+(2) 
+ 
+(3) 
+2
+2
+CH
+CH
+=
+ 
+(4) 
+4
+CH  
+ 
+136. Match the following 
+List-I 
+List-II 
+A) Resonance 
+I) 
+ 
+B) Inductive effect 
+II) 
+
+ 
+ 
+ 
+2
+2
+2
+2
+H
+CH
+CH
+HCH
+CH
+⊕
+⊕
+−
+−
+↔
+=
+ 
+C) Electromeric effect 
+III) 
+6
+6
+C H  
+D) Hyperconjugation 
+IV) 
+ 
+ 
+V) 
+3
+2
+2
+CH -CH -CH Cl 
+ 
+(1) 
+A
+B
+C
+D
+II
+I
+IV
+III  
+(2) 
+A
+B
+C
+D
+III
+V
+I
+II  
+(3) 
+A
+B
+C
+D
+I
+III
+II
+V  
+(4) 
+A
+B
+C
+D
+III
+II
+I
+IV 
+ 
+137. The rate of dehydrohalogenation of which one among the 
+following is less? 
+(1) 
+3
+2
+2
+CH CH CH Br 
+(2) 
+3
+2
+2
+CH CH CH Cl 
+(3) 
+3
+2
+2
+CH CH CH I 
+
+ 
+ 
+ 
+(4) 
+ 
+ 
+138. Propyne reacts with HBr to form Z. The compound Z is  
+(1) 
+(
+)
+2
+2
+2
+CH
+Br CH CH Br 
+(2) 
+3
+2
+2
+CH CH CHBr  
+(3) 
+(
+)
+3
+2
+CH CH Br CH Br 
+(4) 
+3
+2
+3
+CH CBr CH  
+ 
+139. A metal oxide crystallises in a hexagonal close-packed array of 
+oxide ions with two out of every three octahedral holes occupied 
+by metal ions. The formula of metal oxide is 
+(1) MO 
+(2) 
+3
+4
+M O  
+(3) 
+2
+5
+M O  
+(4) 
+2
+3
+M O  
+ 
+140. The quantity of 
+2
+CO  in 500 mL of soda water when packed 
+under 3.34 bar 
+2
+CO  pressure at 298 K in g is 
+
+ 
+ 
+ 
+(Henry’s law constant for 
+2
+CO in water at 298 K is 
+8
+1.67 10 Pa
+×
+) 
+(1) 2.442 
+(2) 1.221 
+(3) 4.884 
+(4) 3.663 
+ 
+141. 300 mL of an aqueous solution of a protein contains 2.52 g of 
+the protein. If osmotic pressure of such a solution at 300 K is 
+3
+5.04 10
+bar
+−
+×
+, the molar mass of the protein in 
+1
+g mol− is 
+(1) 
+3
+83.0 10
+×
+ 
+(2) 
+3
+20.8 10
+×
+ 
+(3) 
+3
+41.5 10
+×
+ 
+(4) 
+4
+41.5 10
+×
+ 
+ 
+142. The conductivity of 0.01 M aqueous acetic acid measured with 
+a conductivity cell of cell constant of 0.5 
+1
+cm− at 298 K is 
+4
+3.12 10
+S
+−
+×
+. If the limiting conductivities of H+ and 
+3
+CH COO− 
+at the same temperature are 349, and 41 
+2
+1
+S cm mol− 
+respectively, the dissociation constant of acetic acid is 
+(1) 
+4
+1.67 10−
+×
+ 
+
+ 
+ 
+ 
+(2) 
+5
+1.67 10−
+×
+ 
+(3) 
+3
+1.67 10−
+×
+ 
+(4) 
+6
+1.67 10−
+×
+ 
+ 
+143. At T(K), the following data were obtained for a general 
+reaction A
+B
+C
+products
++
++
+→
+ 
+[ ]
+[ ]
+[ ]
+6
+1
+6
+1
+6
+1
+6
+1
+Expt.
+Initial A
+Initial A
+Initial A
+Initial rate
+1
+0.02 M
+0.1M
+0.03 M
+2.4 10
+Ms
+2
+0.02 M
+0.2 M
+0.03 M
+4.8 10
+Ms
+3
+0.02 M
+0.2 M
+0.06 M
+9.6 10
+Ms
+4
+0.02 M
+0.2 M
+0.06 M
+9.6 10
+Ms
+−
+−
+−
+−
+−
+−
+−
+−
+×
+×
+×
+×
+ 
+The rate constant for the above reaction is 
+(1) 
+4
+1
+8.0 10
+s
+−
+−
+×
+ 
+(2) 
+4
+1
+1
+8.0 10
+L mol s
+−
+−
+−
+×
+ 
+(3) 
+4
+1
+1
+8.0 10 L mol
+s
+−
+−
+×
+ 
+(4) 
+4
+2
+2
+1
+8.0 10
+L mol s
+−
+−
+−
+×
+ 
+ 
+144. In which one of the following processes the reactants and 
+catalyst exist in three different states? 
+(1) Haber’s process 
+
+ 
+ 
+ 
+(2) Ostwald’s process 
+(3) Hydrogenation of Vegetable oil 
+(4) Contact process 
+ 
+145. What is the slag formed in the extraction of iron? 
+(1) CaO 
+(2) 
+3
+CaSiO  
+(3) 
+3
+MgSiO  
+(4) 
+2
+SiO  
+ 
+146. Calcium phosphide reacts with water to form 
+(
+)2
+Ca OH
+ and X. 
+When X is passed into 
+4
+CuSO  solution, Y and 
+2
+4
+H SO  are 
+formed. What is Y? 
+(1) 
+(
+)
+2
+3
+4
+Cu PH
++
+
+
+
+
+ 
+(2) 
+(
+)
+2
+3
+6
+Cu PH
++
+
+
+
+
+ 
+(3) 
+3
+2
+Cu P  
+(4) 
+4
+CuHPO  
+ 
+147. Identify the statements which are not correct. 
+
+ 
+ 
+ 
+i. ZnO, PbO, 
+2
+3
+Sb O  are neutral oxides. 
+ii. CO and NO are amphoteric oxides. 
+iii. 
+3
+2
+7
+2
+5
+CrO , Mn O , V O  are basic oxides 
+(1) i, ii 
+(2) i, iii 
+(3) ii, iii 
+(4) i, ii, iii 
+ 
+148. Which one of the following liberates oxygen immediately 
+when passed into water? 
+(1) 
+2F  
+(2) 
+2
+Cl  
+(3) 
+2
+Br  
+(4) 
+2I  
+ 
+149. Assertion (A) : 
+2
+CuI  cannot be prepared by the reaction of 
+2
+Cu + (aq) with I−(aq). 
+Reason (R) : Aqueous 
+2
+Cu + solution is blue in colour 
+The correct answer is 
+
+ 
+ 
+ 
+(1) Both (A) and (R) are correct and (R) is the correct 
+explanation of (A) 
+(2) Both (A) and (R) are correct and (R) is not the correct 
+explanation of (A) 
+(3) (A) is correct but (R) is not correct. 
+(4) (A) is not correct but (R) is correct. 
+ 
+150. A coordination compound is made of 
+3
+3
+Co , NH and Cl
++
+−. 0.1 
+M solution of this complex when treated with excess silver 
+nitrate gave no precipitate. The formula of the complex and 
+secondary valency of metal are respectively. 
+(1) 
+(
+)
+3
+3
+3
+Co NH
+Cl
+,6
+
+
+
+
+ 
+(2) 
+(
+)
+3
+2
+5
+Co NH
+Cl Cl , 6
+
+
+
+
+ 
+(3) 
+(
+)
+3
+3
+3
+Co NH
+Cl
+, 3
+
+
+
+
+ 
+(4) 
+(
+)
+3
+2
+4
+Co NH
+Cl
+Cl, 6
+
+
+
+
+ 
+ 
+151. Nylon 6, 6 is a condenstaion polymer of two monomers X and 
+Y. The number of 
+2
+CH
+−
+− groups in X and Y are respectively 
+(1) 6, 4 
+
+ 
+ 
+ 
+(2) 6, 6 
+(3) 5, 6 
+(4) 6, 2 
+ 
+152. Reducing saccharides among the following are 
+Sucrose
+Ribose
+Maltose
+Lactose
+Cellulose
+1
+2
+3
+4
+5
+ 
+(1) 2, 4, 5 
+(2) 1, 3, 4 
+(3) 2, 3, 5 
+(4) 2, 3, 4 
+ 
+153. Example of antihistamine (X) and cationic deteregent (Y) are 
+X
+Y 
+(1) Dimetane
+Cetyl trimethyl ammonium bromide 
+(2) Nardil
+Cetyl trimethyl ammonium bromide 
+(3) Dimetane
+Sodium lauryl sulphate 
+(4) Nardil
+Sodium lauryl sulphate 
+ 
+
+ 
+ 
+ 
+154. 
+N
+S 2reaction involving inversion of configuration takes place 
+with an optically active compound Z. The compound Z is 
+(1) 
+3
+2
+CH CH X 
+(2) (
+)
+3
+2
+CH
+CHX 
+(3) 
+(
+)
+3
+2
+3
+CH CH CH CH
+X 
+(4) (
+)
+3
+3
+CH
+CX 
+ 
+155. Ethyl magnesium bromide reacts with acetone to give X. On 
+hydrolysis X forms 
+(1) 
+ 
+(2) 
+ 
+(3) 
+ 
+(4) 
+ 
+
+ 
+ 
+ 
+ 
+156. Identify the correct set from the following. 
+a
+Compound
+pK  
+(1) m
+nitrophenol,
+10.2
+−
+ 
+(2) o
+nitrophenol,
+7.2
+−
+ 
+(3) m
+nitrophenol,
+7.2
+−
+ 
+(4) o
+nitrophenol,
+7.2
+−
+ 
+ 
+157. What are X and Y in the following reactions? 
+ 
+X
+Y 
+(1) 
+ 
+
+ 
+ 
+ 
+(2) 
+ 
+(3) 
+ 
+(4) 
+ 
+ 
+158. X and Y in the following reaction sequence are 
+ 
+X
+Y 
+(1) RCdCl
+R COCl
+′
+ 
+(2) 
+(
+)
+2
+2
+R Cd
+R CO
+′
+ 
+(3) 
+2
+R Cd
+R COCl
+′
+ 
+(4) 
+2
+2
+R MgCdCl
+RCOOR′ 
+ 
+159. Order of acidity of benzoic acid (I), 4-methoxybenzoic acid 
+(II), acetic acid (III) and 4-nitrobenzoic acid (IV) is 
+
+ 
+ 
+ 
+(1) IV
+I
+II
+III
+> >
+>
+ 
+(2) I
+II
+IV
+III
+>
+>
+>
+ 
+(3) III
+I
+II
+IV
+> >
+>
+ 
+(4) II
+I
+IV
+III
+> >
+>
+ 
+ 
+160. What are the structures of X, Y and Z in the following reaction 
+sequence? 
+ 
+X
+Y
+Z 
+(1) 
+ 
+(2) 
+ 
+(3) 
+ 
+
+ 
+ 
+ 
+(4) 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+AP EAMCET-2018-Engineering-23 Apr-Shift-2 
+Answer Key 
+ 
+ 
+1 
+1 
+33 
+1 
+65 
+2 
+97 
+2 
+129 
+4 
+2 
+4 
+34 
+2 
+66 
+2 
+98 
+1 
+130 
+2 
+3 
+3 
+35 
+3 
+67 
+3 
+99 
+3 
+131 
+4 
+4 
+4 
+36 
+3 
+68 
+3 
+100 
+3 
+132 
+1 
+5 
+2 
+37 
+4 
+69 
+2 
+101 
+3 
+133 
+2 
+6 
+2 
+38 
+2 
+70 
+2 
+102 
+4 
+134 
+2 
+7 
+3 
+39 
+1 
+71 
+2 
+103 
+1 
+135 
+2 
+8 
+3 
+40 
+2 
+72 
+4 
+104 
+4 
+136 
+2 
+9 
+1 
+41 
+2 
+73 
+1 
+105 
+* 
+137 
+2 
+10 
+3 
+42 
+2 
+74 
+3 
+106 
+3 
+138 
+4 
+11 
+1 
+43 
+2 
+75 
+3 
+107 
+1 
+139 
+4 
+12 
+1 
+44 
+2 
+76 
+4 
+108 
+1 
+140 
+1 
+13 
+2 
+45 
+1 
+77 
+4 
+109 
+2 
+141 
+3 
+14 
+3 
+46 
+1 
+78 
+1 
+110 
+2 
+142 
+2 
+15 
+4 
+47 
+1 
+79 
+2 
+111 
+3 
+143 
+2 
+16 
+3 
+48 
+3 
+80 
+4 
+112 
+1 
+144 
+3 
+17 
+3 
+49 
+1 
+81 
+2 
+113 
+2 
+145 
+2 
+
+ 
+ 
+ 
+18 
+2 
+50 
+4 
+82 
+1 
+114 
+3 
+146 
+3 
+19 
+4 
+51 
+2 
+83 
+4 
+115 
+2 
+147 
+4 
+20 
+4 
+52 
+1 
+84 
+4 
+116 
+4 
+148 
+1 
+21 
+1 
+53 
+3 
+85 
+4 
+117 
+4 
+149 
+2 
+22 
+3 
+54 
+3 
+86 
+1 
+118 
+2 
+150 
+1 
+23 
+4 
+55 
+4 
+87 
+2 
+119 
+4 
+151 
+1 
+24 
+1 
+56 
+2 
+88 
+2 
+120 
+3 
+152 
+4 
+25 
+4 
+57 
+2 
+89 
+1 
+121 
+3 
+153 
+1 
+26 
+1 
+58 
+3 
+90 
+2 
+122 
+2 
+154 
+3 
+27 
+4 
+59 
+3 
+91 
+4 
+123 
+3 
+155 
+3 
+28 
+3 
+60 
+2 
+92 
+3 
+124 
+1 
+156 
+4 
+29 
+3 
+61 
+1 
+93 
+4 
+125 
+4 
+157 
+3 
+30 
+2 
+62 
+2 
+94 
+2 
+126 
+3 
+158 
+3 
+31 
+2 
+63 
+2 
+95 
+4 
+127 
+3 
+159 
+1 
+32 
+1 
+64 
+2 
+96 
+2 
+128 
+1 
+160 
+4 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+AP EAMCET-2018-Engineering-23 Apr-Shift-2 
+Solutions – Mathematics 
+ 
+ 
+1. Consider the expression, 
+( )
+2
+2
+g x
+x
+x
+=
++
+− 
+And, 
+(
+)( )
+2
+1
+2
+5
+2
+2 g f
+x
+x
+x
+ο
+=
+−
++  
+Then, 
+(
+)( )
+2
+1
+4
+10
+4
+2 g f
+x
+x
+x
+ο
+=
+−
++  
+And, 
+( )
+(
+)
+( )
+2
+2
+2
+4
+10
+4
+f x
+f x
+x
+x
++
+−
+=
+−
++
+ 
+For the function to be linear ( )
+f x
+ax
+b
+=
++
+ so, 
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+2
+4
+10
+4
+2
+2
+4
+10
+4
+ax
+b
+ax
+b
+x
+x
+a x
+ab
+a x
+b
+b
+x
+x
++
++
++
+−
+=
+−
++
++
++
++
++
+−
+=
+−
++
+ 
+By the comparison of coefficients, 
+2
+4
+a =
+ 
+And, 
+2
+10
+ab
+a
++
+= −
+ 
+
+ 
+ 
+ 
+And, 
+2
+2
+4
+b
+b
++
+−
+=
+ 
+So, 
+2
+a = ±  
+Then, 
+3; if
+2
+2;
+if
+2
+a
+b
+a
+−
+=
+
+= 
+= −
+
+ 
+These values satisfies above relations, thus, 
+( )
+2
+3 or
+2
+2
+f x
+x
+x
+=
+−
+−
++
+ 
+ 
+2. Consider the quadratic equation 
+(
+)
+[
+)
+2
+2
+2
+2
+1
+1
+1,
+,
+x
+x
+x
+x
+R
++
++
+=
++
++ ∈
+∞
+∀∈
+ 
+Then, 
+(
+)
+(
+]
+2
+1
+0,1
+1
+1
+x
+∈
++
++
+ 
+For ( )
+2
+1
+,
+2
+2
+f x
+x
+R
+x
+x
+=
+∀∈
++
++
+ is subjective then set, 
+(
+]
+0,1
+A =
+ 
+ 
+ 
+
+ 
+ 
+ 
+3. Consider the expression, 
+(
+)
+( )
+( )
+(
+)
+(
+)
+2
+1
+2
+1
+2
+3
+2 4
+3
+8 4
+3 3
+n
+n
+n
+n
+P n
+P n
++
++
+⋅
++
+=
+=
++
+ 
+For 
+1
+n = , 
+(
+)
+1
+128
+81
+209
+P n =
+=
++
+=
+ 
+Above is divisible by 19 and 11. 
+Similarly, 
+(
+)
+2
+2048
+2187
+4235
+P n =
+=
++
+=
+ 
+Above is divisible by 11 but not by 19. 
+So, the given expression is divisible by, 
+11,
+k
+n
+N
+=
+∈
+  
+ 
+4. Consider the matrix, 
+0
+1
+1
+0
+A
+−
+
+
+= 
+
+
+
+ 
+The characteristic equation is given by, 
+2
+0
+A
+I
++
+=
+ 
+So, 
+
+ 
+ 
+ 
+3
+4
+A
+A
+A
+I
+= −
+=
+ 
+Now by analyzing, 
+(
+)
+2
+2
+A
+I
+A A
+I
++
+=
+−
+ 
+is incorrect. 
+ 
+5. For non trivial solutions, 
+1
+1
+0
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+a
+a
+b
+b
+c
+c
+a
+a
+b
+c
+−
+−
+−
+−
+=
+−
+−
+−
+−
+−
+=
+−
+ 
+Apply the row operation 
+2
+1
+3
+1
+and
+R
+R
+R
+R
+−
+−
+ 
+
+ 
+ 
+ 
+(
+)(
+)
+(
+)(
+)
+(
+)(
+)
+1
+1
+1
+1
+1
+1
+1
+0
+0
+1
+1
+1
+0
+1
+1 1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1 1
+1
+1
+1
+a
+a
+b
+a
+c
+a b
+c
+a
+c
+b
+a
+a
+c
+a
+b
+b
+c
+ac
+ab
+abc
+b
+c
+b
+c
+a
+−
++
+−
+−
+=
++
+−
+−
+
+
+
+
+
+
+
+
+
+−
++
++
++
++
++
++
++
++
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++
++
++
++
++
++
++
+=
++
+=
+−+
++
++
++
+ 
+Further simplify the above equation, 
+1
+1
+1
+1
+a
+b
+c
+a
+b
+c
++
++
+=
++
++
++
+ 
+ 
+6. Consider the matrix, 
+1
+2
+3
+4
+2
+9
+4
+5
+4
+5
+10
+3
+1
+11
+1
+9
+A
+−
+−
+
+
+
+
+
+
+=
+−
+
+
+
+
+−
+
+
+ 
+(
+)
+(
+)
+3
+2
+1
+4
+2
+1
+2
+and
+R
+R
+R
+R
+R
+R
+=
++
+−
+−
+ 
+
+ 
+ 
+ 
+1
+2
+3
+4
+2
+9
+4
+5
+0
+0
+0
+0
+0
+0
+2
+0
+A
+−
+−
+
+
+
+
+
+
+= 
+
+
+
+−
+
+
+ 
+So, rank of A is 3. 
+ 
+7. Let 
+Z
+x
+iy
+=
++
+ 
+So, 
+2
+2
+1
+1
+z
+z
++ =
+− 
+then 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+) (
+)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+4
+1
+1
+4
+1
+1
+4
+1
+1
+4
+x
+y
+x
+y
+x y
+x
+y
+x
+y
+x y
+x
+y
+x
+y
+x y
+x
+y
+x
+y
+x y
++
++ =
+−
+−
++
++
++
+=
+−
+−
++
++
++
+−
+−
+−
+=
+
+
++
++
+−
+−
+−
+=
+
+
+ 
+Then, 
+(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+4
+2
+0
+0
+x
+y
+x y
+x y
+x
+x y
+x
+x
++
+=
++
+=
+=
+=
+ 
+
+ 
+ 
+ 
+8. Let, 
+z
+x
+iy
+=
++
+ 
+So, 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+2
+1
+1
+1
+1
+1
+Re
+1
+1
+x
+i y
+z
+i
+z
+x
+iy
+x x
+y y
+z
+i
+z
+x
+y
++
+−
+−=
+−
+−
++
+−
++
+−
+−
+
+=
+
+
+−
+
+
+−
++
+ 
+Since 
+1
+z
+i
+z
+−
++  is purely imaginary so, 
+2
+2
+Re
+0
+1
+0
+z
+i
+z
+x
+y
+x
+y
+−
+
+=
+
+
++
+
+
++
+−
+−
+=
+ 
+It is a circle with center 1 1
+,
+2 2
+
+
+
+
+
+
+ and radius 1
+2
+ excluding the 
+points (
+)
+(
+)
+1, 0 and 0,1 . 
+ 
+9. Consider the expression, 
+(
+)
+2
+2
+2
+2
+1
+1
+a
+ib
+c
+a
+b
+c
+α
+α
++
+=
+−
++
+=
+−
+                                  ...... (I) 
+And, 
+
+ 
+ 
+ 
+(
+)
+2
+2
+2
+2
+2
+1
+a
+b
+c
+c
+a
+b
+c
+c
++
++
+=
++
+=
+−
+                      ...... (II) 
+From equation (I) and (II), 
+2
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+c
+c
+c
+c
+α
+α
+α
+=
+−
++
+=
+=
+−
+−
+=
++
+                                 ...... (III) 
+From equation (I) and (III), 
+(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+a
+b
+a
+b
+α
+α
+α
+α
++
+=
+
+
+
+
+
+
++
+
+
++
+=
++
+  
+ 
+10. Consider the expression, 
+(
+)
+(
+)
+1
+sin
+cos
+1
+sin
+cos
+n
+n
+i
+i
+θ
+θ
+θ
+θ
++
++
++
++
++
+ 
+This implies, 
+
+ 
+ 
+ 
+2
+2
+1
+cos
+sin
+1
+cos
+sin
+2
+2
+2
+2
+2cos
+2cos
+4
+2
+4
+2
+2 sin
+cos
+2 sin
+cos
+4
+2
+4
+2
+4
+2
+4
+2
+2
+n
+n
+n
+n
+i
+i
+i
+i
+π
+π
+π
+π
+θ
+θ
+θ
+θ
+π
+θ
+π
+θ
+π
+θ
+π
+θ
+π
+θ
+π
+θ
+
+
+
+
+
+
+
+
+
+
+
+
+= +
+−
++
+−
++
++
+−
+−
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−
++
+−
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
++
+
+
+
+
+
+
+
+
+
+
+
+
+−
+−
+−
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+1
+cos
+sin
+4
+2
+4
+2
+cos
+4
+2
+cos
+sin
+4
+2
+4
+2
+2
+cos
+cos
+4
+2
+4
+2
+n
+n
+n
+n
+n
+n
+i
+i
+n
+n
+π
+θ
+π
+θ
+π
+θ
+π
+θ
+π
+θ
+π
+θ
+π
+θ
++
+
+
+
+
+
+
+
+
+−
++
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++
+−
+−
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+−
+−
+
+
+
+
+
+
+
+
+ 
+11. The equation formed by elimination of x is, 
+(
+)
+(
+)(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+0
+2
+0
+2
+2
+0
+ly
+m
+ly
+m
+y
+l
+y
+l
+l y
+m
+lmy
+ly
+m
+y
+l
+y
+l
+l
+l
+y
+lm
+l
+m
+l y
+m
+ml
+l
+α
+β
+α
+β
+α
+β
+α
+α
+β
+α
+β
+
+
+
+
++
++
+−
++
+=
+
+
+
+
++
++
+
+
+
+
++
++
+−
++
++
++
++
+=
+−
++
++
+−
+−
++
++
+−
++
+=
+Above equation and 
+2
+0
+x
+x
+α
+β
++
++
+=
+ has same roots so, 
+
+ 
+ 
+ 
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+0
+l
+l
+lm
+l
+m
+l
+m
+ml
+l
+l
+l
+m
+ml
+l
+m
+m
+l
+m m
+l
+α
+β
+α
+α
+β
+α
+α
+β
+β
+β
+βα
+β
+α
+β
+β
+β
+β
+α
+α
+−
++
+−
+−
++
+=
+−
++
+=
+−
++
+=
+−
++
+−
++
+−
+−
+−
+=
+ 
+Further simplify the above, 
+(
+) (
+)(
+)
+0
+,
+m
+m
+l
+m
+m
+l
+m
+β β
+α
+β
+β
+α
+−
++
+−
+−
+=
+=
+−
+ 
+ 
+12. Consider the equation, 
+2
+2
+2
+1
+,
+1
+2
+7
+x
+x
+y
+y
+x
+x
++
++
+=
+≠
++
++
+ 
+Then, 
+(
+)
+(
+)
+(
+)
+2
+1
+2
+1
+7
+1
+0
+y
+x
+y
+x
+y
+−
++
+−
++
+−
+=
+ 
+Since x
+R
+∈
+ so, 
+0
+D ≥ 
+This gives, 
+
+ 
+ 
+ 
+(
+)
+(
+)(
+)
+(
+)[
+]
+(
+)
+[
+]
+2
+4
+1
+14
+1 7
+1
+0
+1
+1 7
+1
+0
+1
+0
+0,1
+y
+y
+y
+y
+y
+y
+y y
+y
+−
+−
+−
+−
+≥
+−
+−−
++
+≥
+−
+≤
+∈
+ 
+Thus, 
+[
+]
+0,1
+y∈
+  
+ 
+13. Consider the expression, 
+[ ]
+[ ]
+2
+7
+12
+0
+x
+x
+−
++
+≤
+ 
+Solve further, 
+[ ]
+[ ]
+[ ]
+[
+]
+(
+) [ ]
+(
+)
+[ ] [
+]
+[
+)
+2
+4
+3
+12
+0
+4
+3
+0
+3, 4
+3, 5
+x
+x
+x
+x
+x
+x
+x
+−
+−
++
+≤
+−
+−
+≤
+∈
+∈
+ 
+ 
+14. Let the roots of the equation ,
+, ,
+α β γ δ  for the equation, 
+4
+3
+2
+2
+4
+8
+16
+0
+16
+x
+ax
+bx
+ax
+α
+β
+γ
+δ
+−
++
++
++
+=
+×
+×
+×
+=
+                       ...... (I) 
+For the reciprocal equation roots are 
+,
+,
+and
+p
+p
+p
+p
+α
+β
+γ
+δ  
+So product of the roots is 1. 
+
+ 
+ 
+ 
+4
+1
+p αβγδ =                                                      ...... (II) 
+From equation (I) and (II), 
+1
+2
+p =
+  
+ 
+15. The number of three digit numbers in which 9 appears at 
+hundred place only is, 
+1 9 9
+81
+n
+n
+= × ×
+=
+ 
+The number of three digits numbers in which 9 appears at ten or 
+unit place only is, 
+(
+)
+8 1 9
+2
+144
+N
+N
+=
+× ×
+×
+=
+ 
+So, the required number is, 
+81 144
+225
+n
+N
++
+=
++
+=
+ 
+ 
+16. Solve the given equation, 
+
+ 
+ 
+ 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+) (
+)
+(
+)
+34
+34
+10
+9
+34
+34
+34
+34
+10
+9
+8
+7
+34
+34
+34
+34
+9
+8
+8
+7
+35
+35
+35
+10
+9
+8
+36
+36
+10
+9
+37
+10
+3
+3
+2
+2
+2
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+
+
++
++
+
+
++
++
++
+= 
+
++
++
++
+
+
+=
++
++
+=
++
+=
+ 
+17. Let, 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+100
+99
+98
+2
+100
+101
+99
+98
+2
+100
+101
+100
+99
+98
+2
+100
+101
+100
+101
+1
+2
+1
+3
+1
+101
+1
+2
+1
+100
+101
+1
+1
+1
+1
+1
+101
+1
+1
+1
+1
+1
+101
+1
+1
+1
+1
+S
+x
+x
+x
+x
+x
+x
+x
+x
+S
+x
+x
+x
+x
+x
+x
+x
+S
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+S
+x
+x
+x
+x
+x
+=
++
++
++
++
++
++
++
+=
++
++
++
++
++
++
++
++
+=
++
++
++
++
++
++
++
+−
++
++
+
+
+
+
++
+−
+
+
+
+
++
+
+
+
+
+=
+−
++
++
+−
++
+
+
+
+ 
+Simplify the above, 
+(
+)
+102
+102
+101
+1
+102
+S
+x
+x
+x
+=
++
+−
+−
+ 
+So, the coefficient of 
+50
+x  is 
+102
+50
+S
+C
+=
+ 
+ 
+ 
+
+ 
+ 
+ 
+18. Consider the expression, 
+(
+)
+(
+)
+(
+)(
+)
+(
+)(
+)(
+)
+2
+3
+4
+1
+1
+2
+1
+2!
+3!
+1
+1
+2
+3
+4!
+n
+n n
+n n
+n
+nx
+x
+x
+x
+n n
+n
+n
+x
+−
+−
+−
+
+
++
++
++
+
+
+
+
++
+=
+−
+−
+−
+
+
++
++
+
+
+
+
+
+ 
+Comparison the given equation with above equation, 
+(
+)
+(
+)(
+)
+( )
+(
+)
+2
+3
+2
+1
+1
+2
+5 7
+5
+and
+2!
+2! 3
+3!
+3! 3
+n n
+n n
+n
+x
+x
+−
+−
+−
+=
+=
+×
+ 
+So, 
+2
+3
+and
+3
+2
+x
+n
+= −
+= −
+ 
+Therefore, 
+3
+2
+3
+2
+2
+2
+2
+1
+1 1
+3
+3
+2
+4
+4
+27
+4
+23
+α
+α
+α
+α
+α
+α
+−
+
+
+−
+= + +
+
+
+
+
+=
++
++
++
+=
++
+=
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+19. Consider the expression, 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+4
+2
+3
+2
+2
+2
+2
+2
+2
+2
+4
+2
+2
+2
+2
+24
+28
+1
+1
+1
+1
+24
+28
+1
+1
+1
+x
+x
+A
+B
+C
+x
+x
+x
+x
+x
+x
+A x
+B x
+C x
++
++
+=
++
++
++
++
++
+−
++
++
+=
++
++
++
++
+−
+ 
+Compare the coefficients, 
+1,
+A =
+ 
+And, 
+2
+24
+22
+A
+B
+B
++
+=
+=
+ 
+And, 
+28
+5
+A
+B
+C
+C
++
++
+=
+=
+ 
+So, 
+6
+A
+C
++
+=  
+ 
+20. Consider the expression, 
+cos25
+sin 25
+tan
+cos25
+sin 25
+1
+tan 25
+1
+tan 25
+θ
+° +
+°
+=
+° −
+°
++
+°
+=
+−
+°
+ 
+The θ  lies in third quadrant so, 
+
+ 
+ 
+ 
+(
+)
+tan
+tan70
+tan 180
+70
+tan 250
+250
+θ
+θ
+=
+°
+=
+° +
+°
+=
+°
+=
+°
+ 
+ 
+21. It is given that, 
+7
+3
+cos
+and
+2
+25
+2
+A
+A
+π
+π
+=
+<
+>
+ 
+Then, 
+49
+cos2
+2
+1
+625
+98
+625
+625
+527
+625
+A
+
+
+=
+−
+
+
+
+
+−
+=
+= −
+ 
+And, 
+4
+1
+cos
+and cos
+2
+5
+4
+10
+A
+A
+= −
+=
+ 
+So, 
+1
+7
+cos
+cos
+cos2
+cos2
+4
+2
+625
+10
+A
+A
+A
+A
++
+−
+−
+=
++
+ 
+ 
+ 
+
+ 
+ 
+ 
+22. Consider the expression, 
+cos3
+cos3
+cos3
+cos3
+0
+A
+B
+C
+π
++
++
++
+=
+ 
+Solve above expression, 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+2
+3
+3
+2cos
+cos
+cos3
+1
+0
+2
+2
+3
+3
+3
+2sin
+cos
+1
+2sin
+1
+0
+2
+2
+2
+3
+3
+3
+sin
+cos
+cos
+0
+2
+2
+2
+3
+3
+3
+sin
+sin
+sin
+0
+2
+2
+2
+A
+B
+A
+B
+C
+A
+B
+C
+C
+A
+B
+A
+B
+C
+A
+B
+C
++
+−
++
+−=
+−
+
+
+
+
+−
++ −
+−=
+
+
+
+
+
+
+
+
+−
++
+
+
+−
+=
+
+
+
+
+=
+ 
+It means either 
+2
+2
+2
+or
+or
+3
+3
+3
+A
+B
+C
+π
+π
+π
+=
+=
+=
+ 
+So, the least value of the sum of angles is, 
+2
+3
+3
+π
+π
+π −
+=
+  
+ 
+23. Consider the expression, 
+4
+2
+cos2 sec
+sec
+0,
+0, 2
+π
+θ
+θ
+θ
+θ
+
+
++
+=
+∈
+
+
+
+ 
+Solve above equation, 
+
+ 
+ 
+ 
+(
+)
+2
+2
+2
+2
+2
+2
+2
+1
+tan
+sec
+sec
+0
+sec
+1
+tan
+1
+0
+tan
+2
+2
+sin
+3
+θ
+θ
+θ
+θ
+θ
+θ
+θ
+−
++
+=
+
+
+−
++
+=
+
+
+=
+=
+ 
+ 
+24. Consider the expression, 
+(
+)(
+)
+4
+2
+2
+2
+1
+1
+1
+r
+r
+r
+r
+r
+r
++
++ =
+−
++
++
++
+ 
+So, 
+(
+)
+(
+)
+(
+)
+1
+1
+2
+1
+2
+4
+2
+2
+tan
+tan
+1
+tan
+1
+1
+1
+r
+r
+r
+r
+r
+r
+r
+−
+−
+−
+
+
+=
++
++
+−
+−
++
+
+
+
+
++
++
++
+
+
+ 
+Solve further, 
+(
+)
+(
+)
+(
+)
+( )
+1
+1
+2
+1
+2
+4
+2
+1
+1
+1
+2
+1
+2
+1
+2
+2
+1
+2
+2
+tan
+tan
+1
+tan
+1
+2
+tan
+1
+tan
+1
+tan 1
+1
+tan
+2
+n
+n
+r
+r
+r
+r
+r
+r
+r
+r
+r
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+−
+−
+−
+=
+=
+−
+−
+−
+−
+
+=
++
++
+−
+−
++
+
+
++
++
+
+
+=
++
++
+−
++
+=
++
++
++
++
+=
++
++
+∑
+∑
+ 
+So, 
+
+ 
+ 
+ 
+2
+1
+1
+4
+2
+2
+1
+2
+lim
+tan
+lim tan
+2
+2
+4
+n
+n
+n
+r
+r
+n
+n
+r
+r
+n
+n
+π
+−
+−
+→∞
+→∞
+=
+
+
++
+
+=
+
+
+
+
++
++
++
++
+
+
+
+
+=
+∑
+  
+ 
+25. Solve the given expression as, 
+( )
+(
+)
+(
+)
+(
+)
+2
+1
+2
+1
+2
+1
+2
+1
+3
+sech
+sech
+cosech
+cosech
+3
+2
+3
+sech
+sech
+cosech
+cosech
+8
+2
+3
+8
+4
+35
+4
+−
+−
+−
+−
+
+
+
++
+
+
+
+
+
+
+
+
+
+
+
+
+=
++
+
+
+
+
+
+
+
+
+=
++
+=
+ 
+26. In triangle ABC, 
+(
+)
+(
+)
+(
+)
+( )
+2
+2
+3
+cos
+cos
+2
+2
+2
+3
+2
+3
+2
+2
+3
+2
+C
+A
+b
+a
+c
+s s
+c
+s s
+a
+b
+a
+c
+ab
+bc
+s
+b
+s
+a
+c
+b
+s
+b
+b
+b
++
+=
+−
+−
++
+=
+−
+−
+=
+=
+ 
+Further simplify the above, 
+
+ 
+ 
+ 
+3
+2
+a
+b
+c
+b
+b
+a
+c
++
++
+=
+=
++
+ 
+ 
+27. Let, 
+4
+5
+6
+s
+a
+s
+b
+s
+c
+k
+−
+−
+−
+=
+=
+=
+ 
+As, 
+8
+10
+12
+b
+c
+a
+k
+a
+c
+b
+k
+a
+b
+c
+k
++
+−
+=
++
+−
+=
++
+−
+=
+ 
+So, 
+30
+a
+b
+c
++
++
+=
+ 
+Hence, 
+15 ,
+11 ,
+10 ,
+9
+s
+k a
+k b
+k c
+k
+=
+=
+=
+=
+ 
+The required solution is, 
+
+ 
+ 
+ 
+(
+)(
+)
+(
+)(
+)
+(
+)(
+)
+2
+2
+2
+2
+2
+2
+2
+sin
+2
+30
+24
+20
+90
+99
+110
+1
+8
+2
+3
+33
+11
+25
+33
+s
+a
+s
+c
+s
+c
+s
+a
+s
+a
+s
+b
+A
+bc
+ca
+ab
+k
+k
+k
+k
+k
+k
+−
+−
+−
+−
+−
+−
+
+=
++
++
+
+
+
+
+=
++
++
+=
++
++
+=
+∑
+  
+ 
+28. In the triangle IBC, 
+2
+2
+A
+BIC
+π
+∠
+=
+−
+ 
+Let circumference of above be 
+1
+C . Then 
+1
+2
+2
+A
+BC C
+π
+∠
+=
++
+ 
+So, 
+1
+1
+2
+sin 2
+2
+cos 2
+2cos 2
+a
+A
+P
+A
+a
+P
+A
+π
+
+
+=
++
+
+
+
+
+=
+=
+ 
+Similarly, 
+
+ 
+ 
+ 
+2
+2
+,
+2cos
+2cos
+2
+2
+b
+c
+P
+P
+B
+C
+=
+=
+ 
+So, 
+(
+)(
+)(
+)
+1
+2
+3
+2
+8cos
+cos
+cos
+2
+2
+2
+sin
+sin
+sin
+2
+2
+2
+sin
+sin
+sin
+2
+2
+2
+4
+2
+abc
+PP P
+A
+B
+C
+A
+B
+C
+abc
+A
+B
+C
+r
+R
+R
+R
+R
+R r
+=
+=
+=
+=
+ 
+ 
+29. If the resultant of two vectors is unit vector then angle between 
+them is 2
+3
+π , so, 
+( )( )
+2
+2
+2
+2
+2
+cos 3
+1
+1 1
+2 1 1
+2
+2
+1
+3
+π
+−
+=
++
+−
+
+
+= + −
+−
+
+
+
+
+=
++
+=
+a
+b
+a
+b
+a b
+  
+ 
+
+ 
+ 
+ 
+30. The equation of plane joining points (
+)
+ˆ
+ˆ
+i + j  and (
+)
+ˆ
+ˆ
+ˆ
+3i + j- k  in 
+Cartesian form is, 
+1
+1
+2
+0
+1
+x
+y
+z
+r
+−
+−
+=
+=
+=
+−
+ 
+Then, point on above line is (
+)
+2
+1,1,
+p
+r
+r
++
+−
+. 
+Now the equation of the plane passing through (
+)
+ˆ
+ˆ
+2
+4
++
+i
+j  and 
+parallel to the vector (
+)
+ˆ
+ˆ
+3
+5
++
+j
+k  and (
+)
+ˆ
+ˆ
+3 −
+i
+k  in Cartesian form is, 
+(
+)
+(
+)
+2
+4
+0
+3
+5
+0
+3
+0
+1
+3
+2
+15
+4
+9
+0
+3
+15
+9
+54
+0
+x
+y
+z
+x
+y
+z
+x
+y
+z
+−
+−
+=
+−
+−
+−
++
+−
+−
+=
+−
++
++
+=
+ 
+Let the point (
+)
+2
+1,1,
+P
+r
+r
++
+−
+ on the above plane itself then, 
+14
+r =
+ 
+So, the position vector of point P is, 
+ˆ
+ˆ
+ˆ
+29
+14
+=
++ −
+OP
+i
+j
+k 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+31. Let , , ,
+A B C D be the vertices of quadrilateral as shown below. 
+ 
+so, 
+2
+2
+2
+2
+2
++
+=
++
++
+⋅
+AC
+BD
+AB
+CD
+BC AD                     (I) 
+And, 
+2
+2
+2
+2
+2
++
+=
++
++
+⋅
+AC
+BD
+AD
+BC
+AB DC                     (II) 
+From equation (I) and (II), 
+⋅
+=
+⋅
+BC AD
+AB DC 
+So, 
+(
+) (
+)
+(
+) (
+)
+(
+)
+(
+)
+0
+⋅
+=
+⋅
+⋅
+−
+⋅
+⋅
+−
+⋅
+
+
+
+
+=
+
+
+
+
+−
+⋅
++
+⋅
+−
+⋅
++
+⋅
+
+
+
+
+⋅
++
+⋅
+=
+⋅
++
+⋅
+⋅
+−
++
+⋅
+−
+=
+OC-OB
+OD-OA
+OB -OA
+OC-OD
+OC OD
+OC OA
+OB OC
+OB OD
+OB OD
+OB OA
+OA OC
+OA OD
+OC OD
+OB OA
+OB OC
+OA OD
+OC
+OD
+OB
+OA
+OB
+OD
+ 
+Solve further, 
+
+ 
+ 
+ 
+(
+)
+0
+0
+0
+⋅
++
+⋅
+=
+⋅
+−
+=
+⋅
+=
+OC BD
+OA DB
+BD
+OC
+OA
+BD AC
+ 
+ 
+32. Any vector r can be written in linear combination of two non 
+parallel vectors b and c as, 
+(
+) (
+)
+2
+2
+2
+1
+4
+9
+
+
+
+
+
+
+⋅
+×
+⋅
+⋅
+=
++
++
+×
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+=
+=
+=
++
++
+r
+b
+c
+r b
+r c
+r
+b
+c
+b
+c
+b
+c
+b
+c
+r
+a
+r
+a
+ 
+Further simplify the above, 
+14
+=
+r
+ 
+ 
+33. Solve the given expression as, 
+[
+]
+2
+1
+1
+2
+1
+4
+2
+2
+2
+9
+15
+⋅
+⋅
+⋅
+=
+⋅
+⋅
+⋅
+=
+⋅
+⋅
+⋅
+=
+a b
+a b
+a c
+abc
+b a
+b b
+b c
+c a
+c b
+c c
+ 
+ 
+ 
+
+ 
+ 
+ 
+34. Consider the given data, 
+(
+) (
+)
+[
+]
+(
+) (
+)
+[
+]
+(
+) (
+)
+[
+]
+×
+×
+×
+=
+×
+×
+×
+=
+×
+×
+×
+=
+b
+c
+c
+a
+a b c c
+c
+a
+a
+b
+a b c a
+a
+b
+b
+c
+a b c b
+ 
+And, 
+[
+]
+[
+]
+[
+]
+[
+]
+2
+2
++
++
++
+=
+×
+×
+×
+=
+b
+c c
+a a
+b
+a b c
+b
+c c
+a a
+b
+a b c
+ 
+Then, 
+(
+)(
+)(
+)(
+)(
+) (
+)
+[
+][
+]
+[
+] [
+] [
+]
+[
+][
+]
+[
+] [
+]
+[
+]
+[
+]
+2
+3
+3
+2
+2
+3
+1
+×
+×
+×
+×
+×
+×
+×
+=
+×
+×
+×
+×
+×
+×
+=
+=
+b
+c
+c
+a
+c
+a
+a
+b
+a
+b
+b
+c
+a b c c a b c a a b c b
+b
+c c
+a a
+b b
+c c
+a a
+b
+a b c a b c
+a b c
+a b c
+a b c
+a b c
+ 
+35. Consider the given data, 
+505, 510, 515, 520,
+595
+
+ 
+The mean of above is, 
+500
+x =
+ 
+So, 
+
+ 
+ 
+ 
+(
+)
+(
+)
+19
+2
+2
+2
+2
+2
+1
+2
+2
+2
+2
+2
+2 45
+40
+35
+5
+2
+5
+1
+2
+3
+9
+i
+i
+x
+x
+=
+−
+=
++
++
++
++
+
+
+=
+×
++
++
++
++
+
+
+∑
+
+
+ 
+So, the standard deviation is, 
+(
+)
+19
+2
+2
+1
+9 10 19
+2
+5
+6
+19
+5 30
+i
+i
+x
+x
+n
+=
+×
+×
+−
+×
+×
+=
+=
+∑
+  
+ 
+36. The mean of the given data ( )
+ix  is, 
+(
+) (
+) (
+) (
+)
+(
+) (
+) (
+)
+4 3
+8 5
+11 9
+17 5
+20 4
+24 3
+32 1
+420
+3
+5
+9
+5
+4
+3 1
+30
+14
+×
++
+×
++
+×
++
+×
++
+
+
+
+
+×
++
+×
++
+×
+
+=
++ +
++ +
++ +
+=
+ 
+So, the variance is, 
+2
+2
+2
+2
+2
+2
+2
+10
+6
+3
+3
+6
+10
+18
+45.8
+30
+k
++
++
++
++
++
++
+=
+ 
+The mean of the given data (
+)
+iy  is, 
+(
+) (
+) (
+) (
+)
+(
+) (
+) (
+)
+10 3
+18 5
+24 9
+36 5
+42 4
+50 3
+66 1
+900
+3
+5
+9
+5
+4
+3 1
+30
+30
+×
++
+×
++
+×
++
+×
+
+
+
+
++
+×
++
+×
++
+×
+
+=
++ +
++ +
++ +
+=
+  
+
+ 
+ 
+ 
+So, the variance is, 
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+10
+6
+3
+3
+6
+10
+18
+20
+12
+6
+6
+12
+20
+36
+4
+30
+30
+4
+45.8
+183.2
+k
+k
+
+
++
++
+
+
++
++
++
++
++
++
++
++
++
++
+
+
+=
+×
+=
+×
+=
+ 
+37. Let the probability of getting number is ( )
+P i  then, 
+( )
+P i
+Ki
+=
+ 
+Then, 
+( )
+( )
+( )
+( )
+( )
+( )
+1
+,
+2
+2
+,
+3
+3
+4
+4
+,
+5
+5
+,
+6
+6
+P
+K P
+K P
+K
+P
+K P
+K P
+K
+=
+=
+=
+=
+=
+=
+ 
+This implies, 
+( )
+1
+21
+1
+1
+21
+P i
+K
+K
+=
+=
+=
+∑
+ 
+So, the probability for getting odd number is, 
+
+ 
+ 
+ 
+( )
+( )
+( )
+1
+3
+5
+9
+9
+21
+3
+7
+P
+P
+P
+K
++
++
+=
+=
+=
+ 
+ 
+38. The required probability is given by, 
+( ) ( ) ( )
+( ) ( ) ( )
+( ) ( ) ( )
+1 2
+3
+1 1
+3
+1 2
+1
+2 3
+4
+2 3
+4
+2 3
+4
+1
+1
+1
+4
+8
+12
+11
+24
+P A P B P C
+P A P B P C
+P A P B P C
+=
++
++
+
+
+
+
+
+
+
+
+=
++
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
++
++
+=
+  
+ 
+39. Let event  
+1
+he guesses the answer
+E =
+, 
+2
+he knows the answer
+E =
+ 
+and 
+he answers correctly
+A =
+ 
+Then, 
+(
+)
+(
+)
+(
+)
+(
+)
+2
+1
+2
+1
+9
+1
+1
+,
+,
+1,
+10
+10
+4
+P E
+P E
+P A E
+P A E
+=
+=
+=
+=
+ 
+So, 
+
+ 
+ 
+ 
+(
+)
+(
+) (
+)
+(
+) (
+)
+(
+) (
+)
+1
+1
+1
+1
+1
+2
+2
+1
+1
+10
+4
+1
+1
+9
+1
+10
+4
+10
+1
+1
+36
+1
+37
+P E
+P A E
+P E A
+P E
+P A E
+P E
+P A E
+=
++
+×
+= 
+
+
+
+×
++
+×
+
+
+
+
+
+
+
+
+= +
+=
+  
+ 
+40. Since, 
+(
+)
+1
+i
+P X
+x
+=
+=
+∑
+ 
+Then, 
+2
+2
+2
+2
+0
+2
+2
+3
+2
+7
+1
+9
+10
+0
+1
+10
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
+K
++
++
++
++
++
++
++
++
+=
++
+=
+=
+ 
+So, 
+
+ 
+ 
+ 
+(
+)
+2
+2
+2
+0
+6
+2
+2
+3
+8
+8
+1
+10
+100
+81
+100
+9
+10
+P
+K
+K
+K
+K
+K
+K
+K
+K
+<
+<
+=
++
++
++
++
+=
++
+=
++
+=
+
+
+= 
+
+
+
+  
+ 
+41. The probability of getting at least one head is, 
+(
+)
+1
+1
+Probability of getting no head
+1
+2
+1
+1
+0.8
+2
+n
+n
+n
+n
+C 
+
+−
+= −
+
+
+
+
+
+
+= −
+>
+
+
+
+
+ 
+Solve further, 
+1
+1
+2
+4
+2
+5
+n
+n
+
+>
+
+
+
+
+>
+ 
+So, the least value of n is 3. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+42. Let point (
+)
+,
+P x y  so, 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+4
+1
+1
+1
+1
+16
+2
+2
+2
+1
+1
+1
+1
+16
+2
+1
+1
+1
+1
+8
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+−
++
++
++
++
++
+−
+=
+−
++
++
++
++
++
+−
+=
++
++
++
+−
++
++
++
++
+−
+=
++
++
++
+−
++
++
++
++
+−
+=
+ 
+Then, 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+) (
+) (
+) (
+)
+(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+6
+2
+2
+2
+2
+2
+2
+6
+2
+4
+6
+2
+6
+2
+6
+4
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+
+
+
+−
++
++
++
++
+−
+=
+−
+−
+
+
+
+
+
+
++
+−
++
++
++
++
+−
++
+=
++
+−
+
+
+
++
++
+−
+−
+=
++
+−
+
+
+
++
++
+−
++
+−
++
++
++
++
+−
+=
+−
+
+
+
+Further simplify the above, 
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+8 2
+2
+4
+4
+2
+4
+4
+8
+2
+3
+2
+3
+8
+x
+y
+x
+y
+xy
+x
+y
+x
+y
+xy
+x
+xy
+y
++
+−
+=
++
+−
++
+−
+=
++
+−
++
++
+=
+ 
+ 
+43. The given transformed equation is, 
+2
+2
+3
+6
+8
+8
+x
+xy
+y
+−
++
+=  
+Now, 
+
+ 
+ 
+ 
+cos
+sin
+4
+4
+2
+sin
+cos
+4
+4
+2
+x
+y
+x
+x
+y
+x
+y
+y
+x
+y
+π
+π
+π
+π
+−
+′ =
+−
+=
++
+′ =
+−
+=
+ 
+The equation before transformation is, 
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+6
+8
+2
+2
+2
+2
+3
+2
+6
+8
+2
+16
+5
+17
+10
+16
+0
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+xy
+x
+y
+x
+y
+xy
+x
+y
+xy
+−
+−
++
++
+
+
+
+
+
+
+
+−
++
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++
+−
+−
+−
+−
++
++
+=
++
++
+−
+=
+  
+ 
+44. Let point (
+)
+(
+)
+, 0 and
+0,
+A a
+B
+b  so equation of variable line is, 
+1
+x
+y
+a
+b
++
+=                                           (I) 
+Since the equation (I) passes through point (
+)
+,
+α β  so, 
+1
+a
+b
+α
+β
++
+=                                          (II) 
+Now the centroid of triangle OAB is 
+(
+)
+,
+,
+3 3
+a b
+h k
+
+=
+
+
+
+
+ 
+So, 
+3 and
+3
+a
+h
+b
+k
+=
+=
+                             (III) 
+From equation (II) and (III), 
+
+ 
+ 
+ 
+1
+3
+3
+h
+k
+α
+β
++
+=  
+On taking locus of point (
+)
+,h k  we get, 
+3
+0
+x
+y
+xy
+β
+α
++
+−
+=
+ 
+ 
+45. Let the slope of the line inclined with angle 60° with the line L 
+is n′ so, 
+1
+tan60
+1
+3
+n
+n
+−
+° =
++
+=
+ 
+This implies, 
+(
+)
+(
+)
+2
+2
+2
+1
+3
+1
+2
+8
+2
+0
+n
+n
+n
+n
+−
+=
++
++
++
+=
+ 
+The root of the above is the slope of required line. Thus the 
+product of slopes is 1. 
+ 
+46. The required area is given by, 
+(
+)(
+)
+(
+)
+( )
+(
+)
+6
+6
+6
+6
+12 12
+2
+3
+3 2
+12
+12
++
++
+=
+−
+−
+=
+ 
+ 
+
+ 
+ 
+ 
+47. The equation of the line perpendicular to the line  
+1
+0
+ax
+by
++
+−=
+ 
+and passes through origin is, 
+0
+bx
+ay
+−
+=
+                                              (I) 
+Now, altitude passes through the intersection of the line 
+2
+3
+1
+0 and
+2
+1
+0
+x
+y
+x
+y
++
+−=
++
+−=  
+So, 
+0
+0
+b
+a
+a
+b
+−−
+=
++
+=
+                                               (II) 
+From above the line 
+1
+0
+ax
+by
++
+−=
+ becomes, 
+1
+0
+x
+y
+a
+−
+−
+=                                            (III) 
+Now, the altitude perpendicular to the line 2
+3
+1
+0
+x
+y
++
+−=  and 
+passes through origin is, 
+3
+2
+x
+y
+=
+ 
+The point of intersection line (III) and 
+2
+1
+0
+x
+y
++
+−=
+ is, 
+1
+2
+1
+1
+1
+,
+1
+3
+3
+a
+a
+
+
+
+
+
+
++
+−
+
+
+
+
+
+
+
+
+
+
+
+
+ satisfy the line, 
+8 and
+8
+a
+b
+= −
+=  
+Thus, (
+)
+(
+)
+,
+8, 8
+a b = −
+ 
+ 
+ 
+
+ 
+ 
+ 
+48. The given pair of straight lines is, 
+2
+2
+4
+0
+x
+xy
+y
+−
++
+=
+ 
+Then, 
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+4
+4
+3
+2
+3
+0
+2
+3
+0
+or
+2
+3
+0
+x
+xy
+y
+y
+x
+y
+y
+x
+y
+x
+y
+−
++
+=
+−
+−
+=
+−
++
+=
+−
+−
+=
+ 
+So, the perpendicular distance of above from point (
+)
+1, 1
+−
+ is, 
+(
+)
+(
+)
+1
+2
+2
+2
+1
+2
+3
+1
+2
+3
+,
+1
+2
+3
+1
+2
+3
+d
+d
++
++
++
+−
+=
+=
++
++
++
+−
+ 
+So, 
+1
+1
+3
+3
+3
+3
+8
+4 3
+8
+4 3
+9
+3
+64
+48
+6
+4
+3
+2
+d d
++
+−
+=
+×
++
+−
+−
+=
+−
+=
+=
+  
+ 
+
+ 
+ 
+ 
+49. The 
+distance 
+between 
+parallel 
+lines 
+3
+4
+10
+0 and 3
+4
+30
+0
+x
+y
+x
+y
+−
+−
+=
+−
++
+=
+ is the length of diameter 
+of required circle so radius is, 
+1
+40
+4
+2
+9
+16
+=
++
+ 
+And 
+midpoint 
+of 
+the 
+intersection 
+of 
+the 
+line 
+3
+4
+10
+0 and 3
+4
+30
+0
+x
+y
+x
+y
+−
+−
+=
+−
++
+=
+, 
+2
+0
+x
+y
++
+=
+ is the center of 
+required circle to center is, 
+(
+)
+2
+6
+1 3
+,
+2,1
+2
+2
+−
+−+
+
+= −
+
+
+
+
+ 
+Then the equation of required circle is, 
+2
+2
+4
+2
+11
+0
+x
+y
+x
+y
++
++
+−
+−
+=
+ 
+ 
+50. Let required point of intersection be (
+)
+1
+1
+,
+x
+y . Then the equation 
+of chord of contact with respect to given circle is, 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+4
+0
+2
+3
+4
+3
+2
+0
+xx
+yy
+x
+x
+y
+y
+x
+x
+y
+y
+y
+x
++
+−
++
+−
++
++
+=
+−
++
+−
++
+−
+−
+=
+ 
+Let above represent the line, 
+4
+4
+11
+0
+AB
+x
+y
+=
++
+−
+=
+ 
+Then, 
+
+ 
+ 
+ 
+1
+1
+1
+1
+2
+3
+4
+3
+2
+4
+4
+11
+x
+y
+y
+x
+K
+−
+−
+−
+−
+−
+=
+=
+−
+ 
+Then, 
+1
+1
+4
+2
+4
+3
+x
+K
+y
+K
+=
++
+=
++
+ 
+And, 
+1
+1
+2
+3
+4
+11
+x
+y
+K
++
+−
+=
+ 
+From above, 
+8
+4
+12
+9
+4
+11
+9
+9
+0
+1
+K
+K
+K
+K
+K
++
++
++
+−
+=
++
+=
+= −
+ 
+Thus, 
+(
+)
+(
+)
+1
+1
+,
+2,
+1
+x
+y
+= −
+−
+ 
+ 
+51. Let the equation of required circle be, 
+2
+2
+2
+2
+0
+x
+y
+gx
+fy
+c
++
++
++
++
+=
+                                       (I) 
+The above passes through point (
+)
+3, 2  so, 
+9
+4
+6
+4
+0
+6
+4
+13
+0
+g
+f
+c
+g
+f
+c
++
++
++
++
+=
++
++
++
+=
+ 
+The equation (I) bisects the circumference of circle 
+2
+2
+15
+x
+y
++
+=
+ 
+So, the common chord passes through the center of the circle, 
+
+ 
+ 
+ 
+2
+2
+15
+x
+y
++
+=
+ 
+So, 
+15
+0
+15
+c
+c
++
+=
+= −
+ 
+Since equation (I) cuts the circle, 
+2
+2
+4
+6
+3
+0
+x
+y
+x
+y
++
++
++
++
+=
+ 
+Orthogonally so, 
+4
+6
+3
+g
+f
+c
++
+=
++  
+From above equations, 
+3,
+4,
+15
+g
+f
+c
+=
+= −
+= −
+ 
+So, the equation of the required circle is, 
+2
+2
+6
+8
+15
+0
+x
+y
+x
+y
++
++
+−
+−
+=
+ 
+ 
+52. The equation of the two circles are, 
+2
+2
+2
+2
+2
+4
+20
+0
+6
+8
+10
+0
+x
+y
+x
+y
+x
+y
+x
+y
++
++
++
+−
+=
++
++
+−
++
+=
+ 
+This implies, 
+1
+2
+1
+2
+1
+2
+2
+2
+6
+16
+10
+g g
+f f
+c
+c
++
+=
+−
+= −
+=
++
+ 
+
+ 
+ 
+ 
+The circle intersects orthogonally so have a common tangent. 
+Now the equation of common chord is, 
+2
+6
+15
+0
+x
+y
+−
++
+=  
+So, the length of common chord is, 
+(
+)
+2
+2 12 15
+625
+2 25
+2 25
+4
+36
+40
+1000
+625
+2
+40
+5 3
+2
+−+
++
+−
+=
+−
++
+−
+=
+=
+  
+ 
+53. The equation of the circle passing through intersection of 
+circles, 
+2
+2
+4
+6
+12
+0
+x
+y
+x
+y
++
++
++
+−
+=
+                                    (I) 
+And, 
+2
+2
+6
+4
+12
+0
+x
+y
+x
+y
++
+−
+−
+−
+=
+                                    (II) 
+Is, 
+(
+)
+2
+2
+2
+2
+4
+6
+12
+6
+4
+12
+0
+x
+y
+x
+y
+x
+y
+x
+y
+λ
++
++
++
+−
++
++
+−
+−
+−
+=
+ 
+Then, 
+2
+2
+4
+6
+6
+4
+12
+0
+1
+1
+x
+y
+x
+λ
+λ
+λ
+λ
+−
+−
++
++
++
+−
+=
++
++
+                      (III) 
+
+ 
+ 
+ 
+Since the another circle, 
+2
+2
+4
+2
+8
+0
+x
+y
+x
+y
++
+−
++
++
+=
+                                      (IV) 
+Cut the circle (III) orthogonally then, 
+4
+6
+6
+4
+2
+8
+12
+1
+1
+8
+12
+6
+4
+4
+4
+12
+2
+1
+6
+λ
+λ
+λ
+λ
+λ
+λ
+λ
+λ
+λ
+−
+−
+
+
+
+
+−
++
+=
+−
+
+
+
+
++
++
+
+
+
+
+−+
++
+−
+= −−
+= −
+= −
+ 
+So, required equation of circle is, 
+(
+) (
+)
+2
+2
+2
+2
+2
+2
+2
+2
+6
+4
+6
+12
+6
+6
+12
+0
+5
+5
+30
+40
+60
+0
+6
+8
+12
+0
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
++
++
++
+−
+−
++
+−
+−
+−
+=
++
++
++
+−
+=
++
++
++
+−
+=
+ 
+ 
+54. Let the equation of parabola having horizontal axis vertex at 
+(
+)
+,h k  is, 
+(
+)
+(
+)
+2
+4
+y
+k
+a x
+h
+−
+=
+−
+                                      (I) 
+The 
+parabola 
+in 
+equation 
+(I) 
+passes 
+through 
+(
+) (
+)
+(
+)
+2,1 , 1, 2 and
+1, 3
+−
+−
+ so, 
+(
+)
+(
+)
+2
+2
+1
+4
+2
+2
+1
+8
+4
+k
+a
+h
+k
+k
+a
+ah
+−
+=
+−−
+−
++ = −
+−
+                                (II) 
+
+ 
+ 
+ 
+Then, 
+(
+)
+(
+)
+2
+2
+2
+4
+1
+4
+4
+4
+4
+k
+a
+h
+k
+k
+a
+ah
+−
+=
+−
+−
++
+=
+−
+                                (III) 
+And, 
+(
+)
+(
+)
+2
+2
+3
+4
+1
+6
+9
+4
+4
+k
+a
+h
+k
+k
+a
+ah
+−
+=
+−−
+−
++
+= −
+−
+                                (IV) 
+From equation (II), (III) and (IV), 
+2
+4
+5
+a =
+ 
+ 
+55. Let the equation of tangent to parabola 
+2
+y
+x
+=
+ having slope m 
+is, 
+1
+4
+y
+mx
+m
+=
++
+                                              (I) 
+For the common tangent to the circle, 
+2
+2
+6
+4
+0
+x
+y
+y
++
+−
++
+=
+                                 (II) 
+The radius is, 
+
+ 
+ 
+ 
+(
+)
+2
+2
+2
+1
+3
+4
+9
+4
+1
+1
+3
+5 1
+9
+16
+2
+1
+2
+m
+m
+m
+m
+m
+m
+−
+−
+=
++
++
+=
++
+−
+=
+ 
+So, the equation of the common tangent is, 
+1
+1
+2
+2
+2
+1
+0
+y
+x
+x
+y
+=
++
+−
++ =
+ 
+ 
+56. Let the equation of ellipse be, 
+(
+)
+(
+)
+2
+2
+2
+2
+1
+x
+h
+y
+k
+a
+b
+−
+−
++
+=  
+Now, 
+2
+3
+1
+2
+5
+5
+a
+ae
+a
+a
+−
+=
+
+
+−
+=
+
+
+
+
+=
+ 
+So, 
+4
+b =
+ 
+Now vertex comparing the vertex then, 
+
+ 
+ 
+ 
+6
+5
+1
+h
+h
+−
+=
+=
+ 
+And, 
+1
+0
+1
+k
+k
+−
+=
+=
+ 
+So, the required ellipse is, 
+(
+)
+(
+)
+2
+2
+1
+1
+1
+25
+16
+x
+y
+−
+−
++
+=  
+ 
+57. The equation of the tangent at point 
+16
+4cos2 ,
+sin 2
+11
+θ
+θ
+
+
+
+
+
+
+ on 
+the ellipse 
+2
+2
+16
+11
+256
+x
+y
++
+=
+ is, 
+(
+)
+(
+)
+16
+16
+4cos2
+11
+sin 2
+256
+11
+16
+4cos2
+11 sin 2
+16
+x
+y
+x
+y
+θ
+θ
+θ
+θ
+
+
++
+=
+
+
+
+
++
+=
+                               (I) 
+Since the equation (I) is the tangent to the circle, 
+2
+2
+2
+15
+0
+x
+y
+x
++
+−
+−
+=   
+So, 
+
+ 
+ 
+ 
+2
+2
+2
+2
+2
+4cos2
+16
+4
+16cos 2
+11sin 2
+cos 2
+8cos2
+16
+11
+5cos 2
+4cos 2
+8cos2
+5
+0
+1
+cos2
+2
+θ
+θ
+θ
+θ
+θ
+θ
+θ
+θ
+θ
+−
+=
++
+−
++
+=
++
++
+−
+=
+=
+ 
+Then, 
+2
+or
+3
+3
+6
+π
+π
+θ
+π
+θ
+
+
+=
+−
+
+
+
+
+= ±
+ 
+ 
+58. The equation of given curve is, 
+2
+2
+2
+2
+1
+4
+9
+x
+y
+a
+b
+−
+=                                                       (I) 
+Let at point (
+)
+2 sec ,3 tan
+a
+b
+θ
+θ  on the curve in equation (I), 
+So, equation of tangent at point is, 
+1
+2
+3
+sec
+tan
+x
+y
+a
+b
+θ
+θ
++
+=
+−
+ 
+As per the question, 
+2
+sec
+and 3
+tan
+a
+b
+θ
+θ
+=
+= −
+ 
+
+ 
+ 
+ 
+So, 
+2
+2
+4
+9
+1
+a
+b
+−
+=  
+Take locus of point (
+)
+,a b  then, 
+2
+2
+4
+9
+1
+x
+y
+−
+=  
+ 
+59. Let the point 
+(
+)
+9,12,
+15
+P −
+−
+ divides the line joining 
+(
+)
+(
+)
+1,
+2, 3 and
+4, 5,
+6
+A
+B
+−
+−
+−
+ in ratio 
+:1
+λ
+ then, 
+4
+1
+9
+,
+2
+1
+λ
+λ
+λ
+−
++
+−=
+= −
++
+ 
+So, the harmonic conjugate of point P with respect to the line 
+segment AB will divide the line segment AB internally in ratio 
+2:1, so, point will be, 
+8 1 10
+2
+12
+3
+7 8
+,
+,
+,
+,
+3
+3
+3
+3
+3 3
+−+
+−
+−
++
+
+
+
+
+= −
+−
+
+
+
+
+
+
+
+
+ 
+ 
+60. Let the direction cosines of the line perpendicular to both 
+1L  and 
+2
+L  are ,
+,
+l m n then, 
+2
+0 and 3
+3
+4
+0
+l
+m
+n
+l
+m
+n
+−
+−
++
+=
+−
++
+=
+ 
+So, 
+
+ 
+ 
+ 
+2
+2
+2
+4
+3
+5
+3
+1
+25
+9
+1
+5
+3
+,
+,
+,
+,
+35
+35
+35
+l
+m
+n
+l
+m
+n
+l m n
++
++
+=
+=
+= ±
+−+
++
++
+= ±
+±
+±
+ 
+ 
+61. Mid 
+point 
+of 
+the 
+line 
+segment 
+joining 
+the 
+points 
+(
+)
+(
+)
+3,2,4 and
+1,0, 2
+P
+Q −
+−
+ is 
+(
+)
+1,1,1
+R
+ and direction of the line 
+segment PQ is 4,2,6 so, direction ratio of normal to the plane 
+is, 
+, ,
+4,2,6
+a b c =
+ 
+So, equation of plane will be, 
+4
+2
+6
+0
+x
+y
+z
+d
++
++
++
+=
+ 
+Since the above plane bisect the line segment joining PQ so, 
+12
+d = −
+ 
+Therefore, 
+0
+ac
+bd
++
+=  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+62. Consider the expression, 
+2
+2
+0
+cos
+cos
+2
+2
+cos lim
+lim
+3
+x
+x
+x
+x
+x
+x
+x
+x
+π
+π
+π
+→∞
+→
+
+
+
+
+
+
+
+
++
+
+
++
+
+
+−
+
+
+
+
+
+
+ 
+Simplify the above, 
+(
+)
+(
+)
+2
+2
+0
+2
+2
+2
+0
+2
+cos
+1
+sin
+2
+2
+cos lim
+lim
+3
+sin
+sin
+sin
+3
+2
+2
+cos lim
+lim
+2
+sin
+2
+3
+cos
+2
+2
+cos
+1
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+π
+π
+π
+π
+π
+π
+π
+π
+π
+π
+→∞
+→
+→∞
+→
+
+
+
+
+−
+
+
+
+
++
+
+
++
+
+
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
++
+×
+
+
+
+
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+−
++
+
+
+
+
+=
+−
+= −
+  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+63. Consider the expression, 
+(
+)
+[
+]
+( )
+[
+]
+(
+)(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+3
+3
+3
+3
+2
+2
+4
+2
+2
+2
+3
+3
+3
+3
+3
+2
+4
+2
+3
+4
+6
+12
+18
+6
+lim
+5
+10
+15
+5
+2
+4
+6
+8
+6
+1
+2
+3
+lim
+5 1
+2
+3
+2
+1
+2
+3
+1 2
+1
+6
+6
+lim
+1
+1
+5
+2
+2
+2
+1
+1
+1
+2
+6
+6
+lim
+x
+x
+x
+x
+n
+n
+n
+n
+n
+n
+n n
+n
+n n
+n n
+n
+n
+→∞
+→∞
+→∞
+→∞
+
+
++
++
++
++
+
+
+
+
++
++
++
++
++
++
++
++
+
+
+
+
++
++
++
++
+
+
+=
+
+
++
++
++
++
++
++
++
++
+
+
++
++
+
+
+
+
+
+
+=
++
++
+
+
+
+
+×
+×
+
+
+
+
+
+
+
+
+
+
+
++
++
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+(
+)
+(
+)
+2
+2
+3
+4
+2
+2
+3
+2
+1
+1
+1
+1
+5
+2
+2
+2
+1
+6
+2
+6
+1
+1
+5
+2
+2
+2
+n
+n
+
+
+
+
+
+
+
+
+
+
+
++
++
+
+
+
+
+×
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Further simplify the above, 
+
+ 
+ 
+ 
+(
+)
+[
+]
+2
+2
+2
+2
+2
+3
+3
+3
+3
+6
+12
+18
+6
+144
+5
+5 10 15
+5
+2
+4
+6
+8
+n
+n
+n
+
+
++
++
++
++
+
+
+=
+
+
++
++
++
++
++
++
++
++
+
+
+
+
+
+ 
+ 
+64. Consider the function, 
+( )
+[ ]
+[ ]
+,
+if
+2
+1 if
+2
+x
+x
+f x
+x
+x
+<
+
+= 
+−
+≥
+
+ 
+At 
+2
+x =
+, ( )
+2
+1
+f
+=  
+So, LHL is, 
+[
+]
+0
+lim 2
+1
+h
+h
+→
+−
+=  
+And RHL is, 
+[
+]
+(
+)
+0
+lim
+2
+1
+2
+1
+1
+h
+h
+→
++
+−
+=
+−
+=
+ 
+So, 
+( )
+f x  is continuous at 
+2
+x =
+ and [ ]
+x  is continuous in 
+[
+)
+,
+1 ,
+integer
+n n
+n
++
+∀∈
+ 
+So, given function is continuous in the interval [
+)
+1, 3 . 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+65. Consider the function for 
+0
+a >
+, 
+( )
+( )
+1 2
+1
+1
+0
+a
+x
+a
+a
+x
+f x
+x
+f
+a
++ +
++
++
+
+
+= 
+
++
+
+
+=
+ 
+This implies, 
+( )
+(
+)
+log
+1
+2
+log 1
+a
+x
+f x
+a
+x
+x
++
+
+
+=
++ +
+
+
++
+
+
+ 
+Differentiate w.r.t x, 
+( )
+( )
+(
+)
+1
+1
+2log
+1
+2
+1
+1
+f
+x
+a
+x
+a
+x
+f x
+x
+a
+x
+x
+′
++
+
+
+
+
+=
++
++ +
+−
+
+
+
+
++
++
++
+
+
+
+
+ 
+So, 
+( )
+( )
+( )
+(
+) 1
+0
+0
+2log
+1
+1
+f
+f
+a
+a
+a
+
+
+
+
+′
+=
++
++
+−
+
+
+
+
+
+
+
+
+ 
+This implies, 
+( )
+1
+0
+a
+f
+a +
+=
+ 
+So, 
+( )
+2
+1 1
+0
+2log
+a
+a
+f
+a
+a
+a
++ 
+
+−
+′
+=
++
+
+
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+66. Consider the given expression, 
+(
+)
+2
+2
+2
+2
+log
+log
+log
+log
+log
+log
+e
+e
+e
+y
+x
+x
+x
+y
+=
+
+
+
+
+
+
+=
+ 
+Differentiate w.r.t x, 
+2
+1
+1
+log
+log 2
+log
+log 2
+1
+log
+log 2
+e
+e
+e
+e
+e
+e
+dy
+x
+dx
+x
+dy
+dx
+x
+x
+=
+×
+=
+ 
+ 
+67. Consider the expression, 
+2
+log
+, for 0
+2
+3
+3
+x
+y
+x
+x
+x
+
+
+=
+<
+<
+
+
+−
+
+
+ 
+Differentiate w.r.t x, 
+1
+3
+log
+2
+3
+2
+3
+2
+log
+2
+3
+2
+3
+dy
+x
+x
+dx
+x
+x
+x
+dy
+x
+dx
+x
+x
+−
+
+
+
+
+=
+−
++
+
+
+
+
+−
+−
+
+
+
+
+
+
+=
++
+
+
+−
+−
+
+
+ 
+Again differentiate the above, 
+
+ 
+ 
+ 
+(
+) (
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+1
+3
+3
+2
+3
+2
+3
+6
+2
+2
+3
+2
+3
+d y
+dx
+x
+x
+x
+x
+x
+x
+−
+−
+
+
+=
+−
++
+−
+
+
+−
+
+
+−
+=
++
+−
+−
+ 
+So, 
+2
+2
+2
+1
+6
+2
+at
+1 1
+2
+1
+2 2
+2
+24
+8
+32
+d y
+x
+dx
+
+
+=
+=
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
++
+=
+  
+ 
+68. Let, 
+( )
+1
+4
+y
+f x
+x
+=
+=
+ 
+And, 
+16
+2
+x
+x
+=
+∆=
+ 
+So, 
+
+ 
+ 
+ 
+3
+4
+1
+4
+dy
+y
+x
+dx
+x
+x
+−
+
+
+∆=
+∆
+
+
+
+
+
+
+=
+∆
+
+
+
+
+ 
+And, 
+( )
+1 1
+2
+4 8
+1
+16
+y
+
+∆=
+
+
+=
+ 
+And, 
+(
+)
+1
+4
+16
+2
+y =
+=
+ 
+So, 
+1
+2
+16
+2.0625
+y
+y
++ ∆=
++
+=
+ 
+ 
+69. Consider the function, 
+( )
+4
+3
+2
+3
+2
+6
+6
+4
+f x
+x
+x
+x
+x
+=
+−
+−
++
++
+ 
+So, 
+
+ 
+ 
+ 
+( )
+(
+)(
+)
+3
+2
+12
+6
+12
+6
+1
+6
+1
+1
+2
+f
+x
+x
+x
+x
+x
+x
+x
+′
+=
+−
+−
++
+
+
+=
+−
++
+−
+
+
+
+
+ 
+For maxima and minima, 
+( )
+0
+1
+1, 2
+f
+x
+x
+′
+=
+=
+ 
+Now, 
+( )
+(
+)
+(
+)
+1
+5 minimum
+1
+87 maximum
+2
+16
+f
+f
+=
+
+=
+
+
+
+
+ 
+So, 
+( )
+1
+167
+1
+2
+16
+f
+f 
+
++
+=
+
+
+
+
+ 
+ 
+70. Consider the function, 
+( )
+cos
+sin 2
+f x
+x
+x
+=
+−
+ 
+Is a continuous function in the interval 
+,
+2 2
+π π
+
+
+−
+
+
+
+
+ and 
+differentiable in interval 
+,
+2 2
+π π
+
+
+−
+
+
+
+
+. 
+Now according to Lagrange mean value theorem, 
+
+ 
+ 
+ 
+,
+2 2
+c
+π π
+
+
+∈−
+
+
+
+
+ 
+Such that, 
+( )
+2
+2
+2
+2
+f
+f
+f
+c
+π
+π
+π
+π
+
+
+
+
+−
+−
+
+
+
+
+
+
+
+
+′
+=
+
+
+−−
+
+
+
+
+ 
+This implies, 
+(
+)
+2
+2
+sin
+2cos 2
+0
+sin
+2
+4sin
+0
+4sin
+sin
+2
+0
+c
+c
+c
+c
+c
+c
+−
+−
+=
++
+−
+=
+−
+−
+=
+ 
+So, 
+1
+1
+1
+32
+sin
+8
+1
+33
+8
+1
+33
+sin
+8
+c
+c
+−
+±
++
+=
+±
+=
+
+
+±
+=
+
+
+
+
+ 
+ 
+71. Consider the given data, 
+2
+4
+at
+8 m
+dv
+dr
+r
+r
+dt
+dt
+π
+=
+=
+ 
+
+ 
+ 
+ 
+So, 
+(
+)
+4
+4
+64
+1
+m min
+64
+dr
+dt
+dr
+dt
+π
+π
+=
+=
+ 
+Then, 
+(
+)
+2
+2
+4
+4
+2
+1
+64
+64
+1 m
+min
+s
+r
+ds
+dr
+r
+dt
+dt
+π
+π
+π
+π
+=
+=
+
+
+=
+
+
+
+
+=
+ 
+ 
+72. Consider the expression, 
+(
+) (
+)
+(
+)
+(
+)
+(
+)
+2
+2
+1
+2
+1
+2
+1
+x
+A
+B
+C
+x
+x
+x
+x
+x
+=
++
++
+−
++
+−
++
+−
+∫
+ 
+Now by partial fraction, 
+(
+) (
+)
+(
+)
+(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)
+2
+2
+2
+1
+2
+1
+2
+1
+1
+2
+2
+1
+x
+A
+B
+C
+x
+x
+x
+x
+x
+x
+A x
+x
+B x
+C x
+=
++
++
+−
++
+−
++
+−
+=
+−
++
++
++
++
+−
+ 
+Compare the coefficients, 
+
+ 
+ 
+ 
+2
+1
+2
+,
+,
+9
+4
+9
+A
+B
+C
+=
+=
+= −
+ 
+So, 
+(
+)
+(
+)
+(
+)
+2
+3
+2
+1
+2
+3
+2
+9
+1
+3
+9
+2
+1
+2
+1
+1
+2
+log
+1
+log
+2
+9
+3
+1
+9
+1
+1
+2
+1
+log
+3
+1
+9
+2
+x
+dx
+dx
+dx
+dx
+x
+x
+x
+x
+x
+x
+x
+c
+x
+x
+c
+x
+x
+=
++
+−
+−
++
+−
++
+−
+
+
+=
+−
+−
+−
++
++
+
+
+−
+
+
+
+
+−
+= −
++
++
+
+
+−
++
+
+
+∫
+∫
+∫
+∫
+  
+ 
+73. Consider the integral, 
+(
+)
+2
+2
+4
+3
+2
+2
+1 log
+1
+2log
+1
+1
+1
+1
+log 1
+x
+x
+x
+I
+dx
+x
+dx
+x
+x
+x
+
+
++
++
+−
+
+
+=
+
+
+=
++
++
+
+
+
+
+∫
+∫
+ 
+Let, 
+2
+2
+1
+1
+t
+x
++
+=
+ 
+Then, 
+3
+2
+2
+dx
+tdt
+x
+−
+=
+ 
+So, 
+
+ 
+ 
+ 
+2
+2
+2
+3
+3
+3
+3
+log
+2
+log
+1
+2
+log
+3
+3
+2
+2
+log
+3
+9
+I
+t
+t dt
+t
+tdt
+t
+t
+t
+dt
+t
+t
+t
+t
+c
+=
+= −
+
+
+
+
+= −
+−
+×
+
+
+
+
+
+
+
+
+= −
++
++
+∫
+∫
+∫
+ 
+Further simplify the above, 
+3
+2
+3
+2
+2
+2
+1
+1
+1
+1
+2
+3log
+1
+2
+3log 1
+9
+9
+t
+t
+c
+c
+x
+x
+
+
+
+
+
+
+
+
+−
++
+=
++
+−
++
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+74. Consider the expression, 
+(
+)
+(
+)
+(
+)(
+)(
+)
+2
+sin
+sin 2
+sin
+1
+2cos
+sin
+sin
+1
+2cos
+sin
+1
+cos
+1
+cos
+1
+2cos
+dx
+I
+x
+x
+dx
+x
+x
+xdx
+x
+x
+xdx
+x
+x
+x
+=
++
+=
++
+=
++
+=
+−
++
++
+∫
+∫
+∫
+∫
+ 
+Let cos x
+t
+=  then, 
+sin xdx
+dt
+−
+=
+ 
+So, 
+
+ 
+ 
+ 
+(
+)(
+)(
+)
+1
+1
+1
+2
+dt
+I
+t
+t
+t
+= −
+−
++
++
+∫
+ 
+By partial fraction, 
+(
+)(
+)(
+)
+(
+)(
+)
+(
+)(
+)
+(
+)(
+)
+1
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+2
+1
+1
+A
+B
+C
+t
+t
+t
+t
+t
+t
+A
+t
+t
+B
+t
+t
+C
+t
+t
+=
++
++
+−
++
++
+−
++
++
+=
++
++
++
+−
++
++
++
+−
+ 
+Then, 
+1
+1
+4
+,
+,
+6
+2
+3
+A
+B
+C
+−
+=
+=
+=
+ 
+So, 
+(
+)
+(
+)
+(
+)
+1
+1
+4
+6 1
+2 1
+3 1
+2
+1
+1
+2
+log 1
+cos
+log 1
+cos
+log 1
+2cos
+6
+2
+3
+dt
+dt
+dt
+I
+t
+t
+t
+x
+x
+x
+c
+= −
++
+−
+−
++
++
+=
+−
++
++
+−
++
++
+∫
+∫
+∫
+ 
+ 
+75. Consider the expression, 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+4
+4
+2
+4
+4
+4
+2
+2
+2
+2
+sec
+tan
+sec
+sec
+1
+2sec
+2sec
+1
+2 1
+tan
+sec
+2sec
+1
+I
+x
+x dx
+x
+x
+dx
+x
+x
+dx
+x
+x
+x
+dx
+=
++
+=
++
+−
+=
+−
++
+
+
+=
++
+−
++
+
+
+∫
+∫
+∫
+∫
+ 
+Then, 
+
+ 
+ 
+ 
+(
+)
+2
+2
+3
+2tan
+sec
+1
+2 tan
+3
+I
+x
+x
+dx
+x
+x
+c
+=
++
+=
++
++
+∫
+ 
+ 
+76. Consider the expression, 
+5
+5
+5
+5
+1
+2
+3
+lim
+sin
+sin
+sin
+sin
+6
+6
+6
+2
+n
+n
+n
+n
+n
+π
+π
+π
+π
+→∞
+
+
+
+
+
+
+
+
+
+
++
++
++
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Simplify the above, 
+5
+5
+5
+5
+3
+5
+1
+3
+5
+0
+1
+2
+3
+3
+lim
+sin
+sin
+sin
+sin
+6
+6
+6
+6
+1
+lim
+sin
+6
+sin
+6
+n
+n
+n
+r
+n
+n
+n
+n
+n
+n
+r
+n
+n
+x dx
+π
+π
+π
+π
+π
+π
+→∞
+→∞
+=
+
+
+
+
+
+
+
+
+
+
++
++
++
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+=
+
+
+
+
+∑
+∫
+
+ 
+Let, 6 x
+t
+π
+=  
+Then for upper limit, 
+3,
+2
+x
+t
+π
+=
+=
+ 
+And for lower limit 
+6
+0,
+0 and
+x
+t
+dx
+dt
+π
+=
+=
+=
+ 
+So, 
+
+ 
+ 
+ 
+( )
+( )
+( )( )
+3
+5
+5
+2
+0
+0
+6
+sin
+sin
+6
+4 2
+6
+5 3 1
+16
+5
+x dt
+t dt
+π
+π
+π
+π
+π
+
+
+=
+
+
+
+
+
+
+=
+
+
+
+
+=
+∫
+∫
+ 
+ 
+77. Consider the expression, 
+(
+)
+2
+0 log
+sin 2
+e
+I
+x dx
+π
+= ∫
+ 
+Let 2x
+t
+=  
+For lower limit, 
+0,
+0
+x
+t
+=
+=
+ 
+And for upper limit 
+1
+,
+and
+2
+2
+x
+t
+dx
+dt
+π
+π
+=
+=
+=
+ 
+So, 
+( )
+( )
+0
+2
+0
+1
+log sin
+2
+log sin
+log 2
+2
+e
+e
+e
+I
+t dt
+t dt
+π
+π
+π
+=
+=
+= −
+∫
+∫
+ 
+ 
+ 
+
+ 
+ 
+ 
+78. The required area is given by, 
+(
+)
+2
+3
+2
+2
+0
+0
+2
+2
+8
+4 2
+3
+8 2 2 2
+3
+32
+3
+x
+xdx
+
+
+
+
+=
+
+
+
+
+
+
+=
+=
+∫
+ 
+ 
+79. Consider the differential equation, 
+2
+2
+2
+y
+px
+a p
+b
+=
++
++
+ 
+Then, 
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+0
+a p
+b
+y
+px
+a p
+b
+y
+p x
+xyp
+x
+a
+p
+xyp
+y
+b
++
+=
+−
++
+=
++
+−
+−
+−
++
+−
+=
+ 
+Thus, order and degree of differential equation is 1 and 2 
+respectively. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+80. Consider the differential equation, 
+(
+)
+(
+)
+2
+2
+2
+2
+1
+2
+1
+log
+1
+dx
+yx
+y
+dy
+dx
+y
+x
+dy
+dx
+ydy
+x
+x
+y
+c
++
+=
+=
+−
+=
+−
+−
+−
+=
++
+∫
+∫
+ 
+The above equation passes through (
+)
+2,0  so, 
+0
+c =
+ 
+So, the curve will be, 
+(
+)
+2
+1
+y
+x
+e−
+−
+=
+ 
+ 
+ 
+
+ 
+ 
+ 
+AP EAMCET-2018-Engineering-23 Apr-Shift-2 
+Solutions – Physics 
+ 
+ 
+81. The below table shows the significant figures of the given 
+numbers. 
+Number 
+Significant Figures 
+74.083 
+5 
+0.029 
+2 
+0.002407 
+4 
+7
+2.47 10
+×
+  
+3 
+ 
+82. From the graph, centre of circle is (2, 0) and radius is 2. 
+The equation of the circle is, 
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+0
+2
+2
+4
+s
+v
+s
+v
+−
++
+−
+=
+−
++
+=
+  
+Differentiate above equation with respect to time, 
+(
+)
+(
+)
+2
+2
+2
+0
+2
+2
+2
+0
+ds
+dv
+s
+v
+dt
+dt
+s
+v
+va
+−
++
+=
+−
++
+=
+  
+Apply the condition; at 
+2
+2
+s =
+−
+, 
+2
+v =
+ 
+
+ 
+ 
+ 
+(
+)
+2
+2 2
+2
+2
+2
+2 2
+0
+4
+2 2
+2 ms
+a
+a
+a
+−
+−
+−
+×
++
+=
+=
+=
+  
+ 
+83. From the first condition, 
+1
+1
+30
+10
+3 s
+t
+t
+=
+=
+  
+From the second condition, 
+2
+2
+2
+2
+1
+30
+10
+2
+6 s
+t
+t
+t
+=
+×
+=
+  
+So, 2
+1
+3 s
+t
+t
+−
+=
+  
+ 
+84. Initial velocity is calculated as, 
+ˆ
+ˆ
+cos
+sin
+ˆ
+ˆ
+10 3cos60
+10 3sin60
+ˆ
+ˆ
+5 3
+15
+i
+i
+i
+v
+u
+i
+u
+j
+v
+i
+j
+v
+i
+j
+θ
+θ
+=
++
+=
+° +
+°
+=
++
+  
+Final velocity is calculated as, 
+
+ 
+ 
+ 
+(
+)
+ˆ
+ˆ
+cos
+sin
+ˆ
+ˆ
+5 3
+5
+f
+f
+v
+u
+i
+u
+gt j
+v
+i
+j
+θ
+θ
+=
++
+−
+=
+−
+  
+The dot product of both velocities is, 
+25 3 15 5
+0
+i
+f
+i
+f
+v v
+v v
+⋅
+=
+× −
+×
+⋅
+=
+  
+The dot product is zero, so both the velocities are 
+perpendicular to each other. 
+i
+f
+v
+v
+⊥
+  
+ 
+85. The expression of the normal force is, 
+(
+)
+2
+2
+2
+2
+N
+k x
+m g
+=
++
+  
+Substitute values in above expression. 
+(
+)(
+)(
+)
+(
+) (
+)
+2
+2
+2
+2
+3
+1 0.100
+9.8
+0.100
+9.8
+2.55 N
+N
+L
+L
+N
+
+
+
+
++
+
+
+
+
+=
++
+
+
+
+
+
+
+
+
+
+
+=
+  
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+86. Consider the figure, 
+ 
+The motion equation for the rocket is, 
+(
+)
+When
+0
+ext
+ext
+dv
+dm
+m
+F
+v
+dt
+dt
+dv
+dm
+m
+v
+F
+dt
+dt
+=
++
+=
+=
+  
+Solve above equation, 
+log
+log
+dv
+dm
+v
+m
+v
+m
+C
+=
+=
++
+∫
+∫
+  
+Apply the condition, at 
+0
+v = , 
+0
+m
+m
+=
+  
+0
+0
+0
+log
+log
+m
+C
+C
+m
+=
++
+= −
+  
+Thus, 
+0
+0
+log
+at
+v
+v
+m dt
+v
+m
+m
+m e
+−
+∆=
+=
+  
+ 
+
+ 
+ 
+ 
+87. Consider the figure, 
+ 
+Given condition, (
+)
+(
+)
+2
+KE
+PE
+=
+  
+Substitute values, 
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+1
+2
+2
+1
+2
+2
+2
+1 2
+2
+2
+2
+3
+mv
+mgh
+gx
+g H
+x
+gx
+g H
+x
+H
+x
+=
+=
+−
+=
+−
+=
+  
+Thus the height of the particle is 
+3
+H
+H
+x
+−
+=
+. 
+The speed of the particle is,
+2
+2
+2
+3
+3
+H
+gH
+v
+g 
+
+=
+=
+
+
+
+
+. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+88. Consider the figure, 
+ 
+From figure, 
+sin
+sin
+h
+h
+R
+R
+dl
+Rd
+θ
+θ
+θ
+=
+⇒
+=
+=
+  
+The mass of dl length of the chain is, 
+m
+dm
+dl
+l
+=
+  
+The potential energy of the dm mass is, 
+(
+)
+2
+sin
+dU
+dm gh
+mgh
+dU
+dl
+l
+mgh
+dU
+Rd
+l
+mgR
+dU
+d
+l
+θ
+θ θ
+=
+=
+=
+=
+  
+The potential energy of the complete chain is calculated as, 
+
+ 
+ 
+ 
+/2
+/2
+2
+/2
+/2
+2
+sin
+sin
+U
+dU
+mgR
+U
+d
+l
+mgR
+l
+U
+l
+R
+π
+θ
+π
+π
+θ
+π
+θ θ
+−
+−
+=
+=
+
+
+=
+
+
+
+
+∫
+∫
+  
+ 
+89. Consider the figure, 
+ 
+The expression of the angular momentum is,  
+1
+L
+mvr
+=
+  
+Substitute values. 
+2
+2
+2
+1
+10
+15 8
+3
+4
+240 kg m s
+L
+L
+−
+=
+× ×
++
+=
+⋅
+  
+ 
+ 
+
+ 
+ 
+ 
+90. The torque on the pulley is, 
+I
+τ
+α
+=
+  
+Substitute values. 
+2
+2
+2
+MR
+mgR
+mg
+MR
+α
+α
+=
+=
+  
+The acceleration of the rope is calculated as, 
+2
+2
+a
+R
+mg
+R
+MR
+mg
+M
+α
+=
+
+
+=
+
+
+
+
+=
+  
+Substitute values. 
+( )(
+)
+2
+2 1 10
+8
+10 ms
+4
+a
+a
+−
+=
+=
+  
+The speed of bucket is calculated as, 
+
+ 
+ 
+ 
+(
+)
+1
+1
+2
+10
+2
+16
+4
+8.6 ms
+8 ms
+v
+aS
+v
+v
+v
+−
+−
+=
+
+
+=
+
+
+
+
+=
+≈
+  
+ 
+91. Given, 
+5sin 4
+3
+y
+t
+π
+
+
+=
++
+
+
+
+
+  
+So, the angular velocity is, 
+4
+ω =
+  
+The time period is, 
+2
+2
+s
+4
+2
+T
+π
+π
+π
+ω
+=
+=
+=
+  
+The time is, 
+s
+4
+8
+T
+t
+π
+=
+=
+  
+The expression of velocity is, 
+5sin 4
+3
+20cos 4
+3
+dy
+v
+dt
+d
+v
+t
+dt
+v
+t
+π
+π
+=
+
+
+
+
+=
++
+
+
+
+
+
+
+
+
+
+
+=
++
+
+
+
+
+  
+The velocity at 
+s
+8
+t
+π
+=
+ is, 
+
+ 
+ 
+ 
+1
+20cos 4 8
+3
+20 3 ms
+2
+v
+v
+π
+π
+−
+
+
+
+
+=
++
+
+
+
+
+
+
+
+
+= −
+  
+The kinetic energy of particle is calculated as, 
+2
+2
+1
+2
+1
+2
+20 3
+2 1000
+2
+0.3 J
+K
+mv
+K
+K
+=
+
+
+
+
+=
+−
+
+
+
+
+
+
+
+=
+  
+ 
+92. The expression of the initial force is, 
+2
+1
+2
+Gm
+F
+r
+=
+  
+The masses after the transformation of 20% mass from on 
+body to another are, 
+1
+2
+80
+120
+and
+100
+100
+m
+m
+m
+m
+=
+=
+  
+The expression of final force is, 
+2
+2
+2
+24
+25
+Gm
+F
+r
+
+
+=
+
+
+
+
+  
+The reduction in final force is calculated as, 
+
+ 
+ 
+ 
+1
+2
+1
+2
+1
+%reduction
+100%
+1
+100%
+4%
+F
+F
+F
+F
+F
+−
+=
+×
+
+
+=
+−
+×
+
+
+
+
+= −
+  
+ 
+93. The spring constant for rod is, 
+1
+YA
+k
+L
+=
+  
+The equivalent spring constant after series connection of rod 
+and spring is calculated as, 
+1 2
+1
+2
+/
+eq
+k k
+k
+k
+k
+kYA L
+YA
+k
+L
+kYA
+kL
+YA
+=
++
+=
++
+=
++
+  
+The time period of oscillation is, 
+(
+)
+2
+2
+eq
+m
+T
+k
+m kL
+YA
+T
+kYA
+π
+π
+=
++
+=
+  
+
+ 
+ 
+ 
+ 
+94. The free body diagram of the system is shown below. 
+ 
+The condition when the system achieves terminal velocity is, 
+(
+)
+(
+)
+(
+)
+3
+3
+0
+4
+6
+3
+net
+f
+A
+B
+A
+B
+A
+B
+F
+g r
+r
+v r
+r
+m
+m
+g
+πρ
+πη
+=
++
++
++
+=
++
+  
+Substitute values. 
+(
+)(
+) (
+)
+(
+)
+( ) (
+)
+(
+)
+(
+)
+(
+)
+(
+)
+3
+3
+3
+3
+1
+1
+0.002
+4
+2800 10
+0.002
+4
+3
+2800
+10
+0.004
+3
+0.004
+6
+1
+0.002
+0.004
+0.04 ms
+4 cms
+v
+v
+v
+π
+π
+π
+−
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
++
+
+
+
+
+
+
++
+
+
+
+
++
++
+
+
+=
+=
+  
+
+ 
+ 
+ 
+ 
+95. A refrigerator (works as a heat engine ) is a device that 
+extracts heat from a low temperature reservoir and transfers it 
+to a high temperature reservoir.  
+So, after opening of the door of refrigerator, it exhausts more 
+heat into the room than it extracts from it. Hence, the room 
+gets hotter. 
+Thus, the assertion is false but reason is true. 
+ 
+96. From the conservation of energy, 
+2
+2
+Heat Gain
+Heat Generated
+mL
+I Rt
+I Rt
+m
+L
+=
+=
+=
+  
+Substitute values. 
+(
+) (
+)(
+)
+2
+10
+20
+60
+79.7
+4.2
+359 g
+m
+m
+=
+×
+=
+  
+ 
+97. From the graph, 
+
+ 
+ 
+ 
+constant
+V
+T
+V
+T
+∝
+=
+  
+Thus, the process is a constant pressure process. 
+The expression of the work done is, 
+2
+5
+5
+2
+P
+W
+p V
+W
+nR T
+Q
+W
+nR nC
+QR
+W
+Q
+R
+∆
+=
+∆
+∆
+=
+∆
+
+
+∆
+∆
+=
+
+
+
+
+∆
+∆
+=
+=
+∆
+  
+Substitute values, 
+(
+)
+(
+)
+2 5 cal
+5
+4.2 J
+2 cal
+1cal
+8.4 J
+W
+W
+W
+∆
+=
+
+
+∆
+=
+
+
+
+
+∆
+=
+  
+ 
+98. Given equation, 
+3
+2
+3
+constant
+2
+pV
+γ
+=
+⇒
+=
+  
+From the gas equation, 
+
+ 
+ 
+ 
+1
+1
+constant
+i
+f
+i
+f
+TV
+V
+T
+T V
+γ
+γ
+−
+−
+=
+
+
+=
+
+
+
+
+
+
+  
+Substitute values. 
+3 1
+2
+2
+2
+f
+f
+f
+f
+V
+T
+T
+V
+T
+T
+−
+
+
+=
+
+
+
+
+
+
+=
+  
+ 
+99. The expression of the rms velocity is, 
+3
+rms
+RT
+v
+M
+=
+  
+For temperature 
+1T , the rms velocity is, 
+1
+3
+600
+RT
+M
+=
+                                ...... (I) 
+For temperature 
+2T , the rms velocity is, 
+(
+)
+(
+)
+1
+1
+3
+2
+/ 2
+3
+2
+rms
+rms
+R
+T
+v
+M
+RT
+v
+M
+′
+=
+′
+=
+                            ...... (II) 
+
+ 
+ 
+ 
+(
+)
+1
+2
+2 600
+1200 ms
+rms
+rms
+rms
+rms
+v
+v
+v
+v
+−
+′
+=
+′
+=
+′
+=
+  
+ 
+100. The wavelength is calculated as, 
+360
+500
+36
+50
+v
+f
+λ
+λ
+λ
+=
+=
+=
+  
+The path difference is, 
+360
+x
+θ
+λ
+∆=
+×
+°
+  
+Substitute values. 
+60
+36
+360
+50
+0.12 m
+x
+x
+°
+
+
+∆=
+×
+
+°
+
+
+∆=
+  
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+101. The maximum speed of O is, 
+(
+)(
+)
+1
+0.5
+40
+20 ms
+m
+v
+aω
+−
+=
+=
+=
+  
+The expression of the maximum frequency is, 
+observer
+max
+source
+c
+v
+f
+f
+c
+v
+
+
++
+=
+
+
+−
+
+
+  
+Substitute values, 
+(
+)
+max
+max
+340
+20
+288
+340
+20
+324 Hz
+f
+f
++
+
+
+=
+
+
+−
+
+
+=
+  
+ 
+102. Given, for object, 
+2 cm
+and
+1.5 cm
+u
+f
+= −
+=
+ 
+The lens formula is, 
+1
+1
+1
+v
+u
+f
+−
+=
+  
+Substitute values. 
+(
+)
+1
+1
+1
+2
+1.5
+6 cm
+v
+v
+−
+=
+−
+=
+  
+Given, for eyepiece, 
+
+ 
+ 
+ 
+25 cm and
+6.25 cm
+v
+f
+= −
+=
+  
+By the lens formula, 
+1
+1
+1
+25
+6.25
+5 cm
+u
+u
+=
+−
+−
+= −
+  
+The distances is shown below, 
+ 
+Thus the distance between two lenses is 11 cm. 
+ 
+103. Consider the figure, 
+ 
+The expression of the intensity is, 
+
+ 
+ 
+ 
+2
+0
+4
+cos 2
+I
+I
+φ
+=
+                         ...... (I) 
+Here,  
+2
+sin
+2
+2
+2
+d
+d
+x
+D
+x
+D
+d
+x
+π
+φ
+θ
+λ
+π
+φ
+λ
+π
+φ
+λ
+π
+φ
+β
+=
+
+
+=
+
+
+
+
+= 
+
+
+
+
+
+=
+  
+From equation (I), 
+2
+0
+4
+cos
+x
+I
+I
+π
+β
+
+
+=
+
+
+
+
+  
+ 
+104. The acceleration of α  particle is, 
+2
+4
+r
+qE
+eE
+a
+m
+=
+=
+  
+The acceleration of photon is, 
+1
+P
+P
+eE
+a
+a
+eE
+=
+=
+  
+
+ 
+ 
+ 
+Both the particles travel same distance in time 1t  and 2t . So, 
+from the displacement equation, 
+2
+2
+1
+2
+2
+2
+2
+1
+2
+1
+1 2
+1
+2
+4
+2
+1
+1
+2
+1
+2
+eE
+eE
+t
+t
+t
+t
+t
+t
+
+
+
+
+=
+
+
+
+
+
+
+
+
+=
+=
+  
+ 
+105. In the question, the information about the masses of balls is 
+not given. 
+ 
+106. Given, 
+(
+)
+1
+ˆ
+ˆ
+3
+4
+Vm
+E
+i
+yj
+−
+=
++
+
+                        ...... (I) 
+The standard equation of electric field is, 
+ˆ
+ˆ
+y
+x
+V
+V
+E
+i
+j
+x
+y
+−∂
+−∂
+=
++
+∂
+∂
+
+                       ...... (II) 
+From equation (I) and (II), 
+3
+3
+x
+x
+V
+V
+x
+x
+−∂
+=
+⇒
+= −
+∂
+  
+
+ 
+ 
+ 
+2
+4
+2
+y
+y
+V
+y
+V
+y
+y
+−∂
+=
+⇒
+= −
+∂
+  
+The potential function is, 
+(
+)
+2
+3
+2
+V
+x
+y
+= −
++
+  
+The potential function at point (2, 1) is, 
+(
+)
+2
+3 2
+2 1
+8 V
+V
+V
+= −
+×
++ ×
+= −
+  
+ 
+107. The equivalent capacitance of the system is calculated as, 
+1
+1
+1
+3
+4
+2
+1
+1
+1
+3
+6
+2 μF
+eq
+eq
+eq
+C
+C
+C
+=
++
++
+=
++
+=
+  
+The charge taken from source is, 
+(
+)(
+)
+6
+2 10
+1800
+3600 μC
+eq
+eq
+eq
+eq
+q
+C
+V
+q
+q
+−
+=
+∆
+=
+×
+=
+  
+The potential drop across capacitor C1 is, 
+
+ 
+ 
+ 
+1
+1
+1
+6
+1
+6
+1
+3600 10
+3 10
+1200 V
+C
+C
+q
+C
+C
+C
+C
+−
+−
+=
+×
+=
+×
+=
+  
+The potential drop across combination of 4 μF and 2 μF 
+capacitors is, 
+1800 1200
+600 V
+V
+V
+′
+∆
+=
+−
+′
+∆
+=
+  
+The charge on 4 μF capacitor is, 
+(
+)(
+)
+2
+2
+6
+2
+3
+2
+4 10
+600
+2.4 10
+C
+q
+C
+V
+q
+q
+−
+−
+′
+=
+∆
+=
+×
+=
+×
+  
+The charge on 2 μF capacitor is, 
+(
+)(
+)
+3
+3
+6
+3
+3
+3
+2 10
+600
+1.2 10
+C
+q
+C
+V
+q
+q
+−
+−
+′
+=
+∆
+=
+×
+=
+×
+  
+ 
+ 
+ 
+
+ 
+ 
+ 
+108. Consider the circuit diagram, 
+ 
+As, the resistance of portion B is higher, so there is greater 
+potential drop across B occur. 
+The expression of the power output is, 
+2
+V
+P
+R
+=
+  
+From the above equation, least value of the resistance results 
+in higher power output. 
+Thus, 4 Ω bulb will glow with maximum intensity. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+109. The distribution of current in circuit is shown below, 
+ 
+The expression of power across the resistors is, 
+2
+2
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+3
+3
+3
+4
+9
+2
+9
+27
+3
+9
+P
+I R
+i
+P
+I R
+i
+P
+I R
+i
+i
+=
+=
+=
+=
+=
+=
+=
+  
+The ratio of power is, 
+1
+2
+3
+:
+:
+4: 2: 27
+P P
+P =
+  
+ 
+110. The expression of force is, 
+0 1 2
+2
+i i
+F
+x
+µ
+π
+=
+  
+The expression of the work done is, 
+2d
+d
+W
+Fdx
+= ∫
+  
+Substitute values. 
+
+ 
+ 
+ 
+[
+]
+(
+)
+2
+0 1 2
+2
+0 1 2
+0 1 2
+2
+log
+2
+log 2
+2
+d
+d
+d
+e
+d
+e
+i i
+W
+dx
+x
+i i
+W
+x
+i i
+W
+µ
+π
+µ
+π
+µ
+π
+=
+=
+=
+∫
+  
+ 
+111. The expression of the magnetic induction is, 
+(
+)
+0
+1
+2
+sin
+sin
+4
+I
+B
+r
+µ
+θ
+θ
+π
+=
++
+  
+Substitute values, 
+(
+)(
+)
+(
+)
+7
+2
+5
+4
+10
+30
+16
+16
+20
+20
+4
+12 10
+4 10
+T
+0.4 gauss
+B
+B
+B
+π
+π
+−
+−
+−
+×
+
+
+=
++
+
+
+×
+
+
+=
+×
+=
+  
+ 
+112. The total dipole moment of sample is calculated as, 
+( )
+(
+) (
+)
+0
+24
+23
+1
+10
+3 10
+2 10
+100
+6 JT
+N
+c
+µ
+µ
+µ
+µ
+−
+−
+=
+
+
+=
+×
+×
+×
+×
+
+
+
+=
+  
+From Curie’s law, 
+
+ 
+ 
+ 
+1
+2
+1
+2
+B
+m
+T
+B
+B
+T
+T
+∝
+=
+  
+Substitute values. 
+2
+2
+2
+990
+6
+880
+2.1
+3.5
+11.25 A m
+B
+B
+×
+=
+=
+⋅
+  
+ 
+113. The expression of the self inductance of coil is, 
+2
+0
+0
+2
+2
+B
+N
+L
+I
+I
+N
+L
+R
+I
+R
+NR
+L
+L
+R
+φ
+µ
+π
+πµ
+=
+=
+×
+=
+∝
+  
+Thus, 
+2
+2
+1
+1
+L
+N
+L
+N
+=
+  
+Substitute values, 
+
+ 
+ 
+ 
+2
+2
+500
+108
+600
+90 mH
+L
+L
+=
+=
+  
+ 
+114. From the given expression of emf and current, the current 
+leads by 4
+π . So, the circuit must be maximum capacitive than 
+inductive. Thus, the circuit is either C, R series combination 
+or L, C and R series combination. 
+ 
+115. The wave number from the equation of wave is, 
+300
+k
+π
+=
+  
+Substitute the formula of wave number, 
+3
+2
+300
+6.67 10
+m
+π
+π
+λ
+λ
+−
+=
+=
+×
+  
+ 
+116. In the process of photoemission, one electron produces only 
+one proton. 
+The percentage of incident photons which produces current in 
+photocells is, 
+
+ 
+ 
+ 
+100
+n
+I
+t
+Ihc
+I
+ePλ
+=
+=
+  
+ 
+117. Consider the figure, 
+ 
+The expression of wavelength 
+1λ  is, 
+1
+2
+n
+hc
+E
+λ
+→
+= ∆
+                           ...... (I) 
+The expression of wavelength 
+2
+λ  is, 
+2
+1
+n
+hc
+E
+λ
+→
+= ∆
+                            ...... (II) 
+From equation (I) and (II), 
+
+ 
+ 
+ 
+(
+)
+1
+2
+2
+2
+2
+1
+2
+1
+13.6
+13.6
+13.6
+13.6
+4
+1
+4
+4
+n
+n
+n
+λ
+λ
+λ
+λ
+λ
+λ
+
+
+
+
+−
+=
+−
+
+
+
+
+
+
+
+
+−
+=
+−
+  
+ 
+118. From the expression of the radioactive decay, 
+0
+1
+2
+n
+N
+N 
+
+=
+
+
+
+
+  
+Substitute values. 
+(
+)
+0
+0
+0
+0
+100
+93.75
+1
+100
+2
+6.25
+1
+100
+2
+1
+625
+2
+10000
+4
+n
+n
+n
+N
+N
+N
+N
+n
+−
+
+
+=
+
+
+
+
+
+
+=
+
+
+
+
+
+=
+
+
+
+
+=
+  
+ 
+119. Given, the current amplification factor is, 
+0.95
+α =
+  
+The gain is calculated as, 
+
+ 
+ 
+ 
+1
+0.95
+1 0.95
+19
+α
+β
+α
+β
+β
+= −
+= −
+=
+  
+The change in collector current is calculated as, 
+(
+)( )
+19
+2
+38 μA
+C
+B
+C
+C
+I
+I
+I
+I
+β
+∆
+=
+∆
+∆
+=
+∆
+=
+  
+ 
+120. The expression of the area covered by transmission is, 
+2
+A
+Rh
+A
+h
+π
+=
+∝
+  
+Thus, if the height of tower is increased by 30%, the area 
+covered by transmission is also increased by 30%. 
+ 
+ 
+
+ 
+ 
+ 
+AP EAMCET-2018-Engineering-23 Apr-Shift-2 
+Solutions – Chemistry 
+ 
+ 
+121. The total energy can be calculated as: 
+Total energy
+KE
+4.80
+0.220
+5.0 eV
+o
+ω
+=
++
+=
++
+=
+  
+Since we know that 1 eV is equal to 
+19
+1.6021 10
+J
+−
+×
+  
+Therefore, 5 eV will be equal to 
+19
+19
+5 1.6021 10
+J
+8.010 10
+J
+−
+−
+×
+×
+=
+×
+ 
+The frequency is calculated as: 
+( )
+(
+)
+Total Energy
+Frequency
+h Plancks constant
+v =
+ 
+Substitute the values 
+( )
+19
+34
+15
+8.010 10
+Frequency v
+6.626 10
+1.21 10
+Hz
+−
+−
+×
+=
+×
+=
+×
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+122. The ratio can be calculated as: 
+( )
+(
+)
+(
+)
+( )
+2
+2
+Li
+H
+H
+Li
+3
+1
+Z
+r
+r
+Z
++
++
+=
+=
+ 
+ 
+123. (i) In the periodic table, around 78% of elements are metals. 
+(ii) The metallic character increases as we move from to bottom 
+in a group and non-metallic character increases as we move 
+from left to right in a period. 
+(iii) The element Ho belongs to f-block. 
+Therefore, statements (i) and (iii) are correct. 
+ 
+124. The dipole moment of 
+2
+H O is higher than 
+3
+3
+NH and NF  
+because oxygen being more electronegative than nitrogen 
+withdraws the bonding electrons to a greater extent. 
+Therefore, the correct order is, 
+2
+3
+3
+H O
+NH
+NF
+>
+>
+ 
+ 
+
+ 
+ 
+ 
+125. The molecular orbital configuration of species 
+2
+2
+O − is shown 
+below. 
+(
+) (
+) (
+) (
+) (
+) (
+)
+(
+) (
+)
+(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+*
+*
+*
+*
+2
+O
+:
+,
+,
+2
+,
+2
+,
+,
+,
+z
+x
+y
+x
+y
+s
+s
+s
+s
+p
+p
+p
+p
+p
+σ
+σ
+σ
+σ
+σ
+π
+π
+π
+π
+−
+1
+1
+2
+2
+≈
+2
+2
+≈
+2
+ 
+In bonding orbitals, there are total 10 electrons. 
+In antibonding orbitals, there are total 8 electrons. 
+ 
+126. Since we know that the most probable speed of a compound is 
+inversely proportional to the square root of its molar mass. 
+Therefore, 
+2
+1
+3
+M
+M
+M
+>
+>
+ 
+ 
+127. Molarity of HCl (
+)
+1
+M
+ is 0.1 M 
+Molarity of 
+(
+)
+2
+3
+2
+Na CO
+M
+ can be calculated as: 
+( )
+2
+3
+2
+Mass of Na CO
+1000
+M
+Molar mass
+Volumr L
+0.106 1000
+106 20
+0.05
+×
+=
+×
+×
+=
+×
+=
+  
+The volume of HCl (
+)
+1
+V  required can be calculated as: 
+
+ 
+ 
+ 
+1 1
+1
+2
+2
+2
+2
+2
+2
+1
+1
+1
+0.05 20
+2
+0.1 1
+20 mL
+M V Z
+M V Z
+M V Z
+V
+M Z
+=
+=
+×
+×
+=
+×
+=
+ 
+ 
+128. The molar mass of carbon dioxide is 44 g/mol. 
+Therefore, heat released by 
+2
+CO  is: 
+394 17.6
+Heat released
+44
+157.6 kJ
+−
+×
+=
+= −
+ 
+ 
+129. The given reaction is: 
+( )
+( )
+( )
+g
+g
+2 g
+2NOCl
+2NO
+Cl
++
+
+ 
+For the above reaction, the value of n
+∆ can be calculated as: 
+Moles of gaseous products
+Moles of gaseous reactants
+3
+2
+=1
+n
+∆=
+−
+=
+−
+ 
+The equilibrium constant (
+)
+c
+K
+can be calculated as: 
+
+ 
+ 
+ 
+(
+)
+(
+)
+1
+4
+6
+4.157 10
+0.083 1000
+5 10
+n
+p
+c
+c
+c
+K
+K
+RT
+K
+K
+∆
+−
+−
+=
+×
+=
+×
+= ×
+ 
+ 
+130. First, we will calculate degree of ionization as follows: 
+a
+5
+3
+2.5 10
+1
+5 10
+K
+C
+α
+−
+−
+=
+×
+=
+= ×
+ 
+The dissociation of HCl is shown below: 
+HOCl
+H
+OCl
+Initial concentration
+1
+0
+0
+Final
+0
+α
+α
++
+−
+
+
+
+
+→
++
+
+
+
+
+  
+The concentration of H+ions is equal to 
+3
+5 10
+α
+−
+=
+×
+. 
+The pH of solution can be calculated as : 
+(
+)
+3
+pH
+log H
+log 5 10
+2.3
++
+−
+
+
+= −
+
+
+= −
+×
+=
+ 
+ 
+
+ 
+ 
+ 
+131. The reactions are shown below. 
+(i) 
+( )
+( )
+2
+2
+2
+2 g
+2 g
+2HOCl
+H O
+2H O
+Cl
+O
++
+→
++
++
+ 
+(ii) 
+( )
+2
+2
+4
+2
+2
+2
+3H O
+2KMnO
+3O
+2MnO
+2KOH
+2H O
+g
++
+→
++
++
++
+ 
+(iii) 
+( )
+2
+2
+2
+2 g
+H O
+I
+2HI
+O
++
+→
++
+ 
+(iv) 
+2
+2
+4
+2
+PbS
+4H O
+PbSO
+4H O
++
+→
++
+ 
+Therefore, in reaction (iv), oxygen gas does not liberate. 
+ 
+132. 
+2
+2
+M O
+M
+OH
+X
++
+−
+→
++
++
+ 
+In the above reaction, X is 
+2
+O   
+2
+2
+M O
+M
+OH
+O
+Y
++
+−
+′
+→
++
++
++
+ 
+In the above reaction, Y is 
+2
+2
+H O   
+ 
+133. (i) The atomic radius of Al is higher than the atomic radius of 
+Ga. It is due to the presence of greater screening effect in 
+aliuminium. Ga shows poor screening effect. 
+(ii) Many allotropic forms are shown by boron such as α − 
+rhombohedral, β − rhombohedral and β − tetragonal. 
+
+ 
+ 
+ 
+(iii) As we move from top to bottom in a group, melting point 
+decreases. Therefore, Ga shows lowest melting point in 
+group. 
+Therefore, statements (ii) and (iii) are correct. 
+ 
+134. 
+2
+GeX  is not more stable than 
+4
+GeX . 
+4
+GeX  shows greater screening effect. 
+Therefore, statement (2) is not correct. 
+ 
+135. Peroxyacetyl nitrate is a compound which is mainly 
+responsible for causing eye irritation in photochemical smog. 
+The structure of peroxyacetyl nitrate is shown below. 
+ 
+ 
+136. A) The resonance effect is shown by benzene (
+)
+6
+6
+C H
+ 
+B) Inductive effect is shown by 1- chloropropane 
+(
+)
+3
+2
+2
+CH
+CH
+CH Cl
+−
+−
+  
+C) Electromeric effect is shown by ethene a shown below. 
+
+ 
+ 
+ 
+ 
+D) Hyperconjugation effect is shown by ethane as shown below. 
+ 
+Therefore, 
+A
+B
+C
+D
+III
+V
+I
+II  
+ 
+137. In dehydrohalogentaion reaction, the order of reactivity order is 
+Tertiary
+Secondary
+Primary
+>
+>
+ 
+The reactivity order of alkyl halide is 
+I
+Br
+Cl
+F
+>
+>
+>
+ 
+Therefore, the rate of dehydrohalogenation of 
+3
+2
+2
+CH CH CH Cl 
+will be less. 
+ 
+138. When propyne reacts with HBr, it forms 2,2 dibromo propane 
+as shown below,. 
+
+ 
+ 
+ 
+ 
+ 
+139. In a unit cell of hexagonal closed packing structure, there are 
+total six number of oxide ions per unit cell. This means there are 
+6 octahedral voids are present. 
+The number of octahedral voids occupied by ferric ions can be 
+calculated as: 
+2
+6
+4
+3 ×
+=
+ 
+The ratio of metal and ion is 4:6
+2:3
+=
+. 
+Therefore, the correct formula of metal oxide is 
+2
+3
+M O . 
+ 
+140. The equation for Henry’s law is: 
+8
+8
+3
+334000 Pa
+1.67 10 Pa
+334000
+1.67 10
+2 10
+H
+p
+K x
+x
+x
+−
+=
+=
+×
+×
+=
+×
+=
+×
+ 
+
+ 
+ 
+ 
+The quantity of 
+2
+CO  can be derived as follows: 
+( )
+2
+2
+2
+2
+2
+2
+CO
+CO
+H O
+H O
+CO
+3
+3
+CO
+Mole fraction
+18
+2 10
+44 500
+2 10
+44 500
+18
+2.442 g
+m
+M
+x
+m
+M
+m
+m
+−
+−
+=
+×
+×
+=
+×
+×
+×
+×
+=
+=
+  
+ 
+141. The osmotic pressure is calculated as: 
+(
+)
+1000
+in mL
+iCRT
+i
+m
+RT
+M
+V
+π
+π
+=
+×
+×
+=
+×
+×
+ 
+Substitute all the values in the above expression. 
+3
+3
+3
+1 2.52 0.08206 300
+5.04 10
+1000
+300
+1 2.52 0.08206 300 1000
+300 5.04 10
+62037.36
+1.512
+41 10
+M
+M
+−
+−
+×
+×
+×
+×
+=
+×
+×
+×
+×
+×
+×
+=
+×
+×
+=
+=
+×
+ 
+
+ 
+ 
+ 
+ 
+142. First we will calculate conductivity as follows: 
+4
+1
+4
+1
+Conductivity
+3.12 10
+0.5S cm
+1.56 10
+S cm
+−
+−
+−
+−
+=
+×
+×
+=
+×
+ 
+The molar conductivity becomes equal to 
+4
+3
+1
+1.56 10
+Molar conductivity
+0.01
+1.56 S cm mol
+−
+−
+×
+=
+=
+ 
+1.56
+Degree of dissociation
+390
+0.004
+=
+=
+  
+Now, dissociation constant is calculated as: 
+(
+)
+(
+)
+2
+2
+5
+0.004
+Dissciation constant
+1
+0.004
+1.6 10−
+=
+−
+=
+×
+ 
+ 
+143. First we will compare expt. (1) and expt. (2) 
+The rate of reaction gets double when [B] is doubled 
+Therefore, reaction is of first order in B. 
+Now, we will compare expt. (2) and expt. (3) 
+The rate of reaction gets double when [C] is doubled 
+
+ 
+ 
+ 
+Therefore, reaction is of first order in C. 
+Now, compare expt. (3) and expt. (4) 
+The rate of reaction does not change when [A] is doubled 
+Therefore, reaction is of zero order in A. 
+The rate law expression can be written as: 
+[ ] [ ] [ ]
+0
+1
+1
+Rate law
+A
+B
+C
+k
+=
+  
+By inserting data of expt. (1) in the above expression, we obtain 
+[
+] [
+] [
+]
+0
+1
+1
+6
+6
+4
+1
+1
+2.4 10
+0.02
+0.1
+0.003
+2.4 10
+0.1 0.03
+8 10
+L mol
+s
+k
+k
+−
+−
+−
+−
+−
+×
+=
+×
+=
+×
+= ×
+ 
+ 
+144. In the hydrogenation of vegetable oil, the reactants and catalyst 
+exist in three different states. 
+ 
+145. Iron ores consists acidic impurities such as silica which react 
+with calcium carbonate to produce molten slag as shown below. 
+(
+)
+3
+2
+3
+2
+CaCO
+SiO
+CaSiO
+CO
+slag
++
+→
++
+↑ 
+ 
+
+ 
+ 
+ 
+146. The reactions taking place are shown below. 
+(
+)
+( )
+( )
+3
+2
+2
+3
+2
+3
+4
+3
+2
+2
+4
+Ca P
+6H O
+3Ca OH
+2PH
+X
+3PH
+3CuSO
+Cu P
+3H SO
+Y
++
+→
++
++
+→
++
+ 
+ 
+147. (i) ZnO, PbO and 
+2
+3
+Sb O  show characteristics of both acids and 
+bases as well. Therefore, they all amphoteric oxides. 
+(ii) CO and NO are oxygen poor compounds of non-metals. 
+Therefore, they all are neutral oxides. 
+(iii) 
+3
+2
+7
+2
+5
+CrO , Mn O , V O  form acidic oxides. 
+Thus, all statements are incorrect. 
+ 
+148. When fluoride reacts with water, it liberates oxygen as shown 
+below. 
+( )
+( )
+( )
+(
+)
+2
+2
+2
+2F g
+2H O l
+O
+g
+4HF aq
++
+→
++
+ 
+ 
+149. The negative cell potential (non-spontaneous) is shown by the 
+reaction of 
+2
+Cu
+with I
++
+−. For the reaction, the half-cell reduction 
+reaction is: 
+
+ 
+ 
+ 
+(
+)
+(
+)
+2
+2Cu
+aq
+2e
+2Cu
+aq
++
+−
++
++
+→
+ 
+The standard potential for the reaction is 0.154 V
++
+ 
+(
+)
+( )
+2
+2I
+aq
+I
+s
+2e
+−
+−
+→
++
+ 
+The standard potential for the reaction is 0.535 V
+−
+ 
+Therefore, the reaction is not possible. 
+ 
+150. No precipitate of AgCl is attained on reacting the compound 
+with 
+3
+AgNO . Therefore, the correct formula is 
+(
+)
+3
+3
+3
+Co NH
+Cl
+
+
+
+ 
+which is having coordination number 6, therefore, the secondary 
+valency is 6 as well. 
+ 
+151. The condensation reaction between nylon 6,6 produces Nylon-
+6,6 as shown below. 
+ 
+
+ 
+ 
+ 
+There are total six 
+2
+CH  groups in hexamethylene diamine and 
+four 
+2
+CH  groups in adipic acid. 
+ 
+152. Among the given saccharides, the reducing saccharides are 
+ribose, maltose and lactose as they are having free aldehydic or 
+ketonic groups. 
+ 
+153. Examples of antihistamine and cationic detergent are 
+dimethane and cetyl trimethyl ammonium chloride respectively. 
+ 
+154. In 
+N
+S 2 reaction, the nucleophile attacks the electrophilic 
+carbon of the electrophile. An intermediate is formed and as a 
+result, the bond between carbon and leaving group breaks as 
+shown below. 
+ 
+ 
+
+ 
+ 
+ 
+155. When ethyl magnesium bromide reacts with acetone, it forms 
+2-methyl butan-2-ol as shown below.  
+ 
+The structure of 2-methyl butan-2-ol is as follows: 
+ 
+ 
+156. In o-nitrophenol, intramolecular bonding is available as nitro 
+group is close to hydroxyl group. Therefore, the abstraction of 
+proton becomes difficult. Hence, its 
+a
+pk  will be least. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+157. The products (X) and (Y) formed are shown below. 
+ 
+ 
+158. The products (X) and (Y) formed are shown below. 
+ 
+ 
+159. As we know that the electron releasing groups decreases the 
+strength of acids and electron withdrawing groups increases the 
+strength of acids.  
+Nitro group (
+)
+2
+NO
+−
+ is an electron withdrawing group. 
+Methoxy (
+)
+3
+OCH
+−
+is an electron releasing group. 
+
+ 
+ 
+ 
+Acetic acid (
+)
+3
+CH COOH is an electron releasing group. 
+Therefore, the correct order is: 
+IV
+I
+II
+III
+> >
+>
+ 
+ 
+160. The products (X), (Y) and (Z) formed are shown below: 
+ 
+ 
+ 

@@ -1,0 +1,33 @@
+{
+  "source": "Vedantu",
+  "source_url": "https://www.vedantu.com/exams/ap-eamcet-question-paper-2018-24-april-morning",
+  "download_url": "https://www.vedantu.com/content-files-downloadable/exams/ap-eamcet-question-paper-online-2018-24-april-morning.pdf",
+  "title": "AP EAMCET 2018 Previous Year Question Papers with Solutions - 24th April 2018 Morning Shift ",
+  "subject_scope": null,
+  "stream": "Engineering",
+  "paper_id": "2018_2018-04-24_Shift_1_Engineering_f2820a6c",
+  "year": 2018,
+  "exam_date": "2018-04-24",
+  "shift": "Shift_1",
+  "subjects": [
+    "Chemistry",
+    "Mathematics",
+    "Physics"
+  ],
+  "paper_type": "question_paper",
+  "file_name": "question_paper_1b1f38ef92632b4f.pdf",
+  "pdf_path": "papers/2018/2018-04-24/Shift_1/Engineering/question_paper_1b1f38ef92632b4f.pdf",
+  "sha256": "f2820a6c8e5257ff6cad9b231fab55896ec15783a7c0f0bc1cda302d5eefae13",
+  "pages": 202,
+  "metadata_evidence": " \n \nAP EAMCET-2018-Engineering-24 Apr-Shift-1 \nMathematics  \n \n \n1. If \n( )\nf x  \nis \na \npolynomial \nfunction \nsatisfying \n( )\n( )\n( )\n1\n1\nf x\nf x\nf\nf x\nx\n\n\n⋅\n=\n+\n\n\n\n\n and ( )\n4\n257\nf\n=\n, then ( )\n3\nf\n= \n(1) 28 \n(2) 65 \n(3) 82 \n(4) 244 \n \n2. The set of all real values of x for which the real valued function \n( )\n1\n1\nx\nf x\nx\n\n\n=\n+\n\n\n\n\n is defined, is \n(1) (\n)\n0, ∞ \n(2) \n{ }\n0\n−\n\n \n(3) (\n)\n(\n)\n,\n1\n0,\n−∞−\n∪\n∞ \n(4) \n{\n}\n0,\n1\n−\n−\n\n \n \n\n \n \n3. Let \n(\n)\n1\n2\n1\n1\nn\nk\nn\nk\nS\nk\n−\n=\n=\n−\n⋅\n∑\n for \n1\nn ≥. Given that \n(\n)\n2\n2\n1\nn\nS\nn\nn\n= −\n+\n for \n1, 2, 3,........\nn =\n then \n77\nS\n= \n(1) −3003 \n(2) 3003 \n(3) −2926 \n(4) 2926 \n \n4. \n125\n5\n25\n343\n7\n49\n729\n9\n81\n= \n(1) 9! \n(2) 6! \n(3) 8!  \n(4) 7! \n \n5. Let matrix \n5\n3\n0\n3\n5\n0\n0\n0\n2\nA\n−\n\n\n\n\n= −\n\n\n\n\n\n\n, X be a non-zero matrix of order \n3 1\n×  and c be a real number. If \n2\nA X=cAX, then the number of \ndistinct value of c is \n(1) 3 \n\n \n \n(2) 2 \n(3) 1 \n(4) 0 \n \n6. A set of values of θ for which the system of equations \n(\n)\n(\n)\nsin3\n0\ncos2\n4\n3\n0\n2\n7\n7\n0\nx\ny\nz\nx\ny\nz\nx\ny\nz\nθ\n−\n+\n=\nθ\n+\n+\n=\n+\n+\n=\n \nhas non-trivial solutions, is \n(1) (\n)\n(\n)\n(\n)\n1\n1\n2\n4\nhere\nis an integer\nn\nn\nn\nπ\nπ\n−\n+ −\n \n(2) (\n)\n(\n)\n(\n)\n1\n1\n2\n3\nhere\nis an integer\nn\nn\nn\nπ\nπ\n−\n+ −\n \n(3) \n(\n)\n(\n)\n1\n2\n6\nhere\nis an integer\nn\nn\nn\nπ\nπ\n+ −\n \n(4) \n(\n)\n(\n)\n1\n6\nhere\nis an integer\nn\nn\nn\nπ\nπ + −\n \n \n\n \n \n7. The maximum value of modulus of \n2\nze  on the set \n( )\n( )\n{\n}\n/ 0\nRe\n1, 0\nIm\n1,\nz\nC\nz\nz\n∈\n≤\n≤\n≤\n≤\n is \n(1) 2\ne  \n(2) e \n(3) \n1\ne +  \n(4) \n2e  \n \n8. If \n1\nz ≠±  is a complex number and \n1\nArg\n1\n4\nZ\nZ\n−\nπ\n\n=\n\n\n+\n\n\n Then the \nlocus of Z in the Argand plane is \n(1) \n2\n2\n2\n1\n0\nx\ny\ny\n+\n−\n−=\n \n(2) \n2\n2\n2\n1\n0\nx\ny\ny\n+\n+\n−=  \n(3) \n2\n2\n2\n1\n0\nx\ny\nx\n+\n−\n+ =\n \n(4) \n2\n2\n2\n1\n0\nx\ny\nx\n+\n+\n+ =  \n \n9. If \n,\nn\nr\nr\nC\nC\n=\n then \n0\n4\n8\n12\n....\nC\nC\nC\nC\n+\n+\n+\n+\n= \n(1) \n1\n2\n2\n2\nsin\n2\n4\n2\nn\nn\nn\n−\n\n\nπ +\n\n\n\n \n\n \n \n(2) \n2\n2 sin 4\nn\nnπ \n(3) \n1\n2\ncos 4\nn\nn\n−\nπ  \n(4) \n1\n2\n2\n2\ncos\n2\n4\n2\nn\nn\nn\n−\n\n\nπ +\n\n\n\n \n \n10. One of the complex root of the equation \n11\n6\n5\n1\n0\nx\nx\nx\n−\n−\n+ =  is \n(1) \n3\ncis 5\nπ \n(2) cis 3\nπ \n(3) \n5\ncis 6\nπ  \n(4) \n7\ncis 5\nπ \n \n11. If the quadratic equation \n2\n2\n2\n1\n4sec\n2\n0\n2\nx\nx\n\n\nα⋅\n+\n+ β −β +\n=\n\n\n\n\n has \nreal roots, then the value of \n2\n1\ncos\ncos−\nα +\nβ is \n(1) 3\nπ \n\n \n \n(2) \n1\n3\nπ +   \n(3) 2\nπ \n(4) \n1\n2\nπ − \n \n12. The sum of non-real roots of (\n)(\n)\n2\n2\n3\n2\n12\n0\np\np\np\np\n+\n−\n+\n−\n−\n=  is \n(1) 1 \n(2) 1\n− \n(3) 6 \n(4) 6\n− \n \n13. The solution set of the inequation \n(\n)\n2\n6\n5\n8\nx\nx\nx\n+\n+\n>\n−\n is \n(1) (\n)\n8, ∞ \n(2) \n]\n59, 8\n22\n\n\n\n\n\n\n \n(3) 59,\n22\n",
+  "date_verification": "embedded PDF",
+  "answer_key_status": "Not Found",
+  "answer_key_type": "unavailable",
+  "extraction_status": "original_regions_and_native_text",
+  "metadata_path": "papers/2018/2018-04-24/Shift_1/Engineering/metadata_1b1f38ef92632b4f.json",
+  "question_count": 160,
+  "answers_mapped": 0,
+  "content_signature": null,
+  "text_path": "papers/2018/2018-04-24/Shift_1/Engineering/question_paper_1b1f38ef92632b4f_text.txt",
+  "additional_sources": []
+}

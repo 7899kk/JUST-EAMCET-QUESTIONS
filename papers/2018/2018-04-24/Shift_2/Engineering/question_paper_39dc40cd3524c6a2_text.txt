@@ -1,0 +1,830 @@
+ 
+ 
+      
+       
+www.vedantu.com 
+AP EAMCET 
+Engineering Entrance Exam 
+24th April 2018- Shift 2 
+ 
+Chemistry  
+ 
+1. If the kinetic energy of an electron of mass 9.0×10-31 kg is 
+8.0×10-25 J. the wavelength of this electron in nm is  
+A. 104.1  
+B. 276.2  
+C. 552.2  
+D. 828.4 
+2. The radius ratio of Bohr 's first orbit of hydrogen like 
+species He+.Li2+ and Be3+  
+A. 3:4:6  
+B. 2:3:4 
+C. 6:4:3 
+D. 4:3:2 
+3. The element Uuq contains 12.8% more neutrons compared 
+to protons. What is the approximate mass number of it?  
+A. 263  
+B. 253  
+C. 233  
+D. 243  
+4. Observe the following statements  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+i. The dipole moment of NH3 is higher than the dipole 
+moment of NF3.  
+ii. The dipole moment of chloroform is zero.  
+iii. Covalent bond character in NaCl is more compared to 
+CuCl.  
+The statements which are not correct are 
+A. I, iii 
+B. Ii, iii 
+C. i, Ii, iii 
+D. I, ii 
+5. The correct order of energy of 
+*
+*
+2
+2
+2
+2
+,
+,
+ and 
+p
+p
+p
+p
+σ
+σ
+π
+π
+orbitals in F2 
+is 
+A. 
+*
+*
+2
+2
+2
+2
+p
+p
+p
+p
+σ
+σ
+> π
+> π
+>
+ 
+B. 
+*
+*
+2
+2
+2
+2
+p
+p
+p
+p
+σ
+σ
+< π
+< π
+<
+ 
+C. 
+*
+*
+2
+2
+2
+2
+p
+p
+p
+p
+σ
+σ
+π
+>
+> π
+>
+ 
+D. 
+*
+*
+2
+2
+2
+2
+p
+p
+p
+p
+σ
+σ
+π
+<
+< π
+<
+ 
+6. If the most probable speed of methane at a certain 
+temperature is 400 ms-1, the kinetic energy of one mole of 
+methane at the same temperature in J is  
+A. 1024  
+B. 2048  
+C. 3072  
+D. 1920 
+7. Which of the following are disproportionation reactions ? 
+(A) 
+( )
+(
+)
+(
+)
+(
+)
+( )
+3
+2
+2
+2
+2
+2
+g
+ag
+ag
+ag
+l
+NO
+NaOH
+NaNO
+NaNO
+H O
++
+→
++
++
+ 
+(B) 
+( )
+(
+)
+(
+)
+(
+)
+( )
+2
+2
+2
+g
+ag
+ag
+ag
+l
+Cl
+NaOH
+NaClO
+NaCl
+H O
++
+→
++
++
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+(C) 
+3
+3
+2
+ClO
+Cl
+ClO
+−
+−
+−
+→
++
+ 
+(D) 
+( )
+( )
+( )
+3
+2
+2
+3
+s
+g
+s
+Mg
+N
+Mg N
++
+→
+ 
+A. A,B,D 
+B. B,C,D 
+C. B,C 
+D. A,B,C 
+8. If the work done dining the isothermal reversible expansion 
+of an ideal gas at a pressure of 10 atm from 4L to a final 
+volume is —184.24 L atm. the final volume of the gas in L 
+is  
+A. 40  
+B. 400  
+C. 8  
+D. 80  
+9. The equilibrium concentrations of N2. H2 and NH3 in the 
+formation of NH3 at 500 K are 1.25×10-2 M. 4.0×10-2 M 
+and 1.6×10-2 M respectively. The equilibrium constant Kp 
+at the same temperature is 
+A. 3.2(
+)
+2
+RT
+− 
+B. 32(
+)
+2
+RT  
+C. 320(
+)
+2
+RT  
+D. 320(
+)
+2
+RT
+− 
+10. If the pH of 0.10 M monoacidic base at 298 K is 9.0. the 
+value of Kb and pKb at me same temperature are 
+respectively 
+A. 
+9
+1.0 10 ,9.0
+−
+×
+ 
+B. 
+5
+1.0 10 ,5.0
+−
+×
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+C. 
+10
+1.0 10
+,10.0
+−
+×
+ 
+D. 
+4
+1.0 10 ,4.0
+−
+×
+ 
+11. 11. The correct statements from the following are :  
+i. Ca(OH)2 is used in Clark's method of removal of 
+temporary hardness of water  
+ii. 100 mL of 10 vol H2O2 . on complete decomposition 
+liberates 1L of oxygen at STP. 
+iii. Urea can be added to the solution of H2O2 as stabilizer.  
+A. i, iii 
+B. ii, iii 
+C. i, iii 
+D. i, ii, iii 
+12. Identify the answer in which. the trends corresponding to 
+hydroxides of group 2 elements (from Mg(OH)2 to 
+Ba(OH)2) are correctly shown 
+basic character chemical stability solubility decreases  
+ 
+A. increases increases decreases 
+B. decreases decreases decreases 
+C. decreases increases increases 
+D. increases increases increases  
+13. in which of the following reaction, H2 is liberated? 
+i. 
+( )
+(
+)
+HCl
+Al s
+aq → 
+ii. 
+( )
+(
+)
+Al s NaOH aq → 
+iii. 
+( )
+( )
+2
+6
+2
+B H
+g
+H O l
++
+→ 
+iv. 
+( )
+( )
+2
+2
+F
+g
+H O l
++
+→ 
+A. i, ii, iii, iv 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+B. i, ii, iv 
+C. i, ii, iii 
+D. ii, iii, iv 
+14. Identify the element whose monoxide and dioxide are 
+acidic in nature.  
+A. Sn  
+B. C  
+C. Ge 
+D. Pb  
+15. Methemoglobinemia is caused by the presence of X in 
+drinking water. X is 
+A. 1000 ppm of sulphate  
+B. 20 ppm of fluoride  
+C. 200 ppm of nitrate  
+D. 50 ppb of lead 
+16. The three dimensional structure of CH4 is given below. The 
+bonds are labelled as W. X. Y and Z. What are the bonds 
+lying in the plane (A). projecting out of the plane away 
+from the observer (B) and projecting out of the plane 
+towards the observer (C) ? 
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+A  
+B 
+C 
+A. X,Y 
+ 
+Z 
+W 
+A  
+B 
+C 
+B. Z   
+w 
+X,Y 
+A  
+B 
+C 
+C. X,Y 
+ 
+W 
+Z 
+A  
+B 
+C 
+D. W 
+X,Y Z 
+ 
+17. Assertion (A) : Reaction of 1-butene with HBr gives 1-
+bromobutane as major prgermm Reason (R) : Addition of 
+HBr to unsymmetrical alkenes proceeds according to 
+Markovnikov's rule  
+The correct answer is  
+A. (A) and (R) are correct. (R) is the correct explanation of 
+(A) 
+B. (A) and (R) are correct but (R) is not the correct 
+explanation of (A)  
+C. (A) is correct but (R) is not correct  
+D. (A) is not correct but (R) is correct 
+18. Which one of the following. is not aromatic ?  
+A. Cyclopentadienyl anion  
+B. Benzene  
+C. Cyclopentadienyl cation  
+D. Cyclopentadienyl cation  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+19. If a metal crystallises in a face centred cubic structure with 
+metallic radius of 25 pm. the number of unit cells in 1.0 
+cm3 of lattice is 
+A. 
+28
+2.282 10
+×
+ 
+B. 
+28
+1.414 10
+×
+ 
+C. 
+24
+1.414 10
+×
+ 
+D. 
+24
+2.828 10
+×
+ 
+ 
+20. Match the following.  
+List - I   
+ 
+ 
+List - II 
+A) Azeotrope   
+ 
+b
+b
+T
+iK m
+∆
+=
+ 
+B) Henry's law  
+ 
+ 
+H
+p
+K x
+=
+ 
+C) Cryoscopic constant  
+/
+fT
+m
+∆
+ 
+D) Van't Hoff factor 
+ 
+Deviation from Raoult’s law 
+CRT
+π =
+ 
+ 
+      (A) 
+ 
+(B)   
+(C)   
+(D) 
+A.   II 
+ 
+III  
+  V  
+IV 
+  (A) 
+ 
+(B)   
+(C)   
+(D) 
+B.   IV 
+ 
+II 
+ 
+III  
+  I 
+  (A) 
+ 
+(B)   
+(C)   
+(D) 
+C.   IV 
+ 
+II 
+ 
+  I 
+ 
+ III 
+  (A) 
+ 
+(B)   
+(C)   
+(D) 
+D.    I  
+ 
+III    
+II 
+ 
+ IV 
+21. The mass of ascorbic acid (C6H806) to be dissolved m 100 
+g of acetic acid to lower its freezing point by 1.5 °C in g is : 
+(Kf for acetic acid is 4.0 K kg molt )  
+A. 1 7.6  
+B. 8.8  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+C. 6.6  
+D. 13.2 
+22. At T(K). the molar conductivity of 0.04 M acetic acid is 7.8 
+S cm2 mol-1 . If the limiting molar conductivities of H+ and 
+CH3C00- at T(K) are 349 and 41 S cm2 mol-1 respectively. 
+the dissociation constant of acetic acid is 
+A. 
+5
+1.63 10−
+×
+ 
+B. 
+5
+8.33 10−
+×
+ 
+C. 
+4
+1.63 10−
+×
+ 
+D. 
+4
+8.33 10−
+×
+ 
+23. At T(K). if the rate constant of a first order reaction is 
+4.606×10-3 s-1. the time to reduce the initial concentration 
+of the reactant to 1/10 in seconds is :  
+A. 1500  
+B. 1000  
+C. 100  
+D. 50 
+24. Which one of the following statements is correct ?  
+A. The difference in the initial and final concentrations of 
+the adsorbate gives the value of 'x' in Freundlich 
+equation ( x = mass of adsorbate )  
+B. The mass of adsorbent gives the value of ‘n’ in 
+Freundlich equation  
+C. Chemisorption decreases with increase of surface area of 
+the adsorbent  
+D. Enthalpy of adsorption is 20 kJ mol-1 in chemisorption  
+25. Blister copper is extracted from copper pyrites. After 
+removal of slag FeSiO3. blister copper is obtained by  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+A. self reduction  
+B. reduction with CO 
+C. reduction with coke 
+D. self oxidation 
+26. Which one of the following is used to remove moisture 
+from ammonia gas ?  
+A. P4 O10  
+B. Anhydrous CaCl2  
+C. Quick lime  
+D. Conc H2SO4  
+27. In the reaction
+( )
+( )
+( )
+(
+)
+( )
+( )
+2
+3
+3
+2
+2
+2
+2
+I
+H O l
+O
+g
+O
+g
+OH
+aq
+I
+s
+O
+g
+−
+−
++
++
++
+→
++
++
+ozone acts as  
+A. an oxidizing agent  
+B. a reducing agent  
+C. a dehydrating agent  
+D. a hydrating reagent 
+28. X2 reacts with water to form HX(aq) and HOX(aq). Y2 
+reacts with water to form O2(g). Y-(aq) and H+(aq). Z2 does 
+not react with water. X2 ,Y2 , Z2 are respectively  
+A. I2 Cl2 , F2  
+B. Cl2, F2, l2 
+C. F2,Cl2, I2 
+D. Cl2, Br2,I2 
+29. Identify the statements which are not correct. 
+i. CrO3 and Mn2O7 are basic oxides  
+ii. V2O3 and V2O4 are acidic oxides  
+iii. Cr(VI) is more stable than W(VI) 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+A. I, ii          
+B. Ii, iii            
+C. i, iii        
+D. i, ii, iii 
+30.  Identify the complex which exhibits optical isomerism.  
+A. Co(NH3)5 (SO4) Br  
+B. Co(NH3)5 Cl3  
+C. Co(en)3 Cl3  
+D. Co(NH3)4 (NO2) Cl  
+31. Examples of thermoplastic polymer (X) and thermosetting 
+polymer (Y) are  
+X  
+  
+ 
+Y 
+A. teflon   
+ 
+neoprene  
+B. neoprene  
+ 
+glyptal  
+C. polystyrene  
+bakelite  
+D. bakelite  
+ 
+polythene 
+32. Fischer projection formula of D – ( - ) – fructose is  
+A. 
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+B. 
+ 
+C. 
+ 
+D. 
+ 
+ 
+33. The drug used for relieving tension is  
+A. Teifenadine (Seldane)  
+B. Alitame  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+C. Meprobamate  
+D. Aspartame  
+34. Chloroethane with silver acetate forms X and with LiA1H4 
+forms Y. What are X and Y? 
+X   
+ 
+ 
+Y 
+H3CCH2CH3   
+ 
+H3CCHO  
+HCOOCH2CH3  
+ 
+H3CCH2OH 
+H3CCOOCH2CH3   
+H3CCH3  
+H3CCH2COOH  
+ 
+H3CCH2Li 
+35. Pent- 1-ene reacts with diborane to form X. X on oxidation 
+using H2O2 in the presence of aqueous NaOH gives Y. 
+Compound Y is  
+A. CH3CH2CH2CH(OH)CH3  
+B. CH3CH2CH2CH2CH2OH  
+C. CH3CH2CH(OH) CH2CH  
+D. CH3CH2C(OH) (CH3)CH3 
+36. Identify X and Y in the following reactions 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+Y 
+A. 
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+B. 
+ 
+C. 
+ 
+D. 
+ 
+37. Identify m-cresol (A). catechol (B) and resorcinol (C) from 
+the following  
+A.  
+ 
+B. 
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+C. 
+ 
+D. 
+ 
+ 
+38. What are X and Y in the following reactions ? 
+ 
+ 
+A. 
+ 
+B.
+ 
+C.
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+D. 
+ 
+39. Reaction of RCOOH with R'OH takes place in the presence 
+of H2SO4 to form an ester. The intermediate in the reaction 
+is 
+A. 
+ 
+B. 
+ 
+C.
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+D.
+ 
+40. The reagent used for the distinction of 1o, 2o and 3o 
+A. CH CO Cl 
+B. ZnCl2 | HCl 
+C. 
+ 
+D. [Ag(NH3)2]+ 
+ 

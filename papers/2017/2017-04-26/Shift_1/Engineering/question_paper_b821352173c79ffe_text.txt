@@ -1,0 +1,2490 @@
+ 
+ 
+ 
+ 
+ 
+AP EAMCET-2017-Engineering-26 Apr-Shift-1 
+Questions chemistry 
+121. The energy and radius of electron present in second orbit of 
+He+ respectively are 
+(1) 
+18
+2.18 10
+J,105.8 pm
+−
+−
+×
+ 
+(2) 
+18
+4.36 10
+J, 52.9 pm
+−
+−
+×
+ 
+(3) 
+18
+1.09 10
+J,105.8 pm
+−
+−
+×
+ 
+(4) 
+18
+8.72 10
+J, 211.6 pm
+−
+−
+×
+ 
+ 
+122. The work functions of Ag, Mg, K and Na respectively in eV 
+are 4.3, 3.7, 2.25 and 2.30. When an elctromagentic radiation of 
+wavelength of 300 nm is allowed to fall on these metal surfaces, 
+the number of metals from which the electrons are ejected is 
+(
+)
+19
+1eV
+1.6022 10
+J
+−
+=
+×
+ 
+(1) 5 
+(2) 4 
+(3) 3 
+(4) 2 
+ 
+123. Assertion (A) : Na+ and 
+2
+Mg + ions are isoelctronuic but the 
+ionic radius of Na+ is greater than that of 
+2
+Mg + 
+
+ 
+ 
+ 
+ 
+ 
+Reason (R) : The effective nuclear charge of Na+ ion is less 
+than that of 
+2
+Mg + ion 
+(1) Both (A) and (R) are correct and (R) is the correct 
+explanation of (A) 
+(2) Both (A) and (R) are correct but (R) is not the correct 
+explanation of (A) 
+(3) (A) is correct but (R) is not correct. 
+(4) (A) is not correct but (R) is correct. 
+ 
+124. The Lewis structure for 
+3
+O  molecule is given below. 
+The correct formal charges on oxygen atoms labelled 1, 2, 3 are 
+respectively 
+ 
+(1) +1, 0,
+1
+− 
+(2) 1, 0,
+1
+−
++  
+(3) 0,
+1,
+1
++
+− 
+(4) 1,
+1, 0
+−
+−
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+125. Which among the following are having, diamagnetic property? 
+2
+2
+2
+2
+(a) B
+(b) N
+(c) O
+(d) C   
+(1) a, b 
+(2) b, c 
+(3) a, d 
+(4) b, d 
+ 
+126. At 27 C
+°  in a 10 L flask 4.0 g of an ideal gaseous mixture 
+containing He (molar mass 4.0 
+1
+g mol−) and Ne (molar mass 20 
+1
+g mol−) has a pressure of 1.23 atm. What is the mass % of neon? 
+(
+)
+1
+1
+R
+0.082 L atm K
+mol
+−
+−
+=
+ 
+(1) 84.2 
+(2) 25.2 
+(3) 74.2 
+(4) 62.5 
+ 
+127. Two oxides of a non-metal X contains 50% and 40% of non-
+metal respectively. If the formula of the first oxide is 
+2
+XO , then 
+the formula of second oxide is 
+(1) 
+3
+XO  
+(2) 
+2
+X O 
+
+ 
+ 
+ 
+ 
+ 
+(3) 
+2
+3
+X O  
+(4) 
+2
+5
+X O  
+ 
+128. The enthalpy of formation (
+)
+fH
+∆
+ of methanol, formaldehyde 
+and water 
+1
+239,
+116 and
+286 kJ mol−
+−
+−
+−
+ respectively. The 
+enthalpy change for the oxidation of methanol to formaldehyde 
+and water in kJ is 
+(1) 136
+−
+  
+(2) 173
+−
+ 
+(3) 163
+−
+ 
+(4) 163 
+ 
+129.  
+i) 
+(
+)
+(
+)
+(
+)
+3
+2
+4
+4 aq
+aq
+aq
+H PO
+H
+H PO
++
+−
++
+
+ 
+ii) 
+(
+)
+(
+)
+(
+)
+2
+2
+4
+4
+aq
+aq
+aq
+H PO
+H
+HPO
+−
++
+−
++
+
+ 
+iii) 
+(
+)
+(
+)
+(
+)
+2
+3
+4
+4
+aq
+aq
+aq
+HPO
+H
+PO
+−
++
+−
++
+
+ 
+The equilibrium constants for the above reactions at a certain 
+temperature are 
+1
+2
+3
+K , K and K  respectively. The equilibrium 
+constant for the reaction 
+(
+)
+(
+)
+(
+)
+3
+3
+4
+4 aq
+aq
+aq
+H PO
+3H
+PO
++
+−
++
+
+ in 
+terms of 
+1
+2
+3
+K , K and K  is 
+
+ 
+ 
+ 
+ 
+ 
+(1) 
+1
+2
+3
+K
+K
+K
++
++
+  
+(2) 
+1
+2
+3
+K
+K
+K
++
+ 
+(3) 
+3
+1
+2
+K
+K K  
+(4) 
+1
+2
+3
+K K K  
+ 
+130. The equilibrium constant (
+)
+c
+K
+ for the following equilibrium 
+( )
+( )
+( )
+2 g
+2 g
+3 g
+2SO
+O
+2SO
++
+
+  
+at 563 K is 100. At equilibrium, the number of moles of 
+3
+SO  in 
+the 10 litre flask is twice the number of moles of 
+2
+SO , then the 
+number of moles of oxygen is 
+(1) 0.3 
+(2) 0.4 
+(3) 0.1 
+(4) 0.2 
+ 
+131. How many milliliters of 20 volume 
+2
+2
+H O  solution is needed to 
+react completely with 500 mL of acidifed 1N 
+4
+KMnO  solution? 
+(1) 56 
+(2) 140 
+
+ 
+ 
+ 
+ 
+ 
+(3) 224 
+(4) 280 
+ 
+132. Which one of the following statements is not correct? 
+(1) Alkali metals react with water liberating oxygen gas 
+(2) The hydration entahlpies of alkali metals ions decrease down 
+the group 
+(3) 
+2
+KO  is paramagnetic 
+(4) Lithium halides are some what Covalent in nature 
+ 
+133. In which of the following reactions, hydrogen is liberated? 
+(a) 
+( )
+(
+)
+s
+aq
+Al
+HCl
++
+→ 
+(b) 
+( )
+(
+)
+s
+aq
+Al
+NaOH
++
+→ 
+(c) 
+4
+2
+NaBH
+I
++
+→
+ 
+(1) a, c 
+(2) a, b 
+(3) b, c 
+(4) a, b, c 
+ 
+134. Which one of the following statements is not correct? 
+
+ 
+ 
+ 
+ 
+ 
+(1) In CO molecule, there are one ‘sigma’ ( )
+σ  and two “Pi” ( )
+π
+bonds. 
+(2) Both [
+]
+[
+]
+2
+2
+6
+6
+SiF
+and SiCl
+−
+− ions are known 
+(3) In 
+2
+CO  molecule, carbon hybridisation is sp. 
+(4) Fullerenes are made by heating graphite in an electric arc in 
+the presence of argon gas. 
+ 
+135. Which of the following forms holes in the ozone layer? 
+(1) 
+2
+SO  
+(2) 
+2
+CO  
+(3) CO 
+(4) 
+2
+2
+CF Cl  
+ 
+136. Identify the correct statements from the following 
+a) Electromeric effect is a permanent effect 
+b) Hyper conjugation is a temporary effect 
+c) Fractional distillation is used to separate two liquids from a 
+mixture if the difference in their bopiling point is less 
+d) Different compounds are adsorbed on an adsorbent to 
+different extents 
+The correct answer is 
+
+ 
+ 
+ 
+ 
+ 
+(1) c, d 
+(2) a, b, c 
+(3) b, d 
+(4) b, c, d 
+ 
+137. The gaseous products formed at cathode (X) and anode (Y), 
+when an aqueous solution of sodium acetate is electrolysed are 
+(1) 
+2
+6
+2
+2
+X
+Y
+C H , H
+ CO  
+(2) 
+2
+2
+6
+2
+X
+Y
+CO
+ C H , H  
+(3) 
+2
+2
+6
+2
+X
+Y
+H
+ C H , CO  
+(4) 
+2
+2
+2
+6
+X
+Y
+H , CO
+C H  
+ 
+138. Identify the correct statements for a ring system to exhibit 
+aromaticity? 
+a) It must not be planar 
+b) It must possess (
+)
+4n
+2 π
++
+ electrons. 
+c)  It must be planar 
+d) It must possess 4n π electrons 
+
+ 
+ 
+ 
+ 
+ 
+The correct answer is 
+(1) a, b 
+(2) b, c 
+(3) a, d 
+(4) b, d 
+ 
+139. An element has a body centered cubic strcutre with a unit cell 
+edge length of 400 pm. Atomic mass of an element is 
+1
+24 g mol−
+. What is the density of the element? 
+(
+)
+23
+1
+A
+N
+6 10
+mol−
+=
+×
+ 
+(1) 
+3
+3.60 g cm− 
+(2) 
+3
+1.80 g cm
+− 
+(3) 
+3
+1.25 g cm
+− 
+(4) 
+3
+2.50 g cm− 
+ 
+140. 31 g of ethylene glycol (
+)
+2
+6
+2
+C H O
+ is dissolved in 600 g of 
+water. The freesing point depression of the solution is 
+(
+)
+1
+f
+K for water is1.86 K kg mol−  
+(1) 3.10 K 
+(2) 4.65 K 
+
+ 
+ 
+ 
+ 
+ 
+(3) 0.77 K 
+(4) 1.55 K 
+ 
+141. Which one of the following solutions of compounds show 
+highest osmotic pressure? (AB, 
+2
+2
+3
+AB and A B  are ionic 
+compounds) 
+(1) 3.0 M AB type i
+1.6 and temperature is 27 C
+=
+°  
+(2) 
+2
+2.5 M AB type i
+2.5 and temperature is 57 C
+=
+°  
+(3) 
+2
+3
+1.5 M A B type i
+4.1and temperature is 27 C
+=
+°  
+(4) 5.0 M urea i
+1.0 and temperature is 67 C
+=
+°  
+ 
+142. 20% of a first order reaction was found to be completed at 10 
+A.M. At 11.30 A.M. on the same day, 20% of the reaction was 
+found to be remaining. The half life period in minutes of the 
+reaction is 
+(1) 90 
+(2) 60 
+(3) 45 
+(4) 30 
+ 
+
+ 
+ 
+ 
+ 
+ 
+143. Same amount of electricity is passed through aqueous solutions 
+of 
+3
+AgNO  and 
+4
+CuSO . The number of Ag and Cu atoms 
+deposited are x and y respectively. The correct relationship 
+between x and y is 
+(1) x
+y
+=
+ 
+(2) x
+2y
+=
+ 
+(3) y
+2x
+=
+ 
+(4) x
+y
+<
+ 
+ 
+144. Colloidal solution of gold is in different colours like red, 
+purple, blue and golden because of 
+(1) Size difference in the particles of gold 
+(2) Variable oxidation states of gold 
+(3) Presence of impurities 
+(4) Difference in the concentration of gold particles 
+ 
+145. Copper matte contains 
+(1) 
+2
+CuO, Cu S 
+(2) CuO, FeS 
+(3) 
+2
+Cu S, FeS 
+(4) 
+2
+Cu S, FeO 
+
+ 
+ 
+ 
+ 
+ 
+ 
+146. 
+2
+4
+S
+Conc. H SO
+X
+Y
++
+→
++
+ 
+Here X is a gas and Y is a liquid and both are triatomic 
+molecules. The number of electron lone pairs present on the 
+central atoms of X and Y are respectively 
+(1) 2, 1 
+(2) 2, 2 
+(3) 1, 2 
+(4) 1, 0 
+ 
+147. Which of the following is used in the estimation of carbon 
+monoxide?  
+(1) 
+2
+7
+Cl O  
+(2) 
+3
+BrO  
+(3) 
+2
+4
+I O  
+(4) 
+2
+5
+I O  
+ 
+148. To prepare 
+6
+2
+XeF , Xe and F  are mixed at 573 K and 60-70 bar 
+in the ratio of 
+(1) 1: 20 
+(2) 20:1 
+
+ 
+ 
+ 
+ 
+ 
+(3) 1:5 
+(4) 5:1 
+ 
+149. What are X and Y in the following reactions ? 
+a) 
+H
+4
+MnO
+I
+X
++
+−
+−
++
+→
+ 
+b) 
+2
+H O
+4
+MnO
+I
+Y
+−
+−
++
+→
+ 
+(1) 
+3
+2
+IO , I
+−
+ 
+(2) 
+2
+3
+I , IO− 
+(3) 
+3
+4
+IO , IO
+−
+− 
+(4) 
+2
+4
+I , IO− 
+ 
+150. Identify from the following, the diamagnetic, tetrahedral 
+complex 
+(1) 
+(
+)
+2
+4
+Ni CN
+−
+
+
+
+
+ 
+(2) 
+(
+)
+2
+4
+Ni Cl
+−
+
+
+
+
+ 
+(3) 
+(
+)4
+Ni CO
+
+
+
+ 
+(4) 
+(
+)
+3
+2
+4
+3
+Co C O
+−
+
+
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+151. Which one of the following is not used as an initiator in ionic 
+polymerisation? 
+(1) 
+3
+AlCl  
+(2) 
+2
+SnCl  
+(3) 
+2
+NaNH  
+(4) (
+)
+6
+5
+2
+2
+C H CO
+O  
+ 
+152. Identify the statements which are not correct from the 
+following 
+a) Carbohydrates are stored as glycogen in animals 
+b) In glycylalanine, 
+of peptide bond belongs to alanine 
+c) Base
+Sugar
+phosphate
+−
+−
+ unit is known as nucleoside 
+d) Obesity  is due to hypothyroidism 
+The correct answer is 
+(1) a, c, d 
+(2) a, d 
+(3) b, c 
+(4) b, c, d 
+ 
+
+ 
+ 
+ 
+ 
+ 
+153. Which of the following structure reperesents the compound, 
+generally added to soaps to impart antispetic properties? 
+(1) 
+ 
+(2) 
+ 
+(3) 
+ 
+(4) 
+ 
+ 
+154. The drug,which was designed to prevent the interaction of 
+histamine with the recpetors present in the stomach wall is: 
+(1) Equanil 
+(2) Prontosil 
+(3) Aspartame 
+(4) Cimetidine 
+ 
+
+ 
+ 
+ 
+ 
+ 
+155. Which one of the following is more reactive towards 
+N
+S 2 
+reaction? 
+(1) (
+)
+3
+3
+CH
+CX  
+(2) (
+)
+3
+2
+CH
+CHX 
+(3) 
+3
+2
+CH CH X 
+(4) 
+3
+CH X 
+ 
+156. What is Z in the following sequence of reactions? 
+ 
+(1) 
+3
+CH
+−
+ 
+(2) 
+2
+3
+CH CH
+−
+ 
+(3) 
+ 
+(4) 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+157. Idnetify the statements which is not correct? 
+(1) Freon 12 is manufactured by Swartz reaction 
+(2) 
+3
+CHCl  is stored in closed, dark coloured bottles 
+(3) Chronic exposure to 
+3
+CHCl  causes liver damage 
+(4) Dehydrobromination of 2-bromopentane gives pent-1-ene as 
+the major product 
+ 
+158. The increasing order of acidity of the following carboxylic 
+acids is 
+ 
+(1) a
+b
+d
+c
+<
+<
+<  
+(2) c
+d
+a
+b
+<
+<
+<
+ 
+(3) c
+d
+b
+a
+<
+<
+<
+ 
+(4) b
+c
+d
+a
+<
+<
+<
+ 
+ 
+159. What are X and Y in the following reactions? 
+
+ 
+ 
+ 
+ 
+ 
+ 
+(1) 
+ 
+(2) 
+3
+2
+3
+2
+X
+Y
+CH
+CH
+MgBr
+ CH CH CHO
+−
+−
+ 
+(3) 
+3
+2
+2
+3
+3
+X
+Y
+CH CH CH MgBr
+ CH
+CO
+CH
+−
+−
+ 
+(4) (
+)
+3
+3
+3
+3
+X
+Y
+CH
+CMgBr
+ CH
+CO
+CH
+−
+−
+ 
+ 
+160. What are X and Y in the following reactions? 
+ 
+
+ 
+ 
+ 
+ 
+ 
+(1) 
+ 
+(2) 
+ 
+(3) 
+ 
+(4) 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+AP EAMCET-2017-Engineering-26 Apr-Shift-1 
+Solutions – Chemistry 
+ 
+121. The energy is calculated as: 
+2
+18
+2
+18
+18
+2.18 10
+4
+2.18 10
+4
+2.18 10
+J
+n
+Z
+E
+n
+−
+−
+−
+= −
+×
+×
+= −
+×
+×
+= −
+×
+  
+The radius is calculated as: 
+2
+52.9
+4
+52.9
+2
+105.8 pm
+n
+n
+r
+Z
+=
+×
+=
+×
+=
+ 
+ 
+122. The energy is calculated as: 
+8
+34
+9
+25
+9
+19
+3 10 m/s
+6.6 10
+Js
+300 10
+m
+1.98 10
+300 10
+m
+6.6 10
+J
+c
+E
+h λ
+−
+−
+−
+−
+−
+=
+×
+=
+×
+×
+×
+×
+=
+×
+=
+×
+ 
+
+ 
+ 
+ 
+ 
+ 
+The energy in eV is derived as: 
+19
+1eV
+1.602 10−
+=
+×
+ 
+19
+19
+6.6 10
+Energy
+1.602 10
+4.119 eV
+−
+−
+×
+=
+×
+=
+ 
+The metals which are having less value of work function than 
+the energy calculated, they can undergo photoelectric effect. 
+Therefore, metals are Mg, K and Na 
+ 
+123. Since, we know that for isoelectronic species, radius is 
+inversely proportional to effective nuclear charge. 
+Therefore, both Assertion (A) and Reason (R) are correct and 
+(R) is correct explanation of (A). 
+ 
+124. The formal charge is calculated by using the formula shown 
+below. 
+FC
+Number of Valence electrons
+1
+number of lone pair
+number of bond pair
+2
+=
+−
+
+
++
+
+
+
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+For first oxygen, formal charge is equal to 
+[
+]
+6
+6 1
+1
+−
++
+= −  
+For second oxygen, formal charge is equal to 
+[
+]
+6
+4
+2
+0
+−
++
+=  
+For third oxygen, formal charge is equal to 
+[
+]
+6
+2
+3
+1
+−
++
+=  
+ 
+125. The electronic configuration of the species which are having 
+diamagnetic property (paired electrons) are shown below: 
+(
+) (
+) (
+) (
+) (
+)
+(
+) (
+)
+2
+2
+2
+2
+2
+2
+2
+*
+*
+2
+N :
+,
+,
+2
+,
+2
+,
+,
+x
+y
+z
+s
+s
+s
+s
+p
+p
+p
+σ
+σ
+σ
+σ
+π
+π
+σ
+1
+1
+2
+≈
+2
+2
+(
+) (
+) (
+) (
+) (
+)
+(
+)
+2
+2
+2
+2
+2
+2
+*
+*
+2
+C :
+,
+,
+2
+,
+2
+,
+x
+y
+s
+s
+s
+s
+p
+p
+σ
+σ
+σ
+σ
+π
+π
+1
+1
+2
+≈
+2
+ 
+ 
+126. Total mass is 
+( )
+He
+Ne
+4 g
+I
+W
+W
++
+=
+⋅⋅⋅⋅⋅⋅
+ 
+By using ideal gas equation; 
+(
+)
+He
+Ne
+He
+Ne
+He
+Ne
+He
+Ne
+He
+Ne
+PV
+n
+n
+RT
+W
+W
+PV
+RT
+M
+M
+W
+W
+PV
+RT
+M
+M
+=
++
+
+
+=
++
+
+
+
+
+
+
+=
++
+
+
+
+
+  
+
+ 
+ 
+ 
+ 
+ 
+Substitute all the values. 
+( )
+He
+Ne
+He
+Ne
+1.23 10
+0.082 300
+4
+20
+50
+25
+5
+II
+W
+W
+W
+W
+×
+
+
+=
++
+
+
+×
+
+
+=
++
+⋅⋅⋅⋅⋅⋅
+ 
+By subtracting equations (II) from (I), we get 
+He
+Ne
+1.5
+2.5
+W
+W
+=
+=
+  
+Mass percentage of neon is calculated as: 
+2.5 100
+Mass % of Ne
+4
+62.5%
+×
+=
+=
+  
+ 
+127. The formula of first oxide is 
+2
+XO  which means one mole of X 
+contains 2 mole of oxygen. 
+For second oxide, there is 40% of (X) which means there is 
+60% of oxygen. 
+Now, for 40% of X, we have 2 60%
+80%
+×
+=
+ of oxygen, 
+The moles of oxygen for 100% of X can be calculated as: 
+2 60
+Moles of oxygen
+4
+3 moles
+×
+=
+=
+  
+Therefore, the formula of second oxide will be 
+3
+XO . 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+128. The oxidation reaction of methanol to formaldehyde and water 
+is shown below. 
+3
+2
+2
+2CH OH
+O
+2HCHO
+2H O
++
+→
++
+  
+The standard enthalpy change for this reaction is calculated by 
+using the expression shown below 
+(
+)
+(
+)
+ο
+ο
+ο
+reaction
+f
+f
+products
+reactants
+H
+m
+H
+n
+H
+∆
+=
+⋅∆
+−
+⋅∆
+∑
+∑
+ 
+(
+)
+(
+)
+(
+)
+(
+)
+ο
+ο
+ο
+reaction
+f
+f
+2
+ο
+ο
+f
+3
+f
+2
+1 2
+HCHO
+2
+H O
+2
+1 2
+CH OH
+O (g)
+2
+H
+H
+H
+H
+H
+
+
+∆
+=
+⋅∆
++
+⋅∆
+−
+
+
+
+
+⋅∆
++ ∆
+
+
+ 
+(
+)
+(
+)
+(
+) ( )
+[
+]
+[
+]
+ο
+reaction
+1
+1
+2
+116
+2
+286
+2
+239
+0
+2
+2
+1
+1
+232
+572
+478
+2
+2
+163 kJ
+H
+
+
+
+
+∆
+=
+−
++
+−
+−
+−
++
+
+
+
+
+=
+−
+−
+−
+−
+= −
+ 
+ 
+129. The expression of equilibrium constant for all the given 
+reactions are shown below. 
+[
+]
+2
+4
+1
+3
+4
+H
+H PO
+H PO
+K
++
+−
+
+
+
+
+
+
+=
+ 
+
+ 
+ 
+ 
+ 
+ 
+2
+4
+2
+2
+4
+H
+HPO
+H PO
+K
++
+−
+−
+
+
+
+
+
+
+=
+
+
+
+
+ 
+3
+4
+3
+2
+4
+H
+PO
+HPO
+K
++
+−
+−
+
+
+
+
+
+
+=
+
+
+
+
+ 
+Now, we have to calculate value of K for the following 
+reaction. 
+(
+)
+(
+)
+(
+)
+3
+3
+4
+4 aq
+aq
+aq
+H PO
+3H
+PO
++
+−
++
+
+ 
+By multiplying 
+1
+2
+3
+,
+,
+K
+K
+K  , we get equilibrium constant of 
+above reaction. 
+1
+2
+3
+K
+K
+K
+K
+×
+×
+=
+ 
+ 
+130. Let’s assume that number of moles of oxygen is ‘x’ 
+The dissociation reaction is as follows: 
+( )
+( )
+( )
+2
+2
+3
+2SO
+g
+O
+g
+2SO
+g
+Initial conc.
+2
+2
+Equilibrium
+2
+2
+10
+10
+10
+x
+x
+x
+x
+x
+x
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+The equilibrium constant is calculated as: 
+
+ 
+ 
+ 
+ 
+ 
+2
+2
+2
+10
+10
+10
+x
+K
+x
+x
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+ 
+By simplifying the above equation, we get 
+0.4
+x =
+. 
+ 
+131. First calculate normality of 
+(
+)
+2
+2
+2
+H O
+N
+ as shown below. 
+2
+2
+2
+volume of O at NTP
+H O
+5.6
+20
+5.6
+3.57
+=
+=
+=
+ 
+Apply the formula as follows: 
+1 1
+2
+2
+2
+2
+1 500
+3.57
+140 mL
+N V
+N V
+V
+V
+=
+×
+=
+×
+=
+  
+ 
+132. When alkali metals reacts with water, they form metal 
+hydroxide and hydrogen gas is liberated as follows: 
+2
+2
+2M
+2H O
+2MOH
+H
++
+→
++
+↑  
+Therefore, statement (1) is not correct. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+133. (a) 
+( )
+(
+)
+(
+)
+( )
+3
+s
+aq
+aq
+2 g
+2Al
+6HCl
+2AlCl
+3H
++
+→
++
+  
+(b) 
+( )
+(
+)
+(
+)
+( )
+s
+aq
+2 g
+4
+2Al
+2NaOH
+2Na Al OH
+3H
+
+
++
+→
++
+
+
+ 
+(c) 
+( )
+4
+NaBH
+4
+2
+3
+3
+2 g
+NaBH
+I
+BH
+NaI
+HI
+2BH
+2NaI
+H
++
+→
++
++
+→
++
++
+ 
+Therefore, hydrogen is liberated in all the given reactions. 
+ 
+134. The species [
+]
+2
+6
+SiF
+− exists but [
+]
+2
+6
+SiCl
+−cannot exist because 
+the size of chlorine atom is large. Therefore, [
+]
+2
+6
+SiCl
+− is not 
+known. 
+Thus, statement (2) is not correct. 
+ 
+135. Chloro-fluoro carbon releases chlorine atom which reacts with 
+ozone and produce holes in the layer of ozone. 
+ 
+136. a) Electromeric effect is a temporary effect. 
+b) Hyper conjugation is a permanent effect. 
+c) For the separation of two liquids whose difference of boiling 
+points is less, fractional distillation is used. 
+d) Different compounds are adsorbed on an adsorbent to 
+different extents. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+137.When an aqueous solution of sodium acetate is elctrolysed, the 
+reaction occurs is as follows: 
+ 
+At anode (Y), 
+2
+6
+2
+C H and CO  is formed. 
+At cathode (X), 
+2
+H  gas is liberated. 
+ 
+138. For showing the aromaticity,  
+The ring must possess (
+)
+4
+2
+n
+π
++
+ electrons. 
+The ring must be planar. 
+Therefore, statements (b) and (c) are correct. 
+ 
+139. For a body centered unit cell, the number of atoms is 2. 
+The density is derived by using the relation shown below. 
+3
+A
+zM
+d
+N a
+=
+ 
+
+ 
+ 
+ 
+ 
+ 
+(
+)
+3
+23
+1
+10
+3
+2
+24 g/mol
+6 10 mol
+400 10
+cm
+1.25 g/cm
+d
+−
+−
+×
+=
+×
+×
+×
+=
+ 
+ 
+140. The change in freezing point is calculated as 
+2
+6
+2
+2
+6
+2
+2
+f
+f
+f
+f
+C H O
+C H O
+H O
+1000
+1.86 31 1000
+62 600
+1.55 K
+T
+iK m
+iK m
+i
+K
+W
+M
+W
+∆
+=
+=
+×
+×
+×
+=
+×
+×
+×
+=
+×
+=
+ 
+ 
+141. The osmotic pressure is calculated as: 
+iCRT
+π =
+  
+For 5.0 M urea, 
+1 5
+340
+1700
+R
+R
+π = × ×
+×
+=
+ 
+For 1.5 M
+2
+3
+A B  type, 
+4.1 1.5
+300
+1800
+R
+R
+π =
+×
+×
+×
+=
+ 
+For 3 M AB type, 
+
+ 
+ 
+ 
+ 
+ 
+1.6 3
+300
+1440
+R
+R
+π =
+× ×
+×
+=
+ 
+For 2.5 M 
+2
+AB  type, 
+2.5 2.5
+330
+2062
+R
+R
+π =
+×
+×
+×
+=
+ 
+Therefore, highest osmotic pressure is shown by the sample  
+2.5 M 
+2
+AB  type. 
+ 
+142. For a first order reaction, time can be calculated as: 
+1
+2.303
+100
+20
+log100
+80
+2.303
+80
+log
+90
+20
+0.015 min
+t
+k
+k
+−
+−
+=
+−
+=
+=
+ 
+The half-life is calculated as: 
+1/2
+0.693
+0.693
+0.015
+45 min
+t
+k
+=
+=
+=
+  
+ 
+143. 1 mole of Ag+ is equal to 1
+2  mole of 
+2
+Cu + 
+
+ 
+ 
+ 
+ 
+ 
+Therefore, for z moles of Ag+, we obtain 2
+y  mole of 
+2
+Cu + 
+Thus, 
+2
+x
+y
+=
+  
+ 
+144. The difference of size in the gold particles causes the colloidal 
+solution of gold to be in different colors like red, purple, blue 
+and golden.  
+ 
+145. Copper matte is a mixture of 
+2
+Cu S and FeS  
+ 
+146. The reaction taking place is shown below. 
+2
+4
+2
+2
+S
+Conc. H SO
+3SO
+2H O
++
+→
++
+  
+In sulphur dioxide, there is one lone pair present on central 
+atom which is sulphur as follows:. 
+ 
+In water, there are two lone pairs present on central atom which 
+is oxygen. 
+ 
+ 
+147. By using 
+2
+5
+I O , we can estimate carbon monoxide as follows: 
+
+ 
+ 
+ 
+ 
+ 
+2
+5
+2
+2
+I O
+5CO
+I
+5CO
++
+→
++
+ 
+ 
+148. By taking xenon and fluorine in the ratio of 1:20 and by 
+applying pressure of 70 bar at 573 K temperature, xenon 
+hexafluoride is formed. 
+ 
+ 
+149. a) The product (X) formed is as follows: 
+( )
+16H
+2
+4
+2
+2
+2MnO
+10 I
+2Mn
+5I
+8H O
+X
++
+−
+−
++
++
+→
++
++
+  
+b) The product (Y) formed is as follows: 
+( )
+2
+H O
+4
+2
+3
+2MnO
+I
+2MnO
+2OH
+IO
+Y
+−
+−
+−
+−
++
+→
++
++
+ 
+ 
+150. The tehtrahedral complex is formed by 
+(
+)4
+Ni CO
+
+
+
+ as CO is a 
+strong ligand which causes pairing of unpaired electrons.  
+ 
+Hence, the complex is diamagnetic in nature. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+151. (
+)
+6
+5
+2
+2
+C H CO
+O  cannot be used as an inititator in ionic 
+polymerization as it is a covalent compound and will not produce 
+any free radical for chain initiation process. 
+ 
+ 
+152. b) The basic structure of alanine is  
+ 
+c) Nucleotide contains Base-Sugar and phosphate unit as 
+shown below. 
+ 
+Therefore, statements (b) and (c) are incorrect. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+153. The following structure is generally used to impart antiseptic 
+properties in soap. 
+ 
+ 
+154. The drug which was discovered to avoid the interaction of 
+histamine with the receptors present in the stomach wall is 
+cimetidine. Its structure is shown below. 
+ 
+ 
+155. The species which is less bulkier is more reactive towards 
+N
+S 2 
+reaction. Among the given species, 
+3
+CH X is least bulkier alkyl 
+halide, therefore, its rate of recatioon will be faster towards 
+N
+S 2 
+reaction. 
+ 
+156. The product (Z) formed is shown below. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Therefore, Z is 
+2
+3
+CH CH   
+ 
+157. Dehydrobrominatiobn of 2-bromopropane produce pent-2-ene 
+as 
+the 
+major 
+product. 
+ 
+Therefore, statement (4) is not correct. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+158. The increasing order of acidity is as follows: 
+c
+d
+a
+b
+<
+<
+<
+  
+ 
+159. The reaction is shown below. 
+ 
+ 
+160. The products (X) and (Y) formed are shown below. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

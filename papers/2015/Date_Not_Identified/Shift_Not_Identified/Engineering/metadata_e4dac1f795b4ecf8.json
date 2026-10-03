@@ -1,0 +1,32 @@
+{
+  "source": "UPI QP Bank",
+  "source_url": "https://upiqpbank.com/ap-eamcet/ap-eamcet-2015-question-papers/",
+  "download_url": "https://upiqpbank.com/wp-content/uploads/2018/10/AP-EAMCET-2015-ENGINEERING-QUESTION-PAPER-AND-SOLUTIONS.pdf",
+  "title": "AP EAMCET 2015 ENGINEERING QUESTION PAPER AND SOLUTIONS",
+  "stream": "Engineering",
+  "paper_id": "2015_undated_unidentified_Engineering_34361e33",
+  "year": 2015,
+  "exam_date": null,
+  "shift": null,
+  "subjects": [
+    "Chemistry",
+    "Mathematics",
+    "Physics"
+  ],
+  "paper_type": "question_paper",
+  "file_name": "question_paper_e4dac1f795b4ecf8.pdf",
+  "pdf_path": "papers/2015/Date_Not_Identified/Shift_Not_Identified/Engineering/question_paper_e4dac1f795b4ecf8.pdf",
+  "sha256": "34361e3367715578c8455216ad85fac25b8de81ac7f7f519079c940c4229dc15",
+  "pages": 43,
+  "metadata_evidence": " \n \nMATHEMATICS \n1. \nIf \n:\n,\n:\nf\nR\nR g R\nR\n\n\n are defined by \n\n\n2\n5\n3,\n3,\nf x\nx\ng x\nx\n\n\n\n\n then \n\n1\n3\ngof \n \n(1) 25\n3  \n(2) 111\n25  \n(3) 9\n25  \n(4) 25\n111 \nKEY:  2 \nHINT: \n\n5\n3\nf x\nx\n\n\n \n \n\n1\n3\n5\nx\nf\nx\n\n\n\n \n \n\n2\n3\ng x\nx\n\n \n \n\n\n\n\n1\n1\n3\n3\ngof\ng f\n\n\n\n6\n5\ng \n\n\n\n\n\n\n111\n25\n\n \n \n2. \nIf \n4\n3\n\n\n\n\n\n\n\n\n\n\nA\nx\nR\nx\n\n\n and \n\nsin\n,\nf\nx\nx\nx\n\n\n then \nf A  \n(1) \n3\n1\n,\n2\n3\n4\n2\n\n\n\n\n\n\n\n\n\n\n \n(2) \n1\n3\n,\n4\n2\n3\n2\n\n\n\n\n\n\n\n\n\n\n\n \n \n(3) \n,\n3\n4\n\n\n\n\n\n\n\n\n\n\n \n \n(4) \n,\n4 3\n\n\n\n\n\n\n \nKEY: 1 \nHINT: \n\nsin\nf x\nx\nx\n\n\n \n \nWhich is decreasing function \n,\n4 3\nin\n\n\n\n\n\n\n\n \n \n4\n3\nx\n\n\n\n\n\n \n \n\n4\n3\nf\nf\nx\nf\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n1\n3\n4\n2\n3\n2\nf x\n\n\n\n\n\n\n\n \n \n\n3\n1\n,\n2\n3\n4\n2\nf\nA\n\n\n\n\n\n\n\n\n\n\n\n \n3. \nThe value of the sum 1.2.3\n2.3.4\n3.4.5\n....upto nterms\n\n\n\n \n(1) \n\n\n2\n2\n1\n2\n1\n6 n\nn \n \n \n(2) \n\n\n\n2\n1\n1 2\n1 2\n3\n6 n\nn\nn\n\n\n\n  \n(3) \n\n\n2\n2\n1\n1\n5\n8 n\nn\n\n\n  \n(4) \n\n\n\n\n1\n1\n2\n3\n4 n n\nn\nn\n\n\n\n \n\n \n \nKEY: 4 \nHINT: \n1.2.3+2.3.4+……+upto n terms  \n \n\n\n\n1\n2\nnt\nn n\nn\n\n\n\n \n \n\n\n\n\n1\n1\n2\n3\n4\nn\nn\nS\nt\nn n\nn\nn\n\n\n\n\n\n\n \n \n4. \nThe value of the determinant \n2\n2\n2\n2\nb\nab\nb\nc\nbc\nac\nab\na\na\nb\nb\nab\nbc\nac\nc\na\nab\na\n\n\n\n\n\n\n\n\n\n\n \n(1) abc  \n(2) a\nb\nc\n\n \n(3) 0  \n(4) ab\nbc\nca\n\n\n \nKEY: 3 \nHINT: \n2\n2\n2\n2\n0\nb\nab\nb\nc\nbc\nac\nab\na\na\nb\nb\nac\nbc\nac\nc\na\nab\na\n\n\n\n\n\n\n\n\n\n\n \n \nPut a=b=c=1 \n \n5. \nIf A is a square matrix of order 3, then \n\n\n2\nAdj AdjA\n \n \n(1) \n2\nA  \n(2) \n4\nA  \n(3) \n8\nA  \n(4) \n16\nA\n \nKEY: 3 \nHINT: \n\n\n2\nadj adj A\n \n \n\n\n2\n3 1\n4\n8\n2\n2\nQ\nA\nA\nA\n\n\n\n\n \n \n6. \nThe system 2\n3\n5,3\n5\n7,\n4\n2\n3\nx\ny\nz\nx\ny\nz\nx\ny\nz\n\n\n\n\n\n\n\n\n\nhas \n \n(1) Unique solution   \n(2) Finite number of solutions \n \n \n(3) Infinite solutions  \n(4) No solution \nKEY: 4 \nHINT:  \n\n\n\nRank of\nA\nRank of\nAB\n\n \n \n No solution. \n \n7. \n6\n1\n2\n2\nsin\ncos\n7\n7\nk\nk\nk\ni\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n(1) -1 \n(2) 0 \n(3) i\n \n(4) i  \nKEY: 4 \n\n \n \nHINT: \n6\n1\n2\n2\ncos\nsin\n7\n7\nk\nk\nk\ni\ni\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n2\n6\n1\n....\n1\ni\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n0 1\ni\ni\n\n\n \n8. \n If '\n'\n is a complex cube root of unity, then \n1\n2\n4\n1\n3\n9\n....\n....\n3\n9\n27\n2\n8\n32\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n(1) 1 \n(2) -1 \n(3)  \n(4) i  \nKEY: 2 \nHINT: \n\n\n1\n2\n4\n......\ninfinte G.P.\n3\n9\n27\n\n\n\n\n \n \n1\n1\na\nS\nr\n\n\n\n \n \n\n\n1\n3\n9\n.......\ninfinte G.P.\n2\n8\n32\n\n\n\n\n \n \n2\n1\na\nS\nr\n\n\n\n \n \n1\n2\n1\n\n\n\n\n \n9. \nThe common roots of the equations \n3\n2\n2014\n2015\n2\n2\n1\n0,\n1\n0\nz\nz\n",
+  "date_verification": "Not Identified",
+  "answer_key_status": "Not Found",
+  "answer_key_type": "unavailable",
+  "extraction_status": "original_regions_and_native_text",
+  "metadata_path": "papers/2015/Date_Not_Identified/Shift_Not_Identified/Engineering/metadata_e4dac1f795b4ecf8.json",
+  "question_count": 158,
+  "answers_mapped": 156,
+  "content_signature": null,
+  "text_path": "papers/2015/Date_Not_Identified/Shift_Not_Identified/Engineering/question_paper_e4dac1f795b4ecf8_text.txt",
+  "additional_sources": []
+}

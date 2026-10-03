@@ -1,0 +1,4411 @@
+ 
+ 
+ 
+ 
+ 
+AP EAMCET-2017-Engineering-26 Apr-Shift-1 
+Questions  Physics 
+ 
+81. In the determination of the internal resistance of a cell with a 
+potentiometer, the error in the measurement of the balancing 
+length is ±1 mm. When the cell alone is connected in the circuit, 
+the balancing length is obtained at 60 cm and when the cell is 
+shunted with a resistance of 10
+2%
+Ω±
+, the balancing length is 
+obtained at 50 cm. The error in the determination of the internal 
+resistance of the cell is _________ 
+(1) 1.8% 
+(2) 2.4% 
+(3) 4.2% 
+(4) 5.6% 
+ 
+82. A bird is tossing (flying to and pro) between two cars moving 
+towards each other on a straight road. One car has speed of 
+1
+54 kmh
+− while the other has the speed of
+1
+36 kmh
+−. The bird 
+starts moving from first car towards the other and is moving with 
+the speed of 
+1
+36 kmh
+− where the two cars were separated by 36 
+km. The total distance covered by the bird before the cars meet 
+each other is 
+
+ 
+ 
+ 
+ 
+ 
+(1) 1440 m 
+(2) 24400 m 
+(3) 244 m 
+(4) 14400 m 
+ 
+83. A body is projected from the top of a tower with a velocity 
+1
+ˆ
+ˆ
+ˆ
+3
+4
+5 ms
+u
+i
+j
+k
+−
+=
++
++
+
+ where 
+ˆ
+ˆ ˆ
+,
+and
+i j
+k  are unit vectors along 
+east, north and vertically upwards respectively. If the height of 
+the tower is 30 m, horizontal range of the body on the ground is 
+(g = 
+2
+10 ms−
+) 
+(1) 12 m 
+(2) 9 m 
+(3) 25 m 
+(4) 15 m 
+ 
+84. Equation of a projectile is given by 
+2
+y
+Px
+Qx
+=
+−
+ where P, Q are 
+constants. The ratio of maximum height to range of the projectile 
+is 
+(1) 
+2
+P
+Q   
+(2) 4P  
+
+ 
+ 
+ 
+ 
+ 
+(3) 4
+P   
+(4) 
+2
+2
+Q
+P   
+ 
+85. A person of 60 kg mass is in a lift which is coming down such 
+that the man exerts a force of 150 N on the floor of the lift. Then 
+the acceleration of the lift is (g = 
+2
+10 ms−
+) 
+(1) 
+2
+40.0 ms−  
+(2) 
+2
+15.0 ms−  
+(3) 
+2
+22.5 ms−  
+(4) 
+2
+7.5 ms−  
+ 
+86. The situations are shown in fig (a) & (b), in each case, 
+1
+3 kg
+m =
+ 
+and 
+2
+4 kg
+m =
+. If 
+1
+2
+,
+a a  are the respective accelerations of the 
+blocks in these situation, then the values of 
+1a  and 
+2
+a  are 
+respectively 
+2
+10 ms
+g
+−
+
+
+=
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+(1) 
+2
+2
+10
+25
+ms ,
+ms
+7
+7
+−
+−  
+(2) 
+2
+2
+30
+5
+ms ,
+ms
+7
+7
+−
+− 
+(3) 
+2
+2
+40
+10
+ms ,
+ms
+7
+7
+−
+− 
+(4) 
+2
+2
+20
+10
+ms ,
+ms
+7
+7
+−
+− 
+ 
+87. A girl of mass 50 kg swinging on a cradle. If she moves with a 
+velocity of 
+1
+2 ms−
+ upward in a direction making an angle 60° 
+with the vertical, then the power generated is (g =
+2
+9.8 ms−) 
+(1) 980 W 
+(2) 490 2  W 
+
+ 
+ 
+ 
+ 
+ 
+(3) 490 3 W 
+(4) 245 W 
+ 
+88. Two blocks of masses ‘M’ and ‘m’ are placed on one another on 
+a smooth horizontal surface as shown in the figure. The force ‘F’ 
+is acting on the mass ‘M’ horizontally during time interval ‘t’. 
+Assuming no relative sliding between the blocks, the work done 
+by friction on the blocks is ________ 
+ 
+(1) 
+(
+)
+2 2
+2
+2
+mF t
+M
+m
++
+ 
+(2) (
+)
+2 2
+F t
+M
+m
++
+ 
+(3) 
+2
+M
+m
+mt
++
+ 
+(4) (
+)
+2
+Ft
+M
+m
++
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+89. A uniform thin rod of 120 cm length 1600 g mass is bent as 
+shown in the figure. The moment of inertia of the bent rod about 
+an axis passing through the point ‘O’ and perpendicular to the 
+plane of the paper is _______ kg m2. 
+ 
+(1) 0.120 
+(2) 0.084 
+(3) 0.360 
+(4) 0.018 
+ 
+90. A solid sphere is projected up along an inclined plane of 
+inclination 30° with the horizontal with a speed of 
+1
+4 ms−. If it 
+rolls without slipping, the maximum distance traversed by it is 
+______(
+2
+10 ms
+g
+−
+=
+) 
+(1) 1.12 m 
+
+ 
+ 
+ 
+ 
+ 
+(2) 22.4 m 
+(3) 112 m 
+(4) 2.24 m 
+ 
+91. Time period of a simple pendulum of length ‘L’ is T1. Time 
+period of a uniform rod of same length ‘L’ suspended from one 
+end and oscillating in a vertical plane is T2. Amplitude of 
+oscillation is small in both the cases. Then 
+1
+2
+T
+T  is 
+(1) 
+4
+3   
+(2) 1 
+(3) 
+3
+2  
+(4) 
+2
+3  
+ 
+92. Two bodies of masses 4 m and 9 m are separated by a distance 
+‘r’. The gravitational potential at a point on this line joining them 
+where the gravitational field becomes zero is 
+(1) 
+4Gm
+r
+−
+  
+
+ 
+ 
+ 
+ 
+ 
+(2) 
+25Gm
+r
+−
+ 
+(3) 
+9Gm
+r
+−
+ 
+(4) 
+13Gm
+r
+−
+ 
+ 
+93. The ratios of lengths, areas of cross-section and Young’s modulii 
+of steel to that of brass wires shown in the figure are a, b and c 
+respectively. The ratio of increase in the lengths of brass to that 
+of steel wires is [Assume that the masses of steel and Brass wires 
+are negligible] 
+ 
+
+ 
+ 
+ 
+ 
+ 
+(1) 4
+7
+a
+bc   
+(2) 7
+4
+bc
+a  
+(3) 4
+7
+ab
+a  
+(4) 7
+4
+a
+bc  
+ 
+94. Fully filled open water tank has two holes on either side of its 
+walls. One is a square hole of side x cm at a depth of 2 m from 
+the top, and the other hole is equilateral triangle of side 4 cm at 
+a depth of 6 m from the top. If the rate of flow of water is same 
+from both the holes, then ‘x’ is 
+(1) 12 cm 
+(2) 3.46 cm 
+(3) 6.92 cm 
+(4) 1.73 cm 
+ 
+95. Three uniform thin aluminum rods each of length 2 m form an 
+equilateral triangle PQR as shown in the figure. The mid point 
+of the rod PQ is at the origin of the coordinate system. If the 
+temperature of the system of rods increases by 50°C, the increase 
+
+ 
+ 
+ 
+ 
+ 
+in y-coordinate of the centre of mass of the system of the rods is 
+__________mm.  
+(Coefficient 
+of 
+volume 
+expansion 
+of 
+aluminium
+6
+1
+12 3 10
+K
+−
+−
+=
+×
+ ) 
+ 
+(1) 0.05 
+(2) 0.1 
+(3) 0.2 
+(4) 0.8 
+ 
+96. A wall is made of equally thick layers ‘P’ and ‘Q’ of different 
+materials. Thermal conductivity of ‘Q’ is half of that of the ‘P’. 
+In the steady state, if the temperature difference across the wall 
+is 24°C, then the temperature difference across the layer ‘P’ is 
+_____ 
+(1) 12°C 
+(2) 8°C 
+
+ 
+ 
+ 
+ 
+ 
+(3) 16°C 
+(4) 4°C 
+ 
+97. One mole of a gas expands such that its volume ‘V’ changes with 
+absolute temperature ‘T’ in accordance with the' relation 
+2
+V
+KT
+=
+ where ‘K’ is a constant. If the temperature of the gas 
+changes by 60 C
+° , then work done by the gas is (R is universal 
+gas constant). 
+(1) 120R 
+(2) Rln60 
+(3) KRln60 
+(4) 40KR 
+ 
+98. A monatomic ideal gas goes through a cyclic process as shown 
+in the figure. The efficiency of this process is 
+ 
+(1) 78% 
+
+ 
+ 
+ 
+ 
+ 
+(2) 62% 
+(3) 42% 
+(4) 21% 
+ 
+99. If the average translational kinetic energy of a molecule in a gas 
+is equal to the kinetic energy of an electron accelerating from 
+rest through 10 volt, then the temperature of the gas molecule is 
+(Boltzmann constant 
+23
+1
+1.38 10
+JK
+−
+−
+=
+×
+) 
+(1) 73.7 K 
+(2) 77.3
+3
+10 K
+×
+  
+(3) 7.73
+3
+10 K
+×
+ 
+(4) 730 K 
+ 
+100. The transverse displacement of a string linear density 
+1
+0.01kgm−, 
+clamped 
+at 
+its 
+ends 
+is 
+given 
+by 
+(
+)
+(
+)
+,
+2
+0.03sin
+cos 60
+3
+x t
+x
+Y
+t
+
+
+=
+
+
+
+
+π
+π
+ where 
+and
+x
+y are in meters 
+and time ‘t’ is in seconds. Tension in the string is 
+(1) 81 N 
+(2) 162 N 
+(3) 36 N 
+
+ 
+ 
+ 
+ 
+ 
+(4) 9 N 
+ 
+101. A closed organ pipe of length ‘L’ and an open organ pipe 
+contain gases of densities 
+1
+ρ  and 
+2
+ρ  respectively. The 
+compressibility of gases is equal in both the pipes. If the 
+frequencies of their first overtones are same, then the length of 
+the open organ pipe is 
+(1) 3
+L   
+(2) 4
+3
+L  
+(3) 
+1
+2
+4
+3
+L
+ρ
+ρ  
+(4) 
+2
+1
+4
+3
+L
+ρ
+ρ  
+ 
+102. Two point sources S1 and S2 are 24 cm apart. Where should a 
+convex lens of focal length 9 cm be placed in between them so 
+that the images of both sources are formed at the same place? 
+(1) 8 cm 
+(2) 6 cm 
+(3) 10 cm 
+
+ 
+ 
+ 
+ 
+ 
+(4) 12 cm 
+ 
+103. Two slits separated by 0.5 mm are illuminated by light of 
+wavelength 500 nm. The screen is at a distance of 120 cm from 
+the slits. The phase difference between the interfering waves at 
+a point 3 mm on the screen from the central bright fringe is 
+______ 
+(1) π   
+(2) 3π  
+(3) 5π  
+(4) 7π  
+ 
+104. The uniform electric field intensity between the two plates of a 
+parallel plate capacitor is 1×103 Vm-3 acting vertically upwards 
+as shown in the figure. The plates are sufficiently long and have 
+separation 2 cm. A particle of negative charge 1 μC and mass 2 
+g is projected at an angle 45° with the electric field from the 
+lower plate with a velocity ‘u’. The maximum velocity acquired 
+by the particle, if it is not hit the upper plate is 
+ 
+
+ 
+ 
+ 
+ 
+ 
+(1) 
+1
+0.1ms− 
+(2) 
+1
+0.2 ms− 
+(3) 
+1
+2 ms− 
+(4) 
+1
+1ms− 
+ 
+105. An infinitely long thin straight wire has uniform linear charge 
+density of 
+1
+1 Cm
+3
+−. Then the magnitude of the force acting on a 
+charge 3 μC situated at a point of 18 cm away from the wire is 
+9
+2
+2
+0
+1
+9 10 Nm C
+4π
+−
+
+
+= ×
+
+
+∈
+
+
+ 
+(1) 
+5
+10 N 
+(2) 
+5
+2 10 N
+×
+ 
+(3) 
+6
+1 10 N
+3×
+  
+(4) 
+11
+3 10
+N
+×
+ 
+ 
+106. In steady state, a capacitor of capacitance 2 μF is charged to 
+4 μC, as shown in figure. If internal resistance of the cell is 
+0.5 Ω, the emf of the Cell is 
+
+ 
+ 
+ 
+ 
+ 
+ 
+(1) 4 V 
+(2) 2.5 V 
+(3) 5 V 
+(4) 2 V 
+ 
+107. An electrostatic paint sprayer has a metal sphere of diameter 18 
+cm and at a potential of 25 kV. If is sprays paint droplets, the 
+charge on the metal sphere is 
+(1) 0.5 μC  
+(2) 0.25 μC  
+(3) 2.5 μC  
+(4) 25 μC  
+ 
+108. When the terminals of a cell are connected by a wire of 
+resistance 4 Ω, the potential difference across the cell is 1.6 V. 
+If a wire of the same resistance is connected in parallel with the 
+
+ 
+ 
+ 
+ 
+ 
+first, the potential difference becomes 1.33 V. The emf and 
+internal resistance of the cell are respectively 
+(1) 2 V, 2 Ω  
+(2) 1 V, 2 Ω 
+(3) 1 V, 1 Ω 
+(4) 2 V, 1 Ω 
+ 
+109. If the charge on the capacitor is 1 mC in the given circuit, then 
+1
+2
+3
+R R
+R
+= _______ Ω 
+ 
+(1) 0.4 
+(2) 10 
+(3) 6 
+(4) 0.6 
+ 
+
+ 
+ 
+ 
+ 
+ 
+110. Two concentric coils of 20 turns each are placed in same plane. 
+Their radii are 30 cm and 60 cm and carry 0.4 A and 0.6 A 
+current respectively in opposite directions. The magnetic 
+induction at the centre in Tesla is ______ 
+(1) 
+0
+5
+3 µ   
+(2) 
+0
+8
+3 µ  
+(3) 
+0
+2
+3 µ  
+(4) 
+0
+10
+3 µ  
+ 
+111. Two long parallel conducting wires carrying currents are 
+separated by a distance ‘x’ Work done per unit length in 
+changing the distance between the wires is proportional to 
+(1) x 
+(2) 1
+x   
+(3) loge x 
+(4) 
+1
+loge x  
+ 
+
+ 
+ 
+ 
+ 
+ 
+112. Match the following 
+ 
+List - I 
+ 
+List - II 
+(a) High Retentivity 
+(i) 
+Telephone diaphram 
+(b) High resistivity 
+(ii) Diamagnet 
+(c) Low coercivity 
+(iii) To 
+decrease 
+eddy 
+currents losses 
+(d) Negative susceptibility 
+(iv) Permanent magnet 
+The correct answer is 
+(1) a-i, b-ii, c-iii, d-iv 
+(2) a-iv, b-iii, c-i, d-ii 
+(3) a-i, b-iv, c-iii, d-ii 
+(4) a-iv, b-ii, c-i, d-iii 
+ 
+113. Assertion (A) : It is more difficult to push magnet into a coil 
+with more number of turns. 
+Reason (R) : The emf induced in a coil opposes the motion of a 
+magnet when it is moved towards the coil. 
+(1) Both A and R are true. R is a correct explanation of A. 
+(2) Both A and R are true. R is not correct explanation of A 
+(3) A is true, R is false 
+(4) A is false, R is true 
+ 
+
+ 
+ 
+ 
+ 
+ 
+114. When a coil is connected to AC supply of frequency 50 Hz, a 
+current of 4 A flows in it and it consumes 240 W power. If the 
+potential difference across the coil is 100 V, then the inductance 
+value of the coil is 
+(1) 
+1 H
+5
+L
+π
+=
+  
+(2) 
+H
+5
+L
+π
+=
+ 
+(3) 
+(
+)
+5
+H
+L
+π
+=
+ 
+(4) 
+1
+H
+25
+L
+π
+=
+ 
+ 
+115. The magnitude of electric field in an electromagnetic wave is 
+60 
+1
+Vm−. Then the amplitude of magnetic field is 
+(1) 2
+7
+10 T
+×
+  
+(2) 6
+7
+10 T
+×
+ 
+(3) 6
+7
+10
+T
+−
+×
+ 
+(4) 2
+7
+10
+T
+−
+×
+ 
+ 
+116. Both an electron and a photon have same de-Broglie 
+wavelength of 1.2 Å. The ratio of their energies is nearly 
+
+ 
+ 
+ 
+ 
+ 
+(1) 1 : 1 
+(2) 1 : 100 
+(3) 1 : 100 
+(4) 1 : 1000 
+ 
+117. The radius of orbit of an electron and the speed of electron in 
+the ground state of hydrogen atom are 
+11
+5.5 10−
+×
+ m and 
+6
+4 10 m/s
+×
+ respectively. Then, the orbital period of this electron 
+in the first excited state will be _______ 
+(1) 
+16
+9.608 10
+s
+−
+×
+  
+(2) 
+16
+8.9068 10
+s
+−
+×
+  
+(3) 
+16
+7.806 10
+s
+−
+×
+  
+(4) 
+16
+6.908 10
+s
+−
+×
+  
+ 
+118. The half life of a stream of radioactive particles moving along 
+a straight path with a constant kinetic energy of 4 eV is 1 minute. 
+The percentage of particles which decay before travelling a 
+distance of 3.6 km is________ 
+(Mass of the radioactive particles = 
+21
+3.2 10−
+×
+ kg and charge of 
+the electron = 
+19
+1.6 10−
+×
+ C). 
+
+ 
+ 
+ 
+ 
+ 
+(1) 37.5 
+(2) 87.5 
+(3) 75 
+(4) 175 
+ 
+119. A Zener diode voltage regulator operated in the range 
+120 180 V
+−
+ produces a constant supply of 110 V and 250 mA to 
+the load. If the maximum current is equally shared between the 
+load and the Zener diode, then the values of load resistance (RL) 
+and series resistance (RS) are respectively 
+(1) 
+70
+,
+280
+L
+S
+R
+R
+=
+Ω
+=
+Ω  
+(2) 
+440
+,
+140
+L
+S
+R
+R
+=
+Ω
+=
+Ω 
+(3) 
+440
+,
+1400
+L
+S
+R
+R
+=
+Ω
+=
+Ω 
+(4) 
+280
+,
+70
+L
+S
+R
+R
+=
+Ω
+=
+Ω 
+ 
+120. The process of recovering the modulating signal from the 
+modulated carrier wave is called  
+(1) Amplification 
+(2) Rectification 
+(3) Noise  
+(4) Detection 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AP EAMCET-2017-Engineering-26 Apr-Shift-1 
+Solutions – Physics 
+ 
+ 
+81. The formula for the internal resistance of the cell is, 
+1
+2
+1
+l
+r
+R l
+
+
+=
+−
+
+
+
+
+ 
+The percentage change in the internal resistance is, 
+
+ 
+ 
+ 
+ 
+ 
+1
+2
+1
+2
+100
+100
+4
+0.2
+4.2%
+l
+l
+r
+R
+r
+R
+l
+l
+
+
+∆
+
+∆
+∆
+
+
+=
+×
++
+×
+
+
+
+
+
+
+=
++
+=
+ 
+ 
+82. The total time required by the two cars to meet, 
+36
+54
+36
+0.4 h
+t
+t
+=
++
+=
+ 
+The distance covered by the bird before the cars meet each other 
+is, 
+36 0.4
+14.4 km or
+=14400 m
+d =
+×
+=
+ 
+ 
+83. Given Data: 
+2
+5 m/s
+10 m/s
+30 m
+u
+a
+h
+=
+= −
+= −
+ 
+The figure below represents the projectile motion. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+2
+2
+1
+2
+1
+30
+5
+10
+2
+h
+ut
+at
+t
+t
+=
++
+−
+=
+−
+×
+×
+ 
+By solving the above equation. 
+3 or
+2
+3s
+t
+t
+t
+=
+≠−
+=
+ 
+The distance covered in east direction is, 
+3 3
+9 m
+x
+d = ×
+=
+ 
+The distance covered in north direction is, 
+4 3
+12 m
+y
+d =
+× =
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+The range is, 
+2
+2
+9
+12
+225 m
+15 m
+R
+R
+R
+=
++
+=
+=
+  
+ 
+84. The equation of the projectile is given as, 
+2
+y
+Px
+Qx
+=
+−
+                                 …… (I) 
+The distance travelled, 
+2
+2
+2
+1
+tan
+2
+cos
+x
+y
+x
+g u
+θ
+θ
+
+
+=
+−
+
+
+
+
+           …… (II) 
+From equation (I) and (II), 
+2
+2
+tan
+2
+cos
+P
+g
+Q
+u
+θ
+θ
+=
+=
+ 
+The formula for maximum height and range is, 
+2
+2
+2
+sin
+2
+sin2
+2
+u
+H
+g
+u
+R
+g
+=
+=
+θ
+θ
+ 
+By dividing the two equations, 
+
+ 
+ 
+ 
+ 
+ 
+2
+2
+sin
+2 sin 2
+sin
+2
+2sin
+cos
+tan
+4
+4
+H
+R
+H
+R
+H
+R
+H
+P
+R
+θ
+θ
+θ
+θ
+θ
+θ
+=
+×
+=
+×
+=
+=
+ 
+ 
+85. The formula for the resultant acceleration when the lift goes 
+down, 
+(
+)
+a
+g
+a
+′ =
+−
+ 
+The force exerted by the man on the floor of the lift is, 
+(
+)
+(
+)
+2
+150
+60 10
+7.5 m/s
+F
+ma
+F
+m g
+a
+a
+a
+′
+=
+=
+−
+=
+−
+=
+ 
+ 
+86. Given Data: 
+1
+2
+3 kg,
+4 kg
+m
+m
+=
+=
+ 
+Consider the diagram as shown below, 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Balancing the force, 
+(
+)
+1
+2
+1
+2
+2
+1
+1
+2
+2
+1
+4 10
+40 m/s
+3
+4
+7
+m
+m
+a
+m g
+m g
+a
+m
+m
+a
++
+=
+=
++
+×
+=
+=
++
+ 
+Consider the diagram as shown below, 
+
+ 
+ 
+ 
+ 
+ 
+ 
+By balancing the forces, 
+(
+)
+(
+)
+(
+)
+1
+2
+2
+1
+2
+1
+1
+2
+2
+4
+3 10
+4
+3
+10 m/s
+7
+m
+m
+a
+m
+m g
+m
+m
+a
+g
+m
+m
+a
+a
++
+=
+−
+−
+=
++
+−
+=
+×
++
+=
+  
+ 
+87. The work done to displace the girl can be calculated as, 
+(
+)
+sin60
+sin60
+W
+mg
+ds
+W
+mg
+vdt
+=
+°
+=
+°
+ 
+The power generated at that instant is, 
+
+ 
+ 
+ 
+ 
+ 
+( )
+(
+)
+( )
+sin60
+3
+50 9.8
+2
+2
+490 3 W
+P
+mg
+v
+P
+P
+=
+°
+
+
+=
+
+
+
+
+=
+ 
+ 
+88. The acceleration of the block can be calculated as, 
+(
+)
+F
+m
+M a
+F
+a
+m
+M
+=
++
+=
++
+ 
+Since there is no relative sliding, the frictional force on upper 
+block is, 
+f
+ma
+F
+f
+m M
+m
+=
+
+
+=
+
+
++
+
+
+ 
+The distance covered can be calculated as, 
+2
+2
+1
+2
+1
+2
+D
+at
+F
+D
+t
+M
+m
+=
+
+
+=
+
+
++
+
+
+ 
+The work done by the frictional force is, 
+
+ 
+ 
+ 
+ 
+ 
+(
+)
+2
+2 2
+1
+2
+2
+W
+f
+s
+mF
+Ft
+M
+m
+m
+m
+mF t
+m
+M
+=
+×
+=
+×
++
++
+=
++
+ 
+ 
+89. The mass of each rod is, 
+400 g
+0.4 kg
+m =
+=
+ 
+The length of each rod is, 
+30 cm
+0.3 m
+l =
+=
+ 
+The figure below represents the uniform rods, 
+ 
+2
+2
+2
+2
+2
+2
+3
+4
+l
+h
+l
+h
+l
+
+
+=
+−
+
+
+
+=
+ 
+The moment of inertia of I & III is same and II and IV is same. 
+The moment of inertia of the system, 
+
+ 
+ 
+ 
+ 
+ 
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+2
+of
+2
+of
+2
+2
+3
+12
+2
+10
+2
+3
+12
+7
+3
+MI
+MI
+I
+MI
+II
+ml
+ml
+mh
+ml
+ml
+ml
+=
+×
++
+×
+
+
+=
+×
++
++
+
+
+
+
+
+
+=
++
+
+
+
+
+=
+ 
+Substitute the values in the above equation. 
+2
+7
+0.4 0.3 0.3
+3
+0.084 kg m
+MI =
+×
+×
+×
+=
+⋅
+ 
+ 
+90. The velocity of the solid sphere is 
+4 m/s
+v =
+ 
+The figure below represents the solid sphere moves along the 
+inclined plane. 
+ 
+The kinetic energy at the bottom, is equal to the sum of kinetic 
+energy due or translation and rotation, 
+
+ 
+ 
+ 
+ 
+ 
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+2
+2
+1
+1 2
+2
+2 5
+1 7
+2 5
+t
+r
+KE
+KE
+KE
+mv
+I
+v
+mv
+mr
+r
+mv
+ω
+=
++
+=
++
+
+
+
+
+=
++
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+ 
+From the conservation of energy, at height h, 
+( )
+(
+)
+2
+2
+1 7
+2 2
+1 7 4
+10
+2 2
+1.12 m
+KE
+mgh
+mv
+mgh
+h
+h
+=
+
+=
+
+
+
+
+
+=
+
+
+
+
+=
+ 
+The maximum distance travelled is, 
+ 
+
+ 
+ 
+ 
+ 
+ 
+sin30
+1.12
+sin30
+22.4 m
+h
+l
+l
+l
+=
+°
+=
+°
+=
+  
+ 
+91. The formula for the time period of the pendulum, 
+2
+L
+T
+g
+L
+T
+g
+π
+=
+∝
+ 
+The ratio of 
+1
+2
+/
+T
+T  is 
+1
+2
+1
+2
+/
+2
+/ 3
+3
+2
+L g
+T
+T
+L
+g
+T
+T
+=
+=
+ 
+ 
+92. The position where the gravitation field is zero. 
+(
+)
+(
+)
+(
+)
+4
+9
+G
+m
+G
+m
+x
+r
+x
+=
+−
+ 
+Here, x is distance is from 4 m mass. 
+
+ 
+ 
+ 
+ 
+ 
+(
+)
+(
+)
+4
+9
+4
+9
+4
+13
+4
+13
+x
+r
+x
+r
+x
+x
+r
+x
+x
+r
+=
+−
+−
+=
+=
+=
+ 
+The point P is at a distance 4
+13 r  from mass 4 m and 
+4
+9
+13
+13
+r
+h
+r
+
+
+−
+=
+
+
+
+
+ from mass m. 
+(
+)
+(
+)
+4
+9
+9
+4
+13
+13
+26
+G
+m
+G
+m
+v
+r
+r
+Gm
+v
+r
+= −
+−
+
+
+
+
+
+
+= −
+ 
+ 
+ 
+93. Given: 
+Length: 
+s
+b
+L
+a
+L =
+ 
+Area of cross section: 
+s
+b
+A
+b
+A =  
+Young’s modules: 
+s
+b
+E
+b
+E =
+ 
+
+ 
+ 
+ 
+ 
+ 
+The formula for the increase in the length, 
+/
+L
+L
+E
+F
+A
+L
+L
+E
+FL
+L
+AE
+σ
+∆
+=
+∆=
+∆=
+ 
+The ratio of change in length of steel and brass, 
+( )
+7
+1
+1
+4
+7
+4
+4
+7
+s
+s
+s
+s
+s
+b
+s
+s
+s
+s
+s
+s
+s
+b
+b
+b
+b
+b
+s
+s
+s
+b
+s
+b
+b
+s
+L
+F L
+A E
+L
+A E
+F L
+L
+F
+L
+A
+E
+L
+F
+L
+A
+E
+L
+a
+L
+b
+c
+L
+a
+L
+bc
+L
+bc
+L
+a
+
+
+
+∆
+= 
+
+
+∆
+
+
+
+
+
+
+
+
+∆
+= 
+
+
+
+
+∆
+
+
+
+
+
+∆
+
+
+
+=
+
+
+
+∆
+
+
+
+∆
+=
+∆
+∆
+=
+∆
+  
+ 
+94. The figure below represents the tanks with the two holes, 
+
+ 
+ 
+ 
+ 
+ 
+ 
+The formula for the velocity is, 
+2
+v
+gh
+=
+ 
+The volumetric flow rate of square hole is, 
+2
+2
+2
+s
+V
+Av
+x
+g
+=
+=
+×
+×
+ 
+The volumetric flow rate of triangular hole is, 
+2
+3
+4
+2
+6
+4
+tV
+Av
+g
+=
+=
+×
+×
+×
+ 
+Since the flow rate is same, 
+2
+2
+2
+3
+2
+2
+4
+2
+6
+4
+3
+3
+3
+1.732 cm
+s
+t
+V
+V
+x
+g
+g
+x
+x
+=
+×
+×
+=
+×
+×
+×
+=
+×
+=
+=
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+95. The figure below represents the three uniform thin rods in the 
+form of triangle. 
+ 
+The centre of mass of the system, 
+(
+)
+(
+)
+(
+)
+1 1
+2 2
+3 3
+1
+2
+3
+1
+3
+ˆ
+1 2
+2
+2
+1 ˆ
+3
+COM
+COM
+i
+COM
+i
+m r
+m r
+m r
+r
+m
+m
+m
+r
+j
+r
+j
++
++
+=
++
++
+
+
+=
+× ×
+
+
+
+
+=
+ 
+The new length of the rod due to expansion is, 
+(
+)
+1
+1
+3
+f
+i
+f
+i
+l
+l
+T
+l
+l
+T
+α
+γ
+=
++ ∆
+
+
+=
++
+∆
+
+
+
+
+  
+Substitute the values in the above equation. 
+
+ 
+ 
+ 
+ 
+ 
+(
+)
+(
+)
+6
+6
+4
+12 3 10
+2 1
+50
+3
+2 1
+4 50
+3 10
+2 1
+2 3 10
+f
+f
+f
+l
+l
+l
+−
+−
+−
+
+
+×
+=
++
+×
+
+
+
+
+=
++
+×
+×
+×
+=
++
+×
+ 
+The final centre of mass can be calculated as, 
+(
+)
+(
+)
+4
+4
+1
+3
+ˆ
+1
+2 3 10
+2
+3
+2
+1
+ˆ
+2 10
+3
+COM
+f
+r
+j
+j
+−
+−
+
+
+=
+×
++
+×
+×
+
+
+
+
+
+
+=
++ ×
+
+
+
+
+ 
+The increase in y coordinate of the centre of mass of the system 
+of the rods is, 
+(
+)
+(
+)
+4
+4
+1
+1
+ˆ
+2 10
+3
+3
+2 10
+m
+COM
+COM
+f
+i
+y
+r
+r
+j
+δ
+−
+−
+=
+−
+
+
+=
++
+×
+−
+
+
+
+
+=
+×
+ 
+ 
+96. The figure below represents the wall P and Q. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+It is given that, 
+2
+2
+P
+Q
+P
+Q
+k
+k
+k
+k
+=
+=
+ 
+And  
+1
+2
+24°C
+T
+T
+−
+=
+ 
+In steady state, the rate of flow heat through layer P and Q is 
+same, 
+(
+)
+(
+)
+3
+2
+1
+3
+Q
+P
+k a T
+T
+k a T
+T
+x
+x
+−
+−
+=
+ 
+Substitute the values in the above equation. 
+(
+)
+(
+)
+(
+)
+(
+)
+1
+3
+3
+2
+1
+3
+3
+2
+1
+3
+2
+2
+2
+2
+3
+0
+Q
+Q
+k a T
+T
+k a T
+T
+x
+x
+T
+T
+T
+T
+T
+T
+T
+−
+−
+=
+−
+=
+−
+−
++
+=
+ 
+From equation (I), 
+
+ 
+ 
+ 
+ 
+ 
+1
+3
+1
+1
+0
+1
+0
+2
+3
+24
+0
+3
+3
+24
+8°C
+T
+T
+T
+T
+T
+T
+T
+−
++
+−
+=
+−
+=
+−
+=
+ 
+ 
+97. The relation is given as, 
+2
+V
+KT
+=
+  
+From ideal gas equation, 
+1/2
+1/2
+const
+PV
+RT
+V
+PV
+R K
+PV
+a
+=
+
+
+=
+
+
+
+
+=
+ 
+From the above equation, 
+1/ 2
+γ =
+. 
+The work done by the gas is, 
+(
+)
+(
+)
+1
+60
+1 1/ 2
+120
+i
+f
+nR T
+T
+W
+R
+W
+W
+R
+γ
+−
+=
+−
+= −
+=
+  
+ 
+98. The total work done is equal to the area under the cyclic process. 
+(
+)(
+)
+3
+2
+2
+W
+P
+P
+V
+V
+W
+PV
+=
+−
+−
+=
+ 
+The total heat supped to the system, 
+
+ 
+ 
+ 
+ 
+ 
+(
+)
+(
+)
+3
+5
+2
+2
+3
+5 3
+2
+2
+3
+5
+3
+2
+3
+2
+2
+2
+15
+3
+2
+21
+2
+AB
+BC
+v
+p
+Q
+Q
+Q
+nc
+T
+nc
+T
+R T
+R T
+V P
+P V
+V
+P
+P
+P
+V
+V
+PV
+PV
+PV
+=
++
+=
+∆
++
+∆
+=
+∆
++
+∆
+=
+∆
++
+∆
+=
+−
++
+−
+=
++
+=
+ 
+The efficiency is calculated as, 
+100
+2
+100
+21
+2
+19.04%
+W
+Q
+PV
+PV
+η =
+×
+=
+×
+=
+ 
+Thus, no option is correct. 
+ 
+99. The translation kinetic energy of a molecule of gas is 
+3
+2 kT
+=
+ 
+The formula for the kinetic energy is, 
+
+ 
+ 
+ 
+ 
+ 
+(
+)
+(
+)(
+)
+23
+19
+4
+3
+3
+2
+3 1.38 10
+1.6 10
+10
+2
+7.73 10
+77.3 10 K
+kT
+eV
+T
+T
+T
+−
+−
+=
+×
+=
+×
+=
+×
+=
+×
+ 
+ 
+100. The equation of the transverse displacement is, 
+2
+0.03sin
+cos60
+3
+x
+y
+t
+π
+π
+
+
+=
+
+
+
+
+                       ...... (I) 
+The mass per unit length is given as, 
+0.01kg/m
+µ =
+ 
+The general equation of transverse displacement is, 
+sin
+cos
+y
+a
+kx
+t
+ω
+=
+ 
+Comparing the above equation with equation (I), 
+2
+60 ,
+3
+k
+π
+ω
+π
+=
+=
+ 
+The formula for the velocity is, 
+T
+v
+k
+ω
+µ
+=
+=
+ 
+Substitute the values in the above equation. 
+
+ 
+ 
+ 
+ 
+ 
+2
+60
+0.01
+2
+/ 3
+90
+0.01
+90
+0.01
+81 N
+T
+T
+T
+T
+π
+π
+=
+=
+=
+×
+=
+ 
+ 
+101. For the closed organ pipe, 
+2
+1
+3
+f
+f
+f
+=
+=
+ 
+Now, 
+1
+1
+3
+3
+3
+4
+4
+v
+p
+f
+L
+L
+γ
+ρ
+=
+=
+ 
+For the open organ pipe, 
+2
+1
+2
+f
+f
+f
+=
+=
+ 
+Now, 
+1
+2
+2
+1
+2
+2
+v
+p
+f
+L
+L
+γ
+ρ
+=
+=
+′
+′
+ 
+From same sound frequency, 
+1
+2
+1
+2
+3
+1
+4
+4
+3
+p
+p
+L
+L
+L
+L
+γ
+γ
+ρ
+ρ
+ρ
+ρ
+=
+′
+′ =
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+102. The figure below represents the convex lens and two point 
+sources, 
+ 
+The given condition satisfies when 
+1S  is placed in one sie such 
+that u
+f
+<
+ and the 
+2
+S  is placed on the other side of the lens such 
+that u
+f
+>
+. 
+1S  is the object for lens, from lens formula, 
+1
+1
+1
+1
+1
+1
+f
+y
+x
+y
+x
+f
+=
+−
+−
+−
+=
+−−
+                                     ...... (I) 
+2
+S  is the object for the lens, then 
+(
+)
+1
+1
+1
+24
+1
+1
+1
+24
+f
+y
+x
+y
+f
+x
+=
+−−
+−
+=
+−
+−
+−
+                                ...... (II) 
+From equation (I) and (II), 
+
+ 
+ 
+ 
+ 
+ 
+2
+1
+1
+1
+1
+24
+1
+1
+1
+1
+9
+9
+24
+1
+1
+2
+24
+9
+24
+108
+0
+x
+f
+f
+x
+x
+x
+x
+x
+x
+x
+−
+=
+−
+−
+−
+=
+−
+−
++
+=
+−
+−
++
+=
+ 
+By solving the above equation, 
+6 cm or18 cm
+x =
+ 
+ 
+103. The formula for the fringe width is, 
+d
+D
+λ
+β =
+ 
+Substitute the given values in the above equation. 
+(
+)(
+)
+2
+9
+9
+4
+120 10
+0.5 10
+500 10
+12 10
+m
+β
+β
+−
+−
+−
+−
+×
+×
+=
+×
+=
+×
+ 
+The number of fringes in 3 mm distance on screen is, 
+4
+3
+4
+3
+12 10
+3 10
+25
+12 10
+mm
+n
+n
+−
+−
+−
+=
+×
+×
+=
+=
+×
+ 
+That is third fringe. 
+The phase difference is, 
+
+ 
+ 
+ 
+ 
+ 
+2
+2
+5
+φ
+π
+π
+π
+φ
+π
+=
++
++
+=
+ 
+ 
+104. The acceleration of projected change in y-direction is, 
+y
+y
+F
+a
+m
+qE
+a
+m
+= −
+= −
+ 
+Substitute the given values in the above equation. 
+(
+)(
+)
+6
+3
+3
+2
+1 10
+1 10
+2 10
+1 m/s
+2
+y
+y
+a
+a
+−
+−
+×
+×
+= −
+×
+= −
+ 
+The vertical component of the projection velocity is, 
+sin 45
+y
+u
+u
+=
+° 
+If the particle is not to hit upper plate, then 
+(
+)
+( )
+(
+)
+2
+2
+2
+2
+2
+1
+2
+1
+sin 45
+2
+2 10
+2
+4 10
+2 10
+0.2 m/s
+y
+y
+u
+a
+y
+u
+u
+u
+u
+−
+−
+−
+≤
+°
+≤
+×
+× ×
+≤
+×
+≤
+×
+≤
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+105. The formula for the intensity of the electric field due to infinitely 
+long wire at distance r is,  
+0
+0
+2
+2
+4
+E
+r
+E
+r
+λ
+πε
+λ
+πε
+=
+=
+ 
+Substitute the given values in the above equation. 
+(
+)
+9
+2
+11
+1
+9 10
+2 3
+3 18 10
+1 10
+N/C
+3
+E
+E
+−
+
+
+×
+
+
+
+
+=
+×
+×
+=
+×
+ 
+The force on the charge is, 
+6
+11
+5
+1
+3 10
+10
+3
+10 N
+F
+qE
+−
+=
+= ×
+×
+×
+=
+ 
+ 
+106. The voltage across capacitance is, 
+
+ 
+ 
+ 
+ 
+ 
+6
+6
+4 10
+2 10
+2 V
+cap
+Q
+V
+C
+−
+−
+=
+×
+=
+×
+=
+ 
+The across 2 Ω resistance is same as of 
+Cap
+V
+ 
+Therefore, 
+2
+1A
+2
+V
+I
+R
+I
+=
+=
+=
+ 
+The formula for the emf of the cell, 
+E
+V
+Ir
+=
++
+  
+Substitute the values in the above equation. 
+2 1 0.5
+2.5 V
+E =
++ ×
+=
+ 
+ 
+107. The diameter of the sphere is, 
+2
+18 cm
+18 10
+m
+d
+−
+=
+=
+×
+ 
+Potential: 
+3
+25 kV
+25 10 V
+V =
+=
+×
+ 
+The formula for the charge on the metal sphere is, 
+
+ 
+ 
+ 
+ 
+ 
+( )
+0
+0
+1
+4
+4
+q
+V
+r
+r
+q
+q
+πε
+πε
+
+
+=
+
+
+
+
+=
+ 
+Substitute the values in the above equation. 
+3
+2
+9
+6
+18
+25 10
+10
+2
+9 10
+0.25 10
+0.25 μC
+q
+q
+q
+−
+−
+×
+×
+×
+=
+×
+=
+×
+=
+ 
+ 
+108. Given data: 
+1.6 V
+4
+V
+R
+=
+=
+Ω 
+The current in the wire is, 
+1
+1.6
+0.4 A
+4
+I =
+=
+ 
+The emf of the cell is, 
+1.6
+0.4
+E
+r
+=
++
+                                            ...... (I) 
+When a 4 Ω resistance is connected in parallel, 
+
+ 
+ 
+ 
+ 
+ 
+1
+1
+1
+4
+4
+1
+2
+4
+2
+R
+R
+R
+=
++
+′
+=
+′
+′ =
+Ω
+ 
+And  
+2
+1.33
+0.66 A
+2
+1.33
+0.66
+I
+E
+r
+=
+=
+=
++
+                                      ...... (II) 
+From equation (I) and (II), 
+1.6
+0.4
+1.33
+0.66
+1.6 1.33
+0.66
+0.4
+0.27
+1
+0.26
+r
+r
+r
+r
+r
++
+=
++
+−
+=
+−
+=
+≈
+ 
+Substitute the value in equation (I). 
+1.6
+0.4 1
+2 V
+E
+E
+=
++
+×
+=
+ 
+ 
+ 
+ 
+109. The figure below represents the given circuit. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+3
+6
+1 10
+5 10
+200 V
+cap
+cap
+cap
+Q
+V
+C
+V
+V
+−
+−
+=
+×
+=
+×
+=
+ 
+The current across 
+5
+R  resistance, 
+200
+20 A
+10
+V
+I
+R
+I
+=
+=
+=
+ 
+The figure below represents the current distribution. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+In loop BCDB, 
+3
+2
+15
+10 5
+5
+0
+R
+R
+−
++
+× +
+=                                ...... (I) 
+In loop 
+,
+ABCDA  
+3
+3
+3
+200 15
+50
+250
+0
+15
+100
+100
+15
+R
+R
+R
+−
+−
++
++
+=
+=
+=
+Ω
+ 
+From equation (I), 
+2
+2
+5
+50
+10
+R
+R
+=
+=
+Ω 
+In loop ADCA, 
+1
+1
+1
+250
+50
+310
+25
+0
+10
+25
+2
+5
+R
+R
+R
+−
+−
++
+−
+=
+=
+=
+Ω
+ 
+
+ 
+ 
+ 
+ 
+ 
+The required value is, 
+1
+2
+3
+2 10
+3
+100
+15
+3
+0.6
+5
+R
+R
+R
+×
+×
+= 
+
+
+
+
+
+=
+=
+ 
+ 
+110. Given Data: 
+1
+2
+2
+1
+2
+2
+0.4 A,
+0.6 A,
+30 10
+m
+60 10
+m
+I
+I
+r
+r
+−
+−
+=
+=
+=
+×
+=
+×
+ 
+Consider the figure, 
+ 
+The expression for the magnetic field at O, 
+0
+1 1
+2 2
+1
+2
+2
+4
+O
+n I
+n I
+B
+r
+r
+µ
+π
+π
+
+
+=
+⋅
+−
+
+
+
+
+ 
+Substitute the values in the above equation. 
+
+ 
+ 
+ 
+ 
+ 
+0
+2
+2
+20 0.4
+20 0.6
+2
+4
+30 10
+60 10
+O
+B
+µ
+π
+π
+−
+−
+×
+×
+
+
+=
+⋅
+−
+
+
+×
+×
+
+
+ 
+Further simplification, 
+0
+10
+3
+O
+B
+µ
+=
+ 
+ 
+111. The expression for the force per unit length is, 
+0 1 2
+2
+I I
+F
+l
+x
+µ
+π
+=
+ 
+The expression for the work done per unit length is, 
+0 1 2
+0 1 2
+0 1 2
+2
+2
+log
+2
+log
+e
+e
+W
+F dx
+I I
+W
+dx
+x
+I I
+dx
+W
+x
+I I
+W
+x
+W
+x
+µ
+π
+µ
+π
+µ
+π
+=
+⋅
+=
+⋅
+=
+=
+∝
+∫
+  
+ 
+112. The correct matching is shown below, 
+(a) 
+High Retentivity 
+(iv) Permanent magnet 
+(b) 
+High resistivity 
+(iii) To 
+decrease 
+eddy 
+current losses 
+
+ 
+ 
+ 
+ 
+ 
+(c) 
+Low coercivity 
+(i) 
+Telephone diaphragm 
+(d) 
+Negative susceptibility 
+(ii) Diamagnet 
+Thus correct option is (2). 
+ 
+113. Due to the repulsion caused by emf induced, it is more difficult 
+to push a magnet into a coil with a number of turns 
+The emf induced in the coil always opposes the motion of a 
+magnet. 
+ 
+114. The power is expressed as, 
+2
+P
+I R
+=
+ 
+Substitute the values in the given equation. 
+2
+240
+4
+15
+R
+R
+=
+=
+Ω
+ 
+For L-R circuit, 
+2
+2
+2
+2
+2
+2
+L
+L
+V
+IZ
+V
+I
+X
+R
+V
+X
+R
+I
+=
+=
++
+=
++
+ 
+Substitute the values in the above equation. 
+
+ 
+ 
+ 
+ 
+ 
+2
+2
+2
+2
+2
+2
+100
+15
+4
+625
+225
+400
+20
+L
+L
+L
+L
+X
+X
+X
+X
+=
++
+=
+−
+=
+=
+ 
+And  
+(
+)
+(
+)
+2
+20
+2
+50
+1 H
+5
+L
+L
+X
+L
+X
+L
+f
+L
+L
+ω
+π
+π
+π
+=
+=
+=
+×
+=
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+115. The expression for the speed of the electromagnetic wave is, 
+0
+0
+8
+0
+7
+0
+60
+3 10
+2 10
+T
+E
+c
+B
+B
+B
+−
+=
+×
+=
+=
+×
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+116. From the de-Broglie wavelength of electron, the kinetic energy 
+of the electron, 
+2
+2
+2
+e
+e
+e
+e
+h
+mK
+h
+K
+m
+λ
+λ
+=
+=
+×
+ 
+The kinetic energy of photon is, 
+p
+p
+hc
+K
+hv
+λ
+=
+=
+ 
+The required ratio is, 
+2
+2
+/
+2
+/
+2
+e
+e
+p
+e
+p
+e
+K
+h
+m
+K
+hc
+K
+h
+K
+c
+m
+λ
+λ
+λ
+=
+=
+×
+ 
+Substitute the given values in the above equation. 
+34
+8
+10
+31
+6.66 10
+3 10
+1.2 10
+2 9.1 10
+1
+100
+e
+p
+e
+p
+K
+K
+K
+K
+−
+−
+−
+×
+=
+×
+×
+×
+× ×
+×
+=≈
+ 
+ 
+117. Given Data, 
+
+ 
+ 
+ 
+ 
+ 
+11
+1`
+6
+1
+5.5 10
+m
+4 10 m/s
+r
+v
+−
+=
+×
+=
+×
+ 
+The expression for the first excited state is, 
+2
+11
+2
+2
+11
+5.5 10
+2
+1
+22 10
+m/s
+n
+n
+n
+n
+r
+Z
+r
+r
+−
+−
+∝
+×
+=
+=
+×
+ 
+The speed of the electron, 
+6
+6
+4 10
+2 10 m/s
+2
+n
+n
+Z
+v
+n
+v
+∝
+×
+=
+=
+×
+ 
+The time period of revolution, 
+11
+6
+16
+2
+2 3.14
+22 10
+2 10
+6.908 10
+s
+n
+e
+T
+v
+π
+−
+−
+=
+×
+×
+×
+=
+×
+=
+×
+ 
+ 
+118. From the kinetic energy formula, 
+2
+2
+KE
+v
+m
+×
+=
+ 
+Substitute the given values in the above equation. 
+
+ 
+ 
+ 
+ 
+ 
+19
+2
+21
+2
+2
+4 1.6 10
+3.2 10
+400
+20 m/s
+v
+v
+v
+−
+−
+× ×
+×
+=
+×
+=
+=
+ 
+The time required to travel a distance of 3.6 km is, 
+3
+3.6 10
+20
+180 s or 3 min
+D
+t
+v
+t
+=
+×
+=
+=
+ 
+The number of particle decays in 3 min, 
+0
+0
+0
+0
+0
+100
+/ 8 100
+7 100
+87.5%
+8
+N
+N
+n
+N
+N
+N
+n
+N
+n
+−
+=
+×
+−
+=
+×
+=
+×
+=
+ 
+ 
+119. The figure below represents the electric circuit with zener diode. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+3
+110
+440
+250 10
+L
+L
+L
+V
+R
+I
+−
+=
+=
+=
+Ω
+×
+ 
+The current will equally shared by zener diode and resistance. 
+2 250
+500 mA
+I =
+×
+=
+ 
+Therefore, 
+180 110
+0.5
+140
+S
+S
+V
+R
+I
+=
+−
+=
+=
+Ω
+ 
+ 
+120. The process of recovering the modulated signal from the 
+modulated carrier wave is called demodulation. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

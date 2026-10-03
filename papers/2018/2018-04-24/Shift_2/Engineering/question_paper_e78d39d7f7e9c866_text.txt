@@ -1,0 +1,3643 @@
+ 
+ 
+      
+       
+www.vedantu.com 
+AP EAMCET 
+Engineering Entrance Exam 
+24th April 2018- Shift 2 
+ 
+Mathematics 
+ 
+1. Match the following   
+List – I   
+ 
+ 
+ 
+List – II 
+A) 
+4;
+0
+1
+2
+x
+x
+x
+x
+e
++
++
+≠
+−
+ 
+ 
+ 
+I) is neither odd even 
+function  
+B) 
+(
+)
+(
+)
+1
+2
+tan
+log
+1
+,
+0
+x
+x
+x
+−
++
++
+>   II) is an even function  
+C) for 3<
+5
+x <  
+ 
+ 
+ 
+III) is an odd function  
+2
+3
+5
+x
+x
+x
+−
++
+−
++
+− 
+D) 
+2
+sin 2
+sin
+cos3
+x
+x x
++
++
+∀∈ 
+ IV) is the identity function  
+v) is a constant function 
+ 
+ 
+ 
+A            B           C             D 
+A. III  
+II 
+     V 
+   IV 
+A           B           C             D 
+B. III       I  
+    IV 
+   II 
+A            B           C             D 
+C. II 
+       III 
+    IV 
+     I 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+A            B           C             D 
+D. II 
+       I 
+     V    
+    III 
+2. If 
+( )
+1 2
+1
+2
+1
+5cos
+3
+x
+f x
+x
+−
+−
+
+
+−+
+
+
+
+then the domain of the function f(x) 
+is 
+A. 
+1
+1, 2
+
+
+−
+
+
+
+ 
+B. 1 ,2
+2
+
+
+
+
+
+ 
+C. [
+]
+1,2
+−
+ 
+D. 1 ,
+2
+
+
+∞
+
+ 
+3. 
+(
+)
+5
+2
+1
+1
+n
+n n
+n
+=
++
++
+=
+∑
+ 
+A. 500 
+B. 155 
+C. 295 
+D. 395 
+4. Let 1, ω and 
+2
+ω  be the cube roots of unity. If s id=s the set 
+of all non-singular matrices of the form 
+{
+}
+2
+2
+1
+1
+where , ,
+,
+1
+a
+b
+c
+a b c
+
+
+
+
+ω
+∈ω ω
+
+
+
+
+ω
+ω
+
+
+, then the number of elements in S 
+is 
+A. 2 
+B. 3 
+C. 4 
+D. 6 
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+5. If P and Q are two invertible matrices of the same order, 
+then Adj (QP) is equal to  
+A. 
+1
+1
+P Q P Q
+−
+− 
+B. 
+(
+)
+1
+P Q PQ
+− 
+C. 
+(
+)
+P Q Adj PQ  
+D. 
+(
+)
+P Q Adj QP  
+6. If the equations  
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+1
+1
+0
+1
+2
+0 and
+1
+2
+0
+kx
+k
+y
+k
+z
+k
+x
+k
+y
+kz
+k
+x
+ky
+k
+z
++
++
++
+−
+=
+−
++
++
++
+=
++
++
++
++
+=
+ 
+have a non trivial solution, then the sum of all the possible 
+value of k is  
+A. 0 
+B. 1
+2
+− 
+C. 1
+2  
+D. 1 
+7. If ω is a complex cube root of unity and a, b, c are distinct 
+real numbers. Then 
+2
+2
+2
+2
+c
+1
+a
+b
+a
+b
+c
+b
+b
+c
+a
++ ω+ ω
++ ω+ ω
++
+=
++ ω+ ω
++ ω+ ω
+ 
+A. 1 
+B. -1 
+C. a+b+c 
+D. 0 
+ 
+ 
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+8. If 
+( )
+2
+2
+ and z
+, then
+z
+x
+iy
+iz
+=
++
+=
+ 
+A. y=
+3
+x
+±
+ 
+B. y=
+x
+±  
+C. y=
+2
+x
+±  
+D. 
+0, y=
+1
+x =
+±  
+9. If 
+1
+1 cos
+isin
+z = −
+θ +
+θis acute then the modulus and amplitude of: 
+respectively are 
+A. 1 cos
+,
+2
+2
+2
+2
+ec θ
+π
+θ
+
+
+−
++
+
+
+
+ 
+B. 1 cos
+,
+2
+2
+2
+2
+ec θ
+π
+θ
+
+
++
+
+
+
+ 
+C. 1
+,
+2
+2
+2
+2
+sec θ
+π
+θ
+
+
+−
++
+
+
+
+ 
+D. 1
+,
+2
+2
+2
+2
+sec θ
+π
+θ
+
+
++
+
+
+
+ 
+10. If 
+1
+2
+3
+,
+,
+........
+n
+α α α
+α are real number 
+1
+0 and 
+cos
+sin
+z
+i
+α ≠
+=
+θ +
+θis a root of 
+the equation 
+2
+1
+1
+2
+3
+.....
+0
+n
+n
+n
+z
+z
+z
+z
+−
+α + α
++ α
++
++ α
++
+= , 
+(
+)
+1
+2
+then 
+cos
+cos
+1
+...
+cos
+n
+n
+n
+α
+θ+ α
+−
+θ+
++ α
+θ = 
+A. 1+i 
+B. 1 
+C. -1 
+D. 1-i 
+11. The number of distinct real solution for the equation 
+2
+2
+8
+2
+0
+x
+x
+x
++
+−
++
+−
+=  
+A. 1 
+B. 2 
+C. 3 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+D. 4 
+12. If x is real. then the sum of the maximum and the minimum 
+values of the expression 
+2
+2
+4
+1
+1
+x
+x
+x
+x
++
++
++
++ is 
+A. -2 
+B. 2 
+C. 1 
+D. 0 
+13. If the minimum value of 
+( )
+2
+2
+2
+2
+f x
+x
+bx
+c
+=
++
++
+is greater than the 
+maximum value of ( )
+2
+2
+2
+g x
+x
+cx
+b
+= −
+−
++ for all real x then 
+A. 
+2
+c
+b
+>
+ 
+B. 
+3
+c
+b
+>
+ 
+C. 1
+2
+c
+b
+−<
+<
+ 
+D. 1
+2
+c
+b
+<
+<  
+14. If 
+2
+2
+, , are the root of 
+2
+4
+1
+0
+x
+x
+x
+α β γ 
+−
++
+−= then the equation having the 
+roots 
+1
+1
+1
+,
+,
+ is
+βγ +
+αβ +
+γα +
+α
+γ
+β
+ 
+A. 3
+2
+8
+8
+8
+0
+x
+x
+x
++
+−
++
+=  
+B. 3
+2
+8
+16
+8
+0
+x
+x
+x
+−
++
+−
+=  
+C. 3
+2
+8
+8
+8
+0
+x
+x
+x
+−
++
+−
+=  
+D. 3
+2
+4
+8
+16
+0
+x
+x
+x
+−
++
+−
+=  
+15. The number of ways in which all the letters of the word 
+COMBINATION can be arranged so that the vowels 
+always come together is  
+A. 45678  
+B. 50400 
+C. 75600  
+D. 82300 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+16. aglasem.com If four points are taken on each of three 
+parallel lines in a plane, then the maximum number of 
+triangles formed with these points is  
+A. 64  
+B. 144  
+C. 208  
+D. 80 
+17. The sum of the coefficients of 
+15
+32
+31
+4
+3
+1
+ 
+ 
+ 
+x
+and x
+in x
+x
+−
+
+
+−
+
+
+
+ 
+A. 1470 
+B. 1260 
+C. -1260 
+D. -1470 
+18. The coefficient of 
+(
+)(
+)(
+)(
+)
+(
+)
+15
+2
+3
+15
+ in the product 1
+1
+2
+1
+2
+1
+2
+..... 1
+2
+x
+x
+x
+x
+x
+x is
+−
+−
+−
+−
+−
+ 
+A. 121
+104
+2
+2
+−
+ 
+B. 105
+124
+2
+2
++
+ 
+C. 105
+121
+2
+2
+−
+ 
+D. 120
+104
+2
+2
+−
+ 
+19. If 
+(
+) (
+)
+(
+)
+(
+)
+4
+2
+2
+,
+ 2
+1
+1
+1
+1
+1
+x
+P
+Q
+R
+Ax
+B
+then
+AP
+BQ
+R
+x
+x
+x
+x
+x
+=
++
++
++
++
+−
++
+=
+−
++
+−
++
+−
+ 
+A. 3 
+B. 13
+4  
+C. 11
+4
+−
+ 
+D. 7
+2
+− 
+ 
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+20. The value of tan 40
+tan11
+tan 20
+tan56
+tan11
+3 tan 40 tan 20  is
+o
+o
+o
+o
+o
+o
+o
++
++
+−
++
++
+ 
+A. 3
+1
+− 
+B. 3
+1
++  
+C. 1 
+D. 0 
+21. If θ is in the third quadrant, then 
+4
+2
+2
+4sin
+sin 2
+4cos
+4
+2
+π
+θ
+
+
+θ +
+θ +
+−
+=
+
+
+
+ 
+A. 1+2sin θ 
+B. 2 
+C. 1 
+D. 2+4 sin θ 
+22. If 
+(
+)
+(
+)
+sec
+,sec
+θ+ α
+θ+ α are in arithmetic, then cos ,sec 2
+α
+θ
+= 
+A. 3
+2  
+B. 1
+2  
+C. 2
+±  
+D. 
+2
+±
+ 
+23. The number of values of x with 0
+2
+x
+≤
+≤π satisfying the 
+equation  
+2
+3
+2
+3  
+sinx
+sin x
+sin x
+cosx
+cos x
+cos x is
++
++
+=
++
++
+ 
+A. 7 
+B. 6 
+C. 5 
+D. 4 
+24. If 
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+tan
+tan
+tan
+....tan
+tan
+,then 
+3
+7
+13
+1
+n
+n
+−
+−
+−
+−
+−
++
++
++
+=
+θ
+θ =
++
++
+ 
+A. 
+2
+n
+n +  
+B. 
+1
+n
+n +  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+C. 
+1
+2
+n
+n
++
++  
+D. 
+1
+2
+n
+n
+−
++  
+25. If 
+log tan
+, then cosh
+4
+2
+u
+u
+π
+θ
+
+
+=
++
+=
+
+
+
+
+ 
+A. Sec θ 
+B. tan θ 
+C. cosec θ 
+D. cot θ 
+26. in 
+, if
+0, then cosAcosB+cosBcosC+cosCcosA=
+a
+b
+c
+ABC
+b
+c
+a
+c
+a
+b
+∆
+=
+ 
+A. -1 
+B. 3
+4  
+C. 9
+4  
+D. 1 
+27. In 
+o
+o
+ΔABC, if A=60  and B=105  then 
+(
+)
+(
+)(
+)(
+)
+2
+2
+sin
+sin
+sin
+cos
+cos
+cos
+cos
+R
+b
+c
+A
+B
+C
+b
+c
+s
+a
+C
+c
+A
+s
+a
+B
+b
+A
+−
+=
++
+−
+−
+−
+−
+ 
+A. 1
+2  
+B. 3 
+C. 1 
+D. 1
+3  
+28. In 
+(
+)
+,if 
+90 ,then 2
+o
+ABC
+A
+r
+R
+∆
+=
++
+= 
+A. a+b 
+B. b+c 
+C. c+a 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+D. a+b+c 
+29. if the position vector of 
+, ,
+,
+ are  i
+2
+2 ,2i
+2 ,2i
+3  and 4
+5
+A B C D
+j
+k
+j
+k
+j
+k
+j
+k
++
++
+−
++
+−
++
++
+respectively, then 
+the quadrilateral ABCD is a  
+A. square 
+B. Rectangle  
+C. Rhombus 
+D. Parallelogram 
+30. If (
+) (
+)
+(
+)
+2
+3
+ 
+ 2
+,
+i
+j
+k
+i
+j
+k
+and
+i
+j
+k
++
++
++
++
+−
++
+ are the position vectors of the 
+vertices A. B and C of ∆ ABC respectively. then the vector 
+equation of the altitude through A is 
+A. 
+(
+)
+2
+3
+i
+j
+k
+t i
+j
+k
+r
++
++
++
++
++
+=
+ 
+B. 
+(
+)
+2
+r
+i
+j
+k
+t
+i
+j
+k
+= +
++
++
+−
++
+ 
+C. 
+(
+)
+2
+r
+i
+j
+k
+t i
+j
+k
+= +
++
++
+−
++
+ 
+D. 
+(
+)
+4
+2
+4
+r
+i
+j
+k
+t
+i
+j
+k
+= +
++
++
++
++
+ 
+31. If the adjacent sides of a rectangle are 
+5
+3 , 
+2
+a
+m
+n b
+m
+n
+=
+−
+= −
+−
+and 
+the adjacent sides of another rectangle are 
+4
+,
+c
+m
+n d
+m
+n
+= −
+−
+=
++ , 
+then the angle between the vectors 
+ 
+3
+5
+a
+c
+b
+c
+d
+x
+and y
+is
++ +
++
+=
+=
+ 
+A. 
+2
+π 
+B. 
+1
+19
+cos
+5 43
+−
+
+
+
+
+ 
+C. 
+1
+19
+cos
+5 43
+−
++ π
+
+
+
+
+ 
+D. 
+1
+19
+sin
+5 43
+−
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+32. The perpendicular distance from the point 3
+2
+i
+j
+k
+−
++  to the 
+line joining the points 
+3
+5  and 2
+4  is
+i
+j
+k
+i
+j
+k
+−
++
++
+−
+ 
+A. 7 
+B. 7 3 
+C. 2 3 
+D. 3 
+33. Let 1l  be the line passing through the point 3
+4
+2
+i
+j
+k
++
++
+ and 
+parallel to the vector 
+2
+i
+j
+k
+−+
++  Let 2l  be another line passing 
+through the point 
+7
+2
+i
+j
+k
+−
+−
+ and parallel to the vector 
+3
+2
+i
+j
+k
++
+−
+. 
+Then the shortest distance between the lines 1l and 2l  is 
+A. 35 
+B. 9 
+C. 6  
+D. 29  
+34. If 
+(
+)
+(
+)
+,
+,
+2
+2
+ 
+ 
+3
+c
+a
+i
+j
+k b
+i
+j and
+i
+j
+k then a
+b c
+c
++
+−
+= +
+=
++
+−
+×
+×
+×
+=
+=
+ 
+A. 2
+2
+i
+j
+k
+−
++  
+B. 18
+18
+9
+i
+j
+k
+−
+−
+ 
+C. 18
+18
+9
+i
+j
+k
+−
++
+−
+ 
+D. 18
+18
+9
+i
+j
+k
+−
++
+ 
+35. The mean of five observations is 4 and their variance is 
+also 4. If three of the five observations are 1. 3. 4 then the 
+product of the other two is  
+A. 32  
+B. 36  
+C. 35  
+D. 27 
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+36. The mean deviation of the following data about its mean is 
+ix  
+5 
+15 
+25 
+35 
+45 
+if  
+8 
+48 
+56 
+32 
+16 
+ 
+A. 25 
+B. 12 
+C. 8 
+D. 16 
+37. If three distinct vertices are chosen at random from the 
+vertices of a cube. then the probability that they form the 
+vertices of an equilateral triangle. Is 
+A. 1
+7  
+B. 2
+7  
+C. 1
+2  
+D. 1
+8  
+38. agiasem.com Let A and B be two independent events such 
+that P(B) > P(A). If the probability that both A and B 
+happen is 1
+12 and the probability that neither Anor B 
+happens is 1
+2  then 
+A. ( )
+( )
+1
+1
+,
+2
+2
+P A
+P B
+=
+=  
+B. ( )
+( )
+1
+1
+,
+4
+3
+P A
+P B
+=
+=  
+C. ( )
+( )
+1
+1
+,
+6
+5
+P A
+P B
+=
+=  
+D. ( )
+( )
+1
+1
+,
+6
+3
+P A
+P B
+=
+=  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+39. A person is known to speak truth in 3 out of 5 times. If he 
+throws a die and reports that it is six. then the probability 
+that it is actually six. Is 
+A. 3
+30 
+B. 13
+30 
+C. 10
+13 
+D. 3
+13 
+40. If the probability function of a random variable X is given 
+by
+(
+)
+1 :
+1,2,3,......
+2 j
+P X
+j
+j
+=
+=
+=
+∞then the variance of X is  
+A. 2 
+B. 3 
+C. 4 
+D. 5 
+41. If the stun and product of the mean and variance of a 
+binomial distribution are 15 and 54 respectively, then the 
+number of trails in it is  
+A. 27  
+B. 54  
+C. 28  
+D. 81  
+ 
+42. A(5, 3). B(3, - 2). C(2. -1) are three points. If P is a variable 
+point such that the area of the quadrilateral PABC is 10sq. 
+units, then the locus of P is 
+A. 
+2
+2
+16
+24
+9
+144
+108
+76
+0
+x
+xy
+y
+x
+y
+−
++
+−
++
+−
+=  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+B. 
+2
+2
+16
+24
+9
+144
+108
+76
+0
+x
+xy
+y
+x
+y
+−
++
++
+−
+−
+=  
+C. 
+2
+2
+16
+24
+9
+144
+108
+76
+0
+x
+xy
+y
+x
+y
+−
++
+−
++
++
+=  
+D. 
+2
+2
+16
+24
+9
+144
+108
+76
+0
+x
+xy
+y
+x
+y
+−
++
++
+−
++
+=  
+43. If the origin is shifted to the point (1. 1) and the axes are 
+rotated through an angle 45° about this point. then the 
+transformed equation of the equation 
+2
+2
+ 
+2
+1
+0 
+x
+xy
+y
+is
++
++
+−=
+ 
+A. 
+2
+2
+4 2
+3
+0
+y
+y
+−
+−
+=  
+B. 
+2
+2
+4 2
+3
+0
+y
+y
++
+−
+=  
+C. 
+2
+2
+4 2
+3
+0
+x
+x
++
++
+=  
+D. 
+2
+2
+4 2
+3
+0
+x
+y
+−
++
+=  
+44. A line is passing through the point (4.3) and the sum of its 
+intercepts made on the coordinate axes is 14. Then an 
+equation of that line is  
+A.  3
+4
+24
+x
+y
++
+=
+ 
+B.  6
+8
+24
+x
+y
++
+=
+ 
+C.  4
+3
+15     
+x
+y
++
+=
+ 
+D. 4
+3
+7
+x
+y
+−
+=  
+45. If (x1. y1) and (x2, y2) are two points on the line x + y + 3 = 
+0 such that each of them is at a distance of 5 units from 
+the line 
+1
+2
+1
+2
+ 
+2
+2
+0. 
+ 
+x
+y
+then x
+x
+y
+y
++
++
+=
++
++
++
+= 
+A. -6 
+B. 20 
+C. 6 
+D. -20 
+ 
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+46. Match the following, 
+List-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ List- II 
+A) The equation of line passing  
+ 
+    I) 
+2 2
+0
+x
+y
++
+−
+=  
+      through (4,3) whose                    
+B) The equation of the line  
+      passing through the centroid               II) 7
+23
+8
+0
+x
+y
++
+−
+=  
+    and circumcenter of ABC
+∆
+  
+     with vertices 
+    A (1,1), B (3,3), C (6, -6)  
+C) The equation of the line whose  
+       X – intercept is (
+)
+35
+−
+           
+ 
+  III) 
+2
+2
+0
+x
+y
++
++
+=  
+    And is perpendicular to 
+2
+0
+x
+y
+−
++
+=  
+D) The equation of the line whose 
+      distance from the origin       
+     is 2 and the normal drawn  
+ 
+ IV) 
+2
+10
+0
+x
+y
++
+−
+=  
+     from the origin makes an 
+     angle 45 with the positive direction  
+             of X-axis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         V) 5
+5
+3
+x
+y
++
++  
+ 
+ 
+A  B 
+C 
+D 
+  
+A.  V  IV  II  
+I 
+ 
+ 
+A  B 
+C 
+D 
+B.  III V 
+IV II 
+A  B 
+C 
+D 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+C.  IV II 
+V 
+I 
+A  B 
+C 
+D 
+D.  II  
+I 
+III V 
+47. If (a, b) is the centroid of the triangle 
+2
+2
+4
+17
+4
+0
+x
+xy
+y
+−
++
+=  and 
+5
+0
+x
+y
++
+−
+=  and c is numerical value of the area of the triangle, 
+then a
+b
+c
++
++
+= 
+A. 25
+6  
+B. 25
+3  
+C. 65
+6  
+D. 15
+3  
+48. If the lines represented by the equation 4
+6
+8
+0
+xy
+x
+y
+c
++
+−
++
+= form 
+a rectangle with the coordinate axis then the area of the 
+rectangle (in sq. units) is 
+A. c  
+B. 2
+c  
+C. 4
+c  
+D. 8
+c  
+49. The sum of the minimum and maximum distances of the 
+point (4. - 3) to the circle 
+2
+2
+ 
+4
+10
+7
+0 
+x
+y
+x
+y
+is
++
++
+−
+−
+=
+ 
+A. 20  
+B. 16  
+C. 12  
+D. 64 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+50. If the tangent to the circle 
+2
+2
+4
+2
+5
+0 
+ 3, 4)
+(
+x
+y
+x
+y
+at
++
+−
++
+−
+=
+− cuts the 
+circle 
+2
+2
+16
+2
+10
+0
+x
+y
+x
+y
++
++
++
++
+=  at A and B. then the mid point of 
+AB is: 
+A. (-6, -9) 
+B. (-9, -6) 
+C. (-6, -7) 
+D. (-7, -6) 
+51. If the circle 
+2
+2
+8
+4
+0
+x
+y
+x
+y
+c
++
++
+−
++
+=  touches the circle 
+2
+2
+2
+4
+11
+0
+x
+y
+x
+y
++
++
++
+−
+=  externally and cuts the circle 
+2
+2
+6
+8
+0
+x
+y
+x
+y
+k
++
+−
++
++
+=  orthogonally. then k = 
+A. -59 
+B. -19 
+C. 19 
+D. 59 
+52. If a system of circles pass through (2, 3) and cuts the circle 
+x2 + y2=12 orthogonally, then the equation of the locus of 
+the centers of that system of circles, is  
+A. 4x+6y-13 = 0  
+B. 4x+6y-25 = 0  
+C. 6x+4y-25 = 0 
+D. 6x+4y-13 = 0 
+53. The radius of the circle whose diameter is the common 
+chord of the circles
+2
+2
+2
+2
+1
+0
+x
+y
+x
+y
++
++
++
++ = and 
+2
+2
+4
+3
+2
+0
+x
+y
+x
+y
++
++
++
++
+= is 
+A. 2
+5  
+B. 1
+5  
+C. 1 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+D. 17
+2  
+54. If a focal chord of the parabola y2 = 4x makes an angle 45° 
+with positive X-axis, then the slopes of the normals drawn 
+at the ends of the focal chord will satisfy the equation 
+A. 2
+2
+1
+0
+x
+x
+−
+−=  
+B. 2
+2
+1
+0
+x
+x
++
+−=  
+C. 2
+1
+0
+x −=  
+D. 2
+2
+2
+0
+x
+x
++
+−
+=  
+55. If the angle between the tangents drawn through the point (-
+2. -1) to the parabola y2= 4x is θ. then tan 2 θ = 
+A. 3 
+B. -3 
+C. 3
+4
+− 
+D. 3
+4  
+56. If α,β are the eccentric angles of the extremities of a focal 
+chord (other than the major axis) of the ellipse 
+2
+2
+4
+4 
+ 3 cos
+2
+x
+y
+then
+α +β
++
+=
+= 
+A. 2cos
+2
+α +β  
+B. 2sin
+2
+α −β  
+C. 2sec
+2
+α +β  
+D. 2sin
+2
+α +β 
+57. The equations of the tangents to the ellipse 
+2
+2
+9
++16
+144
+x
+y =
+which pass through the point (2, 3) are 
+A. 
+5, 
+3
+x
+y
+y
++
+=
+=  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+B. 
+5
+0, 
+3
+x
+y
+y
++
++
+=
+=  
+C. 
+5, 
+3
+0
+x
+y
+y
++
+=
++
+=  
+D. 
+5
+0, 
+3
+0
+x
+y
+y
++
++
+=
++
+=  
+58. The locus of the point of intersection of the tangents drawn 
+at the extremities of a normal chord of the hyperbola
+2
+2
+2
+2
+1
+x
+y
+a
+b
+−
+= is 
+A. 
+2
+2
+2
+2
+2
+2
+a
+b
+a
+b
+x
+y
+−
+=
++  
+B. 
+(
+)
+4
+4
+2
+2
+2
+2
+2
+a
+b
+a
+b
+x
+y
+−
+=
+−
+ 
+C. 
+(
+)
+3
+3
+2
+2
+2
+2
+2
+a
+b
+a
+b
+x
+y
+−
+=
++
+ 
+D. 
+(
+)
+6
+6
+2
+2
+2
+2
+2
+a
+b
+a
+b
+x
+y
+−
+=
++
+ 
+59. For a ≠ 0 . if the sum of the distances of a point from the 
+points (a, 0, 0) and (-a, 0, 0) is a constant 2k. then the locus 
+of that point is 
+A. 
+(
+)
+2
+2
+2
+2
+2
+x
+k
+y
+z
+k
++
++
+=
+ 
+B. 
+2
+2
+2
+2
+2
+2
+1
+x
+y
+z
+k
+k
+a
++
++
+=
+−
+ 
+C. 
+2
+2
+2
+2
+2
+2
+1
+x
+y
+z
+k
+a
+k
++
++
+=
+−
+ 
+D. 2
+2
+2
+2
+1
+1
+x
+y
+z
+k
++
++
+=
++  
+60. If P = (2, - 3, 4), Q = (-1, -4. 0), R = (2, 1. 0) are three 
+points and S is the foot of the perpendicular drawn from R 
+to PQ, then the X-coordinate of S is 
+A. 45
+13
+−
+ 
+B. 28
+13  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+C. 6
+7  
+D. 8
+13 
+61. π is a plane passing through the origin and containing two 
+lines whose direction ratios are 1, - 2, 2 and 2, 3. - 1 then 
+direction ratios of the line of intersection of the planes x – y 
+– z + 1 = 0 and π 
+are  
+A. 2, 1, 1  
+B. 2, 3, - 1 
+C. 1, -2, 2 
+D. – 1, - 1, 0 
+62. If a and fi are the roots of the equation ax2 + bx + c = 0. 
+then 
+(
+)
+(
+)
+2
+2
+1 cos
+lim
+x
+ax
+bx
+c
+x
+→α
+−
++
++
+=
+−α
+ 
+A. 
+(
+)
+2
+2
+4
+a
+α −β  
+B. 1 
+C. (
+)
+2
+2
+a α −β  
+D. 
+(
+)
+2
+2
+2
+a
+α −β  
+63. 
+0
+4
+1
+4
+3
+2
+lim 2
+1
+x
+x
+x
+x
+x
+→
+
+
+−
++
+−
+−
+=
+
+
+
+
+−
+
+ 
+A. 0 
+B. 5
+4  
+C. log 2
+3
+− 
+D. log 4
+3
+log 2 − 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+64. Define the function 
+:
+ by
+f
+→
+
+
+ 
+( )
+(
+)
+4
+1 3
+,
+ 
+0,
+            ,
+ 
+0.
+If  is continuous, then log a=
+x
+x
+if x
+f x
+a
+if x
+f
+
++
+≠
+= 
+
+=
+
+ 
+A. 1
+3 
+B. 3
+4  
+C. 4
+3  
+D. 12 
+65. If 
+1
+cos
+0 and  is acute, then 
+cos
+cos
+d
+b
+a
+x
+a
+b
+x
+dx
+a
+b
+x
+−
+
+−
+
+
+
+>
+>
+=
+
+
+
+
+−
+
+
+
+ 
+A. 
+2
+2
+cos
+a
+b
+b
+x
+a
+−
+− 
+B. 
+2
+2
+cos
+a
+b
+a
+b
+−
+−
+ 
+C. 
+2
+2
+cos
+a
+b
+a
+b
+x
+−
+−
+ 
+D. 
+2
+2
+cos
+a
+b
+b
+x
+a
+−
+− 
+66. Match the following: 
+List – I   
+ 
+ 
+List – II  
+(
+)
+,
+0
+f x y =    
+ 
+ 
+dy
+dx  
+A) 
+2
+2
+3
+7
+x
+y
+xy
++
++
+=  
+ 
+I) 
+2
+2
+x
+ay
+ax
+y
++
++
+ 
+B) 
+2
+2
+2
+3
+3
+3
+x
+y
+a
++
+=
+ 
+ 
+ 
+II) (
+)
+2
+3
+3
+2
+x
+y
+x
+y
+−
++
++
+ 
+C) 
+3
+3
+3
+x
+y
+axy
++
+=
+  
+ 
+III) 
+1
+3
+y
+x
+
+
+−
+
+
+ 
+D) 
+(
+)
+2
+xy x
+y
++
+=   
+ 
+IV) 
+2
+2
+x
+ay
+ax
+y
+−
+−
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+ 
+ 
+ 
+ 
+ 
+V) 
+(
+)
+(
+)
+2
+2
+y
+x
+y
+x x
+y
+−
++
++
+ 
+The correct answer is  
+A 
+B 
+C 
+D 
+A. II 
+III IV I 
+A 
+B 
+C 
+D 
+B. 
+II 
+III I  
+IV 
+A 
+B 
+C 
+D 
+C.  II 
+III IV V 
+A 
+B 
+C 
+D 
+D.  II 
+III V 
+IV 
+67. If 
+2
+2
+2
+3
+2
+2
+, then 
+ 
+d y
+y
+ax
+x
+c
+y
+is
+dx
+=
++
++
+ 
+A. 
+1
+ac − 
+B. 
+1
+ac +  
+C. 4
+1
+ac − 
+D. 
+4
+ac − 
+68. If 
+( ):
+f x
+→
+
+be a function defend for all x∈by 
+( )
+( )
+( )
+( )
+2
+2
+' 1
+2
+3
+n
+m
+f x
+x
+f
+x
+f
+x
+f
+=
++
++
+−
+then the area (in sq. units) of the 
+triangle formed by X-axis. the tangent and the normal 
+drawn to the curve 
+( ) 
+ 
+0
+y
+f x at x
+=
+= is 
+A. 90 
+B. 180 
+C. 45 
+D. 130 
+69. The set of values of x for which 
+( )
+4
+3
+2
+3
+8
+6
+24
+12
+f x
+x
+x
+x
+x
+=
+−
+−
++
+−
+is an 
+increasing function, is 
+A. (
+)
+(
+)
+, 1
+1,2
+−∞−
+∪
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+B. (
+)
+1,2
+−
+ 
+C. (
+)
+(
+)
+1,1
+2,
+−
+∪
+∞ 
+D.  
+70. If a function is differentiable on [R such that 
+( )
+( )
+( )
+'  
+4 for all 
+; and if  
+2
+6 
+ 
+6
+8,
+f
+x
+x
+f
+and f
+∈
+−
+≤
+=
+=
+
+. then the value off (4) 
+belongs to the interval 
+A. [-2,-1] 
+B. [3,4] 
+C. [0,2] 
+D. []5,8 
+71. If 
+( )
+6
+ 
+2
+3 
+f x
+x
+then
+=
+−
+ 
+A. the local minimum value of f is zero 
+B. - 3 is the local maximum value of f   
+C. - 3 is the local minimum value of f  
+D. f has neither minimum nor maximum 
+72. If 
+( )
+1
+2
+3
+3
+x
+dx
+P x
+c
+a
+x
+=
++
+−
+∫
+ 
+A. 
+3
+1
+3
+1 sin
+3
+x
+a
+−
+
+
+
+
+ 
+B. 
+1
+2 cos
+3
+x
+a
+−
+
+
+
+
+ 
+C. 
+3
+2
+1
+2 sin
+3
+x
+a
+−
+
+
+
+
+ 
+D. 
+1
+2
+1
+1 sin
+2
+x
+a
+−
+
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+73. 
+1
+1
+3
+tan
+x
+dx
+−
+
+=
+
+
+
+
+∫
+ 
+A. 
+2
+2
+3
+3
+1
+1
+log 1
+2
+2
+x
+x
+c
+
+
++
+−
++
+
+
+
+
+ 
+B. 
+1
+2
+1
+3
+3
+1
+tan
+2
+x
+x
+x
+c
+−
+−
++
+
+
+
+
+. 
+C. 
+1
+2
+3
+3
+1
+1
+log 1
+2
+2
+x
+x
+c
+
+
++
+−
++
+
+
+
+
+ 
+D. 
+1
+2
+2
+1
+3
+3
+3
+1
+1
+tan
+log 1
+2
+2
+x
+x
+x
+x
+c
+−
+
+
+
++
++
+−
++
+
+
+
+
+
+
+
+
+ 
+74. If 
+(
+) (
+)
+(
+)
+3
+2
+3
+1
+1
+,log
+ then 
+1
+1
+1
+1
+1
+x
+x
+B
+C
+dx
+A
+D
+A
+B
+C
+x
+x
+x
+x
+x
++
++
+=
++
++
++
++
++
+=
+−
+−
+−
++
+−
+ 
+A. 5
+4
+− 
+B. 5
+4  
+C. 5
+2
+− 
+D. 5
+2  
+75. For any integer 
+5
+2,if 
+cot
+v then 
+n
+n
+n
+I
+xdx
+I
+≥
+=
+=
+∫
+ 
+A. 
+4
+2
+cot
+cot
+log sin
+4
+2
+x
+x
+x
+c
+−
++
++
++  
+B. 
+4
+2
+cot
+cot
+log sin
+4
+2
+x
+x
+x
+c
+−
++
+−
++  
+C. 
+4
+2
+cot
+cot
+log cos
+4
+2
+x
+x
+x
+c
++
++
++  
+D. 
+4
+2
+cot
+cot
+cot
+4
+2
+x
+x
+x
+c
++
+−
++  
+76.  
+(
+)
+2
+5
+5
+3
+5
+2
+2
+2
+lim
+n
+n
+n
+n
+n
+r
++
+→∞
+=
+=
++
+∑
+ 
+A. 1
+2  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+B. 1 log 2
+3
+ 
+C. 
+4
+π 
+D. 5
+26  
+77. If 
+2
+2
+2
+1
+3
+2
+4
+3
+0
+sin
+,then 
+,
+,
+sin
+n
+nx
+a
+dx
+a
+a a
+a a
+a
+x
+π
+=
+−
+−
+−
+∫
+are in 
+A. Arithmetic progression  
+B. Geometric progression  
+C. Harmonic progression . 
+D. Aritlametico-geometric progression  
+ 
+78. The area (in sq. units) of the region bounded by the curves 
+2
+ 
+log  
+ 
+2
+2
+ 
+y
+x
+x and y
+x
+x is
+=
+=
+−
+ 
+A. 1
+12 
+B. 7
+6  
+C. 7
+3  
+D. 7
+12 
+79. The differential equation of the family of curves r2 = a2 cos 
+2θ where `a' is an arbitrary constant is: 
+A. 
+cot 2
+dr
+r
+d
+=
+θ
+θ
+ 
+B. 
+tan 2
+dr
+r
+d
+=
+θ
+θ
+ 
+C. 
+sin 2
+dr
+r
+d
+=
+θ
+θ
+ 
+D. cos2
+sin 2
+dr
+r
+d
+θ.
++
+θ = 0
+θ
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+80. The general solution of the differential equation 
+2
+3
+2
+3
+dy
+x
+y
+dx
+x
+y
++
+−
+=
++
+−
+is 
+A. 
+(
+)
+(
+)
+2
+log
+2
+x
+x
+y
+x
+y
+c
+=
+−
++
+−
++
++  
+B. 
+(
+)
+3
+2
+4
+2
+3
+x
+y
+x
+y
+c
+
+
++
++
+−
++
+=
+
+
+
+
+ 
+C. (
+)
+(
+)
+2
+2
+2
+3
+x
+y
+c x
+y
+−
+=
++
+− 
+D. 
+(
+)
+3
+2
+2
+x
+y
+c
+x
+y
++
+−
+=
+−
+ 
+ 

@@ -1,0 +1,14695 @@
+ 
+ 
+ 
+AP EAMCET-2019-Engineering-20 Apr-Shift-2 
+Questions Mathematics  
+ 
+ 
+1. If 
+3
+3
+:
+7
+7
+f
+
+
+−
+→
+−
+
+
+
+
+
+
+ is given by 
+( )
+3
+5
+7
+3
+x
+f x
+x
++
+=
+−, then the 
+statement which is not true is 
+(1) 
+( )
+( )
+1
+f
+x
+f x
+−
+=
+ 
+(2) (
+)( )
+fof
+x
+x
+=
+ 
+(3) (
+)( )
+fofof
+x
+x
+=
+ 
+(4) (
+)( )
+fofofof
+x
+x
+=
+ 
+ 
+2. If 
+:A
+B,
+:B
+C
+f
+g
+→
+→
+ are functions such that 
+: A
+C
+gof
+→
+ is 
+onto, then a necessary condition is 
+(1) f  is onto 
+(2) g  is onto 
+(3) both ,f g are onto  
+(4) neither f  nor g  is onto. 
+ 
+3. The sum of the first n terms of the series 3
+21
+117
+5
+25
+125
++
++
++ is 
+
+ 
+ 
+ 
+(1) 
+1
+2
+2
+3 5
+3
+n
+n
+n
++
++
+−
+×
+ 
+(2) 
+1
+2
+2
+3 5
+3
+n
+n
+n
++
+−
+−
+×
+ 
+(3) 
+1
+2
+2
+3 5
+3
+n
+n
+n
++
++
++
+×
+  
+(4) 
+1
+2
+2
+3 5
+3
+n
+n
+n
++
+−
++
+×
+ 
+ 
+4. The sum of the values of 
+x so that the matrix 
+2
+2
+1
+1
+0
+0
+1
+3
+1
+0
+1
+0
+1
+2
+2
+0
+0
+1
+x
+
+
+
+
+
+
+
+
+−
+
+
+
+
+
+
+
+
+
+
+
+
+ is singular is, 
+(1) 3 
+(2) 5 
+(3) 7 
+(4) 9 
+ 
+5. If 
+cos
+sin
+0
+A
+sin
+cos
+0
+0
+0
+1
+α
+α
+α
+α
+−
+
+
+
+
+= 
+
+
+
+
+
+, then (
+)
+1
+Adj A
+−= 
+
+ 
+ 
+ 
+(1) A
+I
++  
+(2) A
+I
+− 
+(3) A 
+(4) 
+(
+)
+1
+Adj A−
+ 
+ 
+6. If 
+0
+abc ≠
+ and the system of equation 
+7
+2
+0
+x
+ay
+az
++
++
+= , 
+6
+2
+0
+a
+by
+bz
++
++
+=
+, 
+5
+2
+0
+x
+cy
+cz
++
++
+=
+ has a non-trivial solution, 
+then , ,
+a b c are in 
+(1) Harmonic Progression 
+(2) Geometric Progression 
+(3) Arithmetic Progression 
+(4) Arithmetic-geometric Progression 
+ 
+7. 
+1
+2
+,
+z
+z  are complex numbers with 
+1
+2
+z
+z
+k
+−
+<
+. If the complex 
+number z satisfies the condition 
+1
+2
+z
+z
+z
+z
+k
+−
++
+−
+=
+, then z lies 
+on 
+(1) a parabola 
+(2) an ellipse 
+(3) a circle 
+(4) a hyperbola 
+
+ 
+ 
+ 
+ 
+8. In a complex plane , the set 
+1
+: arg
+1
+4
+z
+z
+z
+π
+
+
+−
+
+
+∈
+=
+
+
+
+
++
+
+
+
+
+
+ 
+represents 
+(1) a straight line 
+(2) a circle 
+(3) a parabola 
+(4) an ellipse 
+ 
+9. For 
+, , ,
+a b c d ∈, if 
+1z
+a
+ib
+=
++
+, 
+2z
+c
+id
+=
++
+ are such that 
+1
+2
+1
+z
+z
+=
+=  and 
+(
+)
+1 2
+Re
+0
+z z
+=
+, then the pair of complex numbers 
+1
+w
+a
+ic
+=
++
+ and 
+2
+w
+b
+id
+=
++
+ satisfy 
+(1) 
+(
+)
+1
+2
+Re
+0
+w w
+=  
+(2) 
+(
+)
+1
+2
+Re
+1
+w w
+=  
+(3)  
+1
+2
+w
+w
+≠
+ 
+(4) 
+1
+2
+0
+w
+w
+=
+=
+ 
+ 
+10. If (
+)
+2
+0
+1
+2
+1
+n
+n
+n
+x
+a
+a x
+a x
+a x
++
+=
++
++
++
++
+
+ and  
+
+ 
+ 
+ 
+0
+2
+4
+6
+cos 4
+n
+a
+a
+a
+a
+k
+π
+−
++
+−
++
+=
+
+, then k =  
+(1) 2n 
+(2) 
+2
+2 n 
+(3)  2
+2
+n
+ 
+(4) 
+2
+2n  
+ 
+11. For 
+2,
+x >
+ the equation 
+2
+2
+4
+2
+x
+x
+x
++
+−
+−
+=
+−
+ has 
+(1) One Solution 
+(2) Two solutions 
+(3) More than two solutions 
+(4) No solution  
+ 
+12. If x∈, then the range of 
+2
+5
+9
+x
+x
+x
+−
++
+ is 
+(1) 
+1 ,1
+11
+
+
+−
+
+
+
+
+ 
+(2) 
+(
+)
+1
+,
+1,
+11
+−
+
+
+−∞
+∪
+∞
+
+
+
+
+ 
+
+ 
+ 
+ 
+(3)  
+1 ,1
+11
+
+
+−
+
+
+
+
+ 
+(4) 
+1
+1,11
+
+
+−
+
+
+
+
+ 
+ 
+13. If 
+,
+,
+α β γ  are the roots of the equation 
+3
+2
+0
+x
+ax
+bx
+c
+−
++
+−
+=  then 
+(
+)
+2
+α
+β
+γ
++
+=
+∑
+ 
+(1) 
+3
+ab
+c
+−
+ 
+(2) 
+3
+ab
+c
+c
+−
+ 
+(3)  
+2
+2
+2
+b
+ac
+c
+−
+ 
+(4) 
+2
+2
+2
+a
+b
+c
+−
+ 
+ 
+14. The sum of all the rational roots of the equation 
+6
+5
+4
+2
+6
+25
+31
+31
+25
+6
+0
+x
+x
+x
+x
+x
+−
++
+−
++
+−
+=
+ is 
+(1) 3 
+(2) 3.5 
+(3)  25
+6  
+
+ 
+ 
+ 
+(4) 2.5 
+ 
+15. The number of five digit numbers that are divisible by 6 which 
+can be formed by choosing digits from {
+}
+0,1,2,3,4,5 , when 
+repetition is allowed, is 
+(1) 648 
+(2) 540 
+(3)  1296 
+(4) 1080 
+ 
+16. A person invites 8 guests to a dinner and places 5 of them at 
+one table and the remaining 3 at another, both the tables being 
+round. The number of ways in which the guest can be arranged 
+is 
+(1) 40320 
+(2) 2688 
+(3) 8064 
+(4) 13440 
+ 
+17. If 15k divides 47! but 
+1
+15k +  does not divide it, then k = 
+
+ 
+ 
+ 
+(1) 15 
+(2) 12 
+(3)  10 
+(4) 5 
+ 
+18. If (
+)
+2
+2
+0
+1
+2
+1
+n
+x
+x
+c
+c x
+c x
++
++
+=
++
++
++, 
+then 
+the 
+value 
+of 
+0 1
+1 2
+2 3
+c c
+c c
+c c
+−
++
+− is 
+(1) (
+)
+1
+n
+−
+ 
+(2) 0 
+(3)  2n 
+(4) 3n 
+ 
+19. If x is so small that 
+2x  and higher power of x can be neglected, 
+then the approximate value of 
+1
+2
+2
+3
+2
+1
+1
+4
+3
+x
+x
+−
+
+
+
++
+−
+
+
+
+
+
+
+ is 
+(1) 41
+24
+41
+x
++
+ 
+(2) 41
+24
+41
+x
+−
+ 
+
+ 
+ 
+ 
+(3) 24
+41
+24
+x
++
+ 
+(4) 24
+41
+24
+x
+−
+ 
+ 
+20. If 
+(
+)(
+)(
+)
+( )
+4
+A
+B
+C
+P
+x
+x
+x
+a
+x
+b
+x
+c
+x
+a
+x
+b
+x
+c
+=
++
++
++
+−
+−
+−
+−
+−
+−, 
+then 
+( )
+(
+)(
+)
+0
+P
+A a
+b
+a
+c
++
+−
+−
+= 
+(1) 
+4
+4
+4
+a
+b
+c
+a
++
++
++
+ 
+(2) a
+b
+c
++
++  
+(3)  
+4
+a
+a
+b
+c
+−
+−
+− 
+(4) 
+4
+a
+b
+c
+a
++
++
++
+ 
+ 
+21. If sin
+p
+α =
+, then the quadratic equation whose roots are tan 2
+α , 
+cot 2
+α  is 
+(1) 
+2
+2
+0
+px
+x
+p
+−
++
+=
+ 
+(2) 
+2
+2
+0
+px
+x
+p
++
++
+=  
+(3)  
+2
+0
+px
+x
+p
++
++
+=
+ 
+
+ 
+ 
+ 
+(4) 
+2
+0
+px
+x
+p
+−
++
+=
+ 
+ 
+22. cos66
+sin84
+° +
+° = 
+(1) (
+)
+1
+3
+5
+4
++
+ 
+(2) 
+(
+)
+1
+5
+3
+1
+4
++
+ 
+(3)  (
+)(
+)
+1
+3
+1
+5
+1
+4
++
++
+ 
+(4) 
+(
+)
+1
+3
+5
+1
+4
++
+ 
+ 
+23. If tan
+tan2
+3 tan
+tan2
+3
+θ
+θ
+θ
+θ
++
++
+=
+, then the general value of 
+θ  are 
+(1) (
+)
+3
+1
+,
+3
+n
+n
+π
++
+∈ 
+(2) (
+)
+3
+1
+,
+9
+n
+n
+π
++
+∈ 
+(3)  (
+)
+3
+1
+,
+6
+n
+n
+π
++
+∈ 
+(4) (
+)
+2
+1
+,
+9
+n
+n
+π
++
+∈ 
+
+ 
+ 
+ 
+ 
+24. The sum of the values of x satisfying the equation 
+( )
+1
+1
+1
+3
+4
+Sin
+Sin
+Sin
+5
+5
+x
+x
+x
+−
+−
+−
+
+
+
+
++
+=
+
+
+
+
+
+
+
+
+, is 
+(1) 0 
+(2) 1
+2  
+(3) 1
+3 
+(4) 1
+4  
+ 
+25. If 
+6
+π
+θ =
+ and 
+log cot
+4
+x
+π
+θ
+
+
+
+
+=
++
+
+
+
+
+
+
+
+
+ then 
+( )
+sinh x = 
+(1) 
+3 
+(2) 1
+3
+ 
+(3)  
+3
+−
+ 
+(4) 
+1
+3
+−
+ 
+ 
+
+ 
+ 
+ 
+26. In 
+ABC
+∆
+, if the median AD drawn through A is perpendicular 
+to the side AC, then 
+2
+3
+cosAcosC
+2
+ca
+a
++
+= 
+(1) 
+2c  
+(2) 
+2
+2c  
+(3) 
+2
+3c  
+(4) 
+2
+4c  
+ 
+27. Let ∆ denote the area of a ABC
+∆
+. If 
+,
+,
+α β γ  are the lengths of 
+the altitudes of the ABC
+∆
+, then 
+2
+2
+2
+α
+β
+γ
+−
+−
+−
++
++
+= 
+(1) 
+(
+)
+4 tan
+tan
+tan
+A
+B
+C
++
++
+∆
+ 
+(2) 
+(
+)
+1 cot
+cot
+cot
+A
+B
+C
++
++
+∆
+ 
+(3) 
+(
+)
+2
+tan
+tan
+tan
+2
+A
+B
+C
+∆
++
++
+ 
+(4) 
+(
+)
+2
+cot
+cot
+cot
+4
+A
+B
+C
+∆
++
++
+ 
+ 
+28. In ABC
+∆
+, (
+)
+2
+3
+B
+C
+cot
+2
+r
+r
++
+
+
++
+=
+
+
+
+
+ 
+(1) a
+b
+c
++
++  
+
+ 
+ 
+ 
+(2) a 
+(3)  b 
+(4) c 
+ 
+29. If the vectors AB
+3
+4
+i
+j
+k
+= +
++
+, AC
+5
+2
+i
+j
+k
+=
++
++
+ are two sides of 
+triangle ABC, whose centroid is G, then AG = 
+(1) 2
+22
+3
+ 
+(2) 
+22  
+(3)  1
+22
+3
+ 
+(4) 18  
+ 
+30. The point of intersection of the lines represented by 
+(
+)
+(
+)
+2
+2
+3
+4
+r
+i
+j
+k
+i
+j
+k
+λ
+=
++
+−
++
++
++
+ 
+and 
+(
+)
+(
+)
+3
+7
+2
+r
+i
+j
+k
+i
+j
+k
+µ
+= −−
++
++
++
+−
+ is 
+(1) 3
+5
+3
+i
+j
+k
++
++
+ 
+(2) 5
+8
+7
+i
+j
+k
++
++
+ 
+(3)  
+5
+i
+j
+k
+−−
+−
+ 
+
+ 
+ 
+ 
+(4) 3
+4
+9
+i
+j
+k
+−
+−
+−
+ 
+ 
+31. If A, B, C and D are points whose position vectors are i
+j
+k
++
++
+, 4
+2
+i
+j
+k
+−
++
+, 5i
+j
++
+, 7
+2
+3
+i
+j
+k
++
++
+ respectively, then the 
+projection of AB on CD is 
+(1) 4
+3  
+(2) 
+2
+7  
+(3) 3
+4  
+(4) 
+7
+2  
+ 
+32. Let 
+and
+a
+b be unit vectors with θ  as the acute angle between 
+them. If 1
+sin
+2 a
+b
+λθ
+−
+=
+, then 
+2
+4λ = 
+(1) 4 
+(2) 1 
+(3) 3 
+(4) 2 
+
+ 
+ 
+ 
+ 
+33. Let 
+2
+3
+4
+a
+i
+j
+k
+=
+−
++
+, 
+2
+2
+b
+i
+j
+k
+=
++
+−
+ and 
+3
+c
+i
+j
+k
+=
+−
++
+. The 
+volume(in cubic units) of the parallelopiped having a
+b
+c
++
++
+, 
+a
+b
+c
+−
++
+ and a
+b
+c
++
+−
+ as coterminus edges is 
+(1) 6 
+(2) 7 
+(3) 28 
+(4) 36 
+ 
+34. If 
+1
+a = , 
+1
+b = , 
+2
+c =
+ and 
+(
+)
+0
+a
+a
+c
+b
+×
+×
++
+=
+, then (
+)
+2
+a c
+⋅
+= 
+(1) 1 
+(2) 2 
+(3) 4 
+(4) 3 
+ 
+35. The variance of the observations 2,3,5,7,11,13,17,22 is 
+(1) 43.75 
+(2) 48.25 
+(3)  80 
+(4) 350 
+
+ 
+ 
+ 
+ 
+36 The coefficient of variation and standard deviation of an 
+ungrouped data are 60 and 21 respectively. If 15 is added to 
+every observation of the data, then the coefficient of variation of 
+the new data is 
+(1) 30 
+(2) 42 
+(3) 40 
+(4) 20 
+ 
+37. Each of the two boxes A and B contains 10 chits numbered 
+1 to10. If one chit is drawn at random from each of A and B, 
+then the probability that the number on the chit drawn from A is 
+smaller than the number on the chit drawn from B, is 
+(1) 9
+10  
+(2) 9
+20  
+(3) 19
+20  
+
+ 
+ 
+ 
+(4) 17
+20  
+ 
+38. An envelope is known to have come from either ‘LONDON’ or 
+‘CLIFTON’. On the postal mark only two successive letters ON 
+are legible. The probability that the envelope comes from 
+LONDON is 
+(1) 12
+17  
+(2) 5
+17  
+(3) 3
+17  
+(4) 2
+5  
+ 
+39. The probability function of a random variable X is given by 
+(
+)
+2
+X
+P
+k
+ck
+=
+=
+, where c is a constant and 
+{
+}
+0,1,2,3,4
+k ∈
+. If 
+2
+σ  is the variance of X and μ is the mean of X, then 
+2
+2
+μ
++
+=
+σ
+ 
+(1) 3.33 
+(2) 11.8 
+
+ 
+ 
+ 
+(3)  1
+30  
+(4) 354 
+ 
+40. In a book of 250 pages, there are 200 typographical errors. 
+Assuming that the number of errors per page follow the Poisson 
+law, then the probability that a random sample of 5 pages will 
+contain no typographical error is 
+(1) 
+4
+e− 
+(2) 
+4
+5
+e
+− 
+(3) 
+16
+25
+e
+−
+ 
+(4) 
+1
+e− 
+ 
+41. The locus of the point 
+(
+)
+P
+,x y  satisfying the equation 
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+4
+x
+y
+x
+y
+−
++
++
++
++
+=
+ is  
+(1) an ellipse 
+(2) a parabola 
+(3)  a line segment 
+(4) a circle 
+
+ 
+ 
+ 
+ 
+42. If the origin is shifted to (
+)
+2,3  and the axes are rotated through 
+an angle 45° about that point, then the transformed equation of 
+2
+2
+2
+2
+8
+12
+18
+0
+x
+y
+x
+y
++
+−
+−
++
+=
+ is 
+(1) 
+2
+2
+7
+14
+2
+0
+x
+y
+xy
+−
+−
+−
+=
+ 
+(2) 
+2
+2
+4
+x
+y
++
+=
+ 
+(3) 
+2
+2
+4
+x
+y
+−
+=
+ 
+(4) 
+2
+2
+8
+2
+9
+x
+y
+−
+=  
+ 
+43. A line passing through (
+)
+P 4,2  cuts the coordinate axes at A and 
+B respectively. If O is the origin, then the locus of the centre of 
+the circum-circle of OAB
+∆
+ is 
+(1) 
+1
+1
+2
+x
+y
+−
+−
++
+=
+ 
+(2) 
+1
+1
+2
+1
+x
+y
+−
+−
++
+=  
+(3) 
+1
+1
+2
+1
+x
+y
+−
+−
++
+=  
+(4) 
+1
+1
+2
+3
+1
+x
+y
+−
+−
++
+=  
+ 
+44. The centroid of the triangle formed by the lines 
+1
+0
+x
+y
++
+−=
+, 
+1
+0
+x
+y
+−
+−=
+, 
+3
+3
+0
+x
+y
+−
++
+=  is 
+
+ 
+ 
+ 
+(1) 4 ,1
+3
+
+
+
+
+
+
+ 
+(2) 
+4 ,1
+3
+
+
+−
+
+
+
+
+ 
+(3) 8,3
+3
+
+
+
+
+
+
+ 
+(4) 
+8,3
+3
+−
+
+
+
+
+
+
+ 
+ 
+45. The quadratic equation whose roots are the coordinates of the 
+circumcentre of the triangle formed by the points (
+)
+2, 1
+−
+−
+,
+(
+)
+6, 1
+−
+, (
+)
+2,5  is 
+(1) 
+2
+5
+6
+0
+x
+x
+−
++
+=
+ 
+(2) 
+2
+2
+9
+9
+0
+x
+x
+−
++
+=
+ 
+(3) 
+2
+3
+8
+4
+0
+x
+x
+−
++
+=
+ 
+(4) 
+2
+6
+13
+6
+0
+x
+x
+−
++
+=
+ 
+ 
+46. The straight line 
+1
+0
+x
+y
++
++ =
+ bisects an angle between a pair of 
+lines, of which one is 2
+3
+4
+0
+x
+y
+−
++
+=
+. Then the equation of the 
+other line in that pair is 
+
+ 
+ 
+ 
+(1) 2
+3
+4
+0
+x
+y
++
++
+=
+ 
+(2) 
+1
+0
+x
+y
+−
++ =
+ 
+(3) 5
+5
+9
+0
+x
+y
+−
++
+=
+ 
+(4) 3
+2
+5
+0
+x
+y
+−
++
+=
+ 
+ 
+47. If the pairs of straight lines represented by 
+2
+2
+3
+2
+3
+0
+x
+hxy
+y
++
+−
+=  
+and 
+2
+2
+3
+2
+3
+2
+4
+0
+x
+hxy
+y
+x
+y
+c
++
+−
++
+−
++
+=
+ form a square then 
+(
+)
+,h c = 
+(1) (
+)
+4, 1
+−
+ 
+(2) (
+)
+1,4
+−
+ 
+(3) (
+)
+4,1
+−
+ 
+(4) (
+)
+1, 4
+−
+ 
+ 
+48. The equation of the bisectors of the angles between the lines 
+joining the origin to the points of intersection of the curve 
+2
+2
+3
+1
+0
+x
+xy
+y
+x
+y
++
++
++
++
++ =
+ and the line 
+2
+0
+x
+y
++
++
+=  is 
+(1) 
+2
+2
+4
+0
+x
+xy
+y
++
+−
+=
+ 
+(2) 
+2
+2
+2
+5
+0
+x
+xy
+y
++
+−
+=  
+(3) 
+2
+2
+6
+2
+0
+x
+xy
+y
++
+−
+=
+ 
+
+ 
+ 
+ 
+(4) 
+2
+2
+2
+4
+2
+0
+x
+xy
+y
+−
++
+=
+ 
+ 
+49. A is the centre of the circle 
+2
+2
+2
+4
+20
+0
+x
+y
+x
+y
++
+−
+−
+−
+=
+. If the 
+tangents drawn at the points 
+(
+)
+B 1,7  and 
+(
+)
+D 4, 2
+−
+ on the circle 
+meet at the point C , the area of the quadrilateral 
+(
+)
+ABCD in square units  is 
+(1) 75 
+(2) 64 
+(3) 56 
+(4) 45 
+ 
+50. The point of concurrence of all conjugate lines of the line 
+5
+7
+78
+0
+x
+y
++
+−
+=  
+with 
+respect 
+to 
+the 
+circle 
+2
+2
+6
+8
+96
+0
+x
+y
+x
+y
++
++
++
+−
+=
+ is 
+(1) (
+)
+2,3
+−
+ 
+(2) (
+)
+3, 2
+−
+ 
+(3) (
+)
+3,2  
+(4) (
+)
+2,3  
+ 
+
+ 
+ 
+ 
+51. The 
+number 
+of 
+common 
+tangents 
+to 
+the 
+circles 
+2
+2
+4
+6
+12
+0
+x
+y
+x
+y
++
++
+−
+−
+=  and 
+2
+2
+8
+10
+5
+0
+x
+y
+x
+y
++
+−
++
++
+=
+ is 
+(1) 4 
+(2) 3 
+(3) 2 
+(4) 1 
+ 
+52. If 
+two 
+circles 
+(
+)
+(
+)
+2
+2
+2
+1
+3
+x
+y
+r
+−
++
+−
+=
+ 
+and 
+2
+2
+8
+2
+8
+0
+x
+y
+x
+y
++
+−
++
++
+=
+ intersect at two distinct points, then 
+(1) 2
+8
+r
+<
+<  
+(2) 1
+9
+r
+<
+<
+ 
+(3) 
+2
+r =
+ 
+(4) 
+8
+r =
+ 
+ 
+53. If the circle 
+2
+2
+6
+2
+0
+x
+y
+x
+y
+k
++
++
+−
++
+=
+ bisects the circumference 
+of the circle 
+2
+2
+2
+6
+15
+0
+x
+y
+x
+y
++
++
+−
+−
+=
+ then k = 
+(1) 21 
+(2) 21
+−
+ 
+(3) 23
+−
+ 
+(4) 23 
+
+ 
+ 
+ 
+ 
+54. The 
+equation 
+of 
+the 
+circle 
+which 
+cuts 
+the 
+circles 
+2
+2
+4
+7
+0
+x
+y
+y
++
++
+−
+=
+, 
+2
+2
+2
+2
+3
+5
+9
+0
+x
+y
+x
+y
++
++
++
+−
+=
+, 
+2
+2
+0
+x
+y
+y
++
++
+=
+ orthogonally is 
+(1) 
+2
+2
+4
+2
+1
+0
+x
+y
+x
+y
++
+−
+−
+−=
+ 
+(2) 
+2
+2
+4
+6
+3
+0
+x
+y
+x
+y
++
+−
+−
+−
+=
+ 
+(3) 
+2
+2
+4
+2
+3
+0
+x
+y
+x
+y
++
+−
+−
+−
+=
+ 
+(4) 
+2
+2
+2
+4
+1
+0
+x
+y
+x
+y
++
+−
+−
+−=
+ 
+ 
+55. The vertex and the focus of the parabola 
+2
+2
+5
+6
+1
+0
+y
+x
+y
++
+−
++ =
+ 
+are respectively 
+(1) 
+7 3
+,
+10 2
+
+
+
+
+
+
+, 
+3
+3
+,
+40 2
+
+
+
+
+
+
+ 
+(2) 
+7 3
+,
+10 2
+
+
+−
+
+
+
+
+, 53 3
+,
+40 2
+
+
+
+
+
+
+ 
+(3) 
+7
+3
+,
+10
+2
+−
+
+
+
+
+
+
+, 
+7 7
+,
+10 8
+
+
+
+
+
+
+ 
+(4) 
+7
+3
+,
+10
+2
+−
+−
+
+
+
+
+
+
+, 
+7 17
+,
+10 8
+
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+ 
+56. If a normal chord at point (
+)
+0
+t ≠
+ on the parabola 
+2
+9
+y
+x
+=
+ 
+subtends a right angle at its vertex then t =  
+(1) 
+3 
+(2) 
+5 
+(3) 
+3
+±
+ 
+(4) 
+2
+±
+ 
+ 
+57. The major and minor axes of an ellipse are along the X-axis and 
+the Y-axis respectively. If its latus rectum is of length 4 and the 
+distance between the foci is 4 2, then the equation of ellipse is 
+(1) 
+2
+2
+2
+16
+x
+y
++
+=
+ 
+(2) 
+2
+2
+2
+16
+x
+y
++
+=
+ 
+(3) 
+2
+2
+1
+2
+3
+x
+y
++
+=  
+(4) 
+2
+2
+1
+3
+2
+x
+y
++
+=  
+ 
+58. If c∈ such that the line 4
+0
+x
+y
+c
+−
++
+=
+ touches the ellipse 
+2
+2
+4
+4
+x
+y
++
+=
+, the an equation having all such values of c among 
+its roots is 
+
+ 
+ 
+ 
+(1) 
+(
+)
+2
+1
+17
+17
+0
+x
+x
+−
++
++
+=
+ 
+(2) 
+(
+)
+2
+1
+17
+17
+0
+x
+x
+−
+−
+−
+=
+ 
+(3) 
+3
+2
+17
+17
+0
+x
+x
+x
+−
+−
++
+=  
+(4) 
+3
+2
+17
+17
+0
+x
+x
+x
+−
++
++
+=
+ 
+ 
+59. If 
+1e , 
+2e  are respectively the eccentricities of the curves 
+2
+2
+9
+16
+144
+0
+x
+y
+−
+−
+=
+ and 
+2
+2
+9
+16
+144
+0
+x
+y
+−
++
+=  then 
+2
+2
+1
+2
+2
+2
+1
+2
+e e
+e
+e
+=
++
+ 
+(1) 
+2  
+(2) 1 
+(3) 
+3 
+(4) 2 
+ 
+60. If 
+(
+)
+A 2,4, 1
+−
+, 
+(
+)
+B 3,6, 1
+−
+ and 
+(
+)
+C 4,5,1  are three consecutives 
+vertices of a parallelogram, then it fourth vertex is 
+(1) (
+)
+1,3,3  
+(2) (
+)
+1,3, 3
+−
+ 
+(3) (
+)
+3,3, 1
+−
+ 
+
+ 
+ 
+ 
+(4) (
+)
+3,3,1  
+ 
+61. If the line joining the points 
+(
+)
+2,3,1
+A
+ and 
+(
+)
+3,5, 3
+B
+−
+ is 
+perpendicular to the line joining the (
+)
+(
+)
+1,2,3 and
+3, ,7
+C
+D
+y
+ then 
+y = 
+(1) 1 
+(2) 3 
+(3) 5 
+(4) 7 
+ 
+62. A plane is making intercepts 2,3,4 on X, Y and 
+Z-axes 
+respectively. Another plane is passing through point (
+)
+1,6,2
+−
+ 
+and is perpendicular to the line joining the points (
+)
+1,2,3  and 
+(
+)
+2,3,4
+−
+. Then, the angle between the two planes is 
+(1) 90° 
+(2) 
+1 12
+Cos
+61
+−
+ 
+(3) 
+1 11
+Cos
+61
+−
+ 
+
+ 
+ 
+ 
+(4) 
+1
+5
+Cos
+6
+−
+ 
+ 
+63. If 
+0
+2
+lim 1 cos
+x
+x
+x
+x
+x
+→
+⋅
+−
+=
+−
+α
+ and 
+2
+2
+0
+2
+lim
+1
+1
+x
+x
+x
+x
+β
+x
+x
+→
+⋅
+−
+=
++
+−
+−
+ then 
+(1) 
+β
+α =
+ 
+(2) 2
+β
+α =
+ 
+(3) 
+2β
+α =
+ 
+(4) 
+3β
+α =
+ 
+ 
+64. If 
+( )
+2
+2
+2
+, when
+0
+5
+, when 0
+1
+1
+, when 1
+3
+3
+2
+14
+, when
+3
+x
+x
+x
+x
+x
+a
+x
+f x
+x
+b
+x
+x
+x
+x
+
+−
+<
+
+
+
++
+≤
+≤
+
+= 
+
+−
+
+<
+<
+
+
+
+−
++
+
+
+−
+≥
+
+ is a continuous 
+function on , then (
+)
+,a b = 
+(1) 
+7
+2,
+2
+
+
+−
+
+
+
+
+ 
+(2) (
+)
+2, 14
+−
+ 
+
+ 
+ 
+ 
+(3) 
+7 , 14
+2
+
+
+−
+−
+
+
+
+
+ 
+(4) (
+)
+2,7  
+ 
+65. The number of points in the interval (
+)
+0,2  at which 
+( )
+0.5
+1
+tan
+f x
+x
+x
+x
+=
+−
++
+−
++
+ is not differentiable is 
+(1) 1 
+(2) 2 
+(3) 3 
+(4) 4 
+ 
+66. If 
+sec
+cos
+x
+θ
+θ
+=
+−
+, 
+10
+10
+sec
+cos
+y
+θ
+θ
+=
+−
+ 
+and 
+(
+)
+(
+)
+2
+2
+2
+4
+4
+dy
+x
+k y
+dx
+
+
++
+=
++
+
+
+
+
+, then k = 
+(1) 1
+100 
+(2) 1 
+(3) 10 
+(4) 100 
+ 
+
+ 
+ 
+ 
+67. If 
+1
+Sin
+x
+y
+e
+−
+=
+ , then (
+)
+2
+2
+1
+1
+0
+x
+y
+xy
+−
+−
+=
+ 
+(1) 0 
+(2) 1 
+(3) y  
+(4) 2y 
+ 
+68. The semi vertical angle of a cone is 45°. If the height of cone is 
+20.025 cm, then the approximate value of its lateral surface area 
+(
+)
+in sq.cm  is 
+(1) 401 2π  
+(2) 400 2π  
+(3) 402 2π  
+(4) 405 2π  
+ 
+69. The radius of a sphere increase at the rate of 0.04 cm sec. The 
+rate of increase in the volume of that sphere with respect to its 
+surface area, when its radius is 10 cm is 
+(1) 16π 
+(2) 25 
+
+ 
+ 
+ 
+(3) 20 
+(4) 5 
+ 
+70. If 
+( )
+2
+log
+f x
+a
+x
+bx
+x
+=
++
++  has extreme values at 
+1
+x = − and 
+2
+x =
+, then the ordered pair (
+)
+,a b = 
+(1) (
+)
+2, 1
+−
+ 
+(2) 
+1
+2,
+2
+
+
+−
+
+
+
+
+ 
+(3) (
+)
+1,2
+−
+ 
+(4) 
+1 ,2
+2
+
+
+−
+
+
+
+
+ 
+ 
+71. If 
+( )
+3
+2
+f x
+x
+px
+qx
+=
++
++
+ is defined on [
+]
+0,2  such that 
+( )
+( )
+0
+2
+f
+f
+=
+ and 
+1
+1
+0
+3
+f 
+
+′
++
+=
+
+
+
+
+, then 
+2
+2
+p
+q
++
+= 
+(1) 13 
+(2) 5 
+(3) 
+1
+2
+3
++
+ 
+(4) 1 
+
+ 
+ 
+ 
+ 
+72. If 
+3
+2
+x
+−
+≠
+, then 
+2
+2
+2
+6 2
+9
+x
+dx
+x
+x
+=
++
++
+∫
+ 
+(1) 
+(
+)
+1
+9
+2
+3
+6log
+2
+3
+2 2
+2
+3
+x
+x
+c
+x
+
+
++
+−
++
+−
++
+
+
++
+
+
+ 
+(2) 
+(
+)
+1
+9
+2
+3
+6log
+2
+3
+2 2
+2
+3
+x
+x
+c
+x
+
+
++
+−
++
++
++
+
+
++
+
+
+ 
+(3) 
+2
+3
+6log
+2
+3
+x
+x
+c
++
+−
++
++  
+(4) 
+(
+)
+2
+log 2
+6 2
+9
+x
+x
+c
++
++
++  
+ 
+73. 
+2
+1
+2
+1
+Sin
+1
+x
+x
+xdx
+x
+−
+−
++
+=
+−
+∫
+ 
+(1) 
+1
+2
+Sin
+1
+x
+x
+x
+c
+−
++
+−
++  
+(2) 
+1
+2
+Sin
+1
+x
+x
+c
+−
++
+−
++  
+(3) 
+1
+Sin
+x
+x
+c
+−
++  
+(4) 
+1
+2
+Sin
+1
+x
+x
+c
+x
+−
++
+−
+ 
+ 
+
+ 
+ 
+ 
+74. If 
+( )
+2
+3
+2
+8
+x
+x
+e
+x e dx
+f x
+c
+=
++
+∫
+, then the sum of all the complex roots 
+of ( )
+1
+f x =  is 
+(1) 1
+2  
+(2) 3 
+(3) 1 
+(4) 2 
+ 
+75. 
+5
+5
+sin
+cos
+x
+xdx =
+∫
+ 
+(1) 
+6
+4
+2
+cos
+6sin
+3sin
+1
+60
+x
+x
+x
+c
+
+
++
++
++
+
+
+ 
+(2) 
+6
+4
+2
+sin
+6cos
+3cos
+1
+60
+x
+x
+x
+c
+
+
+−
+−
++
++
+
+
+ 
+(3) 
+6
+4
+2
+cos
+6sin
+3sin
+1
+60
+x
+x
+x
+c
+
+
+−
++
++
++
+
+
+ 
+(4) 
+6
+4
+2
+sin
+6cos
+3cos
+1
+60
+x
+x
+x
+c
+
+
++
++
++
+
+
+ 
+ 
+76. 
+(
+)
+(
+)
+(
+)
+2
+2
+2
+3
+3
+3
+1
+1
+lim
+125
+1
+2
+3
+x
+n
+n
+n
+n
+n
+n
+n
+n
+→∞
+
+
++
++
++
++
++
+=
+
+
++
++
++
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+(1) 3
+8  
+(2) 15
+32  
+(3) 12
+25  
+(4) 35
+72  
+ 
+77. 
+2
+1
+log
+e
+e
+x dx
+x
+−
+=
+∫
+ 
+(1) 2
+5  
+(2) 2 
+(3) 5 
+(4) 5
+2  
+ 
+78. The area (
+)
+in square units  bounded by 
+1
+Tan
+y
+x
+−
+=
+, 
+1
+Cot
+y
+x
+−
+=
+ 
+and the Y-axis is 
+(1) log 4
+e
+ 
+(2) log 2
+e
+ 
+
+ 
+ 
+ 
+(3) log 3
+e  
+(4) log 5
+e  
+ 
+79. The order of the differential equation corresponding to the 
+family of parabolas whose axes are along the X axis and whose 
+foci are at the origin is 
+(1) 4 
+(2) 3 
+(3) 2 
+(4) 1 
+80. The 
+general 
+solution 
+of 
+the 
+differential 
+equation 
+2
+2
+2
+2
+2
+2
+x
+y
+y
+yy
+x x
+x
+y
+φ
+φ
+
+
+
+
+
+
+
+
+
+
+
+
+′ =
++
+
+
+
+
+′
+
+
+
+
+
+
+
+
+, where φ  is an arbitrary function, is 
+(1) 
+2
+2
+y
+x
+cy
+x
+φ 
+=
+
+
+
+
+ 
+(2) 
+2
+2
+2
+y
+x
+c
+x
+φ 
+=
+
+
+
+
+ 
+
+ 
+ 
+ 
+(3) 
+2
+2
+2
+2
+y
+x
+cy
+x
+φ 
+=
+
+
+
+
+ 
+(4) 
+2
+2
+2
+y
+cx
+x
+φ 
+=
+
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+AP EAMCET-2019-Engineering-20 Apr-Shift-2 
+Answer Key 
+ 
+ 
+1 
+3 
+33 
+3 
+65 
+3 
+97 
+3 
+129 
+2 
+2 
+2 
+34 
+4 
+66 
+4 
+98 
+2 
+130 
+4 
+3 
+1 
+35 
+1 
+67 
+3 
+99 
+1 
+131 
+3 
+4 
+3 
+36 
+2 
+68 
+1 
+100 
+2 
+132 
+1 
+5 
+3 
+37 
+2 
+69 
+4 
+101 
+1 
+133 
+2 
+6 
+1 
+38 
+1 
+70 
+2 
+102 
+3 
+134 
+1 
+7 
+2 
+39 
+2 
+71 
+1 
+103 
+4 
+135 
+4 
+8 
+2 
+40 
+1 
+72 
+1 
+104 
+2 
+136 
+1 
+9 
+1 
+41 
+3 
+73 
+3 
+105 
+1 
+137 
+3 
+10 
+4 
+42 
+2 
+74 
+1 
+106 
+2 
+138 
+3 
+11 
+4 
+43 
+2 
+75 
+3 
+107 
+4 
+139 
+1 
+12 
+3 
+44 
+1 
+76 
+3 
+108 
+3 
+140 
+2 
+13 
+1 
+45 
+3 
+77 
+4 
+109 
+4 
+141 
+3 
+14 
+4 
+46 
+4 
+78 
+2 
+110 
+3 
+142 
+2 
+15 
+4 
+47 
+1 
+79 
+4 
+111 
+2 
+143 
+4 
+16 
+2 
+48 
+1 
+80 
+4 
+112 
+2 
+144 
+2 
+17 
+3 
+49 
+1 
+81 
+4 
+113 
+1 
+145 
+4 
+
+ 
+ 
+ 
+18 
+2 
+50 
+4 
+82 
+2 
+114 
+2 
+146 
+1 
+19 
+3 
+51 
+3 
+83 
+4 
+115 
+4 
+147 
+2 
+20 
+4 
+52 
+1 
+84 
+1 
+116 
+3 
+148 
+4 
+21 
+1 
+53 
+3 
+85 
+4 
+117 
+1 
+149 
+4 
+22 
+4 
+54 
+1 
+86 
+3 
+118 
+4 
+150 
+2 
+23 
+2 
+55 
+1 
+87 
+4 
+119 
+3 
+151 
+1 
+24 
+1 
+56 
+4 
+88 
+3 
+120 
+2 
+152 
+3 
+25 
+3 
+57 
+2 
+89 
+4 
+121 
+3 
+153 
+1 
+26 
+2 
+58 
+3 
+90 
+2 
+122 
+4 
+154 
+1 
+27 
+2 
+59 
+2 
+91 
+1 
+123 
+2 
+155 
+2 
+28 
+2 
+60 
+4 
+92 
+3 
+124 
+1 
+156 
+2 
+29 
+1 
+61 
+3 
+93 
+4 
+125 
+4 
+157 
+3 
+30 
+1 
+62 
+3 
+94 
+2 
+126 
+3 
+158 
+3 
+31 
+4 
+63 
+3 
+95 
+3 
+127 
+2 
+159 
+4 
+32 
+2 
+64 
+1 
+96 
+4 
+128 
+4 
+160 
+2 
+ 
+ 
+
+ 
+ 
+ 
+AP EAMCET-2019-Engineering-20 Apr-Shift-2 
+Solutions – Mathematics 
+ 
+ 
+1 Consider the function. 
+( )
+3
+5
+7
+3
+x
+f x
+x
++
+=
+− 
+Let 
+( )
+y
+f x
+=
+ 
+So, 
+3
+5
+7
+3
+x
+y
+x
++
+=
+− 
+Hence, 
+3
+5
+7
+3
+y
+x
+y
++
+=
+− 
+As ( )
+f x  is a bijective function and  
+( )
+( )
+1
+f
+x
+f x
+−
+=
+. 
+Thus, 
+(
+)( )
+fof
+x
+x
+=
+ 
+And, 
+(
+)
+fofofof
+x
+=
+ 
+But, 
+
+ 
+ 
+ 
+(
+)
+fofof
+x
+≠
+. 
+ 
+2. It is given that 
+: A
+B
+f
+→
+, 
+: B
+C
+g
+→
+ are the functions such that 
+: A
+C
+gof
+→
+ is onto. 
+Then it is necessary that g  is onto. 
+Thus, the correct option is ( )
+2 . 
+ 
+3. Consider the given series, 
+3
+21
+117
+5
+25
+125
+n
++
++
++ 
+The above expression can be simplified as, 
+2
+3
+1
+3
+21
+117
+2
+4
+8
+1
+1
+1
+terms
+5
+25
+125
+5
+25
+125
+2
+2
+2
+terms
+5
+5
+5
+2
+2
+1
+5
+5
+2
+1
+5
+2
+2
+3 5
+3
+n
+n
+n
+n
+n
+n
+n
+n
+n
++
+
+
+
+
+
+
++
++
++
+=
+−
++
+−
++
+−
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+−
++
++
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−
+
+
+
+
+
+
+
+
+
+
+=
+−
+−
+=
++
+−
+×
+
+
+
+  
+
+ 
+ 
+ 
+ 
+4. Consider the matrix, 
+2
+2
+1
+1
+0
+0
+1
+3
+1
+0
+1
+0
+1
+2
+2
+0
+0
+1
+x
+
+
+
+
+
+
+
+
+−
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+It is solved as, 
+2
+2
+1
+1
+0
+0
+2
+2
+1
+1
+3
+1
+0
+1
+0
+1
+3
+1
+1
+2
+2
+0
+0
+1
+1
+2
+2
+x
+x
+x
+x
+−
+
+
+
+
+
+
+
+
+
+
+
+
+−
+=
+−
+
+
+
+
+
+
+
+
+
+
+
+
+−
+
+
+
+
+
+
+ 
+The matrix is singular. Therefore, 
+2
+2
+1
+1
+3
+1
+0
+1
+2
+2
+x
+x
+x
+−
+−
+=
+−
+ 
+Apply operation 
+1
+1
+2
+3
+C
+C
+C
+C
+→
++
++
+  
+ 
+(
+)
+5
+2
+1
+5
+3
+1
+0
+5
+2
+2
+1
+2
+1
+5
+1
+3
+1
+0
+1
+2
+2
+x
+x
+x
+x
+x
+x
+x
+x
+−
+−
+−
+=
+−
+−
+−
+−
+=
+−
+ 
+
+ 
+ 
+ 
+Apply operation 
+2
+2
+1
+R
+R
+R
+→
+−
+ and 
+3
+3
+1
+R
+R
+R
+→
+−
+. 
+(
+)
+(
+)(
+)
+2
+1
+2
+1
+5
+0
+1
+0
+0
+0
+0
+1
+5
+1
+0
+1,5,5
+x
+x
+x
+x
+x
+x
+−
+−
+=
+−
+−
+−
+=
+=
+ 
+Thus, the sum of the required value of x is, 
+Sum
+1 1
+5
+7
+= + +
+=
+ 
+ 
+5. Consider the matrix. 
+cos
+sin
+0
+A
+sin
+cos
+0
+0
+0
+1
+α
+α
+α
+α
+−
+
+
+
+
+= 
+
+
+
+
+
+ 
+Therefore, 
+2
+2
+cos
+sin
+1
+A
+α
+α
+=
++
+=
+ 
+Now, 
+3 1
+2
+adj
+1
+1
+A
+A
+−
+=
+=
+=
+ 
+
+ 
+ 
+ 
+And, 
+(
+)
+3 2
+adj adj
+1
+A
+A
+A
+A
+A
+−
+=
+⋅
+= ⋅
+=
+ 
+Therefore, 
+(
+)
+(
+)
+1
+adj adj
+adj
+adj
+1
+A
+A
+A
+A
+A
+−=
+=
+=
+ 
+ 
+6. The given system of equation are, 
+7
+2
+0
+x
+ay
+az
++
++
+= , 
+6
+2
+0
+a
+by
+bz
++
++
+=
+ 
+And, 
+5
+2
+0
+x
+cy
+cz
++
++
+=
+ 
+The system has non trivial solution. Therefore, 
+
+ 
+ 
+ 
+1
+7
+2
+1
+6
+2
+0
+1
+5
+2
+2
+4
+2
+2
+2
+a
+a
+b
+b
+c
+c
+bc
+ac
+ab
+ac
+bc
+ab
+ac
+b
+a
+c
+=
+−
++
+=
+=
++
+=
++
+ 
+Or, 
+2
+1
+1
+b
+a
+c
+=
++
+ 
+Hence, , ,
+a b c are in Harmonic progression. 
+ 
+7. It is given that, 
+1
+2
+z
+z
+z
+z
+k
+−
++
+−
+=
+ 
+And, 
+1
+2
+z
+z
+k
+−
+<
+ 
+Sum of the distance of the point z from 
+1z  and 
+2z  is constant 
+( )
+k  and more than the distance between points 
+1z  and 
+2z . Thus, 
+the locus of the point z is an ellipse. 
+ 
+ 
+
+ 
+ 
+ 
+8. It is given that, 
+1
+: arg
+1
+4
+z
+z
+z
+π
+
+
+−
+
+
+∈
+=
+
+
+
+
++
+
+
+
+
+
+ 
+Let the complex number be z
+x
+iy
+=
++
+ 
+Thus, 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+2
+1
+1
+x
+iy
+x
+iy
+iy
+z
+z
+x
+iy
+x
+iy
+iy
+x
+y
+y
+i
+x
+y
+x
+y
+−
++
++
+−
+−
+=
+×
++
++
++
++
+−
+
+
++
+−
+=
++ 
+
+
+
++
++
++
++
+
+
+  
+Therefore, 
+2
+2
+2
+2
+1
+arg
+1
+4
+2
+1
+1
+2
+1
+0
+z
+z
+y
+x
+y
+x
+y
+y
+π
+−
+
+=
+
+
++
+
+
+
+=
+
+
++
+−
+
+
++
+−
+−=
+ 
+The complex plane represents a circle. 
+ 
+9. It is given that, 
+1
+2
+1
+z
+z
+=
+=  
+And, 
+
+ 
+ 
+ 
+(
+)
+1 2
+Re
+0
+z z
+=
+ 
+Let, 
+1
+cos
+cos
+z
+a
+ib
+i
+α
+β
+=
++
+=
++
+ 
+And, 
+2
+cos
+sin
+z
+c
+id
+i
+β
+β
+=
++
+=
++
+ 
+Thus, 
+(
+)
+(
+)
+1 2
+Re
+0
+0
+cos
+cos
+sin
+sin
+0
+cos
+0
+z z
+ac
+bd
+α
+β
+α
+β
+α
+β
+=
++
+=
++
+=
+−
+=
+ 
+Therefore, 
+,
+2
+2
+π
+π
+α
+β
+−
+=
+−
+ 
+The pair of complex number, 
+1
+cos
+cos
+w
+a
+ic
+i
+α
+β
+=
++
+=
++
+ 
+And, 
+2
+sin
+sin
+w
+b
+id
+i
+α
+β
+=
++
+=
++
+ 
+
+ 
+ 
+ 
+Hence, 
+(
+)
+(
+)
+(
+)
+1
+2
+Re
+cos
+sin
+cos
+sin
+1 2sin
+cos
+2
+0
+w w
+ab
+cd
+α
+α
+β
+β
+α
+β
+α
+β
+=
++
+=
++
+=
++
+−
+=
+ 
+This implies 
+,
+2
+2
+−
+=
+−
+π
+π
+α
+β
+. 
+ 
+10. Consider the expression. 
+(
+)
+2
+0
+1
+2
+1
+n
+n
+n
+x
+a
+a x
+a x
+a x
++
+=
++
++
++
++
+
+ 
+Substitute x for i in the above expression. 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+0
+2
+4
+6
+1
+3
+5
+7
+0
+2
+4
+6
+1
+3
+5
+7
+1
+2 cos
+sin
+4
+4
+n
+n
+a
+a
+a
+a
+i
+i a
+a
+a
+a
+a
+a
+a
+a
+i
+i a
+a
+a
+a
+π
+π
+
+
+−
++
+−
++
++
++
+= 
+
+−
++
+−
++
+
+
+
+
+
+
+−
++
+−
++
++
+
+
+
+
++
+= 
+
+
+
+
+
+−
++
+−
++
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Compare the real and imaginary parts. 
+
+ 
+ 
+ 
+(
+)
+2
+0
+2
+4
+6
+2
+2
+2 cos 4
+2 cos
+cos
+4
+4
+2
+n
+n
+n
+n
+a
+a
+a
+a
+n
+n
+k
+k
+π
+π
+π
+=
+−
++
+−
++
+=
+=
+
+ 
+ 
+11. Consider the equation. 
+2
+2
+4
+2
+x
+x
+x
++
+−
+−
+=
+−
+ 
+Square both side, 
+2
+2
+2
+2
+2
+4
+4
+2
+1
+4
+x
+x
+x
+x
+x
+x
++
++
+−
+−
+−
+=
+−
+−
+=
+−
+ 
+Now 
+2
+x >
+, 
+So, 
+1
+0
+x
+−
+<
+ 
+And, 
+2
+4
+0
+x −
+>
+ 
+Thus, there is no solution. 
+ 
+12. Consider the function. 
+2
+5
+9
+x
+y
+x
+x
+=
+−
++
+ 
+
+ 
+ 
+ 
+The range of the function is determined as, 
+(
+)
+2
+5
+1
+9
+0
+yx
+y
+x
+y
+−
++
++
+=
+. 
+The roots are real. Therefore, 
+(
+)
+(
+)(
+)
+2
+2
+2
+2
+5
+1
+36
+0
+25
+10
+1
+36
+0
+11
+1
+1
+0
+1 ,1
+11
+y
+y
+y
+y
+y
+y
+y
+y
++
+−
+≥
++
++ −
+≥
++
+−
+≤
+
+
+∈−
+
+
+
+
+ 
+ 
+13. Consider the cubic equations. 
+3
+2
+0
+x
+ax
+bx
+c
+−
++
+−
+=  
+The sum of the roots of the equation is, 
+a
+α
+β
+γ
++
++
+=
+ 
+And, 
+b
+αβ
+βγ
+γα
++
++
+=
+ 
+The product of the roots is, 
+c
+αβγ =  
+Therefore, 
+
+ 
+ 
+ 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)(
+)
+(
+)
+2
+2
+2
+3
+2
+2
+2
+2
+2
+2
+2
+3
+2
+3
+3
+a
+a
+a
+a a
+b
+a a
+b
+c
++
+=
+−
+=
+−
+
+
+
+
++
++
+−
++
++
+−
+
+
+
+
+
+
+
+
+=
++
++
++
++
+−
+−
+−
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+−
+−
+−
++
+
+
+
+
+∑
+∑
+∑
+∑
+α
+β
+γ
+α
+α
+α
+α
+α
+β
+γ
+αβ
+βγ
+γα
+α
+β
+γ
+α
+β
+γ
+αβ
+βγ
+γα
+αβγ
+ 
+Solve further, 
+(
+)
+2
+3
+ab
+c
+α
+β
+γ
++
+=
+−
+∑
+ 
+ 
+14. Consider the equation. 
+6
+5
+4
+2
+6
+25
+31
+31
+25
+6
+0
+x
+x
+x
+x
+x
+−
++
+−
++
+−
+=
+ 
+Simplify the equation as follows, 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+6
+4
+2
+2
+2
+4
+2
+2
+2
+2
+4
+3
+2
+6
+1
+25
+1
+31
+1
+0
+1
+6
+1
+25
+1
+31
+0
+1
+6
+25
+37
+25
+6
+0
+x
+x x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+−
+−
+−
++
+−
+=
+
+
+−
++
++
+−
++
++
+=
+
+
+
+
+−
+−
++
+−
++
+=
+
+
+ 
+So, 
+1
+x = ±  
+Or, 
+
+ 
+ 
+ 
+(
+)
+(
+)
+4
+3
+2
+4
+2
+2
+2
+6
+25
+37
+25
+6
+0
+6
+1
+25
+1
+37
+0
+1
+1
+6
+25
+37
+0
+1
+1
+1
+3
+2
+5
+5 2
+5
+0
+x
+x
+x
+x
+x
+x x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+−
++
+−
++
+=
++
+−
++
++
+=
+
+
+
+
++
+−
++
++
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++
++
+−
+−
++
+−
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Solve further, 
+1
+1
+2
+5
+3
+5
+0
+x
+x
+x
+x
+
+
+
+
+
+
+
++
+−
++
+−
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+Thus, 
+1
+2
+5
+0
+x
+x
+
+
++
+−
+=
+
+
+
+
+ 
+Or, 
+1
+3
+5
+x
+x
+
+
++
+−
+
+
+
+
+ 
+Therefore, 
+(
+)
+(
+)
+(
+)(
+)
+2
+2
+5
+2
+0
+2
+2
+1
+2
+0
+2
+2
+1
+0
+1
+2, 2
+x
+x
+x x
+x
+x
+x
+x
+−
++
+=
+−
+−
+−
+=
+−
+−
+=
+=
+ 
+
+ 
+ 
+ 
+And, 
+2
+3
+5
+3
+0
+x
+x
+−
++
+=
+ 
+It has no solution because 
+0
+D <
+. 
+The sum of all rational roots is, 
+1
+Sum
+1 1
+2
+2
+2.5
+= −+
++
+=
+ 
+ 
+15. A number is divisible by 6 if it is divisible by both 2 and 3. 
+Thus, the last digit can be filled by 0,2,4 only. 
+The first place can be filled by 5 choices except 0 and second 
+and third by 6 choices. 
+The fourth placed is filled such that it must of the form 3k  or 
+3
+1
+k +  or 3
+2
+k + . Thus it can be filled by only two choices 0 or 
+3. 
+Hence the total numbers are, 
+Number
+5
+6
+6
+2
+3
+1080
+=
+× × ×
+×
+=
+ 
+ 
+16. The number of ways to select 5 person out of 8 is 8
+5
+C . 
+Thus, the required number of ways is calculated as, 
+
+ 
+ 
+ 
+8
+5
+Number of ways
+4! 2!
+8
+7
+6
+4
+3
+2
+2
+3
+2
+42
+64
+2688
+C
+=
+×
+×
+× ×
+=
+× × × ×
+×
+=
+×
+=
+ 
+ 
+17. It is given that 15k divides 47!. 
+Find the exponent of 5 in 47!. 
+{
+}
+2
+47
+47
+, where
+is greatest integer of
+5
+5
+x
+x
+
+
+
+
++
++
+
+
+
+
+
+
+
+
+
+  
+exponent 5 of in 47!
+9
+1
+10
+=
++
+=
+ 
+Thus, the value of k  is 10. 
+ 
+18. Consider the equation. 
+(
+)
+2
+2
+0
+1
+2
+1
+n
+x
+x
+c
+c x
+c x
++
++
+=
++
++
++ 
+Substitute 1
+x  for x in the above equation. 
+(
+)
+(
+)
+2
+2
+2
+1
+2
+2
+2
+3
+0
+1
+2
+3
+2
+2
+2
+2
+2
+1
+2
+3
+0
+1
+2
+1
+1
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+x
+x
+c x
+c x
+c x
+c x
+x
+x
+x
+x
+c x
+c x
+c x
+−
+−
+−
+−
+−
+−
++
+−
++
++
++
+=
+−
++
+=
+−
++
++
+
+
+ 
+
+ 
+ 
+ 
+Now, 
+(
+) (
+)
+(
+)
+(
+)
+(
+)
+2
+2
+1
+2
+3
+2 +1
+2
+2
+0
+1
+2
+2
+2 +1
+2
+2
+2 +1
+4
+2
+Coeff of
+in 1
+1
+Coeff of
+in
+1
+Coeff of
+in 1
+0
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+c x
+c x
+c x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+−
+−
++
++
++
+=
++
++
+−
++
+=
++
+−
+=
++
++
+=
+
+Since the coefficient of 
+kx  in the expansion if (
+)
+4
+2
+1
+n
+x
+x
++
++
+ 
+exist if k  is even other it will be zero and 2
+1
+n +  is odd 
+ 
+19. If x is so small that 
+2x  and higher power of x can be neglected, 
+then, 
+(
+)
+1
+1
+n
+x
+nx
++
+= +
+ 
+Thus, 
+1 2
+2
+3
+2
+3
+2
+1
+1
+1
+1
+4
+3
+4
+3
+3
+4
+1
+8
+3
+24
+41
+24
+x
+x
+x
+x
+x
+x
+x
+−
+
+
+
+
+
+
+
++
+−
+=
++
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+= +
++
++
+=
+ 
+ 
+ 
+
+ 
+ 
+ 
+20. Consider the equation. 
+(
+)(
+)(
+)
+( )
+4
+A
+B
+C
+P
+x
+x
+x
+a
+x
+b
+x
+c
+x
+a
+x
+b
+x
+c
+=
++
++
++
+−
+−
+−
+−
+−
+− 
+The above equation is solved as, 
+( )(
+)(
+)(
+)
+(
+)(
+)
+(
+)(
+)
+(
+)(
+)
+4
+P
+A
+B
+C
+x
+x
+a
+x
+b
+x
+c
+x
+b
+x
+c
+x
+x
+a
+x
+c
+x
+a
+x
+b
+
+
+−
+−
+−
++
+−
+−
++
+= 
+
+−
+−
++
+−
+−
+
+
+
+
+ 
+Substitute 0 for x in the above expression. 
+( )
+[
+]
+( )
+P 0
+A
+B
+C
+A
+B
+C
+P 0
+abc
+bc
+ac
+ab
+a
+b
+c
+=
++
++
+=
++
++
+ 
+Now at x
+a
+=
+. 
+(
+)(
+)
+4
+A
+a
+a
+b
+a
+c
+=
+−
+−
+ 
+At x
+b
+=
+ 
+(
+)(
+)
+4
+B
+b
+b
+c
+b
+a
+=
+−
+−
+ 
+At x
+c
+=  
+(
+)(
+)
+4
+C
+c
+c
+a
+c
+b
+=
+−
+−
+ 
+Thus, 
+
+ 
+ 
+ 
+( )
+(
+)(
+)
+(
+)(
+)
+(
+)(
+)
+(
+)
+(
+)
+(
+)
+(
+)(
+)(
+)
+(
+)
+(
+)
+(
+)(
+)
+(
+)
+(
+)
+(
+)
+(
+)(
+)
+3
+3
+3
+3
+2
+2
+3
+3
+3
+2
+2
+2
+2
+2
+P 0
+a
+b
+c
+a
+b
+a
+c
+b
+c
+b
+a
+c
+a
+c
+a
+a
+c
+b
+bc c
+b
+a b
+c
+a
+b
+b
+c
+c
+a
+a
+bc c
+b
+a b
+c
+bc
+a
+b
+a
+c
+a a
+b
+c
+a
+b
+bc a
+b
+a
+b
+a
+c
+=
++
++
+−
+−
+−
+−
+−
+−
+−
++
+−
++
+−
+=
+−
+−
+−
++
++
+−
++
++
+=
+−
+−
+−
+−
+−
+−
+−
+=
+−
+−
+ 
+Solve further, 
+( )
+(
+)
+(
+)
+2
+2
+P 0
+a
+ba
+c
+bc
+a
+c
+a
+b
+c
++
+−
+−
+=
+−
+=
++
++
+ 
+Therefore, 
+( ) (
+)(
+)
+4
+P 0
+A
+a
+b
+a
+c
+a
+b
+c
+a
++
+−
+−
+=
++
++
++
+ 
+ 
+21. It is known that 
+2
+sin
+2tan 2
+1
+tan 2
+p
+p
+α
+α
+α
+=
+=
++
+ 
+
+ 
+ 
+ 
+The sum of the roots is, 
+2
+Sum
+tan
+cot
+2
+2
+tan
+1
+2
+tan 2
+2
+p
+α
+α
+α
+α
+=
++
++
+=
+=
+ 
+The product of the roots is, 
+Product
+tan
+cot
+2
+2
+1
+α
+α
+=
+×
+=
+ 
+Hence, the required quadratic equation is, 
+2
+2
+2
+1
+0
+2
+0
+x
+x
+p
+px
+x
+p
+−
++ =
+−
++
+=
+ 
+ 
+22. Consider the expression. 
+cos66
+sin84
+° +
+° 
+It is solved as, 
+
+ 
+ 
+ 
+cos66°
+sin84°
+2cos36°cos30°
+3cos36°
+5
+1
+3
+4
++
+=
+=
+
+
++
+=
+
+
+
+
+ 
+ 
+23. Consider the expression. 
+tan
+tan2
+3 tan
+tan2
+3
+θ
+θ
+θ
+θ
++
++
+=
+ 
+It can be simplified as, 
+(
+)
+(
+)
+tan
+tan 2
+tan
+1
+tan
+tan 2
+3
+tan 3
+tan 3
+3
+,
+3
+3
+1
+,
+9
+n
+n
+n
+n
++
+=
+−
+=
+=
++
+∈
+=
++
+∈
+
+
+θ
+θ
+π
+θ
+θ
+π
+θ
+π
+θ
+π
+π
+θ
+ 
+ 
+24. Consider the equation. 
+( )
+1
+1
+1
+3
+4
+Sin
+Sin
+Sin
+5
+5
+x
+x
+x
+−
+−
+−
+
+
+
+
++
+=
+
+
+
+
+
+
+
+
+ 
+The above equation can be rewritten as, 
+
+ 
+ 
+ 
+2
+2
+1
+1
+2
+2
+3
+16
+4
+9
+Sin
+1
+1
+Sin
+5
+25
+5
+25
+3
+16
+4
+9
+1
+1
+5
+25
+5
+25
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+−
+−
+
+
+−
++
+−
+=
+
+
+
+
+
+
+−
++
+−
+=
+ 
+Thus, 
+0
+x =
+ 
+Or, 
+(
+)
+(
+)
+(
+)(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+4
+3 25
+16
+4 25
+9
+1
+25
+25
+9 25
+16
+16 25
+9
+24 25
+16
+25
+9
+625
+24 25
+16
+25
+9
+288
+25
+16
+25
+9
+144
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+−
+−
++
+=
+−
++
+−
++
+−
+−
+=
+−
+−
+=
+−
+−
+=
+ 
+Solve further, 
+2
+625
+625
+0
+1
+x
+x
+−
+=
+= ±
+ 
+The sum of the values of x is, 
+Sum
+0
+1
+1
+0
+=
++ + −
+=
+ 
+ 
+ 
+
+ 
+ 
+ 
+25. Consider the expression. 
+log cot 4
+cot
+4cot
+6
+1
+cot
+4
+cot
+6
+3
+1
+3
+1
+3
+1
+3
+1
+x
+x
+x
+x
+e
+e
+e
+π
+θ
+π
+π
+π
+π
+−
+
+
+
+
+=
++
+
+
+
+
+
+
+
+
+−
+=
++
+−
+=
++
++
+=
+−
+ 
+Now, 
+( )
+(
+) (
+)
+sinh
+2
+3
+1
+3
+1
+3
+1
+3
+1
+2
+3
+1
+2 3
+3
+1
+2 3
+4
+4 3
+4
+x
+x
+e
+e
+x
+−
+−
+=
+−
++
+−
++
+−
+=
++ −
+−
++ +
+=
+= −
+ 
+Solve further, 
+( )
+sinh
+3
+x = −
+ 
+ 
+
+ 
+ 
+ 
+ 
+26. Consider the figure shown below. 
+ 
+In CAD
+∆
+. 
+2
+2
+2
+AD
+4
+a
+b
+=
+−
+ 
+And from Apollonius theorem,  
+2
+2
+2
+2 AD
+4
+a
+c
+b
+
+
++
+=
++
+
+
+
+
+ 
+Therefore, 
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+4
+4
+2
+3
+a
+a
+c
+b
+b
+c
+b
+a
+b
+a
+b
+c
+
+
++
+=
+−
++
+
+
+
+
++
+=
+−
+=
++
+ 
+Thus, 
+
+ 
+ 
+ 
+(
+)(
+)
+(
+)(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+cosAcosC
+2
+3
+2
+2
+2
+3
+3
+3
+2
+4
+3
+2
+4
+2
+4
+6
+2
+b
+c
+a
+a
+b
+c
+ca
+a
+ca
+a
+bc
+ab
+b
+c
+b
+c
+b
+c
+b
+c
+a
+b
+b
+b
+a
+b
+b
+a
+
+
+
++
+−
++
+−
++
+=
++
+
+
+
+
+
+
+
+
+=
++
+−
+−
++
++
+−
++
+
+
+=
+−
++
+= −
++
+Solve further, 
+(
+)
+2
+2
+2
+2
+3
+cosAcosC
+2
+2
+3
+2
+ca
+a
+a
+b
+c
++
+=
+−
+=
+ 
+ 
+27. It is known that, 
+(
+) (
+) (
+)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+4
+4
+4
+4
+4
+4
+2
+cosC
+2
+cosA
+2
+cosB
+4
+a
+b
+c
+a
+b
+c
+a
+b
+c
+b
+c
+a
+a
+c
+b
+abc
+R
+ab
+bc
+ac
+a b c
+R
+−
+−
+−
++
++
+=
++
++
+∆
+∆
+∆
++
++
+=
+∆
++
+−
++
++
+−
++
++
+−
+=
+
+
+
+
+
+
++
++
+=
+α
+β
+γ
+ 
+Solve further, 
+
+ 
+ 
+ 
+(
+)
+2
+2
+2
+cosC
+cosA
+cosB
+4
+2
+4
+2
+4
+2
+1 cot A
+cot B
+cotC
+abc
+c
+abc
+a
+abc
+b
+R
+R
+R
+R
+R
+R
+−
+−
+−
++
++
+=
++
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
++
++
+∆
+α
+β
+γ
+ 
+ 
+28. Consider the expression. 
+(
+)
+2
+3
+B
+C
+cot
+2
+r
+r
++
+
+
++
+
+
+
+
+ 
+The above expression is solved as, 
+(
+)
+(
+)
+(
+)(
+)
+(
+)
+2
+3
+B
+C
+A
+cot
+tan
+2
+2
+2
+r
+r
+s
+b
+s
+c
+s
+c
+s
+b
+s
+c
+s
+b
+s s
+a
+s
+b
+c
+a
++
+∆
+∆
+
+
+
+
++
+=
++
+
+
+
+
+−
+−
+
+
+
+
+∆
+−
++
+−
+∆
+=
+−
+−
+−
+=
+−
+−
+=
+ 
+ 
+29. The given vectors are, 
+AB
+3
+4
+AC
+5
+2
+i
+j
+k
+i
+j
+k
+= +
++
+=
++
++
+ 
+Therefore, 
+
+ 
+ 
+ 
+(
+) (
+)
+3
+4
+5
+2
+AG
+3
+4
+2
+2
+3
+i
+j
+k
+i
+j
+k
+i
+j
+k
++
++
++
++
++
+=
+=
++
++
+ 
+Thus, 
+16
+AG
+4
+4
+9
+88
+9
+2
+22
+3
+=
++
++
+=
+=
+ 
+ 
+30. Let 
+point 
+P 
+be 
+the 
+intersection 
+of 
+lines 
+(
+)
+(
+)
+2
+2
+3
+4
+r
+i
+j
+k
+i
+j
+k
+λ
+=
++
+−
++
++
++
+ 
+and 
+(
+)
+(
+)
+3
+7
+2
+r
+i
+j
+k
+i
+j
+k
+µ
+= −−
++
++
++
+−
+  
+Thus, 
+2
+1
+1
+λ
+µ
++ =
+−                      ……. (I) 
+3
+2
+3
+2
+λ
+µ
++
+= −+
+                ……. (II) 
+And, 
+4
+1
+7
+λ
+µ
+−=
+−
+                     …… (III) 
+On solving the above equations,  
+
+ 
+ 
+ 
+1
+4
+λ
+µ
+=
+=
+ 
+Thus the required point of intersection is, 
+(
+)
+P
+3
+5
+3
+i
+j
+k
+=
++
++
+ 
+ 
+31. The position vector of A is i
+j
+k
++
++
+, B is 4
+2
+i
+j
+k
+−
++
+, C is 
+5i
+j
++
+ and D is 7
+2
+3
+i
+j
+k
++
++
+. 
+Thus, 
+3
+2
+AB
+i
+j
+k
+=
+−
++
+ 
+And, 
+2
+3
+CD
+i
+j
+k
+=
++
++
+ 
+Therefore, the projection of AB on CD is, 
+6
+2
+3
+Projection
+4
+1
+9
+7
+14
+7
+2
+−
++
+=
++ +
+=
+=
+ 
+ 
+ 
+32. It is given that, 
+
+ 
+ 
+ 
+1
+sin
+2 a
+b
+λθ
+−
+=
+ 
+Square both sides. 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+cos
+4sin
+1 1
+2cos
+4sin
+2 1
+cos
+4sin
+4sin
+4sin
+2
+a
+b
+a b
+θ
+λθ
+θ
+λθ
+θ
+λθ
+θ
+λθ
++
+−
+=
++ −
+=
+−
+=
+
+=
+
+
+
+
+  
+Solve further, 
+1
+2
+λ =
+ 
+Therefore, 
+2
+2
+1
+4
+4 2
+1
+λ
+
+
+=
+
+
+
+
+=
+ 
+ 
+33. Consider the give vectors. 
+2
+3
+4
+a
+i
+j
+k
+=
+−
++
+ 
+2
+2
+b
+i
+j
+k
+=
++
+−
+ 
+And, 
+3
+c
+i
+j
+k
+=
+−
++
+ 
+
+ 
+ 
+ 
+Thus, 
+6
+2
+3
+a
+b
+c
+i
+j
+k
++
++
+=
+−
++
+ 
+4
+6
+7
+a
+b
+c
+i
+j
+k
+−
++
+=
+−
++
+ 
+And, 
+a
+b
+c
+k
++
+−
+=
+ 
+Hence, the required volume of the parallelepiped is calculated 
+as, 
+(
+)
+6
+2
+3
+4
+6
+7
+0
+0
+1
+1
+36
+8
+28
+28
+V
+−
+=
+−
+=
+−
++
+= −
+=
+ 
+ 
+34. Consider the expression. 
+(
+)
+0
+a
+a
+c
+b
+×
+×
++
+=
+ 
+It is solved as, 
+(
+)
+(
+)
+a c a
+a a c
+b
+⋅
+−
+⋅
+= − 
+Let a c
+x
+⋅
+=
+ 
+Thus, 
+
+ 
+ 
+ 
+xa
+c
+b
+−
+= − 
+Square both sides 
+(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+1
+4
+2
+1
+3
+3
+x a
+c
+x a c
+b
+x
+x
+x
+a c
++
+−
+⋅
+=
++
+−
+=
+=
+⋅
+=
+ 
+ 
+35. According to the given data,  
+ix  
+ix
+x
+−
+ 
+(
+)
+2
+ix
+x
+−
+ 
+2 
+8
+− 
+64 
+3 
+7
+− 
+49 
+5 
+5
+− 
+25 
+7 
+3
+− 
+9 
+11 
+1 
+1 
+13 
+3 
+9 
+17 
+7 
+49 
+22 
+12 
+144 
+80
+ix =
+∑
+ 
+ 
+(
+)
+2
+350
+ix
+x
+−
+=
+∑
+ 
+Thus, 
+
+ 
+ 
+ 
+80
+8
+10
+x =
+=
+ 
+Variance is calculated as, 
+(
+)
+2
+Variance
+8
+350
+8
+43.75
+ix
+x
+−
+=
+=
+=
+∑
+ 
+ 
+36. The expression for the coefficient of variance is given by, 
+100
+CV
+σ
+µ
+=
+×
+ 
+Therefore, 
+21
+60
+100
+21 10
+6
+35
+µ
+µ
+=
+×
+×
+=
+=
+ 
+The new mean on addition of 15 to every observation is, 
+35
+15
+50
+µ′ =
++
+=
+ 
+But, 
+
+ 
+ 
+ 
+i
+i
+x
+x
+µ
+µ
+′
+′ −
+=
+−
+∑
+∑
+ 
+Now, 
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+21
+21
+21
+i
+i
+i
+x
+n
+x
+n
+x
+n
+µ
+µ
+µ
+−
+=
+−
+=
+−
+=
+×
+∑
+∑
+∑
+ 
+Thus, 
+(
+)
+2
+2
+21
+21
+ix
+n
+n
+n
+µ
+σ
+′
+′ −
+′ =
+×
+=
+=
+∑
+ 
+Therefore, the new coefficient of variance is, 
+New
+21 100
+50
+42
+CV
+=
+×
+=
+ 
+ 
+ 
+37. The required probability is calculated as, 
+
+ 
+ 
+ 
+9
+8
+7
+6
+5
+4
+3
+2
+1
+10 10
+45
+100
+9
+20
+P
++
++
++
++
++
++
++
++
+=
+×
+=
+=
+ 
+ 
+38. Let 
+1
+E  be the event of selecting word LONDON and 
+2
+E  be the 
+event of selecting the word CLIFTON. 
+Thus, the required probability is calculated as, 
+(
+)
+(
+)
+(
+)
+1
+1
+1
+1
+2
+1
+2
+1 2
+2 5
+1 2
+1 1
+2 5
+2 6
+2
+6
+12
+5
+12
+17
+A
+P E
+P E
+E
+P
+A
+A
+A
+P E
+P
+P E
+P
+E
+E
+
+
+⋅
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+⋅
++
+⋅
+
+
+
+
+
+
+
+
+⋅
+= 
+
+
+
+⋅
++
+⋅
+
+
+
+
+
+
+
+
+×
+=
++
+=
+ 
+ 
+39. The given probability of the function is, 
+
+ 
+ 
+ 
+(
+)
+2
+X
+P
+k
+Ck
+=
+=
+ 
+Therefore, 
+(
+)
+(
+)
+(
+) ( )
+( )
+(
+)
+( )
+(
+)
+( )
+(
+)
+( )
+(
+)
+( )
+(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+X
+μ
+μ
+X
+μ
+0
+0
+1
+1
+4
+2
+9
+3
+16
+4
+16
+81
+256
+i
+i
+E
+E
+x
+P x
+c
+c
+c
+c
+c
+c
+c
+c
+c
+=
+−
++
+=
++
+=
+=
++
++
++
++
+=
++
++
++
+∑
+σ
+σ
+σ
+ 
+Now,  
+( )
+2
+2
+2
+2
+2
+1
+0
+1
+2
+3
+4
+1
+1
+30
+i
+P x
+c
+c
+=
+
+
++
++
++
++
+=
+
+
+=
+∑
+ 
+Solve further, 
+2
+2
+μ
+354
+354
+30
+11.8
+c
++
+=
+=
+=
+σ
+ 
+ 
+ 
+40. According to the given data,  
+
+ 
+ 
+ 
+200
+250
+4
+5
+λ =
+=
+ 
+Now, 
+(
+)
+(
+)
+(
+)
+4
+5
+!
+0
+x
+e
+P X
+x
+x
+P X
+e
+λ λ
+−
+−
+=
+=
+=
+=
+ 
+Therefore, the required probability is calculated as, 
+(
+)
+(
+)
+5
+4
+5
+5
+4
+0
+P X
+e
+e
+−
+−
+
+
+=
+= 
+
+
+
+=
+ 
+ 
+41. Consider the given equation. 
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+4
+x
+y
+x
+y
+−
++
++
++
++
+=
+ 
+Sum of the distance of point 
+(
+)
+P
+,x y  with respect to points 
+(
+)
+A 2,0  and 
+(
+)
+B
+2,0
+−
+ is equal to the distance between the 
+points 
+(
+)
+A 2,0  and (
+)
+B
+2,0
+−
+. 
+AP
+BP
+AB
++
+=
+ 
+Therefore, the locus of point (
+)
+P
+,x y  is a line segment. 
+
+ 
+ 
+ 
+ 
+42. Consider the given equation. 
+2
+2
+2
+2
+8
+12
+18
+0
+x
+y
+x
+y
++
+−
+−
++
+=
+ 
+It can be simplified as, 
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+2
+3
+8
+2
+3
+4
+x
+y
+x
+y
+−
++
+−
+=
+−
++
+−
+=
+ 
+After shifting the origin to (
+)
+2,3 , the transformed equation 
+becomes 
+2
+2
+4
+x
+y
++
+=
+ and after rotation of axes through an angle 
+of 45° about the point, the transformed equation is 
+2
+2
+4
+x
+y
++
+=
+. 
+ 
+43. Let a line cuts the coordinate axis at A and B. So, 
+1
+x
+y
+a
+b
++
+=   
+Now, 
+(
+)
+A
+,0
+a
+, 
+(
+)
+B 0,b  and the line passes through the point 
+(
+)
+P 4,2 . 
+Thus, 
+4
+2
+1
+a
+b
++
+=  
+
+ 
+ 
+ 
+The coordinate of centre of the circumcentre of 
+OAB
+∆
+ is 
+midpoint of hypotenuse of the right angled 
+OAB
+∆
+ and its 
+midpoint is AB. So, the circumcentre is 
+,
+2 2
+a b
+
+
+
+
+
+
+. 
+Therefore, 
+1
+1
+2
+1
+1
+2
+1
+x
+y
+x
+y
+−
+−
++
+=
++
+=
+ 
+ 
+44. Consider the figure shown below. 
+ 
+The 
+points 
+of 
+intersection 
+of 
+the 
+lines 
+are 
+(
+)
+(
+)
+(
+)
+1,0 ,
+3,2 and
+0,1
+A
+B
+B
+. 
+The centroid of ABC
+∆
+ is calculated as, 
+1
+3
+0 0
+2
+1
+Centroid
+,
+3
+3
+4 ,1
+3
++
++
++
++
+
+
+= 
+
+
+
+
+
+= 
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+45. The equation of perpendicular bisector of the line joining the 
+points (
+)
+2, 1
+A −
+−
+ and (
+)
+6, 1
+B
+−
+ is, 
+2
+x =
+ 
+The equation of perpendicular bisector of the line joining the 
+points (
+)
+6, 1
+B
+−
+ and (
+)
+2,5
+C
+ is, 
+(
+)
+4
+2
+4
+6
+2
+3
+2
+y
+x
+x
+y
+−
+=
+−
+−
+=
+ 
+The point of intersection of perpendicular bisector of the 
+circumcentre of ABC
+∆
+. 
+2
+2,
+3
+C
+
+
+
+
+
+  
+Thus, the required quadratic equation is, 
+2
+2
+2
+2
+2
+2
+0
+3
+3
+3
+8
+4
+0
+x
+x
+x
+x
+
+
+
+
+−
++
++
+=
+
+
+
+
+
+
+
+
+−
++
+=
+ 
+ 
+46. The point of intersection of the lines 
+1
+0
+x
+y
++
++ =
+ and 
+2
+3
+4
+0
+x
+y
+−
++
+=
+ is 
+7 2
+,
+5 5
+A
+
+−
+
+
+
+
+. 
+
+ 
+ 
+ 
+If the coordinate of the image of point (
+)
+2,0
+P −
+ with respect to 
+line 
+1
+0
+x
+y
++
++ =
+ is (
+)
+,h k , then 
+2
+0
+2
+1
+2
+1
+1
+1
+2
+h
+k
++
+−
+−+
+=
+=
+×
+=  
+So, 
+1
+1
+h
+k
+= −
+=
+ 
+Thus, 
+(
+)
+(
+)
+,
+1,1
+h k = −
+ 
+The equation of required bisector of angle is line joining the 
+points 
+7 2
+,
+5
+5
+A −
+
+
+
+
+
+
+and (
+)
+1,1
+B −
+ is 
+(
+)
+3
+5
+1
+1
+2
+5
+2
+2
+3
+3
+3
+2
+5
+0
+y
+x
+y
+x
+x
+y
+−=
++
+−
+=
++
+−
++
+=
+ 
+ 
+47. The given equation of lines are, 
+2
+2
+3
+2
+3
+0
+x
+hxy
+y
++
+−
+=  
+And, 
+
+ 
+ 
+ 
+2
+2
+3
+2
+3
+2
+4
+0
+x
+hxy
+y
+x
+y
+c
++
+−
++
+−
++
+=
+ 
+The 
+point 
+of 
+intersection 
+of 
+the 
+lines 
+given 
+by 
+2
+2
+2
+2
+2
+0
+ax
+hxy
+by
+gx
+fy
+c
++
++
++
++
++
+=
+ is 
+2
+2
+,
+hf
+bg gh
+af
+ab
+h
+ab
+h
+−
+−
+
+
+
+
+−
+−
+
+
+  
+Thus, the point of intersection of the second line is, 
+(
+)
+2
+2
+2
+3
+6
+,
+,
+9
+9
+h
+h
+A x y
+A
+h
+h
+−
++
+
+
+=
+−
+
+
++
++
+
+
+ 
+The equation of diagonal of square passes through origin is, 
+6
+3
+2
+h
+y
+x
+h
++
+=
+−
+. 
+The equation of diagonal of square that does passes through the 
+origin is 
+2
+4
+0
+x
+y
+c
+−
++
+=
+ 
+The diagonal are perpendicular if, 
+1
+6
+1
+2 3
+2
+6
+4
+6
+3
+12
+4
+h
+h
+h
+h
+h
+h
++
+
+= −
+
+
+−
+
+
++
+=
+−
+=
+=
+ 
+Thus, 
+
+ 
+ 
+ 
+8
+3
+10
+Point
+,
+9
+16
+9
+16
+1
+2
+,
+5
+5
+A
+−
+
+
+=
+−
+
+
++
++
+
+
+
+
+=
+−
+
+
+
+
+  
+Consider the figure shown below. 
+ 
+The midpoint of line OA is, 
+1
+1
+,
+10
+5
+M
+
+
+=
+−
+
+
+
+
+ 
+Therefore, 
+2
+4
+0
+10
+5
+1
+c
+c
++
++
+=
+= −
+ 
+Therefore, (
+)
+(
+)
+,
+4, 1
+h c =
+−
+. 
+ 
+48. Consider the equation of curve, 
+2
+2
+3
+1
+0
+x
+xy
+y
+x
+y
++
++
++
++
++ =
+ 
+
+ 
+ 
+ 
+The equation of line joining the origin to the point of 
+intersection of curve and the line is calculated as, 
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+0
+2
+2
+1
+1
+4
+3
+2
+0
+2
+4
+3
+2
+0
+x
+y
+x
+y
+x
+xy
+y
+x
+y
+x
+y
+xy
+x
+xy
+y
+x
+xy
+y
+x
+xy
+y
++
++
+
+
+
+
++
++
++
++
++
+=
+
+
+
+
+−
+−
+
+
+
+
++
++
+−
++
++
++
++
++
+=
+−
+−
+=
+ 
+The equation of the bisector of the angle between the pair of 
+straight line is, 
+2
+2
+2
+2
+3
+1
+1
+4
+0
+x
+y
+xy
+x
+xy
+y
+−
+=
++
+−
++
+−
+=
+ 
+ 
+49. Consider the equation of circle. 
+2
+2
+2
+4
+20
+0
+x
+y
+x
+y
++
+−
+−
+−
+=
+ 
+The equation of tangent at the point (
+)
+B 1,7  on the circle is, 
+(
+)
+(
+)
+7
+1
+2
+7
+20
+0
+5
+35
+7
+x
+y
+x
+y
+y
+y
++
+−
++
+−
++
+−
+=
+=
+=
+ 
+The equation of tangent at the point (
+)
+D 4, 2
+−
+ on the circle is, 
+
+ 
+ 
+ 
+(
+)
+(
+)
+4
+2
+4
+2
+2
+20
+0
+3
+4
+20
+x
+y
+x
+y
+x
+y
+−
+−
++
+−
+−
+−
+=
+−
+=
+ 
+Consider the figure shown below. 
+ 
+The point of intersection of tangents is (
+)
+C 16,7 . 
+Thus, the area of quadrilateral ABCD is, 
+( )
+1
+1
+Area
+2
+2
+1
+2
+5
+256
+49
+32
+28
+20
+2
+5
+225
+75
+r S
+=
+×
+=
+×
+×
++
+−
+−
+−
+= ×
+=
+ 
+ 
+50. The all conjugate of lines 5
+7
+78
+0
+x
+y
++
+−
+=  with respect to the 
+circle 
+2
+2
+6
+8
+96
+0
+x
+y
+x
+y
++
++
++
+−
+=
+ passes through the pole of the 
+given line with respect to given circle. 
+Let required pole be (
+)
+1
+1
+,
+P x y  with respect to the circle 
+0
+T =
+. 
+
+ 
+ 
+ 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+1
+1
+1
+1
+1
+1
+1
+1
+3
+4
+96
+0
+3
+4
+3
+4
+96
+0
+xx
+yy
+x
+x
+y
+y
+x
+x
+y
+y
+x
+y
++
++
++
++
++
+−
+=
++
++
++
++
++
+−
+=
+ 
+The above line represent the line 5
+7
+78
+0
+x
+y
++
+−
+=  only. 
+Hence, 
+1
+1
+1
+1
+3
+4
+3
+4
+96
+5
+7
+78
+x
+y
+x
+y
+k
++
++
++
+−
+=
+=
+=
+−
+ 
+Therefore, 
+1
+1
+5
+3
+7
+4
+x
+k
+y
+k
+=
+−
+=
+− 
+And, 
+1
+1
+3
+4
+96
+78
+x
+y
+k
++
+=
+−
+ 
+Thus, 
+(
+)
+(
+)
+3 5
+3
+4 7
+4
+96
+78
+121
+121
+1
+k
+k
+k
+k
+k
+−
++
+−
+=
+−
+=
+=
+ 
+So, 
+1
+1
+2
+3
+x
+y
+=
+=  
+Therefore, the required point of concurrence of all conjugate 
+lines of the given line with respect to the given circle is (
+)
+2,3 . 
+ 
+
+ 
+ 
+ 
+51. Consider the given equation of circles. 
+2
+2
+1 :
+4
+6
+12
+0
+S
+x
+y
+x
+y
++
++
+−
+−
+=
+ 
+Its centre is (
+)
+2,3
+−
+ and radius is 1
+5
+r =  
+And, 
+2
+2
+2 :
+8
+10
+5
+0
+S
+x
+y
+x
+y
++
+−
++
++
+=
+  
+Its centre is (
+)
+4, 5
+−
+ and radius is 2
+6
+r =
+. 
+So, 
+1
+2
+5
+6
+11
+r
+r
++
+=
++
+=
+ 
+And, 
+(
+)
+(
+)
+2
+2
+1
+2
+4
+2
+5
+3
+36
+64
+100
+10
+C C =
++
++ −−
+=
++
+=
+=
+ 
+Since,  
+ 
+1
+2
+1
+2
+r
+r
+C C
++
+>
+ 
+Therefore, there are only two common tangents to circle 
+1S  and 
+2S . 
+ 
+ 
+
+ 
+ 
+ 
+52. Consider the given circles. 
+(
+)
+(
+)
+2
+2
+2
+1 :
+1
+3
+S
+x
+y
+r
+−
++
+−
+=
+ 
+And, 
+(
+)
+(
+)
+2
+2
+2
+2 :
+4
+1
+3
+S
+x
+y
+−
++
++
+=
+ 
+If the circle intersect at two distinct points, then 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+1
+2
+1
+2
+1
+2
+2
+2
+3
+4 1
+1 3
+3
+3
+5
+3
+r
+r
+C C
+r
+r
+r
+r
+r
+r
+−
+<
+<
++
+−
+<
+−
++ −−
+<
++
+−
+<
+<
++
+ 
+So, 
+3
+5
+2
+r
+r
++
+>
+>
+ 
+And, 
+(
+)
+(
+)
+3
+5
+3
+5,5
+2,8
+r
+r
+r
+−
+<
+−∈−
+∈−
+ 
+Thus,2
+8
+r
+<
+< . 
+ 
+53. Consider the circles. 
+2
+2
+1
+6
+2
+0
+S
+x
+y
+x
+y
+k
+=
++
++
+−
++
+=  
+And, 
+
+ 
+ 
+ 
+2
+2
+2
+2
+6
+15
+0
+S
+x
+y
+x
+y
+=
++
++
+−
+−
+=  
+The circle 
+1S  bisects the circumference of the circle 
+2S , then the 
+common circles 
+1
+2
+and
+S
+S  will pass through the circle 
+(
+)
+2
+1,3
+S
+−
+. 
+The equation of common chord of the circle 
+1
+2
+and
+S
+S  is 
+(
+)
+4
+4
+15
+0
+x
+y
+k
++
++
++
+=
+  
+Since the chord passes through point (
+)
+1,3
+−
+. Thus, 
+4
+12
+15
+0
+23
+k
+k
+−+
++
++
+=
+= −
+ 
+ 
+54. Consider the given circles. 
+2
+2
+1
+2
+2
+2
+:
+4
+7
+0
+: 2
+2
+3
+5
+9
+0
+S
+x
+y
+y
+S
+x
+y
+x
+y
++
++
+−
+=
++
++
++
+−
+=
+ 
+And, 
+2
+2
+3 :
+0
+S
+x
+y
+y
++
++
+=
+ 
+The radical axis of circle 
+1S  and 
+2S  is 
+1
+0
+x
+y
+−
+−= . 
+The radical axis of circle 
+2S  and 
+3
+S  is 
+3
+0
+x
+y
++
+−
+= . 
+Thus, the coordinate of radical centre is (
+)
+2,1  and the radius is, 
+4
+1
+8
+7
+6
+r =
++ +
+−
+=
+ 
+
+ 
+ 
+ 
+Hence, the equation of the required circle is, 
+(
+)
+(
+)
+2
+2
+2
+2
+2
+1
+6
+4
+2
+1
+0
+x
+y
+x
+y
+x
+y
+−
++
+−
+=
++
+−
+−
+−=
+ 
+ 
+55. Consider the given equation of parabola. 
+2
+2
+5
+6
+1
+0
+y
+x
+y
++
+−
++ =
+ 
+It can be simplified as, 
+(
+)
+2
+2
+2
+2
+2
+2
+2
+3
+5
+1
+0
+3
+3
+2
+3
+5
+1
+0
+2
+2
+3
+9
+2
+5
+1
+0
+2
+2
+3
+5
+7
+4
+2
+8
+10
+y
+y
+x
+y
+y
+x
+y
+x
+y
+x
+−
++
++ =
+
+
+
+
+
+
+−
++
+−
++
++ =
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−
+−
++
++ =
+
+
+
+
+
+
+
+
+
+
+
+
+
+−
+=
+−
+−
+
+
+
+
+
+
+
+
+
+
+ 
+The coordinate of the vertex of parabola is 
+7 3
+,
+10 2
+
+
+
+
+
+
+ and the 
+coordinate of the focus of the parabola is 
+3
+3
+,
+40 2
+
+
+
+
+
+
+  
+ 
+56. Consider the equation of parabola 
+
+ 
+ 
+ 
+2
+9
+y
+x
+=
+ 
+The equation of normal chord at a point t  on the parabola is 
+3
+9
+9
+2 4
+4
+tx
+y
+t
+t
+
+
++
+=
++
+
+
+
+
+ 
+The chord subtends right angle at vertex of parabola (
+)
+0,0
+V
+. 
+Thus, 
+2
+3
+9
+0
+9
+9
+2
+4
+tx
+y
+y
+x
+t
+t
+
+
+
+
++
+−
+=
+
+
+
+
++
+
+
+ 
+The sum of the coefficient of 
+2x  and 
+2y  terms should be zero. 
+Hence, 
+3
+2
+2
+2
+9
+1
+0
+9
+9
+2
+4
+1
+1
+0
+1
+2
+4
+1
+1
+2
+4
+2
+t
+t
+t
+t
+t
+t
+−
+=
++
+−
+=
++
++
+=
+=
+ 
+Therefore, 
+2
+t = ±
+ 
+
+ 
+ 
+ 
+ 
+57. Let the equation of ellipse be, 
+2
+2
+2
+2
+1
+x
+y
+a
+b
++
+=  
+The length of the latus rectum is, 
+2
+2
+4
+b
+a =
+ 
+The distance between the foci is, 
+2
+2
+2
+2
+2
+2
+4 2
+1
+2 2
+8
+2
+8
+0
+ae
+b
+a
+a
+a
+b
+a
+a
+=
+−
+=
+−
+=
+−
+−
+=
+ 
+Solve further, 
+(
+)(
+)
+4
+2
+0
+4, 2
+a
+a
+a
+−
++
+=
+=
+−
+ 
+Since, 
+0
+a >
+, 
+4
+a =
+. 
+Hence, 
+2
+8
+b =  
+Therefore, the required ellipse is, 
+
+ 
+ 
+ 
+2
+2
+2
+2
+1
+16
+8
+2
+16
+x
+y
+x
+y
++
+=
++
+=
+ 
+ 
+58. Consider the equation of ellipse 
+2
+2
+1
+4
+1
+x
+y
++
+=  
+So, 
+( )
+2
+2
+2
+4 4
+1
+16
+1
+17
+17
+c
+c
+c
+c
+=
++
+=
++
+=
+= ±
+ 
+Now consider the equation. 
+(
+)
+(
+)
+(
+)(
+)
+3
+2
+2
+2
+17
+17
+0
+1
+17
+1
+0
+1
+17
+0
+17,1
+x
+x
+x
+x
+x
+x
+x
+x
+x
+−
+−
++
+=
+−
+−
+−
+=
+−
+−
+=
+= ±
+ 
+Thus, option ( )
+3  is correct. 
+ 
+ 
+
+ 
+ 
+ 
+59. Consider the hyperbola. 
+2
+2
+9
+16
+144
+x
+y
+−
+=
+ 
+Its eccentricity is 1e  
+And, 
+2
+2
+9
+16
+144
+x
+y
+−
+= −
+ 
+Its eccentricity is 
+2e  and is a conjugate hyperbola. 
+Therefore, 
+2
+2
+1
+2
+2
+2
+1
+2
+2
+2
+1
+2
+2
+2
+1
+2
+2
+2
+1
+2
+1
+1
+1
+1
+1
+e
+e
+e
+e
+e e
+e e
+e
+e
++
+=
++
+=
+=
++
+ 
+ 
+60. Consider the points. 
+(
+)
+(
+)
+A
+2,4, 1
+B
+3,6, 1
+=
+−
+=
+−
+ 
+And, 
+(
+)
+C
+4,5,1
+=
+ 
+Let 
+(
+)
+D
+, ,
+x y z
+=
+ 
+
+ 
+ 
+ 
+The midpoint of AC  is equal to the midpoint of BD. 
+2
+4 4
+5
+1 1
+3
+6
+1
+,
+,
+,
+,
+2
+2
+2
+2
+2
+2
+9
+3
+6
+1
+3,
+,0
+,
+,
+2
+2
+2
+2
+x
+y
+z
+x
+y
+z
++
++
+−+
++
++
+−+
+
+
+
+
+=
+
+
+
+
+
+
+
+
++
++
+−+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+ 
+Therefore, 
+3
+3
+1
+x
+y
+z
+=
+=
+=
+ 
+Hence, the fourth vertex is (
+)
+D 3,3,1 . 
+ 
+61. Consider the points. 
+(
+)
+(
+)
+A
+2,3, 1
+B
+3,5, 3
+=
+−
+=
+−
+ 
+The DR's of AB are, 
+(
+)
+(
+)
+DR s AB
+3
+2, 5
+3,
+3 1
+1,2, 2
+′
+=
+−
+−
+−+
+=
+−
+ 
+And, 
+(
+)
+(
+)
+1,2,3
+3, ,7
+C
+D
+y
+=
+=
+ 
+
+ 
+ 
+ 
+(
+)
+(
+)
+DR s CD
+3 1,
+2,7
+3
+2,
+2,4
+y
+y
+′
+=
+−
+−
+−
+=
+−
+ 
+It is given that AB
+CD
+⊥
+ 
+Hence, 
+( )( )
+(
+)
+(
+)( )
+1
+2
+1 2
+1 2
+0
+1 2
+2
+2
+2
+4
+0
+2
+10
+0
+5
+a a
+bb
+c c
+y
+y
+y
++
++
+=
++
+−
++ −
+=
+−
+=
+=
+ 
+ 
+62. It is given that 
+( )
+( )
+( )
+X-intercept
+2
+Y-intercept
+3
+Z-intercept
+4
+a
+b
+c
+=
+=
+=
+ 
+Therefore, the equation of the plane is, 
+1
+2
+3
+4
+6
+4
+3
+12
+x
+y
+z
+x
+y
+z
++
++
+=
++
++
+=
+ 
+The given points are (
+)
+1,6,2
+A −
+, (
+)
+1,2,3
+B
+ and (
+)
+2,3,4
+C −
+. 
+Thus, 
+(
+)
+(
+)
+DR's of
+2 1,3
+2,4
+3
+3,1,1
+BC = −−
+−
+−
+= −
+ 
+
+ 
+ 
+ 
+Therefore, the equation of plane passing through (
+)
+1,6,2
+A −
+ and 
+(
+)
+DR's
+3,1,1
+−
+ is, 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+1
+1
+1
+0
+3
+1
+1
+6
+1
+2
+0
+3
+11
+0
+3
+11
+a x
+x
+b y
+y
+c z
+z
+x
+y
+z
+x
+y
+z
+x
+y
+z
+−
++
+−
++
+−
+=
+−
++
++
+−
++
+−
+=
+−
++
++
+−
+=
+−
++
++
+= −
+ 
+Hence, the angle between the planes is, 
+( )(
+)
+( )( )
+( )( )
+2
+6
+3
+4 1
+3 1
+cos
+36
+16
+9 9
+1 1
+18
+4
+3
+61 11
+11
+61 11
+11
+61
+θ
+−
++
++
+=
++
++
++ +
+−
++
++
+=
+=
+=
+ 
+Solve further, 
+1
+11
+Cos
+61
+−
+
+=
+
+
+
+
+θ
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+63. Consider the equation. 
+0
+2
+lim 1
+cos
+x
+x
+x
+x
+x
+α
+→
+⋅
+−
+=
+−
+ 
+And, 
+2
+2
+0
+2
+lim
+1
+1
+x
+x
+x
+x
+x
+x
+β
+→
+⋅
+−
+=
++
+−
+−
+ 
+Simplify the first equation as, 
+(
+)
+(
+)
+0
+0
+2
+0
+2
+0
+2
+2
+2
+lim 1
+cos
+2
+1
+lim
+2sin 2
+2
+1
+lim
+2sin 2
+2
+1
+1 lim
+2
+sin 2
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+α
+→
+→
+→
+→
+⋅
+−
+=
+−
+−
+=
+−
+=
+
+
+−
+
+
+
+
+=
+ 
+Solve further, 
+
+ 
+ 
+ 
+2
+0
+2
+0
+0
+2
+1
+1 lim
+2
+1
+sin 2
+1
+2
+1
+1
+lim
+2
+1
+sin
+1
+2
+lim
+4
+2
+1
+1
+log2
+1
+2
+1
+4
+2log2
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+α
+→
+→
+→
+
+
+−
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−
+
+
+=
+×
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+=
+×
+×
+×
+=
+ 
+Also, 
+
+ 
+ 
+ 
+(
+)(
+)
+(
+)
+(
+)(
+)
+(
+)(
+)
+2
+2
+2
+2
+2
+2
+0
+2
+2
+2
+2
+0
+2
+2
+2
+0
+2
+2
+0
+2
+1
+1
+lim
+1
+1
+1
+1
+2
+1
+1
+1
+lim
+1
+1
+2
+1
+1
+1
+lim
+2
+2
+1
+1
+1
+1 lim
+2
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+β
+→
+→
+→
+→
+⋅
+−
++
++
+−
+=
+×
++
+−
+−
++
++
+−
+−
++
++
+−
+=
++
+−
+−
+−
++
++
+−
+=
+−
++
++
+−
+=
+ 
+Solve further, 
+1
+log2
+2
+2
+log2
+2
+2log2
+2
+β
+β
+β
+β
+α
+=
+×
+×
+=
+=
+=
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+64. Consider the piecewise function, 
+( )
+2
+2
+2
+, when
+0
+5
+, when 0
+1
+1
+, when 1
+3
+3
+2
+14
+, when
+3
+x
+x
+x
+x
+x
+a
+x
+f x
+x
+b
+x
+x
+x
+x
+
+−
+<
+
+
+
++
+≤
+≤
+
+= 
+
+−
+
+<
+<
+
+
+
+−
++
+
+
+−
+≥
+
+ 
+The function is continuous at 
+0
+x =
+ and 
+3
+x = . 
+LHL at 
+0
+x =
+ is equal to RHL at 
+0
+x =
+. 
+( )
+( )
+(
+)
+0
+0
+2
+0
+0
+2
+0
+0
+2
+0
+0
+lim
+lim
+lim
+lim 5
+lim
+lim 5
+2
+lim
+lim 5
+x
+x
+x
+x
+x
+x
+x
+x
+f x
+f x
+x
+x
+x
+a
+x
+x
+x
+x
+a
+x
+x
+x
+a
+x
+−
++
+−
++
+−
++
+−
++
+→
+→
+→
+→
+→
+→
+→
+→
+=
+−
+=
++
+−−
+=
++
+=
++
+ 
+Solve further, 
+2
+2
+a
+a
+=
+=
+ 
+The function is continuous at 
+3
+x = . 
+LHL at 
+3
+x =  is equal to RHL at 
+3
+x = . 
+
+ 
+ 
+ 
+( )
+( )
+(
+)(
+)
+(
+)(
+)
+(
+)
+(
+)
+3
+3
+2
+2
+3
+3
+3
+3
+3
+3
+lim
+lim
+1
+lim
+lim 14
+3
+2
+1
+1
+lim
+lim 14
+1
+2
+1
+lim
+lim 14
+2
+x
+x
+x
+x
+x
+x
+x
+x
+f x
+f x
+x
+b x
+x
+x
+x
+b
+x
+x
+x
+b
+x
+−
++
+−
++
+−
++
+−
++
+→
+→
+→
+→
+→
+→
+→
+→
+=
+
+
+−
+=
+−
+
+
+−
++
+
+
+
+
++
+−
+=
+−
+
+
+
+
+−
+−
+
+
+
+
++
+=
+−
+
+
+
+
+−
+
+
+ 
+Solve further, 
+(
+)
+(
+)
+3
+1
+14
+3
+2
+4
+14
+14
+4
+7
+2
+b
+b
+b
+b
++
+= −
+−
+= −
+−
+=
+= −
+ 
+Therefore, 
+(
+)
+7
+,
+2,
+2
+a b
+
+
+=
+−
+
+
+
+
+ 
+ 
+65. Consider the given equation. 
+( )
+0.5
+1
+tan
+f x
+x
+x
+x
+=
+−
++
+−
++
+ 
+
+ 
+ 
+ 
+Clearly 
+( )
+f x  is not differentiable at 
+0.5
+x =
+, 1 and 
+2
+π  for 
+(
+)
+0,2
+x∈
+. 
+Therefore, the number of non differentiable points of 
+( )
+f x  are 
+3. 
+ 
+66. It is given that, 
+sec
+cos
+x
+θ
+θ
+=
+−
+ 
+10
+10
+sec
+cos
+y
+θ
+θ
+=
+−
+ 
+And, 
+(
+)
+(
+)
+2
+2
+2
+4
+4
+dy
+x
+k y
+dx
+
+
++
+=
++
+
+
+
+
+ 
+Therefore, 
+(
+)
+10
+10
+10 sec
+cos
+tan
+dy
+d
+θ
+θ
+θ
+θ =
++
+ 
+And, 
+(
+)
+sec
+cos
+tan
+dx
+d
+θ
+θ
+θ
+θ =
++
+ 
+Hence, 
+
+ 
+ 
+ 
+(
+)
+(
+)
+10
+10
+2
+2
+10
+10
+20
+20
+2
+2
+2
+10
+10
+2
+sec
+cos
+10 sec
+cos
+sec
+cos
+100
+sec
+cos
+sec
+cos
+2
+100
+sec
+cos
+2
+sec
+cos
+4
+100
+sec
+cos
+4
+dy
+dx
+dy
+dx
+θ
+θ
+θ
+θ
+θ
+θ
+θ
+θ
+θ
+θ
+θ
+θ
+θ
+θ
+θ
+θ
++
+=
++
+
+
++
+
+=
+
+
+
+
++
+
+
+
+
+
+
++
++
+=
+
+
++
++
+
+
+
+
+−
++
+
+
+=
+
+
+−
++
+
+
+ 
+Solve further, 
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+2
+4
+100
+4
+4
+100
+4
+4
+dy
+y
+dx
+x
+dy
+x
+y
+dx
+k y
+
+
++
+
+=
+
+
+
+
++
+
+
+
+
+
+
++
+=
++
+
+
+
+
+=
++
+ 
+Therefore, 
+100
+k =
+ 
+ 
+67. Consider the equation. 
+1
+Sin
+x
+y
+e
+−
+=
+ 
+Differentiate with respect to x. 
+
+ 
+ 
+ 
+1
+1
+Sin
+1
+2
+2
+Sin
+1
+2
+1
+1
+1
+1
+1
+x
+x
+y
+e
+x
+y
+x
+e
+y
+x
+y
+−
+−
+=
+⋅
+−
+−
+=
+−
+=
+ 
+Differentiate with respect to x 
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+1
+1
+2
+2
+2
+1
+1
+2
+2
+2
+2
+1
+1
+2
+2
+1
+1
+1
+2
+2 1
+1
+1
+1
+1
+1
+y
+x
+y
+x
+y
+x
+y
+x
+xy
+y
+x
+y
+x
+xy
+y
+x
+y
+x
+xy
+y
+⋅
+−
++
+−
+=
+−
+−
+−
+=
+−
+−
+−
+=
+−
+−
+−
+=
+ 
+ 
+68. Consider the given figure. 
+ 
+In AOB
+∆
+ 
+
+ 
+ 
+ 
+tan 45
+1
+r
+h
+r
+h
+r
+h
+° =
+=
+=
+ 
+Also, 
+2
+2
+2
+2
+2
+2
+2
+l
+r
+h
+l
+h
+l
+h
+=
++
+=
+=
+ 
+Therefore, the lateral surface area, 
+(
+)
+2
+2
+2
+20.025
+401 2
+S
+rl
+h
+h
+π
+π
+π
+π
+=
+=
+=
+=
+ 
+ 
+69. The rate of change of radius is, 
+0.04 cm sec
+dr
+dt =
+ 
+The volume of the sphere is given by, 
+3
+2
+4
+3
+4
+V
+r
+dV
+dr
+r
+dt
+dt
+π
+π
+=
+=
+ 
+
+ 
+ 
+ 
+The surface area of the sphere is given as, 
+2
+4
+8
+S
+r
+dS
+dr
+r
+dt
+dt
+π
+π
+=
+=
+ 
+Therefore, 
+2
+4
+8
+2
+10
+2
+5 cm
+dV
+dr
+r
+dt
+dt
+dS
+dr
+r
+dt
+dt
+dV
+r
+dS
+π
+π
+=
+=
+=
+=
+ 
+ 
+70. Consider the function 
+( )
+2
+log
+f x
+a
+x
+bx
+x
+=
+⋅
++
++  
+Differentiate with respect to x 
+( )
+2
+1
+2
+1
+2
+1
+x
+f
+x
+a
+bx
+x
+x
+ax
+bx
+x
+′
+=
+⋅
++
++
+=
++
++
+ 
+It is given that 
+1
+x = − is one of the extremity of ( )
+f x  
+
+ 
+ 
+ 
+(
+)
+(
+)
+(
+)
+1
+0
+1
+2
+1
+1
+0
+1
+2
+1
+0
+f
+a
+b
+a
+b
+′ −
+=
+−
++
+−
++ =
+−−
++ =
+ 
+Also, 
+(
+)
+( )
+( )
+2
+0
+2
+2
+2
+1
+0
+4
+8
+2
+0
+f
+a
+b
+a
+b
+′ −
+=
++
++ =
++
++
+=
+ 
+On solving both the equations, 
+2
+1
+2
+a
+b
+=
+−
+=
+ 
+Therefore, 
+(
+)
+1
+,
+2,
+2
+a b
+
+
+=
+−
+
+
+
+
+ 
+ 
+71. Consider the function. 
+( )
+3
+2
+f x
+x
+px
+qx
+=
++
++
+ 
+And, 
+
+ 
+ 
+ 
+( )
+( )
+3
+0
+2
+0
+2
+4
+2
+2
+4
+0
+f
+f
+p
+q
+p
+q
+=
+=
++
++
++
++
+=
+ 
+Now, 
+( )
+2
+3
+2
+f
+x
+x
+px
+q
+′
+=
++
++
+ 
+And, 
+2
+1
+1
+0
+3
+1
+1
+3 1
+2
+1
+0
+3
+3
+1
+6
+2
+1
+4
+0
+3
+3
+f
+p
+q
+p
+q
+
+
+′
++
+=
+
+
+
+
+
+
+
+
++
++
++
++
+=
+
+
+
+
+
+
+
+
+
+
++
++
++
++
+=
+
+
+
+
+  
+On solving both the equations,  
+3
+2
+p
+q
+= −
+=
+ 
+Therefore, 
+(
+)
+2
+2
+2
+2
+3
+2
+9
+4
+13
+p
+q
++
+= −
++
+=
++
+=
+ 
+ 
+72. Consider the integral 
+
+ 
+ 
+ 
+2
+2
+2
+6 2
+9
+x
+I
+dx
+x
+x
+=
++
++
+∫
+ 
+It is solved as, 
+(
+)
+2
+2
+2
+2
+1
+9
+2
+6 2
+9
+3 2
+2
+2
+2
+6 2
+9
+9
+3 2
+1
+2
+2
+2
+6 2
+9
+9
+3 2
+2
+2
+2
+6 2
+9
+x
+x
+x
+I
+dx
+x
+x
+x
+dx
+dx
+x
+x
+x
+x
+dx
+x
+x
+
+
++
++
+−
++
+
+
+
+
+=
++
++
+
+
++
+
+
+
+
+=
+−
++
++
+
+
++
+
+
+
+
+=
+−
++
++
+∫
+∫
+∫
+∫
+ 
+Now, 
+(
+)
+9
+3 2
+4
+6 2
+2
+x
+A
+x
+B
++
+=
++
++
+ 
+Compare the coefficients of like terms. 
+4
+3 2
+3 2
+4
+A
+A
+=
+=
+ 
+And, 
+
+ 
+ 
+ 
+9
+6 2
+2
+9
+2
+A
+B
+B
++
+=
+= −
+ 
+Therefore, 
+(
+)
+9
+2
+9
+3 2
+3
+4
+6 2
+2
+4
+4
+x
+x
++
+=
++
++
+ 
+Hence, 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2 1
+2
+2
+9
+3
+4
+6 2
+4
+4
+2
+2
+6 2
+9
+4
+6 2
+2
+9
+1
+3
+2
+4
+4
+2
+6 2
+9
+2
+6 2
+9
+3 2
+9
+1
+log 2
+6 2
+9
+2
+4
+2
+2
+3
+2
+3
+3 2
+9
+1
+log
+2
+3
+2
+4
+2
+2
+1
+2
+x
+x
+I
+dx
+x
+x
+x
+x
+dx
+dx
+x
+x
+x
+x
+x
+x
+x
+dx
+x
+x
+x
+x
+c
+−+
++
++
+=
+−
++
++
++
+=
+−
++
++
++
++
++
+=
+−
++
++
++
++
++
+′
+=
+−
++
++
+⋅
++
+−+
+∫
+∫
+∫
+∫
+ 
+Solve further, 
+
+ 
+ 
+ 
+(
+)
+(
+)
+(
+)
+1
+2
+3
+3 2
+9
+log
+2
+3
+2
+2
+1
+2 2
+1
+9
+2
+3
+6log
+2
+3
+2 2
+2
+3
+x
+x
+I
+x
+c
+x
+x
+c
+x
+−
++
+′
+=
+−
++
++
++
+−
+
+
+=
++
+−
++
+−
++
+
+
++
+
+
+ 
+ 
+73. Consider the given integral. 
+2
+1
+2
+1
+Sin
+1
+x
+x
+x
+I
+dx
+x
+−
+−
++
+=
+−
+∫
+ 
+It is solved as, 
+1
+2
+1
+2
+2
+1
+Sin
+1
+1
+Sin
+1
+1
+Sin
+x
+I
+xdx
+dx
+x
+x
+x x
+xdx
+dx
+c
+x
+x
+x
+x
+c
+−
+−
+−
+=
++
+−
+=
+⋅
+−
+⋅
++
++
+−
+−
+=
++
+∫
+∫
+∫
+∫
+ 
+ 
+74. Consider the equation. 
+( )
+2
+3
+2
+8
+x
+x
+e
+x e dx
+f x
+c
+=
++
+∫
+ 
+Simplify the above equation as follows 
+
+ 
+ 
+ 
+( )
+( )
+( )
+( )
+2
+2
+2
+3
+2
+2
+2
+2
+3
+2
+2
+2
+3
+2
+2
+2
+2
+2
+2
+2
+3
+2
+2
+2
+3
+2
+2
+8
+1
+3
+2
+2
+2
+2
+2
+8
+1
+3
+3
+2
+4
+2
+8
+1
+3
+3
+1
+2
+4
+2
+2
+2
+8
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+e
+e
+e
+x
+x
+dx
+f x
+c
+e
+e
+e
+x e
+x
+x
+dx
+f x
+c
+e
+x e
+x e
+x e dx
+f x
+c
+e
+e
+e
+x e
+x e
+x
+dx
+f x
+c
+⋅
+−
+⋅
+=
++
+
+
+−
+−
+⋅
+=
++
+
+
+
+
+−
++
+⋅
+=
++
+
+
+−
++
+−
+⋅
+=
++
+
+
+
+
+∫
+∫
+∫
+∫
+  
+Simplify further, 
+( )
+2
+2
+3
+2
+1
+4
+6
+6
+3
+8
+8
+x
+x
+e
+e
+x
+x
+x
+c
+f x
+c
+
+
+−
++
+−
++
+=
++
+
+
+ 
+Therefore, on comparison 
+( )
+(
+)
+(
+)
+3
+2
+3
+2
+3
+2
+3
+4
+6
+6
+3
+1
+4
+6
+6
+3
+4
+6
+6
+4
+0
+2
+1
+3
+1
+0
+f x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x x
+=
+−
++
+−
+=
+−
++
+−
+−
++
+−
+=
+−
+−
+−
+=
+ 
+Solve further, 
+(
+)(
+)
+(
+)
+(
+)(
+)
+(
+)(
+)
+2
+2
+2
+2
+1
+1
+3
+1
+0
+1 2
+2
+2
+3
+0
+1 2
+2
+0
+x
+x
+x
+x x
+x
+x
+x
+x
+x
+x
+x
+−
++
++
+−
+−
+=
+−
++
++
+−
+=
+−
+−
++
+=
+ 
+1
+x =  is a real root. 
+
+ 
+ 
+ 
+The sum of non-real complex roots from the above equation is 1
+2   
+ 
+75. Consider the integral. 
+(
+)
+5
+5
+4
+5
+2
+2
+5
+sin
+cos
+sin
+sin cos
+1
+cos
+cos
+I
+x
+xdx
+x
+x
+xdx
+x
+xdx
+=
+=
+=
+−
+∫
+∫
+∫
+ 
+Let, 
+cos
+sin
+x
+t
+xdx
+dt
+=
+−
+=
+ 
+Therefore, 
+(
+)
+(
+)
+2
+5
+10
+8
+6
+6
+4
+2
+6
+4
+2
+1
+2
+10
+8
+6
+6
+15
+10
+60
+cos
+6cos
+15cos
+10
+60
+I
+t
+t
+dt
+t
+t
+t
+c
+t
+t
+t
+c
+x
+x
+x
+c
+=
+−
+−
+
+
+= −
+−
++
++
+
+
+
+
+
+
+= −
+−
++
++
+
+
+
+
+= −
+−
++
++
+
+
+∫
+ 
+Solve further, 
+
+ 
+ 
+ 
+6
+4
+2
+2
+6
+4
+2
+cos
+6sin
+12sin
+6
+15
+15sin
+10
+60
+cos
+6sin
+3sin
+1
+60
+x
+I
+x
+x
+x
+c
+x
+x
+x
+c
+
+
+= −
+−
++
+−
++
++
++
+
+
+
+
+= −
+−
++
++
+
+
+ 
+ 
+76. Consider the limit. 
+(
+)
+(
+)
+(
+)
+2
+2
+2
+3
+3
+3
+1
+1
+lim
+125
+1
+2
+3
+x
+n
+n
+n
+y
+n
+n
+n
+n
+n
+→∞
+
+
+=
++
++
++
++
++
+
+
++
++
++
+
+
+
+
+
+ 
+It is solved as, 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+3
+3
+3
+3
+2
+4
+3
+0
+lim
+0
+1
+2
+4
+lim
+x
+n
+x
+r
+n
+n
+n
+n
+y
+n
+n
+n
+n
+n
+n
+n
+r
+→∞
+→∞
+=
+
+
+=
++
++
++
++
+
+
++
++
++
++
+
+
+
+
+=
++
+∑
+
+ 
+Let, 
+1
+r
+x
+n
+dx
+n
+=
+=
+ 
+Therefore, 
+
+ 
+ 
+ 
+(
+)
+(
+)
+4
+3
+0
+4
+2
+0
+2
+1
+1
+2
+1
+1
+1
+2 5
+12
+25
+dx
+y
+x
+x
+−
+=
++
+
+
++
+= 
+
+−
+
+
+
+
+
+
+= −
+−
+
+
+
+
+=
+∫
+ 
+ 
+77. Consider the integral. 
+2
+1
+log
+e
+e
+x
+I
+dx
+x
+−
+= ∫
+ 
+It can be simplified as, 
+2
+1
+1
+1
+log
+log
+e
+e
+x
+x
+I
+dx
+dx
+x
+x
+−
+=
++
+∫
+∫
+ 
+Let, 
+log x
+t
+dx
+dt
+x
+=
+=
+ 
+Thus, 
+
+ 
+ 
+ 
+(
+)
+(
+)
+0
+1
+1
+0
+0
+2
+2
+2
+1
+0
+2
+2
+1
+1
+0
+1
+4
+0
+2
+2
+5
+2
+I
+tdt
+tdt
+t
+t
+−
+−
+=
++
+
+
+
+
+=
++
+
+
+
+
+
+
+
+
+= −
+−
++
+−
+=
+∫
+∫
+ 
+ 
+78. Consider the graph of 
+1
+Tan
+y
+x
+−
+=
+ and 
+1
+Cot
+y
+x
+−
+=
+. 
+ 
+The required area is calculated as, 
+
+ 
+ 
+ 
+(
+)
+(
+)
+1
+1
+0
+1
+1
+1
+2
+0
+0
+1
+2
+0
+2
+Tan
+4
+2
+Tan
+2
+1
+1
+2
+log 1
+2
+4
+2
+log 2
+2
+2
+e
+e
+A
+xdx
+x
+x
+x
+dx
+x
+x
+−
+−
+
+
+=
+−
+
+
+
+
+
+
+=
+−
+−
+
+
++
+
+
+
+
+
+
+=
+−
+−
++
+
+
+
+
+
+
+=
+−
++
+∫
+∫
+π
+π
+π
+π
+π
+π
+ 
+Solve further, 
+log 2
+e
+A =
+ 
+ 
+79. The equation of family of parabolas with focus and the x axis is, 
+(
+)
+2
+4
+y
+a x
+a
+=
+−
+ 
+Differentiate with respect to x. 
+2
+4
+2
+dy
+y
+a
+dx
+y dy
+a
+dx
+=
+=
+ 
+Therefore, 
+
+ 
+ 
+ 
+(
+)
+2
+2
+2
+2
+2
+2
+2
+0
+dy
+y dy
+y
+y
+x
+dx
+dx
+dy
+dy
+y
+y
+x
+y
+dx
+dx
+dy
+dy
+y
+x
+y
+dx
+dx
+
+
+=
+−
+
+
+
+
+=
+−
+
+
+
+
+−
++
+=
+
+
+
+
+
+
+
+
+ 
+Hence, the order of the differential equation is 1. 
+ 
+80. Consider the differential equation. 
+2
+2
+2
+2
+2
+2
+x
+y
+y
+yy
+x x
+x
+y
+φ
+φ
+
+
+
+
+
+
+
+
+
+
+
+
+′ =
++
+
+
+
+
+′
+
+
+
+
+
+
+
+
+ 
+The above equation can be written as, 
+2
+2
+2
+2
+2
+2
+x
+y
+y dy
+y
+x dx
+x
+x
+y
+φ
+φ
+
+
+
+
+
+
+=
++
+
+
+′
+
+
+
+ 
+Let, 
+y
+vc
+dy
+dv
+v
+x
+dx
+dx
+=
+=
++
+ 
+
+ 
+ 
+ 
+Therefore, 
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+(
+)
+2
+2
+2
+2
+2
+2
+2
+2
+1 log
+log
+log
+2
+e
+e
+e
+v
+dv
+v v
+x
+v
+dx
+v
+v
+dv
+vx dx
+v
+v
+dx
+v
+dv
+x
+v
+v
+x
+c
+
+
++
+=
++
+
+
+′
+
+
+=
+′
+′
+=
+=
++
+∫
+∫
+φ
+φ
+φ
+φ
+φ
+φ
+φ
+ 
+Solve further, 
+(
+)
+2
+2
+2
+2
+2
+v
+cx
+y
+cx
+x
+φ
+φ
+=
+
+=
+
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 

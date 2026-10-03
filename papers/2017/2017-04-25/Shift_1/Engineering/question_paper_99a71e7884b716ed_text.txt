@@ -1,0 +1,2953 @@
+ 
+ 
+      
+       
+www.vedantu.com 
+AP EAMCET 
+Engineering Entrance Exam 
+25th April 2017- Shift 1 
+ 
+Mathematics 
+ 
+1. Let be the set of all natural numbers and 
+:
+f
+→
+
+be such 
+that 1990<f(1990)<2100 and satisfies the equation  
+( )
+( )
+19
+90
+19
+90
+f x
+x
+x
+f x
+
+
+
+
+−
+=
+−
+
+
+
+
+
+
+
+ 
+Where [y] denotes the greatest integer less than or equal to 
+y. Then the number of possible value of f(1990) is 
+A. 1 
+B. 2 
+C. 3 
+D. 4 
+2. The function 
+{ }
+{ }
+: 1
+4
+f
+→
+−
+
+defined by 
+( )
+{ }
+4
+3 for 
+1
+1
+x
+f x
+x
+x
+−
+=
+∈
+−
+−
+
+is  
+A. One to but not onto 
+B. Onto but not one-one 
+C. One-one and onto 
+D. Neither one-one nor onto 
+3. The reminder obtained when 599 is divided by 13 is   
+A. 6 
+B. 7 
+C. 8 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+D. 9 
+4. 
+(
+)(
+)(
+)
+3
+4
+3
+4
+3
+4
+a
+a
+a
+b
+b
+b
+k a
+b
+b
+c
+c
+a
+c
+c
+c
+=
+−
+−
+−
+the k= 
+A. abc (ab+bc+ca) 
+B. 4 (ab+bc+ca) (abc) 
+C. abc 
+D. ab+bc+ca 
+5. if P is a square matrix P2 = P and if I is the unit matrix of 
+the same order as of P then (P+I)4= 
+A. I +9P 
+B. I +11P 
+C. I +13P 
+D. I +15P 
+6. If 
+1
+2
+2
+2
+1
+2
+2
+A
+a
+b
+
+
+
+
+=
+−
+
+
+
+
+
+
+is a  matrix satisfying the equation 
+9
+T
+AA
+I
+=
+where I is the identity matrix, then 
+2
+2
+a
+b
++
+= 
+A. 0 
+B. 2 
+C. 5 
+D. 10 
+7. If 
+2
+2
+3 sin
+is purely imaginary, then cos
+1
+2 sin
+i
+i
++
+θ =
+θ =
+−
+θ
+ 
+A. 1
+2  
+B. 3
+2  
+C. 1
+3 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+D. 2
+3  
+8. Let A and B represent z1 and z2 in the Argued plane and z1, 
+z2 be the roots of the equation 
+2
+0,
+Z
+pZ
+q
++
++
+=  where p, q are 
+complex numbers. If 0 is the origin, OA = OB and AOB = α
+then p2= 
+A. 2 cos 2
+q
+α
+
+
+
+
+
+ 
+B. 4 cos 2
+q
+α
+
+
+
+
+
+ 
+C. 
+2
+4 cos
+2
+q
+α
+
+
+
+
+
+ 
+D. 
+2
+2
+4
+cos
+2
+q
+α
+
+
+
+
+
+ 
+9. Consider the following statement : 
+I : If a and b are positive real numbers, then 
+a
+b
+ab
+−×
+−
+=
+ 
+II : The argument of 1
+3 is 120
+1
+3
+o
+i
+i
++
+−
+ 
+Then 
+A. Only I is true 
+B. Only II is true 
+C. Both I and II are true  
+D. Neither I nor II is true 
+ 
+10. If α is a non – real of the equation 
+2
+3
+4
+5
+6
+1
+0 then 
+1
+x
+α + α + α + α
+−=
+=
+α +
+ 
+A. α 
+B. 1 
+C. 0 
+D. -1 
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+11. The set of values of 
+2
+ satisfying the inequality 
+4
+21
+0 is
+x
+x
+x
+∈
+−
+−
+≤
+
+ 
+A. [3,7] 
+B. [-3,7] 
+C. [-7,3] 
+D. [-7,-3] 
+12. The value of x for which the inequality (
+)(
+)
+2
+8
+16
+51
+3 holds, are
+2
+3
+4
+x
+x
+x
+x
++
+−
+>
+−
++
+ 
+A. 
+4
+x ≥ 
+B. 4
+3
+x
+−≤
+≤− 
+C. 3
+5
+2
+2
+x
+<
+<  
+D. 
+3
+4 
+ 
+3
+2
+x
+or x
+x
+< −
+> −<
+<  
+13. The difference of the irrational roots of the equation 
+5
+4
+3
+2
+5
+9
+9
+5
+1
+0
+x
+x
+x
+x
+x
+−
++
+−
++
+−= is 
+A. 3 
+B. 2 5 
+C. 3 
+D. 5 
+14. For 
+0,
+ 
+1
+k
+if k
+>
+−is a root of the equation 
+4
+3
+2
+2
+6
+16
+24
+80
+0 then 
+x
+x
+x
+k
+−
+−
++
+−
+=
+= 
+A. 2 
+B. 3 
+C. 4 
+D. 6 
+15. The number of ways of awarding 9 scholarships among 
+three students so that each may have 3 scholarships is  
+A. 280  
+B. 84  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+C. 504 
+D. 1680 
+16. In the prime factorization of 
+3
+5
+37
+3
+5
+37!
+2 .3 .5 ........37
+the ratio 
+:
+2
+α
+α
+α
+α
+=
+α
+α = 
+A. 3:5 
+B. 17:8 
+C. 5:3 
+D. 8:21 
+17. The number of four digit numbers that can be formed using 
+the digits 1,2,3,4,5,6,7,8,9 which are divisible by 3. When 
+repetition of digits is allowed any number of times, is  
+A. 2187 
+B. 1458 
+C. 6561 
+D. 2916 
+18. If 
+( )
+( )
+( )
+2
+2
+3
+2.5
+2.5.7
+2.5.7.9
+.....then 
+8
+8
+2! 3
+3! 3
+4! 3
+x
+x
+x
+=
++
++
++
++
++  
+A. 108 
+B. 100 
+C. 27 
+D. 23 
+19. 
+(
+)
+0
+1
+2
+3.
+7.
+11.
+...
+3
+4
+n
+C
+C
+C
+n C
++
++
++
++
++
+= 
+A. (
+)
+2
+3 2n
+n +
+ 
+B. (
+)
+1
+2
+1 2n
+n
+−
++
+ 
+C. (
+)
+1
+2
+3 2n
+n
+−
++
+ 
+D. (
+)
+2
+1 2n
+n +
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+20. If (
+)(
+)(
+)
+(
+)(
+)
+(
+)(
+)(
+)
+2
+5
+1
+1
+2
+3
+1
+1
+2
+1
+2
+3
+x
+x
+a
+b
+c
+x
+x
+x
+x
+x
+x
+x
+x
+x
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+then the 
+inverse of the matrix 
+1
+a
+b
+c
+
+
+
+
+
+is 
+A. 1
+0
+5
+1
+
+
+
+
+−
+
+ 
+B. 
+1
+0
+5
+1
+−
+
+
+
+
+−
+
+ 
+C. 1
+0
+5
+1
+
+
+
+
+
+ 
+D. 1
+0
+1
+5
+
+
+
+
+
+ 
+21. cos20
+cos30
+cos40
+o
+o
+o
++
++
+= 
+A. 1
+2sin10 sin15 sin 20
+o
+o
+o
+−
+ 
+B. 4cos20 cos30 cos40
+o
+o
+o 
+C. 4cos10 cos15 cos20
+o
+o
+o 
+D. 4cos25 cos30 cos235
+o
+o
+o 
+22. 
+2
+cos
+cos
+cos
+cos
+15
+15
+15
+15
+π
+4π
+8π
+14π = 
+A. 9
+16 
+B. 1
+8  
+C. 1
+16 
+D. 1
+24  
+23. If 0
+2
+x
+≤
+≤π , then the number of real values of x, which 
+satisfy the equationsin
+sin 2
+sin3
+sin 4
+0
+x
+x
+x
+x
++
++
++
+=  
+A. 9 
+B. 7 
+C. 3 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+D. 5 
+24. The number of solutions of the equation 
+(
+)
+{
+}
+1
+1
+sin 2cos
+cot 2Tan
+0 is
+x
+−
+−
+
+=
+
+
+ 
+A. 4 
+B. 6 
+C. 8 
+D. Infinitely many 
+25. If 
+1
+2
+1
+1and 2sinh
+log
+,then 
+1
+1
+a
+x
+a
+x
+x
+a
+−
+
++
+
+
+<
+=
+=
+
+
+
+
+−
+
+
+−
+
+
+ 
+A. 2a 
+B. 3a 
+C. 4a 
+D. a 
+26. If the lengths of two sides of a triangle are the roots of the 
+equation 
+2
+2 3
+2
+0
+x
+x
+−
++
+= and the angle between these sides is 
+3
+π 
+then the perimeter of the triangle is 
+A. 2 6
+3
++
+ 
+B. 2 6
+2 3
++
+ 
+C. 6
+2 3
++
+ 
+D. 6
+3
++
+ 
+27. If 
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+sin
+sin
+ if 
+90 ,
+sin
+sin
+sin
+o
+A
+B
+ABC
+C
+then
+A
+B
+A
+B
++
+∆
+=
+−
+=
+−
+ 
+A. 1 
+B. 1
+2  
+C. 3
+2  
+D. 0 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+28. In 
+(
+)
+1
+2
+3
+ if 
+8,
+12 and 
+24 then the orderd triple 
+, ,
+ABC
+r
+r
+r
+a b c
+∆
+=
+=
+=
+= 
+A. (8,12,14) 
+B. (12,16,20) 
+C. (16,12,20) 
+D. (16,20,12) 
+29. A point C with position vector 3
+4
+5
+3
+a
+b
+c
++
+−
+ (where ( ,  and 
+a c
+c are 
+non-coplanar vectors) 3 divides the line joining A and B in 
+the ratio 2:1. If the position vector of A is (
+2
+3
+a
+b
+c
+−
++
+, then the 
+position vector of B is 
+A. 2
+3
+4
+a
+b
+c
++
+−
+ 
+B. 2
+3
+4
+a
+b
+c
+−
++
+ 
+C. 2
+3
+4
+a
+b
+c
++
++
+ 
+D. 
+3
+4
+a
+b
+c
++
+−
+ 
+30. The line passing through the point 2a
+b
++  and parallel to the 
+vector b
+c
+− and the plane passing through the point a and 
+parallel to the vectors b
+c
++ . and 
+2
+a
+b
+c
++
+− intersect at P. The 
+position vector of P is 
+A. 
+3
+a
+b
++
+ 
+B. 2
+2
+a
+b
+c
++
+− 
+C. 
+2
+a
+b
+c
++
+−
+ 
+D. 2a
+c
++  
+31.  and 
+a
+bare not perpendicular to each other, 
+ and .
+0 then 
+r
+a
+b a
+r c
+r
+×
+= ×
+=
+= 
+A. a
+b
+− 
+B. 
+.
+.
+b c
+b
+a
+a c
+
+
+−
+
+
+ 
+C. 
+.
+.
+b c
+b
+a
+a c
+
+
++ 
+
+
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+D. a
+c
++  
+32. If the two diagonals of a parallelogram are 
+2
+3  
+ -2
+2 ,
+i
+j
+k and
+i
+j
+k
++
++
++
+−
+ then the area of the parallelogram in 
+square units is 
+A. 3
+5
+2
+ 
+B. 5 3 
+C. 300 
+D. 
+5
+3 2  
+33. The minimum volume of the parallalopiped formed by the 
+vectors 
+, +ak 
+ a
+ 
+i
+a j
+k j
+and
+i
+k is
++
++
++
+ 
+A. 1
+3 3  
+B. 1
+3  
+C. 3 3
+2
+3 3
+− 
+D. 3 3
+2
+3 3
++  
+34. If 
+2
+3 ,
+2
+,
+4 ,
+a
+i
+j
+k b
+i
+j
+k c
+i
+j
+k d
+i
+j
+pk
+=
++
+−
+= −
++
+= −+
+−
+= +
++
+, where p is a 
+positive real number (
+) (
+)
+5 114
+a b
+c b
+×
+×
+×
+=
+, then a value of p is 
+A. 3 
+B. 2 
+C. 1 
+D. 4 
+35. he variance of the first ten multiples of 3 is 
+A. 64.25 
+B. 54.25 
+C. 70.75 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+D. 74.25 
+36. If the mean deviation from the mean of the observations 
+{
+}
+1
+k
++ α . where K= 0, 1, 2,..., 100 and α> 0 is 255 then ∝ =  
+A. 10  
+B. 10.1 
+C. 25  
+D. 25.5 
+37. Boxes B1, B2, and B3. contain balls as given below:  
+Box  white  
+Black  
+B1  1  
+2  
+B2  3  
+1  
+B3  2 
+ 3  
+One ball is drawn at random from each box. Then, among 
+the balls drawn, the probability  
+that two are black and one is white. Is 
+A. 5
+12 
+B. 7
+12 
+C. 9
+12 
+D. 11
+12 
+38. If A and B are two events of a random experiment such that 
+P (A) = 0.6, P (B) = 0.3 and P (A I B) = 0.5 then (
+)
+|
+P B A = 
+A. 0.75 
+B. 0.625 
+C. 0.525 
+D. 0.4  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+39. A player tosses two coins. He wins Rs. 1 if 1 head appears, 
+Rs. 2 if 2 heads appear. But he loses Rs. 3 if no head 
+appears. The mean of the prized money is 
+A. 1
+2  
+B. 1
+3 
+C. 1
+4  
+D. 1
+5 
+40. If X is a binomial variate with n = 7 and P (X= 3) =P (X= 
+4) then P (X= 5) = 
+A. 
+2
+7
+3
+21. 4  
+B. 
+5
+7
+3
+21. 4  
+C. 
+5
+6
+2
+21.3  
+D. 7
+21
+2  
+41. If P is a variable point such that the sum of the distances 
+from P to the points A (2, 2) and B (2, —2) is 4, then the 
+locus of P represents  
+A. an ellipse  
+B. a vertical line  
+C. segment of a vertical line  
+D. segment of a horizontal line 
+42. The point to which the origin is to be shifted to eliminate x 
+and v terms of the equation 
+2
+2
+4
+9
+8
+36
+4
+0
+x
+y
+x
+y
++
+−
++
++
+= is  
+A. (1, 3) 
+B. (-4, 3)  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+C. (-1, 2) 
+D. (1,-2) 
+43. A line passing through the point P (1, 1) and parallel to the 
+line x - y = 5 cuts the line x+3y-2 = 0 at Q. Then twice the 
+length of the segment PQ is 
+A. 2
+1
+− 
+B. 2 3
+1
+− 
+C. 2  
+D. 1
+2  
+44. If the lines 2
+3
+0,3
+2
+2
+0. 
+3
+23
+0
+x
+y
+x
+y
+kx
+y
++
+−
+=
++
+−
+=
+−
+−
+= are concurrent, 
+then the roots of the equation 
+2
+6
+7
+0
+x
+x
+k
+−
++
+=  are 
+A. 1 2
+,
+2 3 
+B. 2,3 
+C. 3,4 
+D. 6,2 
+45. A straight line L is perpendicular to the line 5x-y= 1 and 
+the area of the triangle formed by the line L and the 
+coordinate axes is 5 square units. The equation of the line L 
+can be 
+A. 
+5
+2 2
+x
+y
++
+= ±
+ 
+B. 
+5
+5 2
+x
+y
++
+= ±
+ 
+C. 
+5
+5 2
+x
+y
+−
+=
+ 
+D. 
+5
+3 2
+x
+y
+−+
+=
+ 
+46. The combined equation of the diagonals of the square 
+formed by the two pairs of straight lines given by 
+4
+3
+12
+0 
+ 
+3
+4
+12
+0 
+xy
+x
+y
+and xy
+x
+y
+is
++
+−
+−
+=
+−
++
+−
+=
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+A. 2
+2
+2
+0 
+x
+xy
+y
+x
+y
+−
++
++
+−
+=  
+B. 2
+2
+2
+0 
+x
+xy
+y
+x
+y
++
++
++
++
+=  
+C. 2
+2
+0 
+x
+y
+x
+y
+−
++
++
+=
+ 
+D. 2
+2
+0 
+x
+y
+x
+y
+−
++
+−
+=
+ 
+47. If the pair of lines 
+2
+2
+2
+3
+0
+x
+xy
+y
++
++
+= makes angles 
+1
+2
+ and 
+θ
+θ  with 
+the positive direction of the X-axis. then 
+(
+)
+1
+2
+tan θ −θ
+= 
+A. 1 
+B. 1
+3 
+C. 1
+2  
+D. 1
+4  
+48. The pair of lines joining the origin to the points of 
+intersection of the line x-y = 2 with the curve 
+2
+2
+5
+12
+8
+8
+4
+12
+0
+x
+xy
+y
+x
+y
++
+−
++
+−
++
+=  are equally inclined to the pair of 
+lines 
+A. 2
+0
+x
+xy
+−
+=  
+B. 
+0
+xy =  
+C. (
+)(
+)
+2
+2
+0
+x
+y
+−
+−
+=  
+D. 
+2
+4
+xy
+y
+−
+=  
+49. The locus of the point of intersection of the tangents to the 
+circle 
+2
+2
+2
+x
+y
+a
++
+=
+ which make complimentary angles with the 
+X-axis is 
+A. 2
+2
+0
+x
+y
+−
+=  
+B. 2
+2
+0
+x
+y
++
+=  
+C. 
+0
+xy =  
+D. 2
+2
+2
+2
+x
+y
+a
++
+=
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+50. The length of the chord intercepted by the circle 
+2
+2
+4
+6
+12
+0 on the line 4
+3
+1
+0
+x
+y
+x
+y
+x
+y
++
+−
++
+−
+=
++
++ = is 
+A. 3 
+B. 4 
+C. 10 
+D. 8 
+51. The inverse point pf (1,3) with respect to the circle 
+2
+2
+4
+6
+9
+x
+y
+x
+y
++
+−
+−
++ is 
+A. (2.-3) 
+B. (2.-3) 
+C. (-2,3) 
+D. (-2,-3) 
+52. The combined equation of the direct common tangents of 
+the circles  
+2
+2
+2
+2
+ 
+2
+2
+2
+0 and 
+4
+6
+12 
+ 0, 
+x
+y
+x
+y
+x
+y
+x
+y
+is
++
+−
+−
+−
+=
++
++
++
++
+=
+ 
+A. 
+2
+2
+3
+10
+3
+4
+4
+4
+0
+x
+xy
+y
+x
+y
++
++
+−
++
+−
+=  
+B. 
+2
+2
+75
+9
+80
+200
+500
+2900
+0
+x
+y
+xy
+x
+y
+−
+−
++
++
+−
+=  
+C. 
+2
+2
+9
+16
+18
+96
+135
+0
+x
+y
+x
+y
+−
+−
++
+−
+=  
+D. 
+2
+2
+15
+24
+8
+18
+8
+73
+0
+x
+xy
+y
+x
+y
+−
++
+−
+−
+−
+=  
+53. If the circle 
+2
+2
+2
+2
+2
+9 and 
+8
+6
+0,
+x
+y
+x
+y
+x
+y
+n
+n
++
+=
++
+−
+−
++
+=
+∈ have exactly 
+two common tangents, then the number of values for n is  
+A. 8 
+B. 7 
+C. 9 
+D. 4 
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+54. If the angle between the circles 
+2
+2
+2
+2
+4
+6
+3
+0, 
+8
+4
+0
+x
+y
+x
+y
+x
+y
+x
+y
+−
+−
+−
+−
+=
++
++
+−
++ λ = is 60°, then a value of λ is  
+A. -11  
+B. 29 
+C. 18  
+D. -29 
+55. If tangent lines are drawn from the point (-1, 2) to the 
+parabola y2 = 4x, then the area of the triangle (in sq. units) 
+formed by the chord of contact and the tangents drawn, is 
+A. 4 2  
+B. 5 2 
+C. 7 2  
+D. 8 2 
+56. If (x, y1) and (x2 ,y2) are the points on the parabola v2 = 32 
+x each at a focal distance of 10 units, then (
+)
+2
+2
+2
+2
+1
+2
+1
+2
+2  x
+x
+y
+y
++
++
++
+= 
+A. 68 
+B. 136 
+C. 272 
+D. 8 
+57. The coordinates of a point, in the parametric form. on the 
+ellipse whose foci are (-1. 0) and 1 (7, 0) and eccentricity 1
+2 . 
+Are 
+A. (
+)
+8cos ,4 3sin
+θ
+θ  
+B. (
+)
+3
+8cos ,4 3sin
++
+θ
+θ  
+C. (
+)
+3
+4 3 cos ,8sin
++
+θ
+θ  
+D. (
+)
+3
+4cos ,2 3sin
++
+θ
+θ  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+58. If the normal at one end of a latus rectum of the ellipse 
+2
+2
+2
+1
+32
+x
+y
+b
++
+=  passes through one  
+end of the minor axis, then 
+4
+2
+_______
+1
+e
+e =
+−
+ (Here e is the 
+eccentricity of the ellipse) 
+A. 1
+2  
+B. 1 
+C. 2
+3  
+D. 3
+2  
+59. The locus of the mid points of the chords of the circle x2 + 
+y2 = 16. which are tangents to the hyperbola 
+2
+2
+9
+16 
+144. 
+x
+y
+is
+−
+=
+ 
+A. 
+(
+)
+2
+2
+2
+2
+2
+8
+9
+x
+y
+x
+y
+−
+=
++
+ 
+B. 
+(
+)
+2
+2
+2
+2
+2
+16
+9
+x
+y
+x
+y
+−
+=
++
+ 
+C. 
+(
+)
+2
+2
+2
+2
+2
+9
+14
+2
+x
+y
+x
+y
+−
+=
++
+ 
+D. 
+(
+)
+2
+2
+2
+2
+2
+3
+49
+2
+x
+y
+x
+y
++
+=
++
+ 
+60. The coordinates of the point at which X Z - plane divides 
+the line joining A (-2, 3, 4) and B (1, 2, 3) is  
+A. (7, 0, -1) 
+B. (7, 0, 1) 
+C. (-7, 0, 1) 
+D. (-7 0, -1) 
+61. Direction ratios of normal to a plane passing through (1, 0, 
+0) and (0, 1, 0) which makes an angle of 
+4
+π with the plane x 
++ y - 3 = 0 are 
+A. (
+)
+2,1,1  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+B. (
+)
+1,
+2,1  
+C. (
+)
+1,1,
+2  
+D. (
+)
+1,1,2  
+62. A plane π is passing through (2, 0, 1) and (3.-3.4) and is 
+perpendicular to x-2y + z = 6. Among the following, the 
+plane that is perpendicular to the plane π is 
+A. 3
+2
+7
+x
+y
+z
++
++
+=  
+B. 3
+2
+7
+x
+y
+z
+−
++
+=  
+C. 
+2
+1
+0
+x
+y
+z
+−
+−
++ =  
+D. 3
+2
+7
+x
+y
+z
+−
+−
+=  
+63. Define 
+( )
+[ ]
+[ ]
+:
+ by 
+ for 
+,
+f
+f x
+x
+x
+x
+x
+→
+=
++
+−
+∈
+
+
+where [x] denotes the 
+greatest integer function. Then the set of points at which f 
+is continuous is  
+A. 
++
+ 
+B.  
+C. −
+
+ 
+D. {
+}
+1,2,3,......  
+64. If α,β are the roots of the equation 
+(
+)
+(
+)
+2
+2
+2
+1 cos
+0. then lim
+x
+ax
+bx
+c
+ax
+bx
+c
+x
+→α
+−
++
++
++
++
+=
+=
+−α
+ 
+A. (
+)
+2
+2
+a
+α −β  
+B. 
+(
+)
+2
+2
+4a
+α −β  
+C. 
+(
+)
+2
+2
+2
+a
+α −β  
+D. 
+(
+)
+2
+2
+2a
+α −β  
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+65. If 
+( )
+( )
+2
+2
+1
+2
+2
+1
+1
+Tan
+ for 0
+1 then '
+1
+1
+x
+x
+f x
+x
+f
+x
+x
+x
+−
+
++
++
+−
+=
+>
+<
+=
+
+
++
+−
+−
+
+
+
+
+ 
+A. 
+2
+1
+x
+x
+−
+ 
+B. 
+2
+1
+x
+x
+−
+−
+ 
+C. 
+4
+1
+x
+x
+−
+ 
+D. 
+4
+1
+x
+x
+−
+−
+ 
+66. If 
+(
+)
+(
+)
+2
+2
+1
+cos log
+sin log
+then 
+y
+a
+x
+b
+x
+x y
+xy
+=
++
++
+= 
+A. 0 
+B. Y 
+C. 2y 
+D. -y 
+67. If 
+(
+)
+(
+)
+2
+2
+cos
+sin
+,
+sin
+cos
+ then 
+dx
+dy
+x
+a
+t
+t
+t
+y
+a
+t
+t
+t
+dt
+dt
+
+
+
+
+=
++
+=
+−
++
+=
+
+
+
+
+
+
+
+
+ 
+A. a 
+B. at 
+C. a2t2 
+D. a2t 
+68. if 
+0
+ab ≠, then the equation of the tangent at (a,b) to the curve 
+2
+n
+n
+x
+y
+a
+b
+
+
+
+
++
+=
+
+
+
+
+
+
+
+
+is 
+A. 
+1
+x
+y
+a
+b
++
+=  
+B. 
+1
+ax
+by
++
+=  
+C. 
+2
+x
+y
+a
+b
++
+=  
+D. 
+2
+ax
+by
+n
++
+=
+ 
+
+ 
+ 
+      
+       
+www.vedantu.com 
+69. A particle is moving along a line according to the law 
+3
+2
+3
+4
+2
+S
+t
+t
+t
+=
+−
++
+−where S is measured in meters and t is 
+measured in seconds. Then the velocity (in mt/sec) of the 
+particle when its acceleration is zero is 
+A. 2 
+B. 1
+4  
+C. 17
+4  
+D. 1 
+70. The greatest value of the real-valued function 
+( )
+(
+)
+(
+)
+[
+]
+1
+1
+3
+3
+1
+1
+on 0,1
+f x
+x
+x
+=
++
+−
+−
+is 
+A. ( )
+(
+)
+(
+)
+[
+]
+1
+1
+3
+3
+1
+1
+on 0,1
+f x
+x
+x
+=
++
+−
+−
+ 
+B. 1 
+C. 2 
+D. 3 
+71. The constant c of Rolle’s theorem for the function 
+( )
+(
+) (
+)
+[
+]
+3
+5
+1
+2
+in 1,2  is
+f
+x
+x
+x
+=
+−
+−
+ 
+A. 3
+2  
+B. 11
+6  
+C. 13
+8  
+D. 11
+8  
+72. 
+6
+1
+1
+dx
+x x
+=
++
+∫
+ 
+A. 
+1
+3
+1
+1
+sinh
+3
+C
+x
+−
++
+
+
+
+
+ 
+B. 
+(
+)
+1
+3
+1 sinh
+3
+x
+C
+−
+−
++  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+C. 
+1
+3
+1
+1
+sinh
+3
+C
+x
+−
+−
+
++
+
+
+
+
+ 
+D. 
+1
+3
+1
+3sinh
+C
+x
+−
++
+
+
+
+
+ 
+ 
+73. 
+2 sin. cos
+x
+x
+xdx =
+∫
+ 
+A. 
+2 cos2
+sin 2
+cos2
+2
+4
+8
+x
+x
+x
+x
+x
+c
+−
++
++
++  
+B. (
+)
+2
+1 2
+cos2
+sin 2
+2
+x
+x
+x
+x
+c
+−
++
++  
+C. (
+)
+2
+1 2
+cos2
+sin 2
+8
+4
+x
+x
+x
+x
+c
+−
++
++  
+D. (
+)
+2
+1 2
+cos2
+sin 2
+4
+2
+x
+x
+x
+x
+c
+−
++
++  
+74. 
+(
+)
+2
+2
+3
+3
+1
+dx
+x
+x
+=
++
+∫
+ 
+A. 
+(
+)
+1
+1
+3
+3sin
+x
+c
+−
++  
+B. 
+(
+)
+1
+1
+3
+3cos
+x
+c
+−
++  
+C. 
+(
+)
+1
+1
+3
+3tan
+x
+c
+−
++  
+D. 
+(
+)
+1
+1
+3
+3sec
+x
+c
+−
++  
+75. 
+(
+)
+6
+4
+2
+,
+1,2,3.....
+1
+n
+n
+t
+I
+dt
+n
+I
+I
+t
+=
+=
+⇒
++
+=
++
+∫
+ 
+A. 
+5
+1
+5 t
+c
++  
+B. 
+7
+1
+7 t
+c
++  
+C. 
+4
+1
+4 t
+c
++  
+D. 
+3
+1
+3t
+c
++  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+76. 
+2
+2
+2
+1
+1
+lim
+n
+n
+r
+r
+n
+n
+r
+→∞
+=
+=
++
+∑
+ 
+A. 1
+5
++
+ 
+B. 1
+5
+−+
+ 
+C. 1
+2
+−+
+ 
+D. 1
+2
++
+ 
+77. 
+2
+8
+0 sin
+ x dx
+π
+=
+∫
+ 
+A. 15
+256
+π  
+B. 25
+256
+π 
+C. 35
+256
+π  
+D. 35
+256  
+78. The area (in sq. units) of the region bounded by the 
+parabola 
+(
+)
+2
+2
+4  and 
+4 4
+y
+x
+y
+x
+=
+=
+−
+ 
+A. 7
+2
+4 −
+ 
+B. (
+)
+2
+2
+1
+− 
+C. 32 2
+3  
+D. 8
+3 
+79. The differential equation of the family of curves given by 
+2
+5
+x
+x
+ae
+be
++
+ where a and b are parameters is 
+A. 
+2
+2
+7
+10
+0
+d y
+dy
+y
+dx
+dx
++
+−
+=  
+B. 
+2
+2
+7
+10
+0
+d y
+dy
+y
+dx
+dx
+−
++
+=  
+C. 
+2
+2
+7
+12
+0
+d y
+dy
+y
+dx
+dx
+−
+−
+=  
+
+ 
+ 
+      
+       
+www.vedantu.com 
+D. 
+2
+2
+10
+7
+0
+d y
+dy
+y
+dx
+dx
+−
++
+=  
+80. The equation of the curve passing through 
+,0
+6
+π
+
+
+
+
+
+and 
+satisfying differential equation (
+)
+1 cos
+sin
+0
+y
+y
+e
+xdx
+e
+xdy
++
++
+=  
+A. 
+(
+)
+log
+cos
+1
+e
+y
+ecx
+=
+− 
+B. 
+(
+)
+log
+cos
+1
+e
+y
+ecx
+=
++  
+C. 
+(
+)
+log
+1
+e
+y
+y
+=
++  
+D. 
+(
+)
+log
+1
+e
+y
+y
+=
+− 
+ 

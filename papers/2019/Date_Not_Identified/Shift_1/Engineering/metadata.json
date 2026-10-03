@@ -1,0 +1,711 @@
+{
+  "source": "CollegeDekho",
+  "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+  "download_url": "https://static.collegedekho.com/media/django-summernote/2019-09-03/1d92faba-6bda-474d-9301-7cd031a87861.pdf",
+  "title": "AP EAMCET 2019 Engineering Question Papers with Answer Keys AP EAMCET Engg Set-A Question Paper Answer Key",
+  "stream": "Engineering",
+  "paper_id": "2019_undated_Shift_1_Engineering_0f99617f",
+  "year": 2019,
+  "exam_date": null,
+  "shift": "Shift_1",
+  "subjects": [],
+  "paper_type": "question_paper",
+  "file_name": "question_paper.pdf",
+  "pdf_path": "papers/2019/Date_Not_Identified/Shift_1/Engineering/question_paper.pdf",
+  "sha256": "0f99617fe279a9a1499fe31dbba975215e67a569ff5f33b535681befe104b552",
+  "pages": 1,
+  "metadata_evidence": "Q.No.\nAnswer\nQ.No.\nAnswer\nQ.No.\nAnswer\nQ.No.\nAnswer\n1\n4\n41\n3\n81\n3\n121\n2\n2\n3\n42\n4\n82\n3\n122\n3\n3\n1\n43\n2\n83\n3\n123\n1\n4\n4\n44\n3\n84\n3\n124\n2\n5\n3\n45\n1\n85\n1\n125\n1,2,3,4\n6\n2\n46\n1\n86\n4\n126\n3\n7\n1\n47\n2\n87\n1\n127\n4\n8\n4\n48\n1\n88\n3\n128\n1\n9\n2\n49\n1\n89\n1\n129\n2\n10\n4\n50\n4\n90\n4\n130\n2\n11\n4\n51\n2\n91\n2\n131\n3\n12\n1\n52\n4\n92\n2\n132\n3\n13\n1\n53\n1\n93\n3\n133\n1\n14\n4\n54\n2\n94\n1\n134\n1\n15\n4\n55\n4\n95\n4\n135\n3\n16\n1\n56\n3\n96\n4\n136\n2\n17\n3\n57\n3\n97\n4\n137\n1\n18\n2\n58\n1\n98\n1\n138\n2\n19\n3\n59\n1\n99\n4\n139\n4\n20\n2\n60\n1\n100\n3\n140\n3\n21\n1\n61\n1\n101\n1\n141\n1\n22\n1\n62\n4\n102\n2\n142\n2\n23\n2\n63\n4\n103\n3\n143\n1\n24\n1\n64\n4\n104\n1\n144\n3\n25\n4\n65\n4\n105\n2\n145\n2\n26\n3\n66\n3\n106\n4\n146\n4\n27\n3\n67\n4\n107\n4\n147\n3\n28\n2\n68\n1\n108\n1\n148\n3\n29\n4\n69\n4\n109\n3\n149\n4\n30\n3\n70\n3\n110\n4\n150\n3\n31\n2\n71\n4\n111\n4\n151\n4\n32\n2\n72\n1\n112\n2\n152\n3\n33\n2\n73\n3\n113\n2\n153\n2\n34\n2\n74\n2\n114\n4\n154\n3\n35\n3\n75\n4\n115\n4\n155\n4\n36\n4\n76\n1\n116\n2\n156\n1\n37\n2\n77\n4\n117\n3\n157\n4\n38\n3\n78\n1\n118\n2\n158\n3\n39\n1\n79\n4\n119\n4\n159\n3\n40\n3\n80\n1\n120\n1\n160\n2\nAPEAMCET-2019\nEngineering Stream Final  Key\nDate: 20-04-2019 (Shift-1)\n",
+  "date_verification": "Not Identified",
+  "answer_key_status": "separate_pdf",
+  "answer_key_type": "published_educational_source",
+  "extraction_status": "question_boundaries_not_identified",
+  "metadata_path": "papers/2019/Date_Not_Identified/Shift_1/Engineering/metadata.json",
+  "question_count": 0,
+  "answers_mapped": 0,
+  "content_signature": null,
+  "text_path": "papers/2019/Date_Not_Identified/Shift_1/Engineering/question_paper_text.txt",
+  "attachments": [
+    {
+      "pdf_path": "papers/2019/Date_Not_Identified/Shift_1/Engineering/question_paper_2cb8b22a16c22530.pdf",
+      "source": "CollegeDekho",
+      "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+      "download_url": "https://static.collegedekho.com/media/django-summernote/2019-09-03/84c0ebb4-141d-46bd-ba71-4a873242a6a2.pdf",
+      "subject": null,
+      "pages": 1,
+      "description": "Additional published question/solution document",
+      "metadata_path": "papers/2019/Date_Not_Identified/Shift_1/Engineering/metadata_2cb8b22a16c22530.json"
+    },
+    {
+      "pdf_path": "papers/2019/Date_Not_Identified/Shift_1/Engineering/question_paper_52752432730e887a.pdf",
+      "source": "CollegeDekho",
+      "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+      "download_url": "https://static.collegedekho.com/media/django-summernote/2019-09-03/3221b1e6-8511-4f49-8b0c-d8de8067b72d.pdf",
+      "subject": null,
+      "pages": 1,
+      "description": "Additional published question/solution document",
+      "metadata_path": "papers/2019/Date_Not_Identified/Shift_1/Engineering/metadata_52752432730e887a.json"
+    }
+  ],
+  "additional_sources": [],
+  "separate_answer_keys": [
+    {
+      "source": "CollegeDekho",
+      "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+      "download_url": "https://static.collegedekho.com/media/django-summernote/2019-09-03/2e25e713-c10a-4e7b-8605-ba820cee159c.pdf",
+      "title": "AP EAMCET 2019 Engineering Question Papers with Answer Keys AP EAMCET Engg Set-G Question Paper Answer Key",
+      "sha256": "a30bc93920ec1adfa2bd913007112c6b7debe44107b7e663b76c9ceb53b903af",
+      "year": 2019,
+      "exam_date": null,
+      "shift": "Shift_1",
+      "stream": "Engineering",
+      "file_path": "papers/2019/Date_Not_Identified/Shift_1/Engineering/answer_key_a30bc93920ec.pdf",
+      "key_type": "published_educational_source",
+      "answers": [
+        {
+          "question_number": 1,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 41,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 81,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 121,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 2,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 42,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 82,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 122,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 3,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 43,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 83,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 123,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 4,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 44,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 84,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 124,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 5,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 45,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 85,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 125,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 6,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 46,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 86,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 126,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 7,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 47,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 87,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 127,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 8,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 48,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 88,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 128,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 9,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 49,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 89,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 129,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 10,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 50,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 90,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 130,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 11,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 51,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 91,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 131,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 12,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 52,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 92,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 132,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 13,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 53,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 93,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 133,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 14,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 54,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 94,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 134,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 15,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 55,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 95,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 135,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 16,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 56,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 96,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 136,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 17,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 57,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 97,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 137,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 18,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 58,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 98,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 138,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 19,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 59,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 99,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 139,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 20,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 60,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 100,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 140,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 21,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 61,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 101,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 141,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 22,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 62,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 102,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 142,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 23,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 63,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 103,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 143,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 24,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 64,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 104,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 144,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 25,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 65,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 105,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 145,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 26,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 66,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 106,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 146,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 27,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 67,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 107,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 147,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 28,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 68,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 108,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 148,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 29,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 69,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 109,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 149,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 30,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 70,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 110,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 150,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 31,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 71,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 111,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 151,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 32,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 72,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 112,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 152,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 33,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 73,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 113,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 153,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 34,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 74,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 114,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 154,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 35,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 75,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 115,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 155,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 36,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 76,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 116,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 156,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 37,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 77,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 117,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 157,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 38,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 78,
+          "correct_answer": "D"
+        },
+        {
+          "question_number": 118,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 158,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 39,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 79,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 119,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 159,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 40,
+          "correct_answer": "A"
+        },
+        {
+          "question_number": 80,
+          "correct_answer": "B"
+        },
+        {
+          "question_number": 120,
+          "correct_answer": "C"
+        },
+        {
+          "question_number": 160,
+          "correct_answer": "B"
+        }
+      ],
+      "mapping_status": "validated_160_rows",
+      "metadata_evidence": "Q.No.\nAnswer\nQ.No.\nAnswer\nQ.No.\nAnswer\nQ.No.\nAnswer\n1\n1\n41\n3\n81\n1\n121\n3\n2\n3\n42\n3\n82\n1\n122\n3\n3\n1\n43\n4\n83\n4\n123\n1\n4\n2\n44\n2\n84\n4\n124\n2\n5\n1\n45\n4\n85\n1\n125\n2\n6\n3\n46\n4\n86\n3\n126\n3\n7\n3\n47\n3\n87\n4\n127\n4\n8\n3\n48\n3\n88\n3\n128\n3\n9\n3\n49\n2\n89\n4\n129\n2\n10\n3\n50\n2\n90\n1\n130\n1\n11\n3\n51\n4\n91\n4\n131\n1\n12\n4\n52\n2\n92\n2\n132\n4\n13\n2\n53\n3\n93\n3\n133\n4\n14\n1\n54\n3\n94\n1\n134\n2\n15\n2\n55\n3\n95\n2\n135\n4\n16\n4\n56\n1\n96\n1\n136\n1\n17\n4\n57\n3\n97\n2\n137\n3\n18\n4\n58\n2\n98\n4\n138\n2\n19\n2\n59\n1\n99\n2\n139\n1\n20\n4\n60\n1\n100\n2\n140\n3\n21\n1\n61\n1\n101\n2\n141\n2\n22\n1\n62\n4\n102\n"
+    }
+  ],
+  "answer_key_pdf": "papers/2019/Date_Not_Identified/Shift_1/Engineering/answer_key_a30bc93920ec.pdf",
+  "separate_answer_key_source": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers"
+}

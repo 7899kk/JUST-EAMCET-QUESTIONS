@@ -1,0 +1,64 @@
+{
+  "source": "CareerIndia",
+  "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+  "download_url": "https://www.careerindia.com/exam/ap-eamcet-agricultural-medical-question-paper-morning-24-april-2019-1426.pdf",
+  "title": "AP EAMCET Agricultural & Medical Question Paper (Morning) - 24 April, 2019",
+  "stream": "Agriculture_Pharmacy",
+  "paper_type_hint": "question_paper",
+  "paper_id": "2019_2019-04-24_Shift_1_Agriculture_Pharmacy_6ff9337c",
+  "year": 2019,
+  "exam_date": "2019-04-24",
+  "shift": "Shift_1",
+  "subjects": [
+    "Botany",
+    "Chemistry",
+    "Physics",
+    "Zoology"
+  ],
+  "paper_type": "question_paper",
+  "file_name": "question_paper.pdf",
+  "pdf_path": "papers/2019/2019-04-24/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+  "sha256": "6ff9337c76eae224d649eac03c60b120d212533232872aba3a372a3c52569586",
+  "pages": 115,
+  "metadata_evidence": "www.careerindia.com\nQuestion Paper Preview\n \n \n \n \n \nQuestion Paper Name:\nAGRICULTURE AND MEDICINE 24th April 2019 Shift1\nSubject Name:\nAGRICULTURE AND MEDICINE\nDuration:\n180\nShare Answer Key With Delivery\nEngine:\nYes\nActual Answer Key:\nYes\nDisplay Number Panel:\nYes\nGroup All Questions:\nNo\nQuestion Number : 1  Question Id : 1874634961  Question Type : MCQ  Option Shuffling : Yes  Display Question Number : Yes\nSingle Line Question Option : No  Option Orientation : Vertical\nOptions :\n\nwww.careerindia.com\nQuestion Number : 2  Question Id : 1874634962  Question Type : MCQ  Option Shuffling : Yes  Display Question Number : Yes\nSingle Line Question Option : No  Option Orientation : Vertical\nOptions :\nQuestion Number : 3  Question Id : 1874634963  Question Type : MCQ  Option Shuffling : Yes  Display Question Number : Yes\nSingle Line Question Option : No  Option Orientation : Vertical\n\nwww.careerindia.com\nOptions :\nQuestion Number : 4  Question Id : 1874634964  Question Type : MCQ  Option Shuffling : Yes  Display Question Number : Yes\nSingle Line Question Option : No  Option Orientation : Vertical\n\nwww.careerindia.com\nOptions :\nQuestion Number : 5  Question Id : 1874634965  Question Type : MCQ  Option Shuffling : Yes  Display Question Number : Yes\nSingle Line Question Option : No  Option Orientation : Vertical\n\nwww.careerindia.com\nOptions :\nQuestion Number : 6  Question Id : 1874634966  Question Type : MCQ  Option Shuffling : Yes  Display Question Number : Yes\nSingle Line Question Option : No  Option Orientation : Vertical\n\nwww.careerindia.com\nOptions :\nQuestion Number : 7  Question Id : 1874634967  Question Type : MCQ  Option Shuffling : Yes  Display Question Number : Yes\nSingle Line Question Option : No  Option Orientation : Vertical\nOptions :\n\nwww.careerindia.com\nQuestion Number : 8  Question Id : 1874634968  Question Type : MCQ  Option Shuffling : Yes  Display Question Number : Yes\nSingle Line Question Option : No  Option Orientation : Vertical\nOptions :\nQuestion Number : 9  Question Id : 1874634969  Question Type : MCQ  Option Shuffling : Yes  Display Question Number : Yes\nSingle Line Question Option : No  Option Orientation : Vertical\nOptions :\n\nwww.careerindia.com\nQuestion Number : 10  Question Id : 1874634970  Question Type : MCQ  Option Shuffling : Yes  Display Question Number : Yes\nSingle Line Question Option : No  Option Orientation : Vertical\nOptions :\nQuestion Number : 11  Question Id : 1874634971  Question Type : MCQ  Option Shuffling : Yes  Display ",
+  "date_verification": "embedded PDF",
+  "answer_key_status": "separate_pdf_and_embedded",
+  "answer_key_type": "published_educational_source",
+  "extraction_status": "indexed",
+  "metadata_path": "papers/2019/2019-04-24/Shift_1/Agriculture_Pharmacy/metadata.json",
+  "question_count": 160,
+  "answers_mapped": 0,
+  "content_signature": "bf62652888c1c64543e36fe5244c87c8f70df0a77c07b3ad4540c3e538e6e694",
+  "text_path": "papers/2019/2019-04-24/Shift_1/Agriculture_Pharmacy/question_paper_text.txt",
+  "additional_sources": [
+    {
+      "source": "CollegeDekho",
+      "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+      "download_url": "https://static.collegedekho.com/media/django-summernote/2019-09-03/215fb2ab-51f5-492b-bf3d-c52514be016a.pdf",
+      "sha256": "db2d07915c16f44f141df36ce8337da1cc9d04358b97ebb7d295635553943ad8",
+      "content_signature": "bf62652888c1c64543e36fe5244c87c8f70df0a77c07b3ad4540c3e538e6e694"
+    }
+  ],
+  "attachments": [],
+  "separate_answer_keys": [
+    {
+      "source": "CareerIndia",
+      "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+      "download_url": "https://www.careerindia.com/exam/ap-eamcet-agricultural-medical-answer-key-morning-24-april-2019-1427.pdf",
+      "title": "AP EAMCET Agricultural & Medical Answer Key (Morning) - 24 April, 2019",
+      "stream": "Agriculture_Pharmacy",
+      "paper_type_hint": "answer_key",
+      "year": 2019,
+      "exam_date": "2019-04-24",
+      "shift": "Shift_1",
+      "paper_id": "2019_2019-04-24_Shift_1_Agriculture_Pharmacy_6ff9337c",
+      "file_path": "papers/2019/2019-04-24/Shift_1/Agriculture_Pharmacy/answer_key_e357ea9c9c1b.pdf",
+      "sha256": "e357ea9c9c1ba02bf0dfeb6f021ad4064a938a8d083e4637a324edb305b19419",
+      "key_type": "published_educational_source",
+      "answers": [],
+      "mapping_status": "Not Available: answer-table parsing requires manual review"
+    }
+  ],
+  "answer_key_pdf": "papers/2019/2019-04-24/Shift_1/Agriculture_Pharmacy/answer_key_e357ea9c9c1b.pdf",
+  "separate_answer_key_source": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html"
+}
