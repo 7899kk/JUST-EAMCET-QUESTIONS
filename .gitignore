@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+sources/download_cache/
+artifacts/
+.static-build/
+node_modules/

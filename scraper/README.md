@@ -1,0 +1,5 @@
+# Collection pipeline
+
+`python scraper/scraper.py --sources selfstudys official` starts with the primary archive and official current/archived pages. Additional `secondary vedantu careerindia collegedekho byjus` collectors preserve public PDFs. `python -m scraper.collectors.keys` preserves separately published keys. Engineering transcriptions use `cd scraper && python -m collectors.examsnet` after building the catalog.
+
+Original PDF headers override website labels. Explicit evidence-backed corrections are in `sources/metadata_corrections.json`. Failed downloads are recorded, never replaced with invented data. Master-PDF extraction stores original question IDs and original region coordinates; publisher parsing is conservative and reports incomplete boundaries. Key table mappings require validated rows. Only reviewed explanations and supported formulas are generated. Rebuild with `python scripts/rebuild.py` from the root. Source result JSON, snapshots and per-question transcription snippets document the collected material.
