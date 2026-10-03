@@ -7206,7 +7206,30 @@
       "text_path": "papers/2020/2020-09-17/Shift_1/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-17/Shift_1/Engineering/metadata.json",
       "content_signature": "6cf3946243bbd367cd54c5c51d3bce6def4c0e3f70bd248f8e58f04af03b1eaf",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-17/Shift_1/Engineering/question_paper_2351be1d78bf8980.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-17-sep-2020-1760.pdf",
+          "subject": null,
+          "pages": 115,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-17/Shift_1/Engineering/metadata_2351be1d78bf8980.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-17/Shift_1/Engineering/question_paper_bba83cdb1873f9e4.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/40fa112f-ed07-4f32-9edd-02340f6ce8e9.pdf",
+          "subject": null,
+          "pages": 115,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-17/Shift_1/Engineering/metadata_bba83cdb1873f9e4.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-17/Shift_1/Engineering/answer_key_3bfcc5b0f6a1.pdf",
       "separate_answer_key_source": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
       "additional_sources": [
@@ -8894,7 +8917,30 @@
       "text_path": "papers/2020/2020-09-17/Shift_2/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-17/Shift_2/Engineering/metadata.json",
       "content_signature": "56c1fe67a750f9408b1dbe31470398b7c01bd9703de041575da990b16356b4c8",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-17/Shift_2/Engineering/question_paper_7e876e151864ea9f.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/6397f3b5-dd5d-4d51-bc6f-dacf457c77e9.pdf",
+          "subject": null,
+          "pages": 109,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-17/Shift_2/Engineering/metadata_7e876e151864ea9f.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-17/Shift_2/Engineering/question_paper_ed4031ff1a35fe49.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-afternoon-17-sep-2020-1762.pdf",
+          "subject": null,
+          "pages": 109,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-17/Shift_2/Engineering/metadata_ed4031ff1a35fe49.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-17/Shift_2/Engineering/answer_key_ba23c7b0b011.pdf",
       "separate_answer_key_source": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
       "additional_sources": [
@@ -10582,7 +10628,30 @@
       "text_path": "papers/2020/2020-09-18/Shift_1/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-18/Shift_1/Engineering/metadata.json",
       "content_signature": "d4d72e064740ac43dd6f1dc1053d2c7eb6f50a7f4725a5e190027b884a38d79f",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-18/Shift_1/Engineering/question_paper_977e6ad81b165338.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/fdfd9c82-b6f1-4174-bf70-b1f525bca0a4.pdf",
+          "subject": null,
+          "pages": 115,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-18/Shift_1/Engineering/metadata_977e6ad81b165338.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-18/Shift_1/Engineering/question_paper_ccd35bd3ad8fc811.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-18-sep-2020-1764.pdf",
+          "subject": null,
+          "pages": 115,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-18/Shift_1/Engineering/metadata_ccd35bd3ad8fc811.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-18/Shift_1/Engineering/answer_key_f927c2f7414a.pdf",
       "separate_answer_key_source": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
       "additional_sources": [
@@ -12270,7 +12339,30 @@
       "text_path": "papers/2020/2020-09-18/Shift_2/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-18/Shift_2/Engineering/metadata.json",
       "content_signature": "2bc21dc88a7a953c2a82fd0b64b41f43659d6bb0b363035b41bda5853678db21",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-18/Shift_2/Engineering/question_paper_17fdc27819f9886b.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-afternoon-18-sep-2020-1766.pdf",
+          "subject": null,
+          "pages": 114,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-18/Shift_2/Engineering/metadata_17fdc27819f9886b.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-18/Shift_2/Engineering/question_paper_501a799771f51820.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/91d65833-05eb-48ed-9f5e-f54eb46360de.pdf",
+          "subject": null,
+          "pages": 114,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-18/Shift_2/Engineering/metadata_501a799771f51820.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-18/Shift_2/Engineering/answer_key_5ae24366e171.pdf",
       "separate_answer_key_source": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
       "additional_sources": [
@@ -13958,7 +14050,30 @@
       "text_path": "papers/2020/2020-09-21/Shift_1/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-21/Shift_1/Engineering/metadata.json",
       "content_signature": "437ae71b018c55cb050f42a01050f9816f482652e1b1db050678df58ef77f6bb",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-21/Shift_1/Engineering/question_paper_390d16ba1fd7b4b4.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-21-sep-2020-1768.pdf",
+          "subject": null,
+          "pages": 109,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-21/Shift_1/Engineering/metadata_390d16ba1fd7b4b4.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-21/Shift_1/Engineering/question_paper_6fb58f821b7735d8.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/8c530346-cc0d-4657-9cd6-23b5d0219216.pdf",
+          "subject": null,
+          "pages": 109,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-21/Shift_1/Engineering/metadata_6fb58f821b7735d8.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-21/Shift_1/Engineering/answer_key_b201875596bd.pdf",
       "separate_answer_key_source": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
       "additional_sources": [
@@ -15646,7 +15761,30 @@
       "text_path": "papers/2020/2020-09-21/Shift_2/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-21/Shift_2/Engineering/metadata.json",
       "content_signature": "fe3f4d9a72c5800924c9cdf7b5ca94d5f8502520378cf236fee4d6ab507f5cfb",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-21/Shift_2/Engineering/question_paper_0577f78156a4900e.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-afternoon-21-sep-2020-1770.pdf",
+          "subject": null,
+          "pages": 111,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-21/Shift_2/Engineering/metadata_0577f78156a4900e.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-21/Shift_2/Engineering/question_paper_8d2a79acafc30341.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/d7fc0e3a-9e53-4696-a99a-67559c30c5f4.pdf",
+          "subject": null,
+          "pages": 111,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-21/Shift_2/Engineering/metadata_8d2a79acafc30341.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-21/Shift_2/Engineering/answer_key_1149dcd9b578.pdf",
       "separate_answer_key_source": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
       "additional_sources": [
@@ -17334,7 +17472,30 @@
       "text_path": "papers/2020/2020-09-22/Shift_1/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-22/Shift_1/Engineering/metadata.json",
       "content_signature": "ae1e2bae0cbb59e0d541a1426151acfa90b871ad24bdd26e9073cf304e979768",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-22/Shift_1/Engineering/question_paper_7d9260cdab23f977.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-22-sep-2020-1772.pdf",
+          "subject": null,
+          "pages": 110,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-22/Shift_1/Engineering/metadata_7d9260cdab23f977.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-22/Shift_1/Engineering/question_paper_c7a466871fa5266f.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/2cbefd97-b48a-431c-81c9-1f05695c94e1.pdf",
+          "subject": null,
+          "pages": 110,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-22/Shift_1/Engineering/metadata_c7a466871fa5266f.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-22/Shift_1/Engineering/answer_key_c0fa84b0f644.pdf",
       "separate_answer_key_source": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
       "additional_sources": [
@@ -19022,7 +19183,30 @@
       "text_path": "papers/2020/2020-09-22/Shift_2/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-22/Shift_2/Engineering/metadata.json",
       "content_signature": "b0f8e411be2af7274818a736dcb7b0304b5aff0bd150a7606d1f0d6ba9aec510",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-22/Shift_2/Engineering/question_paper_7e2bfa0beb2e7536.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-afternoon-22-sep-2020-1774.pdf",
+          "subject": null,
+          "pages": 111,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-22/Shift_2/Engineering/metadata_7e2bfa0beb2e7536.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-22/Shift_2/Engineering/question_paper_8bd94172e4a0ed52.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/68f9d98b-aaee-4a1c-aa14-13da69d7dce5.pdf",
+          "subject": null,
+          "pages": 111,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-22/Shift_2/Engineering/metadata_8bd94172e4a0ed52.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-22/Shift_2/Engineering/answer_key_2df8d2aadb82.pdf",
       "separate_answer_key_source": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
       "additional_sources": [
@@ -20710,7 +20894,30 @@
       "text_path": "papers/2020/2020-09-23/Shift_1/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-23/Shift_1/Engineering/metadata.json",
       "content_signature": "2328ea26ab2c174bd6915f3e06a169ecd278b2febdd84d0be80e0741c968661e",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-23/Shift_1/Engineering/question_paper_5c2e01447b5b72f7.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/8dc067be-7977-45f4-b7f1-bbd7ed791382.pdf",
+          "subject": null,
+          "pages": 111,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-23/Shift_1/Engineering/metadata_5c2e01447b5b72f7.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-23/Shift_1/Engineering/question_paper_dec6dd8aa6014a65.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-23-sep-2020-1776.pdf",
+          "subject": null,
+          "pages": 111,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-23/Shift_1/Engineering/metadata_dec6dd8aa6014a65.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-23/Shift_1/Engineering/answer_key_20ab8bd2739c.pdf",
       "separate_answer_key_source": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
       "additional_sources": [
@@ -27528,7 +27735,30 @@
       "text_path": "papers/2020/2020-10-07/Shift_1/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-10-07/Shift_1/Engineering/metadata.json",
       "content_signature": "10262361c9a689b973ba0bc031218e8e1e6032fee6bbc08f44f894ba5845a75c",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-10-07/Shift_1/Engineering/question_paper_63f40dc8b9d68461.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2021-03-29/8b337b95-88da-4557-8d0f-2381afcd2d7b.pdf",
+          "subject": null,
+          "pages": 107,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-10-07/Shift_1/Engineering/metadata_63f40dc8b9d68461.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-10-07/Shift_1/Engineering/question_paper_83ff261d2cf0e43f.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-07-oct-2020-1778.pdf",
+          "subject": null,
+          "pages": 107,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-10-07/Shift_1/Engineering/metadata_83ff261d2cf0e43f.json",
+          "key_version": true
+        }
+      ],
       "additional_sources": [
         {
           "source": "CollegeDekho",
@@ -31591,7 +31821,19 @@
       "answers_mapped": 160,
       "content_signature": "be846e3a94f96e6996f6a250ded033fc068e5992d64bc8776e8dbb108a807120",
       "text_path": "papers/2025/2025-05-19/Shift_1/Agriculture_Pharmacy/question_paper_text.txt",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2025/2025-05-19/Shift_1/Agriculture_Pharmacy/question_paper_5ea17421772d8154.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-agriculture-pharmacy-shift-1-19th-may-2025-question-paper-2025-2987.pdf",
+          "subject": null,
+          "pages": 85,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2025/2025-05-19/Shift_1/Agriculture_Pharmacy/metadata_5ea17421772d8154.json",
+          "key_version": true
+        }
+      ],
       "additional_sources": [
         {
           "source": "CareerIndia",
@@ -31897,7 +32139,19 @@
           "content_signature": "c8b738d264e1fbeb5249ec6ab9de9bc86c0dcf5426ad9100b8643de6b7d83318"
         }
       ],
-      "attachments": []
+      "attachments": [
+        {
+          "pdf_path": "papers/2025/2025-05-22/Shift_2/Engineering/question_paper.pdf",
+          "source": "SelfStudys",
+          "source_url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/year-wise/2025/ap-eamcet-22-may-2025-shift-2/1206071",
+          "download_url": "https://www.selfstudys.com/sitepdfs/0pe1XZprZAwc7LEYnGyH",
+          "subject": null,
+          "pages": 110,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2025/2025-05-22/Shift_2/Engineering/metadata.json",
+          "key_version": true
+        }
+      ]
     },
     {
       "source": "APSCHE (official)",
@@ -32651,7 +32905,19 @@
       "answers_mapped": 160,
       "content_signature": "be846e3a94f96e6996f6a250ded033fc068e5992d64bc8776e8dbb108a807120",
       "text_path": "papers/2025/2025-05-19/Shift_1/Agriculture_Pharmacy/question_paper_text.txt",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2025/2025-05-19/Shift_1/Agriculture_Pharmacy/question_paper_5ea17421772d8154.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-agriculture-pharmacy-shift-1-19th-may-2025-question-paper-2025-2987.pdf",
+          "subject": null,
+          "pages": 85,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2025/2025-05-19/Shift_1/Agriculture_Pharmacy/metadata_5ea17421772d8154.json",
+          "key_version": true
+        }
+      ],
       "additional_sources": [
         {
           "source": "CareerIndia",
@@ -32957,7 +33223,19 @@
           "content_signature": "c8b738d264e1fbeb5249ec6ab9de9bc86c0dcf5426ad9100b8643de6b7d83318"
         }
       ],
-      "attachments": []
+      "attachments": [
+        {
+          "pdf_path": "papers/2025/2025-05-22/Shift_2/Engineering/question_paper.pdf",
+          "source": "SelfStudys",
+          "source_url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/year-wise/2025/ap-eamcet-22-may-2025-shift-2/1206071",
+          "download_url": "https://www.selfstudys.com/sitepdfs/0pe1XZprZAwc7LEYnGyH",
+          "subject": null,
+          "pages": 110,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2025/2025-05-22/Shift_2/Engineering/metadata.json",
+          "key_version": true
+        }
+      ]
     },
     {
       "source": "APSCHE (official)",
@@ -39015,7 +39293,30 @@
       "text_path": "papers/2020/2020-09-17/Shift_1/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-17/Shift_1/Engineering/metadata.json",
       "content_signature": "6cf3946243bbd367cd54c5c51d3bce6def4c0e3f70bd248f8e58f04af03b1eaf",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-17/Shift_1/Engineering/question_paper_2351be1d78bf8980.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-17-sep-2020-1760.pdf",
+          "subject": null,
+          "pages": 115,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-17/Shift_1/Engineering/metadata_2351be1d78bf8980.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-17/Shift_1/Engineering/question_paper_bba83cdb1873f9e4.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/40fa112f-ed07-4f32-9edd-02340f6ce8e9.pdf",
+          "subject": null,
+          "pages": 115,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-17/Shift_1/Engineering/metadata_bba83cdb1873f9e4.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-17/Shift_1/Engineering/answer_key_3bfcc5b0f6a1.pdf",
       "separate_answer_key_source": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
       "additional_sources": [
@@ -40703,7 +41004,30 @@
       "text_path": "papers/2020/2020-09-17/Shift_2/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-17/Shift_2/Engineering/metadata.json",
       "content_signature": "56c1fe67a750f9408b1dbe31470398b7c01bd9703de041575da990b16356b4c8",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-17/Shift_2/Engineering/question_paper_7e876e151864ea9f.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/6397f3b5-dd5d-4d51-bc6f-dacf457c77e9.pdf",
+          "subject": null,
+          "pages": 109,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-17/Shift_2/Engineering/metadata_7e876e151864ea9f.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-17/Shift_2/Engineering/question_paper_ed4031ff1a35fe49.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-afternoon-17-sep-2020-1762.pdf",
+          "subject": null,
+          "pages": 109,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-17/Shift_2/Engineering/metadata_ed4031ff1a35fe49.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-17/Shift_2/Engineering/answer_key_ba23c7b0b011.pdf",
       "separate_answer_key_source": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
       "additional_sources": [
@@ -42391,7 +42715,30 @@
       "text_path": "papers/2020/2020-09-18/Shift_1/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-18/Shift_1/Engineering/metadata.json",
       "content_signature": "d4d72e064740ac43dd6f1dc1053d2c7eb6f50a7f4725a5e190027b884a38d79f",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-18/Shift_1/Engineering/question_paper_977e6ad81b165338.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/fdfd9c82-b6f1-4174-bf70-b1f525bca0a4.pdf",
+          "subject": null,
+          "pages": 115,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-18/Shift_1/Engineering/metadata_977e6ad81b165338.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-18/Shift_1/Engineering/question_paper_ccd35bd3ad8fc811.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-18-sep-2020-1764.pdf",
+          "subject": null,
+          "pages": 115,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-18/Shift_1/Engineering/metadata_ccd35bd3ad8fc811.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-18/Shift_1/Engineering/answer_key_f927c2f7414a.pdf",
       "separate_answer_key_source": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
       "additional_sources": [
@@ -44079,7 +44426,30 @@
       "text_path": "papers/2020/2020-09-18/Shift_2/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-18/Shift_2/Engineering/metadata.json",
       "content_signature": "2bc21dc88a7a953c2a82fd0b64b41f43659d6bb0b363035b41bda5853678db21",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-18/Shift_2/Engineering/question_paper_17fdc27819f9886b.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-afternoon-18-sep-2020-1766.pdf",
+          "subject": null,
+          "pages": 114,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-18/Shift_2/Engineering/metadata_17fdc27819f9886b.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-18/Shift_2/Engineering/question_paper_501a799771f51820.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/91d65833-05eb-48ed-9f5e-f54eb46360de.pdf",
+          "subject": null,
+          "pages": 114,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-18/Shift_2/Engineering/metadata_501a799771f51820.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-18/Shift_2/Engineering/answer_key_5ae24366e171.pdf",
       "separate_answer_key_source": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
       "additional_sources": [
@@ -45767,7 +46137,30 @@
       "text_path": "papers/2020/2020-09-21/Shift_1/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-21/Shift_1/Engineering/metadata.json",
       "content_signature": "437ae71b018c55cb050f42a01050f9816f482652e1b1db050678df58ef77f6bb",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-21/Shift_1/Engineering/question_paper_390d16ba1fd7b4b4.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-21-sep-2020-1768.pdf",
+          "subject": null,
+          "pages": 109,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-21/Shift_1/Engineering/metadata_390d16ba1fd7b4b4.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-21/Shift_1/Engineering/question_paper_6fb58f821b7735d8.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/8c530346-cc0d-4657-9cd6-23b5d0219216.pdf",
+          "subject": null,
+          "pages": 109,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-21/Shift_1/Engineering/metadata_6fb58f821b7735d8.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-21/Shift_1/Engineering/answer_key_b201875596bd.pdf",
       "separate_answer_key_source": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
       "additional_sources": [
@@ -47455,7 +47848,30 @@
       "text_path": "papers/2020/2020-09-21/Shift_2/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-21/Shift_2/Engineering/metadata.json",
       "content_signature": "fe3f4d9a72c5800924c9cdf7b5ca94d5f8502520378cf236fee4d6ab507f5cfb",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-21/Shift_2/Engineering/question_paper_0577f78156a4900e.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-afternoon-21-sep-2020-1770.pdf",
+          "subject": null,
+          "pages": 111,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-21/Shift_2/Engineering/metadata_0577f78156a4900e.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-21/Shift_2/Engineering/question_paper_8d2a79acafc30341.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/d7fc0e3a-9e53-4696-a99a-67559c30c5f4.pdf",
+          "subject": null,
+          "pages": 111,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-21/Shift_2/Engineering/metadata_8d2a79acafc30341.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-21/Shift_2/Engineering/answer_key_1149dcd9b578.pdf",
       "separate_answer_key_source": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
       "additional_sources": [
@@ -49143,7 +49559,30 @@
       "text_path": "papers/2020/2020-09-22/Shift_1/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-22/Shift_1/Engineering/metadata.json",
       "content_signature": "ae1e2bae0cbb59e0d541a1426151acfa90b871ad24bdd26e9073cf304e979768",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-22/Shift_1/Engineering/question_paper_7d9260cdab23f977.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-22-sep-2020-1772.pdf",
+          "subject": null,
+          "pages": 110,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-22/Shift_1/Engineering/metadata_7d9260cdab23f977.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-22/Shift_1/Engineering/question_paper_c7a466871fa5266f.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/2cbefd97-b48a-431c-81c9-1f05695c94e1.pdf",
+          "subject": null,
+          "pages": 110,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-22/Shift_1/Engineering/metadata_c7a466871fa5266f.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-22/Shift_1/Engineering/answer_key_c0fa84b0f644.pdf",
       "separate_answer_key_source": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
       "additional_sources": [
@@ -50831,7 +51270,30 @@
       "text_path": "papers/2020/2020-09-22/Shift_2/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-22/Shift_2/Engineering/metadata.json",
       "content_signature": "b0f8e411be2af7274818a736dcb7b0304b5aff0bd150a7606d1f0d6ba9aec510",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-22/Shift_2/Engineering/question_paper_7e2bfa0beb2e7536.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-afternoon-22-sep-2020-1774.pdf",
+          "subject": null,
+          "pages": 111,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-22/Shift_2/Engineering/metadata_7e2bfa0beb2e7536.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-22/Shift_2/Engineering/question_paper_8bd94172e4a0ed52.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/68f9d98b-aaee-4a1c-aa14-13da69d7dce5.pdf",
+          "subject": null,
+          "pages": 111,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-22/Shift_2/Engineering/metadata_8bd94172e4a0ed52.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-22/Shift_2/Engineering/answer_key_2df8d2aadb82.pdf",
       "separate_answer_key_source": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
       "additional_sources": [
@@ -52519,7 +52981,30 @@
       "text_path": "papers/2020/2020-09-23/Shift_1/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-09-23/Shift_1/Engineering/metadata.json",
       "content_signature": "2328ea26ab2c174bd6915f3e06a169ecd278b2febdd84d0be80e0741c968661e",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-09-23/Shift_1/Engineering/question_paper_5c2e01447b5b72f7.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/8dc067be-7977-45f4-b7f1-bbd7ed791382.pdf",
+          "subject": null,
+          "pages": 111,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-23/Shift_1/Engineering/metadata_5c2e01447b5b72f7.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-09-23/Shift_1/Engineering/question_paper_dec6dd8aa6014a65.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-23-sep-2020-1776.pdf",
+          "subject": null,
+          "pages": 111,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-09-23/Shift_1/Engineering/metadata_dec6dd8aa6014a65.json",
+          "key_version": true
+        }
+      ],
       "answer_key_pdf": "papers/2020/2020-09-23/Shift_1/Engineering/answer_key_20ab8bd2739c.pdf",
       "separate_answer_key_source": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
       "additional_sources": [
@@ -54207,7 +54692,30 @@
       "text_path": "papers/2020/2020-10-07/Shift_1/Engineering/question_paper_text.txt",
       "metadata_path": "papers/2020/2020-10-07/Shift_1/Engineering/metadata.json",
       "content_signature": "10262361c9a689b973ba0bc031218e8e1e6032fee6bbc08f44f894ba5845a75c",
-      "attachments": [],
+      "attachments": [
+        {
+          "pdf_path": "papers/2020/2020-10-07/Shift_1/Engineering/question_paper_63f40dc8b9d68461.pdf",
+          "source": "CollegeDekho",
+          "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+          "download_url": "https://static.collegedekho.com/media/django-summernote/2021-03-29/8b337b95-88da-4557-8d0f-2381afcd2d7b.pdf",
+          "subject": null,
+          "pages": 107,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-10-07/Shift_1/Engineering/metadata_63f40dc8b9d68461.json",
+          "key_version": true
+        },
+        {
+          "pdf_path": "papers/2020/2020-10-07/Shift_1/Engineering/question_paper_83ff261d2cf0e43f.pdf",
+          "source": "CareerIndia",
+          "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+          "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-07-oct-2020-1778.pdf",
+          "subject": null,
+          "pages": 107,
+          "description": "Alternative paper/key document with extracted answer differences",
+          "metadata_path": "papers/2020/2020-10-07/Shift_1/Engineering/metadata_83ff261d2cf0e43f.json",
+          "key_version": true
+        }
+      ],
       "additional_sources": [
         {
           "source": "CollegeDekho",
@@ -56241,6 +56749,40 @@
       ],
       "additional_sources": [],
       "stream_verification": "OCR ENGINEERING header"
+    },
+    {
+      "source": "SelfStudys",
+      "source_url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/year-wise/2025/ap-eamcet-22-may-2025-shift-2/1206071",
+      "title": "ap eamcet 22 may 2025 shift 2",
+      "download_url": "https://www.selfstudys.com/sitepdfs/0pe1XZprZAwc7LEYnGyH",
+      "viewer_url": "https://www.selfstudys.com/advance-pdf-viewer/ap-eamcet-previous-year-paper/english/year-wise/2025/ap-eamcet-22-may-2025-shift-2/1206071",
+      "paper_id": "2025_2025-05-22_Shift_2_Engineering_a8d2d6ca",
+      "year": 2025,
+      "exam_date": "2025-05-22",
+      "shift": "Shift_2",
+      "stream": "Engineering",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper.pdf",
+      "pdf_path": "papers/2025/2025-05-22/Shift_2/Engineering/question_paper.pdf",
+      "sha256": "a8d2d6cafbf11a49a1fbc8859504017ce3fcfecefa09745153346ab0d65c7707",
+      "pages": 110,
+      "metadata_evidence": "Andhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 22nd May 2025 Shift 2\nSubject Name :\nENGINEERING\nCreation Date :\n2025-05-22 19:00:06\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nChange Font Color :\nNo\nChange Background Color :\nNo\nChange Theme :\nNo\nHelp Button :\nNo\nShow Reports :\nNo\nShow Progress Bar :\nNo\n \n \n \n \nENGINEERING\nGroup Number :\n1\nGroup Id :\n64041187\nGroup Maximum Duration :\n0\nGroup Minimum Duration :\n180\nShow Attended Group? :\nNo\nEdit Attended Group? :\nNo\nBreak time :\n0\nGroup Marks :\n160\n \n \n \n \nMathematics\nSection Id :\n640411291\nSection Number :\n1\nSection type :\nOnline\nMandatory or Optional :\nMandatory\n\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nMaximum Instruction Time :\n0\nSub-Section Number :\n1\nSub-Section Id :\n640411291\nQuestion Shuffling Allowed :\nYes\n \n \nQuestion Number : 1 Question Id : 64041113761 Question Type : MCQ Option Shuffling : Yes \nDisplay Question Number : Yes\nCorrect Marks : 1 Wrong Marks : 0\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 2 Question Id : 64041113762 Question Type : MCQ Option Shuffling : Yes \nDisplay Question Number : Yes\nCorrect Marks : 1 Wrong Marks : 0\n\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 64041113763 Question Type : MCQ Option Shuffling : Yes \nDisplay Question Number : Yes\nCorrect Marks : 1 Wrong Marks : 0\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n\n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 64041113764 Question Type : MCQ Option Shuffling : Yes \nDisplay Question Number : Yes\nCorrect Marks : 1 Wrong Marks : 0\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 5 Question Id : 64041113765 Question Type : MCQ Option Shuffling : Yes \nDisplay Question Number : Yes\nCorrect Marks : 1 Wrong Marks : 0\nOptions :\n1. \n \n\n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 64041113766 Question Type : MCQ Option Shuffling : Yes \nDisplay Question Number : Yes\nCorrect Marks : 1 Wrong Marks : 0\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 7 Question Id : 64041113767 Question Type : MCQ Option Shuffling : Yes \nDisplay Question Number : Yes\nCorrect Marks : 1 Wrong Marks : 0\n\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "text_path": "papers/2025/2025-05-22/Shift_2/Engineering/question_paper_text.txt",
+      "metadata_path": "papers/2025/2025-05-22/Shift_2/Engineering/metadata.json",
+      "content_signature": "c8b738d264e1fbeb5249ec6ab9de9bc86c0dcf5426ad9100b8643de6b7d83318",
+      "attachments": [],
+      "additional_sources": []
     },
     {
       "source": "UPI QP Bank",
@@ -59028,6 +59570,573 @@
       "content_signature": null,
       "text_path": "papers/2019/2019-04-24/Shift_2/Agriculture_Pharmacy/question_paper_9b3ca1d1f870_text.txt",
       "attachments": [],
+      "additional_sources": []
+    },
+    {
+      "source": "CareerIndia",
+      "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+      "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-17-sep-2020-1760.pdf",
+      "title": "AP EAMCET Engineering Question Paper (Morning) 17 Sep, 2020",
+      "stream": "Engineering",
+      "paper_type_hint": "question_paper",
+      "paper_id": "2020_2020-09-17_Shift_1_Engineering_beb49464",
+      "year": 2020,
+      "exam_date": "2020-09-17",
+      "shift": "Shift_1",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_2351be1d78bf8980.pdf",
+      "pdf_path": "papers/2020/2020-09-17/Shift_1/Engineering/question_paper_2351be1d78bf8980.pdf",
+      "sha256": "beb4946474efd8992343b625741552925a9b45f33ee6969c78e814c856682bcd",
+      "pages": 115,
+      "metadata_evidence": "www.careerindia.com\nAP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 17th Sep 2020 Shift1\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-18 11:40:31\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 8135611 Question Type : MCQ Display Question Number : \nYes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \nQuestion Number : 2 Question Id : 8135612 Question Type : MCQ Display Question Number : \nYes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 8135613 Question Type : MCQ Display Question Number : \nYes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 8135614 Question Type : MCQ Display Question Number : \nYes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 5 Question Id : 8135615 Question Type : MCQ Display Question Number : \nYes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 8135616 Question Type : MCQ Display Question Number : \nYes Is Que",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-17/Shift_1/Engineering/metadata_2351be1d78bf8980.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "6cf3946243bbd367cd54c5c51d3bce6def4c0e3f70bd248f8e58f04af03b1eaf",
+      "additional_sources": []
+    },
+    {
+      "source": "CollegeDekho",
+      "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+      "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/40fa112f-ed07-4f32-9edd-02340f6ce8e9.pdf",
+      "title": "AP EAMCET 2020 Engineering Question Paper & Answer Key (PDF Download) September 17, 2020 Shift 1 Shift 2 Shift 1 Shift 2",
+      "stream": "Engineering",
+      "paper_id": "2020_2020-09-17_Shift_1_Engineering_40198c45",
+      "year": 2020,
+      "exam_date": "2020-09-17",
+      "shift": "Shift_1",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_bba83cdb1873f9e4.pdf",
+      "pdf_path": "papers/2020/2020-09-17/Shift_1/Engineering/question_paper_bba83cdb1873f9e4.pdf",
+      "sha256": "40198c45ce346200ba8ee702b4e85c2e0ec01834f390ee261a0390c5d6c9d3b1",
+      "pages": 115,
+      "metadata_evidence": "AP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 17th Sep 2020 Shift1\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-18 11:40:31\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 8135611 Question Type : MCQ Display Question Number : \nYes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \nQuestion Number : 2 Question Id : 8135612 Question Type : MCQ Display Question Number : \nYes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 8135613 Question Type : MCQ Display Question Number : \nYes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 8135614 Question Type : MCQ Display Question Number : \nYes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 5 Question Id : 8135615 Question Type : MCQ Display Question Number : \nYes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nAP EAMCET 2020\n\nAP EAMCET 2020\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 8135616 Question Type : MCQ Display Question Number : \nYes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n ",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-17/Shift_1/Engineering/metadata_bba83cdb1873f9e4.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "6cf3946243bbd367cd54c5c51d3bce6def4c0e3f70bd248f8e58f04af03b1eaf",
+      "additional_sources": []
+    },
+    {
+      "source": "CollegeDekho",
+      "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+      "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/6397f3b5-dd5d-4d51-bc6f-dacf457c77e9.pdf",
+      "title": "AP EAMCET 2020 Engineering Question Paper & Answer Key (PDF Download) September 17, 2020 Shift 1 Shift 2 Shift 1 Shift 2",
+      "stream": "Engineering",
+      "paper_id": "2020_2020-09-17_Shift_2_Engineering_4874ea0f",
+      "year": 2020,
+      "exam_date": "2020-09-17",
+      "shift": "Shift_2",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_7e876e151864ea9f.pdf",
+      "pdf_path": "papers/2020/2020-09-17/Shift_2/Engineering/question_paper_7e876e151864ea9f.pdf",
+      "sha256": "4874ea0f4234a583c394f007ee1fa4d845da606461f4cc06eea4fce1d8ec3b62",
+      "pages": 109,
+      "metadata_evidence": "AP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 17th Sep 2020 Shift2\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-18 11:41:03\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 813561161 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \n \n \nQuestion Number : 2 Question Id : 813561162 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 813561163 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 813561164 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 5 Question Id : 813561165 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nAP EAMCET 2020\n\nAP EAMCET 2020\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 813561166 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOpt",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-17/Shift_2/Engineering/metadata_7e876e151864ea9f.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "56c1fe67a750f9408b1dbe31470398b7c01bd9703de041575da990b16356b4c8",
+      "additional_sources": []
+    },
+    {
+      "source": "CareerIndia",
+      "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+      "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-afternoon-17-sep-2020-1762.pdf",
+      "title": "AP EAMCET Engineering Question Paper (Afternoon) 17 Sep, 2020",
+      "stream": "Engineering",
+      "paper_type_hint": "question_paper",
+      "paper_id": "2020_2020-09-17_Shift_2_Engineering_0a7bbcdf",
+      "year": 2020,
+      "exam_date": "2020-09-17",
+      "shift": "Shift_2",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_ed4031ff1a35fe49.pdf",
+      "pdf_path": "papers/2020/2020-09-17/Shift_2/Engineering/question_paper_ed4031ff1a35fe49.pdf",
+      "sha256": "0a7bbcdf70c0f8289fcdcec5447dda8124c7d6231d5dfdbdfa18bdaedd1eb3fd",
+      "pages": 109,
+      "metadata_evidence": "www.careerindia.com\nAP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 17th Sep 2020 Shift2\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-18 11:41:03\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 813561161 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \n \n \nQuestion Number : 2 Question Id : 813561162 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 813561163 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 813561164 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 5 Question Id : 813561165 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 813561166 Question Type : MCQ Display Question Number \n",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-17/Shift_2/Engineering/metadata_ed4031ff1a35fe49.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "56c1fe67a750f9408b1dbe31470398b7c01bd9703de041575da990b16356b4c8",
+      "additional_sources": []
+    },
+    {
+      "source": "CollegeDekho",
+      "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+      "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/fdfd9c82-b6f1-4174-bf70-b1f525bca0a4.pdf",
+      "title": "AP EAMCET 2020 Engineering Question Paper & Answer Key (PDF Download) September 18, 2020 Shift 1 Shift 2 Shift 1 Shift 2",
+      "stream": "Engineering",
+      "paper_id": "2020_2020-09-18_Shift_1_Engineering_42001482",
+      "year": 2020,
+      "exam_date": "2020-09-18",
+      "shift": "Shift_1",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_977e6ad81b165338.pdf",
+      "pdf_path": "papers/2020/2020-09-18/Shift_1/Engineering/question_paper_977e6ad81b165338.pdf",
+      "sha256": "420014820259896b3bb0798005ef9505070ffab040d1a1786dd51b2f5082880a",
+      "pages": 115,
+      "metadata_evidence": "AP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 18th Sep 2020 Shift1\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-18 14:17:15\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 813561321 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\nQuestion Number : 2 Question Id : 813561322 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 813561323 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 813561324 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n4. \n \n \n \n \n \nQuestion Number : 5 Question Id : 813561325 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 813561326 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOpt",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-18/Shift_1/Engineering/metadata_977e6ad81b165338.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "d4d72e064740ac43dd6f1dc1053d2c7eb6f50a7f4725a5e190027b884a38d79f",
+      "additional_sources": []
+    },
+    {
+      "source": "CareerIndia",
+      "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+      "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-18-sep-2020-1764.pdf",
+      "title": "AP EAMCET Engineering Question Paper (Morning) - 18 Sep, 2020",
+      "stream": "Engineering",
+      "paper_type_hint": "question_paper",
+      "paper_id": "2020_2020-09-18_Shift_1_Engineering_85b28f97",
+      "year": 2020,
+      "exam_date": "2020-09-18",
+      "shift": "Shift_1",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_ccd35bd3ad8fc811.pdf",
+      "pdf_path": "papers/2020/2020-09-18/Shift_1/Engineering/question_paper_ccd35bd3ad8fc811.pdf",
+      "sha256": "85b28f97dd5868a57f97b59bae9f4ab505e93b497353d333b2aaac33b43154bf",
+      "pages": 115,
+      "metadata_evidence": "www.careerindia.com\nAP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 18th Sep 2020 Shift1\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-18 14:17:15\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 813561321 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\nQuestion Number : 2 Question Id : 813561322 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 813561323 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 813561324 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n4. \n \n \n \n \n \nQuestion Number : 5 Question Id : 813561325 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 813561326 Question Type : MCQ Display Question Number \n",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-18/Shift_1/Engineering/metadata_ccd35bd3ad8fc811.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "d4d72e064740ac43dd6f1dc1053d2c7eb6f50a7f4725a5e190027b884a38d79f",
+      "additional_sources": []
+    },
+    {
+      "source": "CareerIndia",
+      "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+      "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-afternoon-18-sep-2020-1766.pdf",
+      "title": "AP EAMCET Engineering Question Paper (Afternoon) 18 Sep, 2020",
+      "stream": "Engineering",
+      "paper_type_hint": "question_paper",
+      "paper_id": "2020_2020-09-18_Shift_2_Engineering_f1f74528",
+      "year": 2020,
+      "exam_date": "2020-09-18",
+      "shift": "Shift_2",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_17fdc27819f9886b.pdf",
+      "pdf_path": "papers/2020/2020-09-18/Shift_2/Engineering/question_paper_17fdc27819f9886b.pdf",
+      "sha256": "f1f74528555853ac9e15a5f20b5d1660a1d38df7f330aebd050d35e0e1a5987b",
+      "pages": 114,
+      "metadata_evidence": "www.careerindia.com\nAP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 18th Sep 2020 Shift2\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-18 19:04:11\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 813561481 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n4. \n \n \n \n \n \nQuestion Number : 2 Question Id : 813561482 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 813561483 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 813561484 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\nQuestion Number : 5 Question Id : 813561485 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 813561486 Question Type : MCQ Display Question Number \n",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-18/Shift_2/Engineering/metadata_17fdc27819f9886b.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "2bc21dc88a7a953c2a82fd0b64b41f43659d6bb0b363035b41bda5853678db21",
+      "additional_sources": []
+    },
+    {
+      "source": "CollegeDekho",
+      "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+      "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/91d65833-05eb-48ed-9f5e-f54eb46360de.pdf",
+      "title": "AP EAMCET 2020 Engineering Question Paper & Answer Key (PDF Download) September 18, 2020 Shift 1 Shift 2 Shift 1 Shift 2",
+      "stream": "Engineering",
+      "paper_id": "2020_2020-09-18_Shift_2_Engineering_0d47f79a",
+      "year": 2020,
+      "exam_date": "2020-09-18",
+      "shift": "Shift_2",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_501a799771f51820.pdf",
+      "pdf_path": "papers/2020/2020-09-18/Shift_2/Engineering/question_paper_501a799771f51820.pdf",
+      "sha256": "0d47f79abcf10cf2ffc203735c6ba2e4954141bcc30645ca05e3bbea31a741e7",
+      "pages": 114,
+      "metadata_evidence": "AP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 18th Sep 2020 Shift2\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-18 19:04:11\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 813561481 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n4. \n \n \n \n \n \nQuestion Number : 2 Question Id : 813561482 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 813561483 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nAP EAMCET 2020\n\nAP EAMCET 2020\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 813561484 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\nQuestion Number : 5 Question Id : 813561485 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 813561486 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nAP ",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-18/Shift_2/Engineering/metadata_501a799771f51820.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "2bc21dc88a7a953c2a82fd0b64b41f43659d6bb0b363035b41bda5853678db21",
+      "additional_sources": []
+    },
+    {
+      "source": "CareerIndia",
+      "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+      "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-21-sep-2020-1768.pdf",
+      "title": "AP EAMCET Engineering Question Paper (Morning) 21 Sep, 2020",
+      "stream": "Engineering",
+      "paper_type_hint": "question_paper",
+      "paper_id": "2020_2020-09-21_Shift_1_Engineering_484d90a8",
+      "year": 2020,
+      "exam_date": "2020-09-21",
+      "shift": "Shift_1",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_390d16ba1fd7b4b4.pdf",
+      "pdf_path": "papers/2020/2020-09-21/Shift_1/Engineering/question_paper_390d16ba1fd7b4b4.pdf",
+      "sha256": "484d90a8fc5fc257d59733c120baf5848b79bcde02ee46c8dfcb4b8fc082f244",
+      "pages": 109,
+      "metadata_evidence": "www.careerindia.com\nAP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 21st Sep 2020 Shift1\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-21 13:28:47\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 813561641 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \n \nQuestion Number : 2 Question Id : 813561642 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 813561643 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 813561644 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\nQuestion Number : 5 Question Id : 813561645 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 813561646 Question Type : MCQ Display Question Number \n",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-21/Shift_1/Engineering/metadata_390d16ba1fd7b4b4.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "437ae71b018c55cb050f42a01050f9816f482652e1b1db050678df58ef77f6bb",
+      "additional_sources": []
+    },
+    {
+      "source": "CollegeDekho",
+      "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+      "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/8c530346-cc0d-4657-9cd6-23b5d0219216.pdf",
+      "title": "AP EAMCET 2020 Engineering Question Paper & Answer Key (PDF Download) September 21, 2020 Shift 1 Shift 2 Shift 1 Shift 2",
+      "stream": "Engineering",
+      "paper_id": "2020_2020-09-21_Shift_1_Engineering_92427051",
+      "year": 2020,
+      "exam_date": "2020-09-21",
+      "shift": "Shift_1",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_6fb58f821b7735d8.pdf",
+      "pdf_path": "papers/2020/2020-09-21/Shift_1/Engineering/question_paper_6fb58f821b7735d8.pdf",
+      "sha256": "92427051247066e6352b41da319ab7250fa9b13c6a57f1ebadd1e74ff78f67c9",
+      "pages": 109,
+      "metadata_evidence": "AP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 21st Sep 2020 Shift1\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-21 13:28:47\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 813561641 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \n \nQuestion Number : 2 Question Id : 813561642 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 813561643 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 813561644 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\nQuestion Number : 5 Question Id : 813561645 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 813561646 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOpt",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-21/Shift_1/Engineering/metadata_6fb58f821b7735d8.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "437ae71b018c55cb050f42a01050f9816f482652e1b1db050678df58ef77f6bb",
+      "additional_sources": []
+    },
+    {
+      "source": "CareerIndia",
+      "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+      "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-afternoon-21-sep-2020-1770.pdf",
+      "title": "AP EAMCET Engineering Question Paper (Afternoon) 21 Sep, 2020",
+      "stream": "Engineering",
+      "paper_type_hint": "question_paper",
+      "paper_id": "2020_2020-09-21_Shift_2_Engineering_2c87c5c0",
+      "year": 2020,
+      "exam_date": "2020-09-21",
+      "shift": "Shift_2",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_0577f78156a4900e.pdf",
+      "pdf_path": "papers/2020/2020-09-21/Shift_2/Engineering/question_paper_0577f78156a4900e.pdf",
+      "sha256": "2c87c5c099f7b4141d15478b0866e1dc0094e433d17e81a813af20f74a7d3aa8",
+      "pages": 111,
+      "metadata_evidence": "www.careerindia.com\nAP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 21st Sep 2020 Shift2\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-21 20:15:18\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Id :\n81356116\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 813561801 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n4. \n \n \n \n \n \nQuestion Number : 2 Question Id : 813561802 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 813561803 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 813561804 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \n4. \n \n \n \n \n \nQuestion Number : 5 Question Id : 813561805 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 813561806 Question Type : MCQ Dis",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-21/Shift_2/Engineering/metadata_0577f78156a4900e.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "fe3f4d9a72c5800924c9cdf7b5ca94d5f8502520378cf236fee4d6ab507f5cfb",
+      "additional_sources": []
+    },
+    {
+      "source": "CollegeDekho",
+      "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+      "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/d7fc0e3a-9e53-4696-a99a-67559c30c5f4.pdf",
+      "title": "AP EAMCET 2020 Engineering Question Paper & Answer Key (PDF Download) September 21, 2020 Shift 1 Shift 2 Shift 1 Shift 2",
+      "stream": "Engineering",
+      "paper_id": "2020_2020-09-21_Shift_2_Engineering_43d49418",
+      "year": 2020,
+      "exam_date": "2020-09-21",
+      "shift": "Shift_2",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_8d2a79acafc30341.pdf",
+      "pdf_path": "papers/2020/2020-09-21/Shift_2/Engineering/question_paper_8d2a79acafc30341.pdf",
+      "sha256": "43d494182d41a10fdfdd7573579e3455229b8b156ccd951568dd789d5ad9c57d",
+      "pages": 111,
+      "metadata_evidence": "AP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 21st Sep 2020 Shift2\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-21 20:15:18\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Id :\n81356116\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 813561801 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n4. \n \n \n \n \n \nQuestion Number : 2 Question Id : 813561802 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 813561803 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nAP EAMCET 2020\n\nAP EAMCET 2020\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 813561804 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \n4. \n \n \n \n \n \nQuestion Number : 5 Question Id : 813561805 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 813561806 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orien",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-21/Shift_2/Engineering/metadata_8d2a79acafc30341.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "fe3f4d9a72c5800924c9cdf7b5ca94d5f8502520378cf236fee4d6ab507f5cfb",
+      "additional_sources": []
+    },
+    {
+      "source": "CareerIndia",
+      "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+      "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-22-sep-2020-1772.pdf",
+      "title": "AP EAMCET Engineering Question Paper (Morning) 22 Sep, 2020",
+      "stream": "Engineering",
+      "paper_type_hint": "question_paper",
+      "paper_id": "2020_2020-09-22_Shift_1_Engineering_7f40111a",
+      "year": 2020,
+      "exam_date": "2020-09-22",
+      "shift": "Shift_1",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_7d9260cdab23f977.pdf",
+      "pdf_path": "papers/2020/2020-09-22/Shift_1/Engineering/question_paper_7d9260cdab23f977.pdf",
+      "sha256": "7f40111a5eddae0bc6fd4bc5ddd6a82f7f9d1f591b289d41a8104d2666059772",
+      "pages": 110,
+      "metadata_evidence": "www.careerindia.com\nAP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 22nd Sep 2020 Shift1\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-22 14:12:53\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Id :\n81356119\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 813561961 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\nQuestion Number : 2 Question Id : 813561962 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 813561963 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 813561964 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 5 Question Id : 813561965 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 813561966 Question Type : MCQ Dis",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-22/Shift_1/Engineering/metadata_7d9260cdab23f977.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "ae1e2bae0cbb59e0d541a1426151acfa90b871ad24bdd26e9073cf304e979768",
+      "additional_sources": []
+    },
+    {
+      "source": "CollegeDekho",
+      "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+      "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/2cbefd97-b48a-431c-81c9-1f05695c94e1.pdf",
+      "title": "AP EAMCET 2020 Engineering Question Paper & Answer Key (PDF Download) September 22, 2020 Shift 1 Shift 2 Shift 1 Shift 2",
+      "stream": "Engineering",
+      "paper_id": "2020_2020-09-22_Shift_1_Engineering_86bffd5f",
+      "year": 2020,
+      "exam_date": "2020-09-22",
+      "shift": "Shift_1",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_c7a466871fa5266f.pdf",
+      "pdf_path": "papers/2020/2020-09-22/Shift_1/Engineering/question_paper_c7a466871fa5266f.pdf",
+      "sha256": "86bffd5f2a6bc82812f26fa8d5d196259278bacca780f40a5883a907f80a33bb",
+      "pages": 110,
+      "metadata_evidence": "AP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 22nd Sep 2020 Shift1\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-22 14:12:53\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Id :\n81356119\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 813561961 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\nQuestion Number : 2 Question Id : 813561962 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 813561963 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 813561964 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 5 Question Id : 813561965 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : \nVertical\nAP EAMCET 2020\n\nAP EAMCET 2020\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 813561966 Question Type : MCQ Display Question Number \n: Yes Is Question Mandatory : No Single Line Question Option : No Option Orien",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-22/Shift_1/Engineering/metadata_c7a466871fa5266f.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "ae1e2bae0cbb59e0d541a1426151acfa90b871ad24bdd26e9073cf304e979768",
+      "additional_sources": []
+    },
+    {
+      "source": "CareerIndia",
+      "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+      "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-afternoon-22-sep-2020-1774.pdf",
+      "title": "AP EAMCET Engineering Question Paper (Afternoon) 22 Sep, 2020",
+      "stream": "Engineering",
+      "paper_type_hint": "question_paper",
+      "paper_id": "2020_2020-09-22_Shift_2_Engineering_c3abf4c2",
+      "year": 2020,
+      "exam_date": "2020-09-22",
+      "shift": "Shift_2",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_7e2bfa0beb2e7536.pdf",
+      "pdf_path": "papers/2020/2020-09-22/Shift_2/Engineering/question_paper_7e2bfa0beb2e7536.pdf",
+      "sha256": "c3abf4c214727f706ea6b481b81bd984fc5442a132deabe72f664b09ea34cfe3",
+      "pages": 111,
+      "metadata_evidence": "www.careerindia.com\nAP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 22nd Sep 2020 Shift2\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-22 20:19:32\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Id :\n81356122\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 8135611121 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\nQuestion Number : 2 Question Id : 8135611122 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 8135611123 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 8135611124 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 5 Question Id : 8135611125 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 8135611126 Question Type : M",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-22/Shift_2/Engineering/metadata_7e2bfa0beb2e7536.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "b0f8e411be2af7274818a736dcb7b0304b5aff0bd150a7606d1f0d6ba9aec510",
+      "additional_sources": []
+    },
+    {
+      "source": "CollegeDekho",
+      "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+      "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/68f9d98b-aaee-4a1c-aa14-13da69d7dce5.pdf",
+      "title": "AP EAMCET 2020 Engineering Question Paper & Answer Key (PDF Download) September 22, 2020 Shift 1 Shift 2 Shift 1 Shift 2",
+      "stream": "Engineering",
+      "paper_id": "2020_2020-09-22_Shift_2_Engineering_1058056d",
+      "year": 2020,
+      "exam_date": "2020-09-22",
+      "shift": "Shift_2",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_8bd94172e4a0ed52.pdf",
+      "pdf_path": "papers/2020/2020-09-22/Shift_2/Engineering/question_paper_8bd94172e4a0ed52.pdf",
+      "sha256": "1058056d1fb4334accacc0a8ac27b852552a21c6e13cf1b8de26eca74b2aa997",
+      "pages": 111,
+      "metadata_evidence": "AP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 22nd Sep 2020 Shift2\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-22 20:19:32\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Id :\n81356122\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 8135611121 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\nQuestion Number : 2 Question Id : 8135611122 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 8135611123 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nAP EAMCET 2020\n\nAP EAMCET 2020\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 8135611124 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 5 Question Id : 8135611125 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 8135611126 Question Type : MCQ Display Question \nAP EAMCET 2020\n\nAP EAMCET 2020\nNumber : Yes Is Question Mandatory : No Single L",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-22/Shift_2/Engineering/metadata_8bd94172e4a0ed52.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "b0f8e411be2af7274818a736dcb7b0304b5aff0bd150a7606d1f0d6ba9aec510",
+      "additional_sources": []
+    },
+    {
+      "source": "CollegeDekho",
+      "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+      "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/8dc067be-7977-45f4-b7f1-bbd7ed791382.pdf",
+      "title": "AP EAMCET 2020 Engineering Question Paper & Answer Key (PDF Download) September 23, 2020 Shift 1 Shift 1",
+      "stream": "Engineering",
+      "paper_id": "2020_2020-09-23_Shift_1_Engineering_fc2d0829",
+      "year": 2020,
+      "exam_date": "2020-09-23",
+      "shift": "Shift_1",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_5c2e01447b5b72f7.pdf",
+      "pdf_path": "papers/2020/2020-09-23/Shift_1/Engineering/question_paper_5c2e01447b5b72f7.pdf",
+      "sha256": "fc2d0829f90d6091c8244cac7aa8e7ac63037fe0608e763c8966793a6fc5f328",
+      "pages": 111,
+      "metadata_evidence": "AP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 23rd Sep 2020 Shift1\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-23 20:19:18\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Number :\n1\nSection type :\nOnline\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 8135611281 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 2 Question Id : 8135611282 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 8135611283 Question Type : MCQ Display Question \nAP EAMCET 2020\n\nAP EAMCET 2020\nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 8135611284 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \n \nQuestion Number : 5 Question Id : 8135611285 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 8135611286 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-23/Shift_1/Engineering/metadata_5c2e01447b5b72f7.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "2328ea26ab2c174bd6915f3e06a169ecd278b2febdd84d0be80e0741c968661e",
+      "additional_sources": []
+    },
+    {
+      "source": "CareerIndia",
+      "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+      "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-23-sep-2020-1776.pdf",
+      "title": "AP EAMCET Engineering Question Paper (Morning) 23 Sep, 2020",
+      "stream": "Engineering",
+      "paper_type_hint": "question_paper",
+      "paper_id": "2020_2020-09-23_Shift_1_Engineering_cb7128c3",
+      "year": 2020,
+      "exam_date": "2020-09-23",
+      "shift": "Shift_1",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_dec6dd8aa6014a65.pdf",
+      "pdf_path": "papers/2020/2020-09-23/Shift_1/Engineering/question_paper_dec6dd8aa6014a65.pdf",
+      "sha256": "cb7128c30d4fb3d038847f7a8b36bd7f7fd7105780e8c12bfcf03221666dcae4",
+      "pages": 111,
+      "metadata_evidence": "www.careerindia.com\nAP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 23rd Sep 2020 Shift1\nSubject Name :\nENGINEERING\nCreation Date :\n2020-09-23 20:19:18\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nIs this Group for Examiner? :\nNo\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \n \n \nMathematics\nSection Number :\n1\nSection type :\nOnline\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nDisplay Number Panel :\nYes\nGroup All Questions :\nYes\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 8135611281 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 2 Question Id : 8135611282 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 8135611283 Question Type : MCQ Display Question \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 8135611284 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \n \nQuestion Number : 5 Question Id : 8135611285 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Single Line Question Option : No Option \nOrientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 8135611286 Question Type : M",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-09-23/Shift_1/Engineering/metadata_dec6dd8aa6014a65.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "2328ea26ab2c174bd6915f3e06a169ecd278b2febdd84d0be80e0741c968661e",
       "additional_sources": []
     },
     {
@@ -64161,6 +65270,69 @@
       "separate_answer_key_source": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers"
     },
     {
+      "source": "CollegeDekho",
+      "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+      "download_url": "https://static.collegedekho.com/media/django-summernote/2021-03-29/8b337b95-88da-4557-8d0f-2381afcd2d7b.pdf",
+      "title": "AP EAMCET 2020 Engineering Question Paper & Answer Key (PDF Download) October 07, 2020 Click Here Click Here",
+      "stream": "Engineering",
+      "paper_id": "2020_2020-10-07_Shift_1_Engineering_2d09e156",
+      "year": 2020,
+      "exam_date": "2020-10-07",
+      "shift": "Shift_1",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_63f40dc8b9d68461.pdf",
+      "pdf_path": "papers/2020/2020-10-07/Shift_1/Engineering/question_paper_63f40dc8b9d68461.pdf",
+      "sha256": "2d09e15686a2631d18cd834aec991a66ed082c36335409920ac1dc84ebb699b0",
+      "pages": 107,
+      "metadata_evidence": "AP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 7th Oct 2020 Shift 1\nSubject Name :\nENGINEERING\nCreation Date :\n2020-10-07 12:17:34\nDuration :\n180\nNumber of Questions :\n160\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nAP EAMCET 2020\n\nAP EAMCET 2020\nIs this Group for Examiner? :\nNo\n \n \n \n \nMathematics\nSection Id :\n81356148\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nSection Marks :\n80\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 8135612241 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Option Orientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 2 Question Id : 8135612242 Question Type : MCQ Display Question \nAP EAMCET 2020\n\nAP EAMCET 2020\nNumber : Yes Is Question Mandatory : No Option Orientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 8135612243 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Option Orientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 8135612244 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Option Orientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 5 Question Id : 8135612245 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Option Orientation : Vertical\nAP EAMCET 2020\n\nAP EAMCET 2020\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 8135612246 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Option Orientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \nAP EAMCET 2020\n\nAP EAMCET 2020\n \n \n \n \nQuestion Number : 7 Question Id : 8135612247 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Option Orientation : Vertical\nOptions :",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-10-07/Shift_1/Engineering/metadata_63f40dc8b9d68461.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "10262361c9a689b973ba0bc031218e8e1e6032fee6bbc08f44f894ba5845a75c",
+      "additional_sources": []
+    },
+    {
+      "source": "CareerIndia",
+      "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+      "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-07-oct-2020-1778.pdf",
+      "title": "AP EAMCET Engineering Question Paper (Morning) 07 Oct, 2020",
+      "stream": "Engineering",
+      "paper_type_hint": "question_paper",
+      "paper_id": "2020_2020-10-07_Shift_1_Engineering_d656450c",
+      "year": 2020,
+      "exam_date": "2020-10-07",
+      "shift": "Shift_1",
+      "subjects": [
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_83ff261d2cf0e43f.pdf",
+      "pdf_path": "papers/2020/2020-10-07/Shift_1/Engineering/question_paper_83ff261d2cf0e43f.pdf",
+      "sha256": "d656450c6187509c576621aa546da26e58b410af967f47b5f7bc2a368cb4a450",
+      "pages": 107,
+      "metadata_evidence": "www.careerindia.com\nAP EAMCET 2020\nAndhra Pradesh State Council of Higher \nEducation\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 7th Oct 2020 Shift 1\nSubject Name :\nENGINEERING\nCreation Date :\n2020-10-07 12:17:34\nDuration :\n180\nNumber of Questions :\n160\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nActual Answer Key :\nYes\nCalculator :\nNone\nMagnifying Glass Required? :\nNo\nRuler Required? :\nNo\nEraser Required? :\nNo\nScratch Pad Required? :\nNo\nRough Sketch/Notepad Required? :\nNo\nProtractor Required? :\nNo\nShow Watermark on Console? :\nYes\nHighlighter :\nNo\nAuto Save on Console? :\nYes\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\nIs this Group for Examiner? :\nNo\n \n \n \n \nMathematics\nSection Id :\n81356148\nSection Number :\n1\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nSection Marks :\n80\nMark As Answered Required? :\nYes\n \n \nQuestion Number : 1 Question Id : 8135612241 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Option Orientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 2 Question Id : 8135612242 Question Type : MCQ Display Question \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\nNumber : Yes Is Question Mandatory : No Option Orientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 3 Question Id : 8135612243 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Option Orientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 4 Question Id : 8135612244 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Option Orientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 5 Question Id : 8135612245 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Option Orientation : Vertical\nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \n \n \n \n \nQuestion Number : 6 Question Id : 8135612246 Question Type : MCQ Display Question \nNumber : Yes Is Question Mandatory : No Option Orientation : Vertical\nOptions :\n1. \n \n \n \n2. \n \n \n \n3. \n \n \n \n4. \n \nAP EAMCET 2020\n\nwww.careerindia.com\nAP EAMCET 2020\n \n \n \n \nQuestion Number : 7 Question Id : 81356122",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2020/2020-10-07/Shift_1/Engineering/metadata_83ff261d2cf0e43f.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "10262361c9a689b973ba0bc031218e8e1e6032fee6bbc08f44f894ba5845a75c",
+      "additional_sources": []
+    },
+    {
       "source": "CareerIndia",
       "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
       "download_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-engineering-shift-1-19th-aug-21-question-paper-2021-2091.pdf",
@@ -66533,6 +67705,39 @@
           "metadata_path": "papers/2024/2024-05-23/Shift_1/Engineering/metadata_selfstudys.json"
         }
       ]
+    },
+    {
+      "source": "CareerIndia",
+      "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+      "download_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-agriculture-pharmacy-shift-1-19th-may-2025-question-paper-2025-2987.pdf",
+      "title": "AP EAMCET (EAPCET) Agriculture & Pharmacy Shift 1 (19th May, 2025) Question Paper 2025",
+      "stream": "Agriculture_Pharmacy",
+      "paper_type_hint": "question_paper",
+      "paper_id": "2025_2025-05-19_Shift_1_Agriculture_Pharmacy_0e690e65",
+      "year": 2025,
+      "exam_date": "2025-05-19",
+      "shift": "Shift_1",
+      "subjects": [
+        "Botany",
+        "Chemistry",
+        "Physics",
+        "Zoology"
+      ],
+      "paper_type": "question_paper",
+      "file_name": "question_paper_5ea17421772d8154.pdf",
+      "pdf_path": "papers/2025/2025-05-19/Shift_1/Agriculture_Pharmacy/question_paper_5ea17421772d8154.pdf",
+      "sha256": "0e690e65c7fded55ecdf53446757819ff12fbcfcf5bec955d8285b9a010b7ef8",
+      "pages": 85,
+      "metadata_evidence": "www.careerindia.com\nPrint\nAndhra Pradesh State Council of Higher Education\n  \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nAgriculture and Pharmacy 19th May 2025 Shift 1\nSubject Name :\nAgriculture and Pharmacy\nCreation Date :\n2025-05-19 14:59:39\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nChange Font Color :\nNo\nChange Background Color :\nNo\nChange Theme :\nNo\nHelp Button :\nNo\nShow Reports :\nNo\nShow Progress Bar :\nNo\n \n \n \n \nAgriculture and Pharmacy\nGroup Number :\n1\nGroup Id :\n64041153\nGroup Maximum Duration :\n0\nGroup Minimum Duration :\n180\nShow Attended Group? :\nNo\nEdit Attended Group? :\nNo\nBreak time :\n0\nGroup Marks :\n160\n \n \n \n \nBotany\nSection Id :\n640411178\nSection Number :\n1\nSection type :\nOnline\nMandatory or Optional :\nMandatory\nNumber of Questions :\n40\nNumber of Questions to be attempted :\n40\nSection Marks :\n40\nMaximum Instruction Time :\n0\nSub-Section Number :\n1\nSub-Section Id :\n640411178\nQuestion Shuffling Allowed :\nYes\n \n \nQuestion Number : 1 Question Id : 6404118321 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes\nCorrect Marks : 1 Wrong Marks : 0\nOptions :\n1. \n \n2. \n \n\nwww.careerindia.com\n3. \n \n4. \n \n \n \nQuestion Number : 2 Question Id : 6404118322 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes\nCorrect Marks : 1 Wrong Marks : 0\nOptions :\n1. \n \n2. \n \n3. \n \n4. \n \n \n \nQuestion Number : 3 Question Id : 6404118323 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes\nCorrect Marks : 1 Wrong Marks : 0\nOptions :\n\nwww.careerindia.com\n1. \n \n2. \n \n3. \n \n4. \n \n \n \nQuestion Number : 4 Question Id : 6404118324 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes\nCorrect Marks : 1 Wrong Marks : 0\nOptions :\n1. \n \n2. \n \n3. \n \n4. \n \n \n \nQuestion Number : 5 Question Id : 6404118325 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes\nCorrect Marks : 1 Wrong Marks : 0\nOptions :\n1. \n \n\nwww.careerindia.com\n2. \n \n3. \n \n4. \n \n \n \nQuestion Number : 6 Question Id : 6404118326 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes\nCorrect Marks : 1 Wrong Marks : 0\nOptions :\n1. \n \n2. \n \n3. \n \n4. \n \n \n \nQuestion Number : 7 Question Id : 6404118327 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes\nCorrect Marks : 1 Wrong Marks : 0\n\nwww.careerindia.com\nOptions :\n1. ",
+      "date_verification": "embedded PDF",
+      "answer_key_status": "embedded_colored_options",
+      "answer_key_type": "published_educational_source",
+      "extraction_status": "retained_alternative_paper_key_version",
+      "metadata_path": "papers/2025/2025-05-19/Shift_1/Agriculture_Pharmacy/metadata_5ea17421772d8154.json",
+      "question_count": 160,
+      "answers_mapped": 160,
+      "content_signature": "be846e3a94f96e6996f6a250ded033fc068e5992d64bc8776e8dbb108a807120",
+      "additional_sources": []
     }
   ],
   "question_count": 20479

@@ -1120,5 +1120,27 @@
     "metadata_path": "papers/2025/2025-05-20/Shift_2/Agriculture_Pharmacy/metadata_e49d76ff4e309689.json",
     "answer_differences": [],
     "pruned": true
+  },
+  {
+    "kind": "same_original_question_ids",
+    "sha256": "844bb28b928b712fed2ebbe1bf84306e6e9b06c16cebbb4c068a875c5226f12f",
+    "content_signature": "af3d5bec61472197e3785f286efe7d4b93c4d9d867ba507299a8c446f6ec7da6",
+    "retained": "papers/2025/2025-05-23/Shift_1/Engineering/question_paper_8c3da60f1f3dab9f.pdf",
+    "duplicate": "papers/2025/2025-05-23/Shift_1/Engineering/question_paper.pdf",
+    "source_url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/year-wise/2025/ap-eamcet-23-may-2025-shift-1/1206070",
+    "metadata_path": "papers/2025/2025-05-23/Shift_1/Engineering/metadata.json",
+    "answer_differences": [],
+    "pruned": true
+  },
+  {
+    "kind": "same_original_question_ids",
+    "sha256": "e689cd916be9441f803aebe80f003fb1a08080850bc3f552aecc41b8878eae9d",
+    "content_signature": "fbc2c88cfcf3608ff7bf26a583d81662f167cd82539e121a3ddc989a3d0f71a2",
+    "retained": "papers/2025/2025-05-23/Shift_2/Engineering/question_paper_b1072ee3124af902.pdf",
+    "duplicate": "papers/2025/2025-05-23/Shift_2/Engineering/question_paper.pdf",
+    "source_url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/year-wise/2025/ap-eamcet-23-may-2025-shift-2/1206069",
+    "metadata_path": "papers/2025/2025-05-23/Shift_2/Engineering/metadata.json",
+    "answer_differences": [],
+    "pruned": true
   }
 ]

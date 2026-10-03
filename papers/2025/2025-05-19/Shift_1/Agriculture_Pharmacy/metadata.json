@@ -30,7 +30,19 @@
   "answers_mapped": 160,
   "content_signature": "be846e3a94f96e6996f6a250ded033fc068e5992d64bc8776e8dbb108a807120",
   "text_path": "papers/2025/2025-05-19/Shift_1/Agriculture_Pharmacy/question_paper_text.txt",
-  "attachments": [],
+  "attachments": [
+    {
+      "pdf_path": "papers/2025/2025-05-19/Shift_1/Agriculture_Pharmacy/question_paper_5ea17421772d8154.pdf",
+      "source": "CareerIndia",
+      "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+      "download_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-agriculture-pharmacy-shift-1-19th-may-2025-question-paper-2025-2987.pdf",
+      "subject": null,
+      "pages": 85,
+      "description": "Alternative paper/key document with extracted answer differences",
+      "metadata_path": "papers/2025/2025-05-19/Shift_1/Agriculture_Pharmacy/metadata_5ea17421772d8154.json",
+      "key_version": true
+    }
+  ],
   "additional_sources": [
     {
       "source": "CareerIndia",

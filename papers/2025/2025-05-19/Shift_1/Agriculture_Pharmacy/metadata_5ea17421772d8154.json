@@ -10,9 +10,9 @@
   "exam_date": "2025-05-19",
   "shift": "Shift_1",
   "subjects": [
-    "Physics",
-    "Chemistry",
     "Botany",
+    "Chemistry",
+    "Physics",
     "Zoology"
   ],
   "paper_type": "question_paper",
@@ -24,5 +24,10 @@
   "date_verification": "embedded PDF",
   "answer_key_status": "embedded_colored_options",
   "answer_key_type": "published_educational_source",
-  "extraction_status": "pending"
+  "extraction_status": "retained_alternative_paper_key_version",
+  "metadata_path": "papers/2025/2025-05-19/Shift_1/Agriculture_Pharmacy/metadata_5ea17421772d8154.json",
+  "question_count": 160,
+  "answers_mapped": 160,
+  "content_signature": "be846e3a94f96e6996f6a250ded033fc068e5992d64bc8776e8dbb108a807120",
+  "additional_sources": []
 }

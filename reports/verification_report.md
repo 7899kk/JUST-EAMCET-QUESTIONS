@@ -1,7 +1,7 @@
 # Verification report
 
 Technical integrity: **passed**.
-PDF documents checked: 168. Question records checked: 20479.
+PDF documents checked: 190. Question records checked: 20479.
 
 Checks: original PDF signature/hash, PyMuPDF open/render, metadata presence, allowed year/shift, date/year agreement, source URLs, unique question IDs/numbers, answer provenance, local asset links, PDF region bounds and app data files.
 
@@ -28,7 +28,3 @@ Application verification: passed. See application_verification.json for checks.
 - 2016_undated_unidentified_Engineering_acd88d2b: 0 indexed question records; boundaries/text may require manual review
 
 Full structured results: verification.json. Original prompt/option regions remain accessible even where a reliable text transcription is unavailable.
-
-## Portable hosting checks
-
-Status: passed. See static_verification.json for repository-prefix routing, offline bundle restoration, mathematical typesetting, original PDF rendering and static search.

@@ -10,9 +10,9 @@
   "exam_date": "2020-10-07",
   "shift": "Shift_1",
   "subjects": [
+    "Chemistry",
     "Mathematics",
-    "Physics",
-    "Chemistry"
+    "Physics"
   ],
   "paper_type": "question_paper",
   "file_name": "question_paper_83ff261d2cf0e43f.pdf",
@@ -23,5 +23,10 @@
   "date_verification": "embedded PDF",
   "answer_key_status": "embedded_colored_options",
   "answer_key_type": "published_educational_source",
-  "extraction_status": "pending"
+  "extraction_status": "retained_alternative_paper_key_version",
+  "metadata_path": "papers/2020/2020-10-07/Shift_1/Engineering/metadata_83ff261d2cf0e43f.json",
+  "question_count": 160,
+  "answers_mapped": 160,
+  "content_signature": "10262361c9a689b973ba0bc031218e8e1e6032fee6bbc08f44f894ba5845a75c",
+  "additional_sources": []
 }

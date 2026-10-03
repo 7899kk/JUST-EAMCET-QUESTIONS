@@ -4,7 +4,7 @@ Checked on 2026-10-03 UTC. Scope: AP only, Engineering and Agriculture/Pharmacy.
 
 - Years checked: 12 (2015–2026)
 - Canonical paper/session entries: 130
-- Retained question/solution PDF documents: 168
+- Retained question/solution PDF documents: 190
 - Separate answer-key PDF files: 69
 - Indexed question records: 20479
 - Records with published/curated searchable question text: 9120
@@ -34,10 +34,10 @@ Images and PDF regions are original material, not AI-rewritten questions. Raw pu
 
 - APSCHE (official): 28 retained PDF documents
 - BYJU'S: 1 retained PDF documents
-- CareerIndia: 49 retained PDF documents
-- CollegeDekho: 15 retained PDF documents
+- CareerIndia: 60 retained PDF documents
+- CollegeDekho: 25 retained PDF documents
 - JobsChat (Eenadu Pratibha document): 1 retained PDF documents
-- SelfStudys: 39 retained PDF documents
+- SelfStudys: 40 retained PDF documents
 - UPI QP Bank: 9 retained PDF documents
 - Vedantu: 26 retained PDF documents
 - Examsnet: public educational transcriptions and public answer validation; per-question source/evidence retained.

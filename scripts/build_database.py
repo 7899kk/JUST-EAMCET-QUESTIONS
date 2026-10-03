@@ -38,7 +38,7 @@ def main():
     for mp in ROOT.glob('papers/**/metadata*.json'):
         m=json.loads(mp.read_text());m['metadata_path']=str(mp.relative_to(ROOT));records.append(m)
     records.sort(key=lambda m:(-rank(m),m['pdf_path']))
-    all_docs=[];hashes={};signatures={};duplicate_records=[];groups={};answer_conflicts=[]
+    all_docs=[];hashes={};signatures={};duplicate_records=[];retained_variants=[];groups={};answer_conflicts=[]
     for m in records:
         sha=m['sha256']
         if sha in hashes:
@@ -52,7 +52,10 @@ def main():
         if signature and signature in signatures and len(qs)==len(signatures[signature][1]):
             kept,kqs=signatures[signature];preserve_transcriptions(m,kept);kept.setdefault('additional_sources',[]).append({'source':m['source'],'source_url':m['source_url'],'download_url':m['download_url'],'sha256':sha,'content_signature':signature})
             diffs=[{'question_number':q['question_number'],'retained_answer':k['correct_answer'],'alternate_answer':q['correct_answer']} for k,q in zip(kqs,qs) if k['correct_answer']!=q['correct_answer']]
-            duplicate_records.append({'kind':'same_original_question_ids','sha256':sha,'content_signature':signature,'retained':kept['pdf_path'],'duplicate':m['pdf_path'],'source_url':m['source_url'],'metadata_path':m['metadata_path'],'answer_differences':diffs});continue
+            duplicate_records.append({'kind':'same_original_question_ids','sha256':sha,'content_signature':signature,'retained':kept['pdf_path'],'duplicate':m['pdf_path'],'source_url':m['source_url'],'metadata_path':m['metadata_path'],'answer_differences':diffs})
+            if diffs:
+                m.update(question_count=len(qs),answers_mapped=sum(q['correct_answer'] is not None for q in qs),content_signature=signature,extraction_status='retained_alternative_paper_key_version',subjects=sorted({q['subject'] for q in qs if q['subject']}));all_docs.append(m);retained_variants.append(m)
+            continue
         if signature:signatures[signature]=(m,qs)
         hashes[sha]=m;m['question_count']=len(qs);m['answers_mapped']=sum(q['correct_answer'] is not None for q in qs);m['content_signature']=signature;m['extraction_status']='original_regions_and_native_text' if qs else 'question_boundaries_not_identified';m['subjects']=sorted({q['subject'] for q in qs if q['subject']})
         m['text_path']=str(Path(m['pdf_path']).parent/(Path(m['pdf_path']).stem+'_text.txt'));(ROOT/m['text_path']).write_text(text)
@@ -91,6 +94,7 @@ def main():
                 if target and aq.get('solution_images'):
                     target.setdefault('solution_images',[]).extend(aq['solution_images']);target['solution_provenance']=aq.get('solution_provenance')
         m['attachments']=[{'pdf_path':alt['pdf_path'],'source':alt['source'],'source_url':alt['source_url'],'download_url':alt['download_url'],'subject':alt.get('subject_scope'),'pages':alt['pages'],'description':'Additional published question/solution document','metadata_path':alt['metadata_path']} for alt,aqs in docs if alt is not m]
+        m['attachments'] += [{'pdf_path':alt['pdf_path'],'source':alt['source'],'source_url':alt['source_url'],'download_url':alt['download_url'],'subject':None,'pages':alt['pages'],'description':'Alternative paper/key document with extracted answer differences','metadata_path':alt['metadata_path'],'key_version':True} for alt in retained_variants if all(alt.get(f)==m.get(f) for f in ['year','exam_date','shift','stream'])]
         m['question_count']=len(qs);m['answers_mapped']=sum(q['correct_answer'] is not None for q in qs);m['subjects']=sorted({q['subject'] for q in qs if q['subject']});m['extraction_status']='indexed' if qs else 'question_boundaries_not_identified'
         keys=[fp for fp in ROOT.glob('papers/**/answer_key_metadata*.json') if all(json.loads(fp.read_text()).get(k)==m.get(k) for k in ['year','exam_date','shift','stream'])]
         if keys:

@@ -29,7 +29,30 @@
   "text_path": "papers/2020/2020-09-22/Shift_1/Engineering/question_paper_text.txt",
   "metadata_path": "papers/2020/2020-09-22/Shift_1/Engineering/metadata.json",
   "content_signature": "ae1e2bae0cbb59e0d541a1426151acfa90b871ad24bdd26e9073cf304e979768",
-  "attachments": [],
+  "attachments": [
+    {
+      "pdf_path": "papers/2020/2020-09-22/Shift_1/Engineering/question_paper_7d9260cdab23f977.pdf",
+      "source": "CareerIndia",
+      "source_url": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
+      "download_url": "https://www.careerindia.com/exam/ap-eamcet-engineering-question-paper-morning-22-sep-2020-1772.pdf",
+      "subject": null,
+      "pages": 110,
+      "description": "Alternative paper/key document with extracted answer differences",
+      "metadata_path": "papers/2020/2020-09-22/Shift_1/Engineering/metadata_7d9260cdab23f977.json",
+      "key_version": true
+    },
+    {
+      "pdf_path": "papers/2020/2020-09-22/Shift_1/Engineering/question_paper_c7a466871fa5266f.pdf",
+      "source": "CollegeDekho",
+      "source_url": "https://www.collegedekho.com/exam/ap-eamcet/previous-year-question-papers",
+      "download_url": "https://static.collegedekho.com/media/django-summernote/2020-09-26/2cbefd97-b48a-431c-81c9-1f05695c94e1.pdf",
+      "subject": null,
+      "pages": 110,
+      "description": "Alternative paper/key document with extracted answer differences",
+      "metadata_path": "papers/2020/2020-09-22/Shift_1/Engineering/metadata_c7a466871fa5266f.json",
+      "key_version": true
+    }
+  ],
   "answer_key_pdf": "papers/2020/2020-09-22/Shift_1/Engineering/answer_key_c0fa84b0f644.pdf",
   "separate_answer_key_source": "https://www.careerindia.com/exam/ap-eamcet-eapcet-question-papers-e21.html",
   "additional_sources": [

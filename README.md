@@ -1,5 +1,7 @@
 # AP EAMCET / AP EAPCET question archive
 
+**130 paper/session entries, 190 retained question/solution PDF documents, 69 separate key PDFs, and 20,479 question records.**
+
 Original public papers for **2015–2026**, a question database, and a searchable browser. Engineering and Agriculture/Pharmacy papers are included where found. The repository contains the collected PDFs and data: cloning it or using GitHub **Code → Download ZIP** supplies the project. No ChatGPT attachment is needed.
 
 [Collection report](reports/collection_report.md) · [Missing data](reports/missing_papers.md) · [Verification](reports/verification_report.md)

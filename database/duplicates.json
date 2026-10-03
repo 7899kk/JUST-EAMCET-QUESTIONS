@@ -23,7 +23,8 @@
     "duplicate": "papers/2025/2025-05-23/Shift_1/Engineering/question_paper.pdf",
     "source_url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/year-wise/2025/ap-eamcet-23-may-2025-shift-1/1206070",
     "metadata_path": "papers/2025/2025-05-23/Shift_1/Engineering/metadata.json",
-    "answer_differences": []
+    "answer_differences": [],
+    "pruned": true
   },
   {
     "kind": "same_original_question_ids",
@@ -33,7 +34,8 @@
     "duplicate": "papers/2025/2025-05-23/Shift_2/Engineering/question_paper.pdf",
     "source_url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/year-wise/2025/ap-eamcet-23-may-2025-shift-2/1206069",
     "metadata_path": "papers/2025/2025-05-23/Shift_2/Engineering/metadata.json",
-    "answer_differences": []
+    "answer_differences": [],
+    "pruned": true
   },
   {
     "kind": "same_original_question_ids",
