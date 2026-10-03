@@ -10,9 +10,9 @@
   "exam_date": "2025-05-22",
   "shift": "Shift_2",
   "subjects": [
+    "Chemistry",
     "Mathematics",
-    "Physics",
-    "Chemistry"
+    "Physics"
   ],
   "paper_type": "question_paper",
   "file_name": "question_paper_187a9c8e827e7d23.pdf",
@@ -23,5 +23,20 @@
   "date_verification": "embedded PDF",
   "answer_key_status": "embedded_colored_options",
   "answer_key_type": "official_final",
-  "extraction_status": "pending"
+  "extraction_status": "indexed",
+  "metadata_path": "papers/2025/2025-05-22/Shift_2/Engineering/metadata_187a9c8e827e7d23.json",
+  "question_count": 160,
+  "answers_mapped": 160,
+  "content_signature": "c8b738d264e1fbeb5249ec6ab9de9bc86c0dcf5426ad9100b8643de6b7d83318",
+  "text_path": "papers/2025/2025-05-22/Shift_2/Engineering/question_paper_187a9c8e827e7d23_text.txt",
+  "additional_sources": [
+    {
+      "source": "SelfStudys",
+      "source_url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/year-wise/2025/ap-eamcet-22-may-2025-shift-2/1206071",
+      "download_url": "https://www.selfstudys.com/sitepdfs/0pe1XZprZAwc7LEYnGyH",
+      "sha256": "a8d2d6cafbf11a49a1fbc8859504017ce3fcfecefa09745153346ab0d65c7707",
+      "content_signature": "c8b738d264e1fbeb5249ec6ab9de9bc86c0dcf5426ad9100b8643de6b7d83318"
+    }
+  ],
+  "attachments": []
 }
