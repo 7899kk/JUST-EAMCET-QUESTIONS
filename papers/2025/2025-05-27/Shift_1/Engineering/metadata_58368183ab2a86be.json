@@ -1,0 +1,42 @@
+{
+  "source": "APSCHE (official)",
+  "source_url": "https://cets.apsche.ap.gov.in/EAPCET25/Eapcet/EAPCET_ExamPapersFinal.aspx",
+  "download_url": "https://cets.apsche.ap.gov.in/EAPCET/PDF/EXAM_PAPER_FINAL/QPK_27th_MAY_SHIFT_1_FINAL.pdf",
+  "title": "AP EAPCET 2025 QPK_27th_MAY_SHIFT_1_FINAL.pdf",
+  "stream": "Engineering",
+  "key_version": "final",
+  "paper_id": "2025_2025-05-27_Shift_1_Engineering_a2ad2b69",
+  "year": 2025,
+  "exam_date": "2025-05-27",
+  "shift": "Shift_1",
+  "subjects": [
+    "Chemistry",
+    "Mathematics",
+    "Physics"
+  ],
+  "paper_type": "question_paper",
+  "file_name": "question_paper_58368183ab2a86be.pdf",
+  "pdf_path": "papers/2025/2025-05-27/Shift_1/Engineering/question_paper_58368183ab2a86be.pdf",
+  "sha256": "a2ad2b69f352d4fcd73edf991fb4d59747acd1320da0b40935cfa951799ca459",
+  "pages": 98,
+  "metadata_evidence": "Print\nAndhra Pradesh State Council of Higher Education\n   \n \nNotations :\n1.Options shown in green color and with \n icon are correct.\n2.Options shown in red color and with \n icon are incorrect.\n \n \n \nQuestion Paper Name :\nENGINEERING 27th May 2025 Shift 1\nSubject Name :\nENGINEERING\nCreation Date :\n2025-05-27 13:08:23\nDuration :\n180\nTotal Marks :\n160\nDisplay Marks:\nNo\nShare Answer Key With Delivery Engine :\nYes\nChange Font Color :\nNo\nChange Background Color :\nNo\nChange Theme :\nNo\nHelp Button :\nNo\nShow Reports :\nNo\nShow Progress Bar :\nNo\n \n \n \n \nENGINEERING\nGroup Number :\n1\nGroup Id :\n640411105\nGroup Maximum Duration :\n0\nGroup Minimum Duration :\n180\nShow Attended Group? :\nNo\nEdit Attended Group? :\nNo\nBreak time :\n0\nGroup Marks :\n160\n \n \n \n \nMathematics\nSection Id :\n640411345\nSection Number :\n1\nSection type :\nOnline\nMandatory or Optional :\nMandatory\nNumber of Questions :\n80\nNumber of Questions to be attempted :\n80\nSection Marks :\n80\nMaximum Instruction Time :\n0\nSub-Section Number :\n1\nSub-Section Id :\n640411345\nQuestion Shuffling Allowed :\nYes\n \n \nQuestion Number : 1 Question Id : 64041116641 Question Type : MCQ Option Shuffling : Yes Display Question\nNumber : Yes\nCorrect Marks : 1 Wrong Marks : 0\n\nOptions :\n1. \n \n2. \n \n3. \n \n4. \n \n \n \nQuestion Number : 2 Question Id : 64041116642 Question Type : MCQ Option Shuffling : Yes Display Question\nNumber : Yes\nCorrect Marks : 1 Wrong Marks : 0\nOptions :\n1. \n \n2. \n \n3. \n \n4. \n \n \n \nQuestion Number : 3 Question Id : 64041116643 Question Type : MCQ Option Shuffling : Yes Display Question\nNumber : Yes\nCorrect Marks : 1 Wrong Marks : 0\n\nOptions :\n1. \n \n2. \n \n3. \n \n4. \n \n \n \nQuestion Number : 4 Question Id : 64041116644 Question Type : MCQ Option Shuffling : Yes Display Question\nNumber : Yes\nCorrect Marks : 1 Wrong Marks : 0\nOptions :\n1. \n \n2. \n \n3. \n \n\n4. \n \n \n \nQuestion Number : 5 Question Id : 64041116645 Question Type : MCQ Option Shuffling : Yes Display Question\nNumber : Yes\nCorrect Marks : 1 Wrong Marks : 0\nOptions :\n1. \n \n2. \n \n3. \n \n4. \n \n \n \nQuestion Number : 6 Question Id : 64041116646 Question Type : MCQ Option Shuffling : Yes Display Question\nNumber : Yes\nCorrect Marks : 1 Wrong Marks : 0\nOptions :\n1. \n \n2. \n \n\n3. \n \n4. \n \n \n \nQuestion Number : 7 Question Id : 64041116647 Question Type : MCQ Option Shuffling : Yes Display Question\nNumber : Yes\nCorrect Marks : 1 Wrong Marks : 0\nOptions :\n1. \n \n2. \n \n3. \n \n4. \n \n \n \nQuestion Number : 8 Question Id : 64041116648 Question Type : MCQ Option Shuffling : Yes Display Que",
+  "date_verification": "embedded PDF",
+  "answer_key_status": "embedded_colored_options",
+  "answer_key_type": "official_final",
+  "extraction_status": "indexed",
+  "metadata_path": "papers/2025/2025-05-27/Shift_1/Engineering/metadata_58368183ab2a86be.json",
+  "question_count": 160,
+  "answers_mapped": 160,
+  "content_signature": "be3c492f25e3f15367893e72667e820264c02d18792b9c9223b6a9539a48087c",
+  "text_path": "papers/2025/2025-05-27/Shift_1/Engineering/question_paper_58368183ab2a86be_text.txt",
+  "additional_sources": [
+    {
+      "source": "SelfStudys",
+      "source_url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/year-wise/2025/ap-eamcet-27-may-2025-shift-1/1206065",
+      "download_url": "https://www.selfstudys.com/sitepdfs/6EFQTVmnvFmlfe9EeAZ4",
+      "sha256": "cededdcdfa1c6340ae1a75aff38a4817daa5dde4df1bb1d20d43ea2e4550962f",
+      "content_signature": "be3c492f25e3f15367893e72667e820264c02d18792b9c9223b6a9539a48087c"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,2378 @@
+Andhra Pradesh State Council of Higher Education
+   
+ 
+Notations :
+1.Options shown in green color and with 
+ icon are correct.
+2.Options shown in red color and with 
+ icon are incorrect.
+ 
+ 
+ 
+Question Paper Name :
+ENGINEERING 14th May 2026 Shift 1
+Subject Name :
+ENGINEERING
+Creation Date :
+2026-05-14 16:02:38
+Duration :
+180
+Number of Questions :
+160
+Total Marks :
+160
+Display Marks:
+No
+Change Font Color :
+No
+Change Background Color :
+No
+Change Theme :
+No
+Help Button :
+No
+Show Reports :
+No
+Show Progress Bar :
+No
+ 
+ 
+ 
+ 
+ENGINEERING
+Group Number :
+1
+Group Id :
+82638955
+Group Maximum Duration :
+0
+Group Minimum Duration :
+180
+Show Attended Group? :
+No
+Edit Attended Group? :
+No
+Break time :
+0
+Group Marks :
+160
+ 
+ 
+ 
+ 
+Mathematics
+Section Id :
+826389175
+Section Number :
+1
+
+Section type :
+Online
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+80
+Number of Questions to be attempted :
+80
+Section Marks :
+80
+Section Negative Marks :
+0
+Maximum Instruction Time :
+0
+Sub-Section Number :
+1
+Sub-Section Id :
+826389175
+Question Shuffling Allowed :
+Yes
+Is Section Default? :
+No
+ 
+ 
+Question Number : 1 Question Id : 8263898641 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 2 Question Id : 8263898642 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 3 Question Id : 8263898643 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 4 Question Id : 8263898644 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 5 Question Id : 8263898645 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 6 Question Id : 8263898646 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 7 Question Id : 8263898647 Question Type : MCQ
+
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 8 Question Id : 8263898648 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 9 Question Id : 8263898649 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 10 Question Id : 8263898650 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 11 Question Id : 8263898651 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 12 Question Id : 8263898652 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 13 Question Id : 8263898653 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 14 Question Id : 8263898654 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 15 Question Id : 8263898655 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 16 Question Id : 8263898656 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 17 Question Id : 8263898657 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 18 Question Id : 8263898658 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 19 Question Id : 8263898659 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 20 Question Id : 8263898660 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+
+Question Number : 21 Question Id : 8263898661 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 22 Question Id : 8263898662 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 23 Question Id : 8263898663 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 24 Question Id : 8263898664 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 25 Question Id : 8263898665 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 26 Question Id : 8263898666 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 27 Question Id : 8263898667 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 28 Question Id : 8263898668 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 29 Question Id : 8263898669 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 30 Question Id : 8263898670 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 31 Question Id : 8263898671 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 32 Question Id : 8263898672 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 33 Question Id : 8263898673 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 34 Question Id : 8263898674 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 35 Question Id : 8263898675 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 36 Question Id : 8263898676 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 37 Question Id : 8263898677 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 38 Question Id : 8263898678 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+
+Question Number : 39 Question Id : 8263898679 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 40 Question Id : 8263898680 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 41 Question Id : 8263898681 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 42 Question Id : 8263898682 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 43 Question Id : 8263898683 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 44 Question Id : 8263898684 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 45 Question Id : 8263898685 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 46 Question Id : 8263898686 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 47 Question Id : 8263898687 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 48 Question Id : 8263898688 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 49 Question Id : 8263898689 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 50 Question Id : 8263898690 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 51 Question Id : 8263898691 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 52 Question Id : 8263898692 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 53 Question Id : 8263898693 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 54 Question Id : 8263898694 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 55 Question Id : 8263898695 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 56 Question Id : 8263898696 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 57 Question Id : 8263898697 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 58 Question Id : 8263898698 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 59 Question Id : 8263898699 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 60 Question Id : 8263898700 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 61 Question Id : 8263898701 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 62 Question Id : 8263898702 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 63 Question Id : 8263898703 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 64 Question Id : 8263898704 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 65 Question Id : 8263898705 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 66 Question Id : 8263898706 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 67 Question Id : 8263898707 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 68 Question Id : 8263898708 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+
+Question Number : 69 Question Id : 8263898709 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 70 Question Id : 8263898710 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 71 Question Id : 8263898711 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+
+Question Number : 72 Question Id : 8263898712 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 73 Question Id : 8263898713 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 74 Question Id : 8263898714 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 75 Question Id : 8263898715 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 76 Question Id : 8263898716 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 77 Question Id : 8263898717 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 78 Question Id : 8263898718 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 79 Question Id : 8263898719 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 80 Question Id : 8263898720 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+Physics
+Section Id :
+826389176
+Section Number :
+2
+Section type :
+Online
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+40
+Number of Questions to be attempted :
+40
+Section Marks :
+40
+Section Negative Marks :
+0
+Maximum Instruction Time :
+0
+Sub-Section Number :
+1
+Sub-Section Id :
+826389176
+Question Shuffling Allowed :
+Yes
+Is Section Default? :
+No
+
+ 
+ 
+Question Number : 81 Question Id : 8263898721 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 82 Question Id : 8263898722 Question Type : MCQ
+
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 83 Question Id : 8263898723 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 84 Question Id : 8263898724 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 85 Question Id : 8263898725 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 86 Question Id : 8263898726 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 87 Question Id : 8263898727 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 88 Question Id : 8263898728 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 89 Question Id : 8263898729 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 90 Question Id : 8263898730 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 91 Question Id : 8263898731 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 92 Question Id : 8263898732 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 93 Question Id : 8263898733 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 94 Question Id : 8263898734 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 95 Question Id : 8263898735 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 96 Question Id : 8263898736 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 97 Question Id : 8263898737 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 98 Question Id : 8263898738 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 99 Question Id : 8263898739 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 100 Question Id : 8263898740 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 101 Question Id : 8263898741 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 102 Question Id : 8263898742 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 103 Question Id : 8263898743 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 104 Question Id : 8263898744 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 105 Question Id : 8263898745 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 106 Question Id : 8263898746 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+
+Question Number : 107 Question Id : 8263898747 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 108 Question Id : 8263898748 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 109 Question Id : 8263898749 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 110 Question Id : 8263898750 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 111 Question Id : 8263898751 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 112 Question Id : 8263898752 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 113 Question Id : 8263898753 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 114 Question Id : 8263898754 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 115 Question Id : 8263898755 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 116 Question Id : 8263898756 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 117 Question Id : 8263898757 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 118 Question Id : 8263898758 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 119 Question Id : 8263898759 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 120 Question Id : 8263898760 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+ 
+ 
+Chemistry
+Section Id :
+826389177
+Section Number :
+3
+Section type :
+Online
+Mandatory or Optional :
+Mandatory
+Number of Questions :
+40
+Number of Questions to be attempted :
+40
+Section Marks :
+40
+Section Negative Marks :
+0
+Maximum Instruction Time :
+0
+Sub-Section Number :
+1
+Sub-Section Id :
+826389177
+Question Shuffling Allowed :
+Yes
+Is Section Default? :
+No
+ 
+ 
+Question Number : 121 Question Id : 8263898761 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 122 Question Id : 8263898762 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 123 Question Id : 8263898763 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 124 Question Id : 8263898764 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 125 Question Id : 8263898765 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 126 Question Id : 8263898766 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 127 Question Id : 8263898767 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 128 Question Id : 8263898768 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 129 Question Id : 8263898769 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 130 Question Id : 8263898770 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 131 Question Id : 8263898771 Question Type : MCQ
+
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 132 Question Id : 8263898772 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 133 Question Id : 8263898773 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 134 Question Id : 8263898774 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 135 Question Id : 8263898775 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 136 Question Id : 8263898776 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 137 Question Id : 8263898777 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 138 Question Id : 8263898778 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 139 Question Id : 8263898779 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 140 Question Id : 8263898780 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 141 Question Id : 8263898781 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 142 Question Id : 8263898782 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 143 Question Id : 8263898783 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 144 Question Id : 8263898784 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 145 Question Id : 8263898785 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 146 Question Id : 8263898786 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 147 Question Id : 8263898787 Question Type : MCQ
+
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 148 Question Id : 8263898788 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 149 Question Id : 8263898789 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 150 Question Id : 8263898790 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 151 Question Id : 8263898791 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 152 Question Id : 8263898792 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 153 Question Id : 8263898793 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 154 Question Id : 8263898794 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 155 Question Id : 8263898795 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 156 Question Id : 8263898796 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+
+1. 
+ 
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 157 Question Id : 8263898797 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 158 Question Id : 8263898798 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+
+2. 
+ 
+3. 
+ 
+4. 
+ 
+ 
+ 
+Question Number : 159 Question Id : 8263898799 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+3. 
+ 
+
+4. 
+ 
+ 
+ 
+Question Number : 160 Question Id : 8263898800 Question Type : MCQ
+Correct Marks : 1 Wrong Marks : 0
+Options :
+1. 
+ 
+2. 
+ 
+
+3. 
+ 
+4. 
+ 
