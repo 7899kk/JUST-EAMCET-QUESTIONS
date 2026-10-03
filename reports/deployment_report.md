@@ -14,4 +14,4 @@ A repository administrator must choose **Settings → Pages → Source: GitHub A
 
 The static export was tested locally under the repository URL prefix. Search, original PDF regions, mathematical rendering and offline bundle restoration passed. `python scripts/export_static.py` produces the deployment assets.
 
-The optional Sites fallback was inspected but could not run: the Sites hosting skill requires “Run the bundled script directly in the selected checkout,” and its `site-workflow.mjs` publisher is unavailable in this execution environment. No unused Site was registered.
+The optional Sites fallback was inspected but could not run: the [Sites hosting skill](skill://plugin_connector_1p_689987207de08191979cf68eca2941c6/sites-hosting/SKILL.md) requires “Run the bundled script directly in the selected checkout,” and its `site-workflow.mjs` publisher is unavailable in this execution environment. No unused Site was registered.

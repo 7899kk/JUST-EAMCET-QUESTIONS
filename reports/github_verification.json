@@ -1,9 +1,15 @@
 {
   "status": "passed",
-  "github_repository": "https://github.com/7899kk/JUST-EAMCET-QUESTIONS",
-  "verified_commit": "394585e2a233f4e0e1217d0320e60ac15b60fc1b",
-  "files": 1083,
-  "pdf_files": 261,
-  "tree_matches_local": true,
-  "public_pdf_signature_check": "passed"
+  "repository": "https://github.com/7899kk/JUST-EAMCET-QUESTIONS",
+  "verified_data_commit": "70a6a74886970df32af3b8435eeed112ca74f86e",
+  "files": 1081,
+  "original_pdf_files": 259,
+  "paper_sessions": 130,
+  "question_records": 20479,
+  "all_file_hashes_match_local": true,
+  "pdf_integrity": "259 originals passed",
+  "application": "passed",
+  "static_mode": "passed",
+  "hosting": "blocked: Pages configuration permission",
+  "scope": "Subsequent delivery-record commit changes only this verification record and deployment documentation."
 }
