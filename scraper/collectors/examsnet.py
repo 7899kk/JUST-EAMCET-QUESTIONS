@@ -5,9 +5,12 @@ import argparse,concurrent.futures,copy,hashlib,json,re,time
 from datetime import datetime
 from urllib.parse import urljoin
 from pathlib import Path
+import sys
 import requests
 from bs4 import BeautifulSoup
 from .web import ROOT,fetch,soup
+sys.path.insert(0,str(ROOT))
+from scripts.common import load_questions
 ARCHIVE='https://www.examsnet.com/exams/ap-eapcet-previous-question-papers-online'
 def plain_math(tag):
     if tag is None:return None
@@ -47,7 +50,7 @@ def collect_question(job):
         (target.with_suffix('.html')).write_text(evidence);data['evidence_path']=str(target.with_suffix('.html').relative_to(ROOT));target.write_text(json.dumps(data,ensure_ascii=False));return data
     except Exception as e:return {'paper_id':pid,'question_number':n,'source_url':url,'status':'Failed','error':str(e)}
 def main(workers=3,years=None):
-    sessions=discover();metadata=json.loads((ROOT/'database/metadata.json').read_text());questions=json.loads((ROOT/'database/questions.json').read_text());by={}
+    sessions=discover();metadata=json.loads((ROOT/'database/metadata.json').read_text());questions=load_questions();by={}
     for q in questions:by.setdefault(q['paper_id'],{})[q['question_number']]=q
     jobs=[]
     for session in sessions:

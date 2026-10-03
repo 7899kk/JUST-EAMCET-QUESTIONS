@@ -1,9 +1,12 @@
 """Local archive browser and combined-filter full-text search (no cloud services)."""
-import argparse,json,mimetypes,sqlite3
+import argparse,json,mimetypes,sqlite3,sys
 from http.server import SimpleHTTPRequestHandler,ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs,urlsplit
 ROOT=Path(__file__).resolve().parents[1]
+sys.path.insert(0,str(ROOT))
+from scripts.restore_sources import main as restore
+restore(["vendor"])
 class Handler(SimpleHTTPRequestHandler):
     def __init__(self,*args,**kwargs):super().__init__(*args,directory=str(ROOT),**kwargs)
     def do_GET(self):

@@ -1,3 +1,4 @@
+from common import load_questions
 """Produce candid coverage, missing-data, duplicate and integrity reports."""
 import json,collections
 from pathlib import Path
@@ -6,7 +7,7 @@ def read(path,default=[]):
  p=ROOT/path;return json.loads(p.read_text()) if p.exists() else default
 def save(name,lines):(ROOT/'reports'/name).write_text('\n'.join(lines)+'\n')
 def main():
- data=read('database/metadata.json');papers=data['papers'];qs=read('database/questions.json');dups=read('database/duplicates.json');verification=read('reports/verification.json',{});counts=collections.Counter(m['source'] for m in data['documents']);keys=list(ROOT.glob('papers/**/answer_key_metadata*.json'))
+ data=read('database/metadata.json');papers=data['papers'];qs=load_questions();dups=read('database/duplicates.json');verification=read('reports/verification.json',{});counts=collections.Counter(m['source'] for m in data['documents']);keys=list(ROOT.glob('papers/**/answer_key_metadata*.json'))
  generated=sum(q.get('solution_provenance',{}).get('type')=='generated_educational_explanation' for q in qs);text=sum(bool(q['question']) for q in qs);sol=sum(bool(q['solution'] or q.get('solution_images')) for q in qs)
  lines=['# Collection report','', 'Checked on 2026-10-03 UTC. Scope: AP only, Engineering and Agriculture/Pharmacy. This is a collected archive with disclosed gaps, not a claim that every public document or every solution has been found.','',f'- Years checked: 12 (2015–2026)',f'- Canonical paper/session entries: {len(papers)}',f'- Retained question/solution PDF documents: {len(data["documents"])}',f'- Separate answer-key PDF files: {len(keys)}',f'- Indexed question records: {len(qs)}',f'- Records with published/curated searchable question text: {text}',f'- Mapped answers: {sum(bool(q["correct_answer"]) for q in qs)}',f'- Records with a text explanation or preserved published explanation region: {sol}',f'- Newly derived detailed explanations: {generated}',f'- Chapter/topic identified: {sum(bool(q["chapter"]) for q in qs)}','', 'Images and PDF regions are original material, not AI-rewritten questions. Raw publisher glyph extraction is supplementary search text. Null fields mean Not Available/Not Identified.','', '| Year | Checked | Papers | Actual dates discovered | Shifts discovered |','|---|---|---:|---|---|']
  for y in range(2015,2027):
@@ -36,6 +37,10 @@ def main():
     seen.add(key);missing.append(f'- Status: Not Found — {key[0]}'+(f' question {key[1]}' if key[1] else '')+f' — {key[2]} ({fp.name})')
  for item in read('sources/year_checks.json'):
   if item['status']!='checked':missing.append(f'- {item["year"]} search-engine attempt failed: {item.get("error")}. Year was separately checked in source archives and collected papers.')
+ missing+=['','## Answer keys whose corresponding paper was Not Found','']
+ for fp in keys:
+  k=json.loads(fp.read_text())
+  if not any(all(k.get(f)==m.get(f) for f in ['year','exam_date','shift','stream']) for m in papers):missing.append(f'- Status: Not Found — paper for {k.get("year")} / {k.get("exam_date") or "Date Not Identified"} / {k.get("shift") or "Shift Not Identified"} / {k.get("stream")}. Actual key preserved at {k["file_path"]}; source {k["source_url"]}.')
  missing+=['','## Known limitations','', '- 2026 official final answer-key publication: Not Found at the checked final endpoint; available official preliminary keys retained.','- Sakshi returned HTTP 403 at checked AP archive URLs; no papers are claimed from Sakshi. Historical guessed official endpoints returned 404.','- An Examsnet medical link labelled 2024 Shift 4 was excluded: actual session identity could not be verified.','- No independent complete official historical session register was obtained. Missing dates/shifts beyond advertised source leads remain Not Identified.','- Shortcuts, Banda Gurthu, chapter and topic are Not Available/Not Identified unless a reviewed explanation supplies them.','- Published transcriptions can contain formula errors. The original PDF is authoritative; external diagrams in secondary text are flagged.']
  save('missing_papers.md',missing)
  lines=['# Duplicate report','',f'{len(dups)} duplicate document matches recorded. Exact SHA-256 and complete ordered original-question-ID sequences are used. Same session alone is not grounds for deleting a file; distinct key versions and published solution documents are retained.','', '| Match | Retained copy | Duplicate copy | Source | Action |','|---|---|---|---|---|']

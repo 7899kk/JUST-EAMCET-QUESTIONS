@@ -1,10 +1,11 @@
+from common import load_questions
 """Verify originals, hashes, record references, answers and PDF region bounds."""
 import hashlib,json,sys
 from pathlib import Path
 import fitz
 ROOT=Path(__file__).resolve().parents[1]
 def main():
-    data=json.loads((ROOT/'database/metadata.json').read_text());questions=json.loads((ROOT/'database/questions.json').read_text());errors=[];warnings=[];checked=[];docs={}
+    data=json.loads((ROOT/'database/metadata.json').read_text());questions=load_questions();errors=[];warnings=[];checked=[];docs={}
     for m in data['documents']:
         path=ROOT/m['pdf_path'];row={'paper_id':m['paper_id'],'pdf_path':m['pdf_path']}
         try:
@@ -17,6 +18,13 @@ def main():
             if not m['exam_date'] or not m['shift']:warnings.append({'paper_id':m['paper_id'],'issue':'Date or shift Not Identified; original retained without invented metadata'})
         except Exception as e:errors.append({'paper_id':m['paper_id'],'error':str(e)});row['status']='failed'
         checked.append(row)
+    key_count=0
+    for fp in ROOT.glob('papers/**/answer_key_metadata*.json'):
+        m=json.loads(fp.read_text())
+        try:
+            path=ROOT/m['file_path'];assert hashlib.sha256(path.read_bytes()).hexdigest()==m['sha256'];d=fitz.open(path);assert len(d)>0;d[0].get_pixmap(matrix=fitz.Matrix(.15,.15));key_count+=1
+            assert m['source_url'] and m['download_url']
+        except Exception as e:errors.append({'key_metadata':str(fp.relative_to(ROOT)),'error':str(e)})
     ids=set();numbers={}
     for q in questions:
         try:
@@ -34,6 +42,6 @@ def main():
         if len(ns)!=160:warnings.append({'paper_id':m['paper_id'],'issue':f'{len(ns)} indexed question records; boundaries/text may require manual review'})
         assert (ROOT/'app/data'/f"{m['paper_id']}.json").exists()
     years=[{'year':y,'status':'checked','papers':sum(m['year']==y for m in data['papers'])} for y in range(2015,2027)]
-    result={'technical_status':'passed' if not errors else 'failed','years':years,'documents_checked':len(checked),'questions_checked':len(questions),'errors':errors,'warnings':warnings,'documents':checked,'limits':['Technical integrity is not proof of exhaustive public coverage.','Image regions preserve original notation; secondary text transcriptions have not all been manually proofread.','Scientific correctness of all source answers and published solutions is not independently certified.']}
+    result={'technical_status':'passed' if not errors else 'failed','years':years,'documents_checked':len(checked),'separate_keys_checked':key_count,'questions_checked':len(questions),'errors':errors,'warnings':warnings,'documents':checked,'limits':['Technical integrity is not proof of exhaustive public coverage.','Image regions preserve original notation; secondary text transcriptions have not all been manually proofread.','Scientific correctness of all source answers and published solutions is not independently certified.']}
     (ROOT/'reports/verification.json').write_text(json.dumps(result,indent=2));print(result['technical_status'],len(checked),'PDFs',len(questions),'questions',len(errors),'errors',len(warnings),'warnings');return bool(errors)
 if __name__=='__main__':sys.exit(main())

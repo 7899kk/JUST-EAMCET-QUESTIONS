@@ -1,9 +1,10 @@
+from common import load_questions
 import json,sqlite3
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 def main():
     db=sqlite3.connect(ROOT/'database/search.sqlite');db.execute('DROP TABLE IF EXISTS questions');db.execute('CREATE TABLE questions(question_id TEXT PRIMARY KEY,paper_id TEXT,year INTEGER,exam_date TEXT,shift TEXT,subject TEXT,chapter TEXT,topic TEXT,question_number INTEGER,question TEXT,source TEXT,extraction_status TEXT,search_text TEXT)')
-    qs=json.loads((ROOT/'database/questions.json').read_text())
+    qs=load_questions()
     cols=['question_id','paper_id','year','exam_date','shift','subject','chapter','topic','question_number','question','source','extraction_status']
     portable=[]
     for q in qs:

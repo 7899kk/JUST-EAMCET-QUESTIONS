@@ -1,0 +1,962 @@
+{
+  "technical_status": "passed",
+  "years": [
+    {
+      "year": 2015,
+      "status": "checked",
+      "papers": 2
+    },
+    {
+      "year": 2016,
+      "status": "checked",
+      "papers": 3
+    },
+    {
+      "year": 2017,
+      "status": "checked",
+      "papers": 8
+    },
+    {
+      "year": 2018,
+      "status": "checked",
+      "papers": 8
+    },
+    {
+      "year": 2019,
+      "status": "checked",
+      "papers": 10
+    },
+    {
+      "year": 2020,
+      "status": "checked",
+      "papers": 16
+    },
+    {
+      "year": 2021,
+      "status": "checked",
+      "papers": 15
+    },
+    {
+      "year": 2022,
+      "status": "checked",
+      "papers": 14
+    },
+    {
+      "year": 2023,
+      "status": "checked",
+      "papers": 13
+    },
+    {
+      "year": 2024,
+      "status": "checked",
+      "papers": 13
+    },
+    {
+      "year": 2025,
+      "status": "checked",
+      "papers": 14
+    },
+    {
+      "year": 2026,
+      "status": "checked",
+      "papers": 14
+    }
+  ],
+  "documents_checked": 168,
+  "separate_keys_checked": 69,
+  "questions_checked": 20479,
+  "errors": [],
+  "warnings": [
+    {
+      "paper_id": "2015_undated_unidentified_Engineering_cf777a07",
+      "issue": "Date or shift Not Identified; original retained without invented metadata"
+    },
+    {
+      "paper_id": "2016_2016-04-29_unidentified_Engineering_39ddd291",
+      "issue": "Date or shift Not Identified; original retained without invented metadata"
+    },
+    {
+      "paper_id": "2015_undated_unidentified_Agriculture_Pharmacy_008f7f55",
+      "issue": "Date or shift Not Identified; original retained without invented metadata"
+    },
+    {
+      "paper_id": "2015_undated_unidentified_Engineering_34361e33",
+      "issue": "Date or shift Not Identified; original retained without invented metadata"
+    },
+    {
+      "paper_id": "2016_undated_unidentified_Agriculture_Pharmacy_03277939",
+      "issue": "Date or shift Not Identified; original retained without invented metadata"
+    },
+    {
+      "paper_id": "2016_undated_unidentified_Engineering_acd88d2b",
+      "issue": "Date or shift Not Identified; original retained without invented metadata"
+    },
+    {
+      "paper_id": "2015_undated_unidentified_Engineering_99a60b07",
+      "issue": "Date or shift Not Identified; original retained without invented metadata"
+    },
+    {
+      "paper_id": "2016_2016-04-29_unidentified_Engineering_42f007fd",
+      "issue": "Date or shift Not Identified; original retained without invented metadata"
+    },
+    {
+      "paper_id": "2016_2016-04-29_unidentified_Engineering_39ddd291",
+      "issue": "159 indexed question records; boundaries/text may require manual review"
+    },
+    {
+      "paper_id": "2016_undated_unidentified_Agriculture_Pharmacy_03277939",
+      "issue": "0 indexed question records; boundaries/text may require manual review"
+    },
+    {
+      "paper_id": "2016_undated_unidentified_Engineering_acd88d2b",
+      "issue": "0 indexed question records; boundaries/text may require manual review"
+    }
+  ],
+  "documents": [
+    {
+      "paper_id": "2025_2025-05-19_Shift_1_Agriculture_Pharmacy_e2b9ebd4",
+      "pdf_path": "papers/2025/2025-05-19/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2025_2025-05-19_Shift_2_Agriculture_Pharmacy_87f83b50",
+      "pdf_path": "papers/2025/2025-05-19/Shift_2/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2025_2025-05-20_Shift_1_Agriculture_Pharmacy_48b0a4ac",
+      "pdf_path": "papers/2025/2025-05-20/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2025_2025-05-20_Shift_2_Agriculture_Pharmacy_e156eebe",
+      "pdf_path": "papers/2025/2025-05-20/Shift_2/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2025_2025-05-21_Shift_1_Engineering_618c17c4",
+      "pdf_path": "papers/2025/2025-05-21/Shift_1/Engineering/question_paper_9baf9fdc5055aafd.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2025_2025-05-21_Shift_2_Engineering_24f498bc",
+      "pdf_path": "papers/2025/2025-05-21/Shift_2/Engineering/question_paper_478670243542c927.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2025_2025-05-22_Shift_1_Engineering_defd58a2",
+      "pdf_path": "papers/2025/2025-05-22/Shift_1/Engineering/question_paper_bf9a17026596f68e.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2025_2025-05-22_Shift_2_Engineering_75a5b47a",
+      "pdf_path": "papers/2025/2025-05-22/Shift_2/Engineering/question_paper_187a9c8e827e7d23.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2025_2025-05-23_Shift_1_Engineering_8503677d",
+      "pdf_path": "papers/2025/2025-05-23/Shift_1/Engineering/question_paper_8c3da60f1f3dab9f.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2025_2025-05-23_Shift_2_Engineering_4c1c7ccd",
+      "pdf_path": "papers/2025/2025-05-23/Shift_2/Engineering/question_paper_b1072ee3124af902.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2025_2025-05-24_Shift_1_Engineering_57f36368",
+      "pdf_path": "papers/2025/2025-05-24/Shift_1/Engineering/question_paper_526b8bd7a5021599.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2025_2025-05-26_Shift_1_Engineering_459afcf2",
+      "pdf_path": "papers/2025/2025-05-26/Shift_1/Engineering/question_paper_5ca2822a37b1a8d0.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2025_2025-05-26_Shift_2_Engineering_5aed86b4",
+      "pdf_path": "papers/2025/2025-05-26/Shift_2/Engineering/question_paper_46050e2e0771ae9b.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2025_2025-05-27_Shift_1_Engineering_a2ad2b69",
+      "pdf_path": "papers/2025/2025-05-27/Shift_1/Engineering/question_paper_58368183ab2a86be.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2026_2026-05-12_Shift_1_Engineering_6a1ec6e0",
+      "pdf_path": "papers/2026/2026-05-12/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2026_2026-05-12_Shift_2_Engineering_8254feed",
+      "pdf_path": "papers/2026/2026-05-12/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2026_2026-05-13_Shift_1_Engineering_4daed576",
+      "pdf_path": "papers/2026/2026-05-13/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2026_2026-05-13_Shift_2_Engineering_0f71bc00",
+      "pdf_path": "papers/2026/2026-05-13/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2026_2026-05-14_Shift_1_Engineering_0ee14cee",
+      "pdf_path": "papers/2026/2026-05-14/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2026_2026-05-14_Shift_2_Engineering_6db1dbdd",
+      "pdf_path": "papers/2026/2026-05-14/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2026_2026-05-15_Shift_1_Engineering_acac1434",
+      "pdf_path": "papers/2026/2026-05-15/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2026_2026-05-15_Shift_2_Engineering_c250cff3",
+      "pdf_path": "papers/2026/2026-05-15/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2026_2026-05-18_Shift_1_Engineering_2274eac5",
+      "pdf_path": "papers/2026/2026-05-18/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2026_2026-05-18_Shift_2_Engineering_1c3c45aa",
+      "pdf_path": "papers/2026/2026-05-18/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2026_2026-05-19_Shift_1_Agriculture_Pharmacy_eccdf1ae",
+      "pdf_path": "papers/2026/2026-05-19/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2026_2026-05-19_Shift_2_Agriculture_Pharmacy_cbd16eeb",
+      "pdf_path": "papers/2026/2026-05-19/Shift_2/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2026_2026-05-20_Shift_1_Agriculture_Pharmacy_4f49aaad",
+      "pdf_path": "papers/2026/2026-05-20/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2026_2026-05-20_Shift_2_Agriculture_Pharmacy_9ba7c10f",
+      "pdf_path": "papers/2026/2026-05-20/Shift_2/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2015_undated_unidentified_Engineering_cf777a07",
+      "pdf_path": "papers/2015/Date_Not_Identified/Shift_Not_Identified/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2016_2016-04-29_unidentified_Engineering_39ddd291",
+      "pdf_path": "papers/2016/2016-04-29/Shift_Not_Identified/Engineering/question_paper_7d47a1b6ce4703da.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2017_2017-04-24_Shift_2_Engineering_e0d6baf5",
+      "pdf_path": "papers/2017/2017-04-24/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2017_2017-04-25_Shift_1_Engineering_d1587da0",
+      "pdf_path": "papers/2017/2017-04-25/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2017_2017-04-25_Shift_2_Engineering_e7e93fd8",
+      "pdf_path": "papers/2017/2017-04-25/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2017_2017-04-26_Shift_1_Engineering_be80d89b",
+      "pdf_path": "papers/2017/2017-04-26/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2017_2017-04-26_Shift_2_Engineering_58e233a0",
+      "pdf_path": "papers/2017/2017-04-26/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2018_2018-04-22_Shift_1_Engineering_74335095",
+      "pdf_path": "papers/2018/2018-04-22/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2018_2018-04-22_Shift_2_Engineering_b83af311",
+      "pdf_path": "papers/2018/2018-04-22/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2018_2018-04-23_Shift_1_Engineering_663fdf2c",
+      "pdf_path": "papers/2018/2018-04-23/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2018_2018-04-23_Shift_2_Engineering_92129f04",
+      "pdf_path": "papers/2018/2018-04-23/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2018_2018-04-24_Shift_1_Engineering_0921f60c",
+      "pdf_path": "papers/2018/2018-04-24/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2018_2018-04-24_Shift_2_Engineering_8546e926",
+      "pdf_path": "papers/2018/2018-04-24/Shift_2/Engineering/question_paper_8546e926ce99.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-20_Shift_1_Engineering_62cc32fd",
+      "pdf_path": "papers/2019/2019-04-20/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-20_Shift_2_Engineering_33077db9",
+      "pdf_path": "papers/2019/2019-04-20/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-21_Shift_1_Engineering_ff010f9d",
+      "pdf_path": "papers/2019/2019-04-21/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-21_Shift_2_Engineering_4bea0bbb",
+      "pdf_path": "papers/2019/2019-04-21/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-22_Shift_1_Engineering_5305a834",
+      "pdf_path": "papers/2019/2019-04-22/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-22_Shift_2_Engineering_f86d6bfb",
+      "pdf_path": "papers/2019/2019-04-22/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-23_Shift_1_Engineering_6582daa8",
+      "pdf_path": "papers/2019/2019-04-23/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2020_2020-09-17_Shift_1_Engineering_9320ed79",
+      "pdf_path": "papers/2020/2020-09-17/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2020_2020-09-17_Shift_2_Engineering_076a9316",
+      "pdf_path": "papers/2020/2020-09-17/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2020_2020-09-18_Shift_1_Engineering_b6089225",
+      "pdf_path": "papers/2020/2020-09-18/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2020_2020-09-18_Shift_2_Engineering_a3e90cac",
+      "pdf_path": "papers/2020/2020-09-18/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2020_2020-09-21_Shift_1_Engineering_380a3e0e",
+      "pdf_path": "papers/2020/2020-09-21/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2020_2020-09-21_Shift_2_Engineering_c26b4aed",
+      "pdf_path": "papers/2020/2020-09-21/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2020_2020-09-22_Shift_1_Engineering_5df26b01",
+      "pdf_path": "papers/2020/2020-09-22/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2020_2020-09-22_Shift_2_Engineering_e0d4aec2",
+      "pdf_path": "papers/2020/2020-09-22/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2020_2020-09-23_Shift_1_Engineering_246f2345",
+      "pdf_path": "papers/2020/2020-09-23/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2020_2020-10-07_Shift_1_Engineering_f73ea016",
+      "pdf_path": "papers/2020/2020-10-07/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-18_Shift_1_Not_Identified_ce27628b",
+      "pdf_path": "papers/2024/2024-05-18/Shift_1/Engineering/question_paper_selfstudys.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-19_Shift_2_Not_Identified_af7f5093",
+      "pdf_path": "papers/2024/2024-05-19/Shift_2/Engineering/question_paper_selfstudys.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-20_Shift_1_Not_Identified_93e60090",
+      "pdf_path": "papers/2024/2024-05-20/Shift_1/Engineering/question_paper_selfstudys.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-20_Shift_2_Not_Identified_608876ae",
+      "pdf_path": "papers/2024/2024-05-20/Shift_2/Engineering/question_paper_selfstudys.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-21_Shift_1_Not_Identified_c043db47",
+      "pdf_path": "papers/2024/2024-05-21/Shift_1/Engineering/question_paper_selfstudys.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-21_Shift_2_Not_Identified_73e4952b",
+      "pdf_path": "papers/2024/2024-05-21/Shift_2/Engineering/question_paper_selfstudys.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-22_Shift_1_Not_Identified_2b248696",
+      "pdf_path": "papers/2024/2024-05-22/Shift_1/Engineering/question_paper_selfstudys.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-22_Shift_2_Not_Identified_6c3272a5",
+      "pdf_path": "papers/2024/2024-05-22/Shift_2/Engineering/question_paper_selfstudys.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-23_Shift_1_Not_Identified_e68f69b2",
+      "pdf_path": "papers/2024/2024-05-23/Shift_1/Engineering/question_paper_selfstudys.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2015_undated_unidentified_Agriculture_Pharmacy_008f7f55",
+      "pdf_path": "papers/2015/Date_Not_Identified/Shift_Not_Identified/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2015_undated_unidentified_Engineering_34361e33",
+      "pdf_path": "papers/2015/Date_Not_Identified/Shift_Not_Identified/Engineering/question_paper_e4dac1f795b4ecf8.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2016_undated_unidentified_Agriculture_Pharmacy_03277939",
+      "pdf_path": "papers/2016/Date_Not_Identified/Shift_Not_Identified/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2016_undated_unidentified_Engineering_acd88d2b",
+      "pdf_path": "papers/2016/Date_Not_Identified/Shift_Not_Identified/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2017_2017-04-24_Shift_1_Engineering_96c10f9d",
+      "pdf_path": "papers/2017/2017-04-24/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2017_2017-04-28_Shift_1_Agriculture_Pharmacy_e8bc22b9",
+      "pdf_path": "papers/2017/2017-04-28/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2017_2017-04-28_Shift_2_Agriculture_Pharmacy_78741936",
+      "pdf_path": "papers/2017/2017-04-28/Shift_2/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2018_2018-04-25_Shift_1_Agriculture_Pharmacy_4f0422ff",
+      "pdf_path": "papers/2018/2018-04-25/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2018_2018-04-25_Shift_2_Agriculture_Pharmacy_88771595",
+      "pdf_path": "papers/2018/2018-04-25/Shift_2/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2015_undated_unidentified_Engineering_99a60b07",
+      "pdf_path": "papers/2015/Date_Not_Identified/Shift_Not_Identified/Engineering/question_paper_429193cd38a2224a.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2016_2016-04-29_unidentified_Engineering_42f007fd",
+      "pdf_path": "papers/2016/2016-04-29/Shift_Not_Identified/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2017_2017-04-25_Shift_1_Engineering_93208be2",
+      "pdf_path": "papers/2017/2017-04-25/Shift_1/Engineering/question_paper_99a71e7884b716ed.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2017_2017-04-25_Shift_2_Engineering_7500bfd6",
+      "pdf_path": "papers/2017/2017-04-25/Shift_2/Engineering/question_paper_4c79c8dd970422d3.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2017_2017-04-26_Shift_1_Engineering_37469762",
+      "pdf_path": "papers/2017/2017-04-26/Shift_1/Engineering/question_paper_24955432430d99a5.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2017_2017-04-26_Shift_1_Engineering_06a30b7a",
+      "pdf_path": "papers/2017/2017-04-26/Shift_1/Engineering/question_paper_281548829953f829.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2017_2017-04-26_Shift_1_Engineering_042c1b1e",
+      "pdf_path": "papers/2017/2017-04-26/Shift_1/Engineering/question_paper_b821352173c79ffe.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2017_2017-04-28_Shift_1_Agriculture_Pharmacy_2d4b2575",
+      "pdf_path": "papers/2017/2017-04-28/Shift_1/Agriculture_Pharmacy/question_paper_2d4b2575ad00.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2018_2018-04-22_Shift_1_Engineering_ba48ced2",
+      "pdf_path": "papers/2018/2018-04-22/Shift_1/Engineering/question_paper_130693f8593da2f2.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2018_2018-04-22_Shift_2_Engineering_1f6af4bf",
+      "pdf_path": "papers/2018/2018-04-22/Shift_2/Engineering/question_paper_0fe3700ec671ba3b.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2018_2018-04-23_Shift_2_Engineering_9568d702",
+      "pdf_path": "papers/2018/2018-04-23/Shift_2/Engineering/question_paper_fbe21674cc2dd452.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2018_2018-04-24_Shift_1_Engineering_f2820a6c",
+      "pdf_path": "papers/2018/2018-04-24/Shift_1/Engineering/question_paper_1b1f38ef92632b4f.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2018_2018-04-24_Shift_2_Engineering_59ea53ba",
+      "pdf_path": "papers/2018/2018-04-24/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2018_2018-04-24_Shift_2_Engineering_f3f1f83d",
+      "pdf_path": "papers/2018/2018-04-24/Shift_2/Engineering/question_paper_39dc40cd3524c6a2.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2018_2018-04-24_Shift_2_Engineering_68b4e4e5",
+      "pdf_path": "papers/2018/2018-04-24/Shift_2/Engineering/question_paper_e78d39d7f7e9c866.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2018_2018-04-25_Shift_2_Agriculture_Pharmacy_ea28625f",
+      "pdf_path": "papers/2018/2018-04-25/Shift_2/Agriculture_Pharmacy/question_paper_ea28625f94de.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-20_Shift_1_Engineering_78d467b9",
+      "pdf_path": "papers/2019/2019-04-20/Shift_1/Engineering/question_paper_00a45e7e58733873.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-20_Shift_1_Engineering_79a92bfd",
+      "pdf_path": "papers/2019/2019-04-20/Shift_1/Engineering/question_paper_7d4dbc78414c5329.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-20_Shift_2_Engineering_e3f66a5a",
+      "pdf_path": "papers/2019/2019-04-20/Shift_2/Engineering/question_paper_690ee9c80729ec97.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-20_Shift_2_Engineering_bc190976",
+      "pdf_path": "papers/2019/2019-04-20/Shift_2/Engineering/question_paper_d1afa502c324eca1.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-21_Shift_1_Engineering_ef3408b8",
+      "pdf_path": "papers/2019/2019-04-21/Shift_1/Engineering/question_paper_80d726208560ea0e.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-21_Shift_1_Engineering_f6ca6c02",
+      "pdf_path": "papers/2019/2019-04-21/Shift_1/Engineering/question_paper_a852a5b0c6d06597.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-21_Shift_2_Engineering_ef9d6cb1",
+      "pdf_path": "papers/2019/2019-04-21/Shift_2/Engineering/question_paper_1c82c5d3b26ad0d1.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-22_Shift_1_Engineering_609195d4",
+      "pdf_path": "papers/2019/2019-04-22/Shift_1/Engineering/question_paper_651f8da672245ce0.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-22_Shift_1_Engineering_9f1fbccb",
+      "pdf_path": "papers/2019/2019-04-22/Shift_1/Engineering/question_paper_8319a8e28c8b7e88.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-23_Shift_1_Engineering_770cbb99",
+      "pdf_path": "papers/2019/2019-04-23/Shift_1/Engineering/question_paper_8837b0102d84c518.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-23_Shift_2_Agriculture_Pharmacy_203ed540",
+      "pdf_path": "papers/2019/2019-04-23/Shift_2/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-23_Shift_2_Agriculture_Pharmacy_cf56688d",
+      "pdf_path": "papers/2019/2019-04-23/Shift_2/Agriculture_Pharmacy/question_paper_cf56688d881b.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-24_Shift_1_Agriculture_Pharmacy_6ff9337c",
+      "pdf_path": "papers/2019/2019-04-24/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-24_Shift_2_Agriculture_Pharmacy_1a0edabc",
+      "pdf_path": "papers/2019/2019-04-24/Shift_2/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2019_2019-04-24_Shift_2_Agriculture_Pharmacy_9b3ca1d1",
+      "pdf_path": "papers/2019/2019-04-24/Shift_2/Agriculture_Pharmacy/question_paper_9b3ca1d1f870.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2020_2020-09-23_Shift_2_Agriculture_Pharmacy_0804973b",
+      "pdf_path": "papers/2020/2020-09-23/Shift_2/Agriculture_Pharmacy/question_paper_f4dd3ebdb5916976.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2020_2020-09-24_Shift_1_Agriculture_Pharmacy_c6044dc9",
+      "pdf_path": "papers/2020/2020-09-24/Shift_1/Agriculture_Pharmacy/question_paper_599625a860457d08.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2020_2020-09-24_Shift_2_Agriculture_Pharmacy_84640886",
+      "pdf_path": "papers/2020/2020-09-24/Shift_2/Agriculture_Pharmacy/question_paper_1f9a25e732e63bdc.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2020_2020-09-25_Shift_1_Agriculture_Pharmacy_7beca86d",
+      "pdf_path": "papers/2020/2020-09-25/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2020_2020-09-25_Shift_2_Agriculture_Pharmacy_fca8786d",
+      "pdf_path": "papers/2020/2020-09-25/Shift_2/Agriculture_Pharmacy/question_paper_0ea622a3cf0d1b54.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2020_2020-10-07_Shift_1_Agriculture_Pharmacy_1a5fc6d4",
+      "pdf_path": "papers/2020/2020-10-07/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2021_2021-08-19_Shift_1_Engineering_549dea95",
+      "pdf_path": "papers/2021/2021-08-19/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2021_2021-08-19_Shift_2_Engineering_75ff9d95",
+      "pdf_path": "papers/2021/2021-08-19/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2021_2021-08-20_Shift_1_Engineering_34b27603",
+      "pdf_path": "papers/2021/2021-08-20/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2021_2021-08-20_Shift_2_Engineering_c12be6ab",
+      "pdf_path": "papers/2021/2021-08-20/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2021_2021-08-23_Shift_1_Engineering_623eab86",
+      "pdf_path": "papers/2021/2021-08-23/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2021_2021-08-23_Shift_2_Engineering_1e3b8b90",
+      "pdf_path": "papers/2021/2021-08-23/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2021_2021-08-24_Shift_1_Engineering_23831180",
+      "pdf_path": "papers/2021/2021-08-24/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2021_2021-08-24_Shift_2_Engineering_ae600223",
+      "pdf_path": "papers/2021/2021-08-24/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2021_2021-08-25_Shift_1_Engineering_d8c2fc1d",
+      "pdf_path": "papers/2021/2021-08-25/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2021_2021-08-25_Shift_2_Engineering_8c87c6eb",
+      "pdf_path": "papers/2021/2021-08-25/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2021_2021-09-03_Shift_1_Agriculture_Pharmacy_eddf862c",
+      "pdf_path": "papers/2021/2021-09-03/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2021_2021-09-03_Shift_2_Agriculture_Pharmacy_6787967d",
+      "pdf_path": "papers/2021/2021-09-03/Shift_2/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2021_2021-09-06_Shift_1_Agriculture_Pharmacy_94ac319f",
+      "pdf_path": "papers/2021/2021-09-06/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2021_2021-09-06_Shift_2_Agriculture_Pharmacy_28de319b",
+      "pdf_path": "papers/2021/2021-09-06/Shift_2/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2021_2021-09-07_Shift_1_Agriculture_Pharmacy_1b05702b",
+      "pdf_path": "papers/2021/2021-09-07/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2022_2022-07-04_Shift_1_Engineering_84269d49",
+      "pdf_path": "papers/2022/2022-07-04/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2022_2022-07-04_Shift_2_Engineering_436d80e0",
+      "pdf_path": "papers/2022/2022-07-04/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2022_2022-07-05_Shift_1_Engineering_594a309f",
+      "pdf_path": "papers/2022/2022-07-05/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2022_2022-07-05_Shift_2_Engineering_9834ade8",
+      "pdf_path": "papers/2022/2022-07-05/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2022_2022-07-06_Shift_1_Engineering_381d67d4",
+      "pdf_path": "papers/2022/2022-07-06/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2022_2022-07-06_Shift_2_Engineering_792e7385",
+      "pdf_path": "papers/2022/2022-07-06/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2022_2022-07-07_Shift_1_Engineering_6b5cd0a4",
+      "pdf_path": "papers/2022/2022-07-07/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2022_2022-07-07_Shift_2_Engineering_33a351d0",
+      "pdf_path": "papers/2022/2022-07-07/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2022_2022-07-08_Shift_1_Engineering_1fcbf579",
+      "pdf_path": "papers/2022/2022-07-08/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2022_2022-07-08_Shift_2_Engineering_75d75548",
+      "pdf_path": "papers/2022/2022-07-08/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2022_2022-07-11_Shift_1_Agriculture_Pharmacy_b1917d52",
+      "pdf_path": "papers/2022/2022-07-11/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2022_2022-07-11_Shift_2_Agriculture_Pharmacy_31a73195",
+      "pdf_path": "papers/2022/2022-07-11/Shift_2/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2022_2022-07-12_Shift_1_Agriculture_Pharmacy_eaf40270",
+      "pdf_path": "papers/2022/2022-07-12/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2022_2022-07-12_Shift_2_Agriculture_Pharmacy_f942403d",
+      "pdf_path": "papers/2022/2022-07-12/Shift_2/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2023_2023-05-15_Shift_1_Engineering_bfb92b4f",
+      "pdf_path": "papers/2023/2023-05-15/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2023_2023-05-15_Shift_2_Engineering_2be8a559",
+      "pdf_path": "papers/2023/2023-05-15/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2023_2023-05-16_Shift_1_Engineering_2fd8027c",
+      "pdf_path": "papers/2023/2023-05-16/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2023_2023-05-16_Shift_2_Engineering_e2f1bd14",
+      "pdf_path": "papers/2023/2023-05-16/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2023_2023-05-17_Shift_1_Engineering_ecad9fd6",
+      "pdf_path": "papers/2023/2023-05-17/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2023_2023-05-17_Shift_2_Engineering_4170cb40",
+      "pdf_path": "papers/2023/2023-05-17/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2023_2023-05-18_Shift_1_Engineering_e9b93b61",
+      "pdf_path": "papers/2023/2023-05-18/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2023_2023-05-18_Shift_2_Engineering_dc74e530",
+      "pdf_path": "papers/2023/2023-05-18/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2023_2023-05-19_Shift_1_Engineering_c8a2dc5f",
+      "pdf_path": "papers/2023/2023-05-19/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2023_2023-05-22_Shift_1_Agriculture_Pharmacy_99c27d8a",
+      "pdf_path": "papers/2023/2023-05-22/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2023_2023-05-22_Shift_2_Agriculture_Pharmacy_adda6ab6",
+      "pdf_path": "papers/2023/2023-05-22/Shift_2/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2023_2023-05-23_Shift_1_Agriculture_Pharmacy_825514f8",
+      "pdf_path": "papers/2023/2023-05-23/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2023_2023-05-23_Shift_2_Agriculture_Pharmacy_6012769e",
+      "pdf_path": "papers/2023/2023-05-23/Shift_2/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-16_Shift_1_Agriculture_Pharmacy_2197d210",
+      "pdf_path": "papers/2024/2024-05-16/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-16_Shift_2_Agriculture_Pharmacy_63915d79",
+      "pdf_path": "papers/2024/2024-05-16/Shift_2/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-17_Shift_1_Agriculture_Pharmacy_23f896ad",
+      "pdf_path": "papers/2024/2024-05-17/Shift_1/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-17_Shift_2_Agriculture_Pharmacy_c517618c",
+      "pdf_path": "papers/2024/2024-05-17/Shift_2/Agriculture_Pharmacy/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-18_Shift_1_Engineering_07f9ecfe",
+      "pdf_path": "papers/2024/2024-05-18/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-19_Shift_2_Engineering_573c9b04",
+      "pdf_path": "papers/2024/2024-05-19/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-20_Shift_1_Engineering_18803111",
+      "pdf_path": "papers/2024/2024-05-20/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-20_Shift_2_Engineering_c7c6999a",
+      "pdf_path": "papers/2024/2024-05-20/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-21_Shift_1_Engineering_442fe5c8",
+      "pdf_path": "papers/2024/2024-05-21/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-21_Shift_2_Engineering_d50d5a98",
+      "pdf_path": "papers/2024/2024-05-21/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-22_Shift_1_Engineering_2555df4d",
+      "pdf_path": "papers/2024/2024-05-22/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-22_Shift_2_Engineering_8bab8c6f",
+      "pdf_path": "papers/2024/2024-05-22/Shift_2/Engineering/question_paper.pdf",
+      "status": "passed"
+    },
+    {
+      "paper_id": "2024_2024-05-23_Shift_1_Engineering_899a952c",
+      "pdf_path": "papers/2024/2024-05-23/Shift_1/Engineering/question_paper.pdf",
+      "status": "passed"
+    }
+  ],
+  "limits": [
+    "Technical integrity is not proof of exhaustive public coverage.",
+    "Image regions preserve original notation; secondary text transcriptions have not all been manually proofread.",
+    "Scientific correctness of all source answers and published solutions is not independently certified."
+  ]
+}

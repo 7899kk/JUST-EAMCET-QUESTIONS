@@ -29,7 +29,18 @@
   "answers_mapped": 0,
   "content_signature": "ab06c07ac7780ca26dcbdf17334280e921a7d86b33e7a4aa94f2e8c3c065ae4b",
   "text_path": "papers/2017/2017-04-28/Shift_1/Agriculture_Pharmacy/question_paper_text.txt",
-  "attachments": [],
+  "attachments": [
+    {
+      "pdf_path": "papers/2017/2017-04-28/Shift_1/Agriculture_Pharmacy/question_paper_2d4b2575ad00.pdf",
+      "source": "Vedantu",
+      "source_url": "https://www.vedantu.com/exams/ap-eamcet-question-paper-2017-24-april-evening",
+      "download_url": "https://www.vedantu.com/content-files-downloadable/exams/ap-eamcet-question-paper-2017-24-april-evening.pdf",
+      "subject": null,
+      "pages": 80,
+      "description": "Additional published question/solution document",
+      "metadata_path": "papers/2017/2017-04-28/Shift_1/Agriculture_Pharmacy/metadata_vedantu_verified.json"
+    }
+  ],
   "additional_sources": [
     {
       "source": "CareerIndia",

@@ -1,3 +1,4 @@
+from common import load_questions
 """Generate explanations only for explicitly supported, checked scientific patterns.
 Unknown questions are never assigned filler explanations or invented answers.
 """
@@ -20,7 +21,7 @@ def solve(q):
     return {'solution':f'For the same ideal gas, u_rms=√(3RT/M). The molar mass stays constant, so u₂/u₁=√(T₂/T₁)=√({t2:g}/{t1:g})={ratio:.6g}. The fractional decrease is 1−{ratio:.6g}={1-ratio:.6g}; multiplying by 100 gives {decrease:.6g}%. Temperatures are in kelvin. Final answer: {answer}.','eapcet_shortcut':'Use the square root of the temperature ratio; the other constants cancel.','banda_gurthu':'Molecular speed follows √kelvin.','chapter':'States of Matter','topic':'Root-mean-square molecular speed','solution_provenance':{'type':'generated_educational_explanation','method':'checked ideal-gas rms-speed formula; numerical option and existing key agreement required'}}
 def main():
     path=ROOT/'database/curated_solutions.json';edits=json.loads(path.read_text()) if path.exists() else [];keys={tuple(e[k] for k in ['year','exam_date','shift','subject','question_number']) for e in edits};count=0
-    for q in json.loads((ROOT/'database/questions.json').read_text()):
+    for q in load_questions():
         selector={k:q[k] for k in ['year','exam_date','shift','subject','question_number']};key=tuple(selector.values())
         if key in keys or q.get('solution'):continue
         fields=solve(q)

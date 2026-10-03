@@ -5,3 +5,8 @@ sources/download_cache/
 artifacts/
 .static-build/
 node_modules/
+
+sources/transcriptions/
+sources/snapshots/
+
+app/frontend/vendor/

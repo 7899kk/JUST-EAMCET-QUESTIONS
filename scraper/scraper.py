@@ -41,12 +41,12 @@ def collect(paper):
         if len(doc)<=4:
             from parsers.answer_key import parse as parse_key
             rows=parse_key(text)
-            if rows:
+            if rows or re.search(r'Q.No.|Ques ID|Preliminary Key',text[:500],re.I):
                 sm=re.search(r'Session[-\s]*(1|2)',text[:800],re.I)
                 if sm:shift='Shift_'+sm[1]
                 sha=hashlib.sha256(raw).hexdigest();dest=ROOT/'papers'/str(year)/(date or 'Date_Not_Identified')/(shift or 'Shift_Not_Identified')/stream;dest.mkdir(parents=True,exist_ok=True)
                 fp=dest/f'answer_key_{sha[:12]}.pdf';fp.write_bytes(raw)
-                record=dict(paper,year=year,exam_date=date,shift=shift,stream=stream,file_path=str(fp.relative_to(ROOT)),sha256=sha,key_type='published_educational_source',answers=rows,mapping_status='validated_160_rows',paper_type='answer_key')
+                record=dict(paper,year=year,exam_date=date,shift=shift,stream=stream,file_path=str(fp.relative_to(ROOT)),sha256=sha,key_type='published_educational_source',answers=rows,mapping_status='validated_160_rows' if rows else 'Not Available: requires manual review',paper_type='answer_key')
                 fp.with_name(f'answer_key_metadata_{sha[:12]}.json').write_text(json.dumps(record,indent=2));return record
         if re.search(r'Telangana|TS EAMCET|TS EAPCET',text[:1000],re.I):raise ValueError('Excluded Telangana paper')
         correction=ROOT/'sources/metadata_corrections.json'
@@ -54,6 +54,7 @@ def collect(paper):
             for c in json.loads(correction.read_text()):
                 if c.get('sha256')==hashlib.sha256(raw).hexdigest():
                     year=c.get('year',year);date=c.get('exam_date',date);shift=c.get('shift',shift);stream=c.get('stream',stream)
+                    if 'subject_scope' in c:paper['subject_scope']=c['subject_scope']
         if year not in range(2015,2027):raise ValueError('Out-of-range embedded year')
         dest=ROOT/'papers'/str(year)/(date or 'Date_Not_Identified')/(shift or 'Shift_Not_Identified')/stream
         dest.mkdir(parents=True,exist_ok=True)

@@ -1,3 +1,4 @@
+from common import save_questions
 """Rebuild the canonical archive, database, and local/portable app data."""
 import csv,hashlib,json,sys,re
 from pathlib import Path
@@ -7,6 +8,14 @@ from parsers.published_pdf import parse as parse_published
 
 def rank(m):
     return 100 if m.get('answer_key_type')=='official_final' else 90 if m['source'].startswith('APSCHE') else 60 if m['source']=='SelfStudys' else 40 if m['source']=='UPI QP Bank' else 30
+
+def preserve_transcriptions(source,target):
+    source_dir=ROOT/'sources/transcriptions'/source['paper_id'];target_dir=ROOT/'sources/transcriptions'/target['paper_id']
+    if not source_dir.exists() or source_dir==target_dir:return
+    target_dir.mkdir(parents=True,exist_ok=True)
+    for fp in source_dir.glob('*.json'):
+        dest=target_dir/fp.name
+        if not dest.exists():dest.write_text(fp.read_text())
 
 def merge_transcriptions(qs,m):
     indexed={q['question_number']:q for q in qs};conflicts=[]
@@ -23,6 +32,8 @@ def merge_transcriptions(qs,m):
     return sorted(indexed.values(),key=lambda q:q['question_number']),conflicts
 
 def main():
+    from restore_sources import main as restore
+    restore()
     records=[]
     for mp in ROOT.glob('papers/**/metadata*.json'):
         m=json.loads(mp.read_text());m['metadata_path']=str(mp.relative_to(ROOT));records.append(m)
@@ -31,7 +42,7 @@ def main():
     for m in records:
         sha=m['sha256']
         if sha in hashes:
-            kept=hashes[sha];kept.setdefault('additional_sources',[]).append({'source':m['source'],'source_url':m['source_url'],'download_url':m['download_url'],'sha256':sha})
+            kept=hashes[sha];preserve_transcriptions(m,kept);kept.setdefault('additional_sources',[]).append({'source':m['source'],'source_url':m['source_url'],'download_url':m['download_url'],'sha256':sha})
             duplicate_records.append({'kind':'identical_file','sha256':sha,'retained':kept['pdf_path'],'duplicate':m['pdf_path'],'source_url':m['source_url'],'metadata_path':m['metadata_path']});continue
         qs,text=parse(ROOT/m['pdf_path'],m,ROOT)
         if not qs and len(text.strip())>500:qs,text=parse_published(ROOT/m['pdf_path'],m,ROOT)
@@ -39,7 +50,7 @@ def main():
         signature=hashlib.sha256('|'.join(ids).encode()).hexdigest() if ids and all(ids) else None
         # Equal complete original IDs identify the same paper across source compression/watermarks.
         if signature and signature in signatures and len(qs)==len(signatures[signature][1]):
-            kept,kqs=signatures[signature];kept.setdefault('additional_sources',[]).append({'source':m['source'],'source_url':m['source_url'],'download_url':m['download_url'],'sha256':sha,'content_signature':signature})
+            kept,kqs=signatures[signature];preserve_transcriptions(m,kept);kept.setdefault('additional_sources',[]).append({'source':m['source'],'source_url':m['source_url'],'download_url':m['download_url'],'sha256':sha,'content_signature':signature})
             diffs=[{'question_number':q['question_number'],'retained_answer':k['correct_answer'],'alternate_answer':q['correct_answer']} for k,q in zip(kqs,qs) if k['correct_answer']!=q['correct_answer']]
             duplicate_records.append({'kind':'same_original_question_ids','sha256':sha,'content_signature':signature,'retained':kept['pdf_path'],'duplicate':m['pdf_path'],'source_url':m['source_url'],'metadata_path':m['metadata_path'],'answer_differences':diffs});continue
         if signature:signatures[signature]=(m,qs)
@@ -106,12 +117,14 @@ def main():
     for old in (ROOT/'app/data').glob('*_*.json'):old.unlink()
     for pid,qs in by_paper.items():(ROOT/'app/data'/f'{pid}.json').write_text(json.dumps(qs,ensure_ascii=False))
     for name,obj in [('questions',questions),('answers',[{'question_id':q['question_id'],'correct_answer':q['correct_answer'],'provenance':q['answer_provenance']} for q in questions]),('solutions',[{'question_id':q['question_id'],'solution':q['solution'],'solution_images':q.get('solution_images',[]),'provenance':q.get('solution_provenance'),'eapcet_shortcut':q['eapcet_shortcut'],'banda_gurthu':q['banda_gurthu']} for q in questions if q['solution'] or q.get('solution_images')]),('metadata',{'schema_version':2,'years':list(range(2015,2027)),'papers':papers,'documents':all_docs,'question_count':len(questions)}),('duplicates',duplicate_records+(json.loads((ROOT/'sources/dedup_history.json').read_text()) if (ROOT/'sources/dedup_history.json').exists() else [])),('answer_conflicts',answer_conflicts)]:
-        (ROOT/'database'/f'{name}.json').write_text(json.dumps(obj,ensure_ascii=False,indent=2 if name!='questions' else None))
+        save_questions(obj) if name=='questions' else (ROOT/'database'/f'{name}.json').write_text(json.dumps(obj,ensure_ascii=False,indent=2))
     fields=['question_id','year','exam_date','shift','subject','question_number','question','options','correct_answer','solution','eapcet_shortcut','banda_gurthu','chapter','topic','source_paper','source_url','extraction_status']
     with (ROOT/'database/questions.csv').open('w',newline='') as f:
         w=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore');w.writeheader()
         for q in questions:w.writerow({k:json.dumps(q[k],ensure_ascii=False) if isinstance(q[k],(dict,list)) else q[k] for k in fields})
     urls=[{'paper_id':m['paper_id'],'source':m['source'],'source_url':m['source_url'],'download_url':m['download_url'],'pdf_path':m['pdf_path'],'additional_sources':m.get('additional_sources',[]),'attachments':m.get('attachments',[])} for m in papers]
+    for fp in ROOT.glob('papers/**/answer_key_metadata*.json'):
+        k=json.loads(fp.read_text());urls.append({'paper_id':k.get('paper_id'),'paper_type':'answer_key','source':k['source'],'source_url':k['source_url'],'download_url':k['download_url'],'pdf_path':k['file_path']})
     (ROOT/'sources/source_urls.json').write_text(json.dumps(urls,indent=2))
     with (ROOT/'sources/source_index.csv').open('w',newline='') as f:
         w=csv.DictWriter(f,fieldnames=['paper_id','source','source_url','download_url','pdf_path'],extrasaction='ignore');w.writeheader();w.writerows(urls)

@@ -3,7 +3,7 @@
   "source_url": "https://www.vedantu.com/exams/ap-eamcet-physics-question-paper-2018-25-april-evening",
   "download_url": "https://www.vedantu.com/content-files-downloadable/exams/ap-eamcet-physics-question-paper-2018-25-april-evening.pdf",
   "title": "AP EAMCET 2018 Physics Previous Year Question Papers with Solutions - 25th April 2018 Evening Shift ",
-  "subject_scope": "Physics",
+  "subject_scope": null,
   "stream": "Agriculture_Pharmacy",
   "paper_id": "2018_2018-04-25_Shift_2_Agriculture_Pharmacy_ea28625f",
   "year": 2018,
@@ -30,5 +30,6 @@
   "answers_mapped": 0,
   "content_signature": null,
   "text_path": "papers/2018/2018-04-25/Shift_2/Agriculture_Pharmacy/question_paper_ea28625f94de_text.txt",
-  "additional_sources": []
+  "additional_sources": [],
+  "source_label_conflict": "Advertised as Physics; actual PDF is a combined Medical/Botany paper with 160 questions. Embedded document identity used."
 }
