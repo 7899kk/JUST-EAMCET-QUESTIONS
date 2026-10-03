@@ -1,0 +1,29 @@
+{
+  "paper_id": "2025_2025-05-21_Shift_1_618c17c4",
+  "year": 2025,
+  "exam_date": "2025-05-21",
+  "shift": "Shift_1",
+  "subject": [
+    "Mathematics",
+    "Physics",
+    "Chemistry"
+  ],
+  "stream": "Engineering",
+  "source": "APSCHE",
+  "source_url": "https://cets.apsche.ap.gov.in/EAPCET25/Eapcet/EAPCET_ExamPapersFinal.aspx",
+  "download_url": "https://cets.apsche.ap.gov.in/EAPCET/PDF/EXAM_PAPER_FINAL/QPK_21ST_MAY_SHIFT_1_FINAL.pdf",
+  "additional_sources": [],
+  "pdf_path": "papers/2025/2025-05-21/Shift_1/question_paper_618c17c4.pdf",
+  "sha256": "618c17c4736b2e46dafc25e59704f5c4fc163f9899178c8ee2590b9b77ad25b0",
+  "bytes": 8338708,
+  "pages": 121,
+  "identity_evidence": "PDF header",
+  "catalog_label": "QPK_21ST_MAY_SHIFT_1_FINAL.pdf",
+  "answer_key_type": "Official final preliminary key",
+  "answer_key_location": "Inside original PDF",
+  "verification_status": "PDF opens; identity PDF header",
+  "complete_coverage_claim": false,
+  "questions_indexed": 160,
+  "extraction_status": "Indexed original question regions",
+  "metadata_path": "papers/2025/2025-05-21/Shift_1/metadata_618c17c4.json"
+}
