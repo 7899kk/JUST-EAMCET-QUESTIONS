@@ -8,6 +8,12 @@ Original public papers for **2015–2026**, a question database, and a searchabl
 
 This is a substantial collected archive, **not certified exhaustive coverage**. Every year was checked individually. Missing dates, shifts, answers, transcriptions and explanations are disclosed in the reports. No replacement questions or sessions are invented. Original PDF content remains authoritative when an educational transcription contains an error.
 
+## Chapter-wise questions
+
+[Browse Physics, Maths, Chemistry, and Missing questions](chapter-wise/) · [Download the chapter ZIP](https://github.com/7899kk/JUST-EAMCET-QUESTIONS/releases/download/ap-eamcet-chapter-wise-2026-10-04/AP_EAPCET_Chapter_Wise_With_Missing.zip) · [Comparison report](reports/ap_eamcet_chapter_comparison.md)
+
+All **93 AP EAMCET chapter-wise PDFs currently listed on Selfstudys** are included unchanged. The 17,359 existing Maths/Physics/Chemistry archive records were compared with their chapter question stems. 1,251 were confidently matched; the remaining 16,108 records are retained from the existing original papers under **Missing questions**, including uncertain OCR matches. The report explains the limits and links every checked record to its chapter match or supplement PDF page. Five subject sections from the two unindexed scanned 2016 originals are also retained; the existing missing Physics question-105 record is documented.
+
 ## Run locally
 
 Python 3.10+ is recommended. From the repository root:
