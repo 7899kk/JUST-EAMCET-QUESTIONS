@@ -10,7 +10,7 @@ This is a substantial collected archive, **not certified exhaustive coverage**. 
 
 ## Chapter-wise questions
 
-[Browse Physics, Maths, Chemistry, and Missing questions](chapter-wise/) · [Download the chapter ZIP](https://github.com/7899kk/JUST-EAMCET-QUESTIONS/releases/download/ap-eamcet-chapter-wise-2026-10-04/AP_EAPCET_Chapter_Wise_With_Missing.zip) · [Comparison report](reports/ap_eamcet_chapter_comparison.md)
+[Browse Physics, Maths, Chemistry, and Missing questions](chapter-wise/) · [Download the chapter ZIP](https://github.com/7899kk/JUST-EAMCET-QUESTIONS/archive/refs/tags/ap-eamcet-chapter-wise-2026-10-04.zip) · [Comparison report](reports/ap_eamcet_chapter_comparison.md)
 
 All **93 AP EAMCET chapter-wise PDFs currently listed on Selfstudys** are included unchanged. The 17,359 existing Maths/Physics/Chemistry archive records were compared with their chapter question stems. 1,251 were confidently matched; the remaining 16,108 records are retained from the existing original papers under **Missing questions**, including uncertain OCR matches. The report explains the limits and links every checked record to its chapter match or supplement PDF page. Five subject sections from the two unindexed scanned 2016 originals are also retained; the existing missing Physics question-105 record is documented.
 
