@@ -1,9 +1,0 @@
-{
-  "status": "passed",
-  "checks": [
-    "Committed evidence and offline renderer archives restore without network access",
-    "Repository-prefix routes, original PDF regions and offline mathematical typesetting work",
-    "Full-text search works on a static server with no API"
-  ],
-  "errors": []
-}
