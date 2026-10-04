@@ -1,0 +1,937 @@
+{
+  "source": "Selfstudys AP EAMCET chapter-wise section",
+  "index_url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise",
+  "verified_on": "2026-10-04",
+  "files": [
+    {
+      "subject": "Physics",
+      "name": "1 Units & Measurement and Dimensions",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/units-measurement-and-dimensions/1206922",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/DsWtmEp63RsgFUeVZy5j",
+      "file": "Physics/01 Units & Measurement and Dimensions.pdf",
+      "bytes": 2301060,
+      "pages": 22,
+      "sha256": "89a1f9e6eeb87508e5b9d4a7ba5c474001ab163874d4330c9682d5c24d018238"
+    },
+    {
+      "subject": "Physics",
+      "name": "2 Vector Algebra",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/vector-algebra/1206921",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/t6Exy6nxREo4IKIFLGkZ",
+      "file": "Physics/02 Vector Algebra.pdf",
+      "bytes": 1354303,
+      "pages": 12,
+      "sha256": "1e6e5a127d63b690be63e37533d4df46efcc4d3c416ddfb258becae4150e96be"
+    },
+    {
+      "subject": "Physics",
+      "name": "3 Motion in a Straight Line",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/motion-in-a-straight-line/1206920",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/KJ3p5kJ0FRiRzQ6aI0Kn",
+      "file": "Physics/03 Motion in a Straight Line.pdf",
+      "bytes": 7532039,
+      "pages": 35,
+      "sha256": "42dece83c4acd59097f566c777ebb13fb81b3fe27d82af2e6d59e08ccc00dbf9"
+    },
+    {
+      "subject": "Physics",
+      "name": "4 Motion in a Plane",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/motion-in-a-plane/1206919",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/x7yPZmndkdM1Rogg8ac9",
+      "file": "Physics/04 Motion in a Plane.pdf",
+      "bytes": 8736166,
+      "pages": 53,
+      "sha256": "94073874c885a7c61501732a7d9f23d044a8234c9a7b9143d732a355ae6efee7"
+    },
+    {
+      "subject": "Physics",
+      "name": "5 Circular Motion",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/circular-motion/1206917",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/yX9KrIg5h7memzfctkT7",
+      "file": "Physics/05 Circular Motion.pdf",
+      "bytes": 1793620,
+      "pages": 12,
+      "sha256": "addcfd32ce7c8998dcd3efb1b1618516c160f23db931336145fb883ebd4c6155"
+    },
+    {
+      "subject": "Physics",
+      "name": "6 Laws of Motion",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/laws-of-motion/1206916",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/cg5Crb66Ycs6XTZOD7Z5",
+      "file": "Physics/06 Laws of Motion.pdf",
+      "bytes": 8035951,
+      "pages": 42,
+      "sha256": "10c5ada21e7c660ab029b6efc48aa01460c6f56ca852168962cd8a076ef42f49"
+    },
+    {
+      "subject": "Physics",
+      "name": "7 Center of Mass and Collision",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/center-of-mass-and-collision/1206913",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/u02DjSKAPH7C2TjUHwKn",
+      "file": "Physics/07 Center of Mass and Collision.pdf",
+      "bytes": 8258301,
+      "pages": 39,
+      "sha256": "693f0886230b835bf7c5bde34fbb97817e7f05fec69d2d623385e8e675fb35e7"
+    },
+    {
+      "subject": "Physics",
+      "name": "8 Work, Energy and Power",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/work-energy-and-power/1206912",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/Bgs9gFJC62vk2PMywj2Z",
+      "file": "Physics/08 Work, Energy and Power.pdf",
+      "bytes": 7253871,
+      "pages": 53,
+      "sha256": "62dce480781414aa2d5a8b68ac49254c1d987877f5cb6c9e8998b892a6ebd580"
+    },
+    {
+      "subject": "Physics",
+      "name": "9 Rotational Motion",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/rotational-motion/1206911",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/QViA68k3zZUo4R4c0ukE",
+      "file": "Physics/09 Rotational Motion.pdf",
+      "bytes": 8108113,
+      "pages": 46,
+      "sha256": "e24b2cdf4b7141d2a421aaf592ed0d596c4df22040568393923fc931e13f6599"
+    },
+    {
+      "subject": "Physics",
+      "name": "10 Elasticity",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/elasticity/1206909",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/5DnTC2dAwIUC1IE4MEOF",
+      "file": "Physics/10 Elasticity.pdf",
+      "bytes": 4166449,
+      "pages": 29,
+      "sha256": "46569217867bd87fc5ba2b8caa4f7e55d698f2c58fd8ac385fe41062fad5f7db"
+    },
+    {
+      "subject": "Physics",
+      "name": "11 Heat and Thermodynamics",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/heat-and-thermodynamics/1206908",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/IrHit2pT3E789P44q1l7",
+      "file": "Physics/11 Heat and Thermodynamics.pdf",
+      "bytes": 25973246,
+      "pages": 138,
+      "sha256": "a6661ebacfd0a7bc27d19274b5c2e3fb72e7a27d37ab99af97c1a85590947a5e"
+    },
+    {
+      "subject": "Physics",
+      "name": "12 Fluid Mechanics",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/fluid-mechanics/1206907",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/accXyCesrPCGImVB4FnJ",
+      "file": "Physics/12 Fluid Mechanics.pdf",
+      "bytes": 5604462,
+      "pages": 37,
+      "sha256": "26b14a8b1a6d55083c80414161547c9a14313fa4ef61482e863c480305dc5976"
+    },
+    {
+      "subject": "Physics",
+      "name": "13 Simple Harmonic Motion",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/simple-harmonic-motion/1206905",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/fBQyVExS2bTmMxcHx1se",
+      "file": "Physics/13 Simple Harmonic Motion.pdf",
+      "bytes": 8649379,
+      "pages": 62,
+      "sha256": "d2e3f7b4764dda72ba8b5f094eeaf3575b91f7c0736097d6e53a5f32b14b6f5d"
+    },
+    {
+      "subject": "Physics",
+      "name": "14 Waves",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/waves/1206903",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/bD74ELdrY6lZMJ3DWprK",
+      "file": "Physics/14 Waves.pdf",
+      "bytes": 4132147,
+      "pages": 30,
+      "sha256": "69903e608dcb373c3b0ecca390f346381b2ad8b5becb40134405e285b4255a75"
+    },
+    {
+      "subject": "Physics",
+      "name": "15 Gravitation",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/gravitation/1206902",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/actCF4MqWeOitfh7rPwA",
+      "file": "Physics/15 Gravitation.pdf",
+      "bytes": 5722469,
+      "pages": 35,
+      "sha256": "4ff7eb7fedc87c064853904e385fd7320f6c341e5f6a45a90f1b1d443bf75c54"
+    },
+    {
+      "subject": "Physics",
+      "name": "16 Ray Optics",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/ray-optics/1206899",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/O3BRApeOKlhLfk6DJj6r",
+      "file": "Physics/16 Ray Optics.pdf",
+      "bytes": 3588465,
+      "pages": 26,
+      "sha256": "c536e952c8836de3d3d4189abd3ffc0db49e8eef15a8ddcf27cde9c6666db821"
+    },
+    {
+      "subject": "Physics",
+      "name": "17 Wave Optics",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/wave-optics/1206896",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/GdQ1ww0X3qF6gwkbsYLs",
+      "file": "Physics/17 Wave Optics.pdf",
+      "bytes": 4083105,
+      "pages": 25,
+      "sha256": "7547bc39347b61291d2a4b400a54a6a228c5a7137dbc22dab28479031ec62212"
+    },
+    {
+      "subject": "Physics",
+      "name": "18 Electrostatics",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/electrostatics/1206894",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/ssLoYsnoYqcAjujkrS0A",
+      "file": "Physics/18 Electrostatics.pdf",
+      "bytes": 9237780,
+      "pages": 57,
+      "sha256": "d3e25d4363c07121e51e5d402dfefe5b0eec4599bdc0541fc5b88e41d54a78cd"
+    },
+    {
+      "subject": "Physics",
+      "name": "19 Current Electricity",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/current-electricity/1206892",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/QVxKDq9jKsIhZMQ0nqtm",
+      "file": "Physics/19 Current Electricity.pdf",
+      "bytes": 13305820,
+      "pages": 66,
+      "sha256": "52f60d5347343c8dca0dd17da7c6006e062b6cb7776dbb280d7c992a22065c12"
+    },
+    {
+      "subject": "Physics",
+      "name": "20 Capacitor",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/capacitor/1206890",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/DpZsshOIoHIMXaE45rgB",
+      "file": "Physics/20 Capacitor.pdf",
+      "bytes": 6434436,
+      "pages": 34,
+      "sha256": "b582e176aa35d3f03475d506d1085e2d5478a7d4aae568efa76f2e02869ad67c"
+    },
+    {
+      "subject": "Physics",
+      "name": "21 Moving Charges and Magnetism",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/moving-charges-and-magnetism/1206889",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/BRuLujEWwIlAxXXBrPNa",
+      "file": "Physics/21 Moving Charges and Magnetism.pdf",
+      "bytes": 10613945,
+      "pages": 61,
+      "sha256": "4fc84d7baf80dc28db06fe4a0c3087674863f89da036b7b4ff6659cb76eec943"
+    },
+    {
+      "subject": "Physics",
+      "name": "22 Magnetism and Matter",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/magnetism-and-matter/1206888",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/YFT2uJ4srrq0WDMjpHI9",
+      "file": "Physics/22 Magnetism and Matter.pdf",
+      "bytes": 3411012,
+      "pages": 22,
+      "sha256": "52d8971ee79c6cc23bb631f51376f1303c1ed3132b2d2ef2597b2e6ca391a798"
+    },
+    {
+      "subject": "Physics",
+      "name": "23 Electromagnetic Induction",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/electromagnetic-induction/1206887",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/Z08ojmL08CY2gqlBnr4S",
+      "file": "Physics/23 Electromagnetic Induction.pdf",
+      "bytes": 4250088,
+      "pages": 29,
+      "sha256": "c6886fc363399e9b2ef0db55846048779f7a3dbf67b89978648f6347378b2ed8"
+    },
+    {
+      "subject": "Physics",
+      "name": "24 Alternating Current",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/alternating-current/1206886",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/YCOQ2jNb5zItWRLCZpPW",
+      "file": "Physics/24 Alternating Current.pdf",
+      "bytes": 4029840,
+      "pages": 26,
+      "sha256": "ca02e165600d4795b98b5f8619277c614a604cd8ddfedd2341b02e21ea9a843d"
+    },
+    {
+      "subject": "Physics",
+      "name": "25 Electromagnetic Waves",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/electromagnetic-waves/1206885",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/qY4h6Akiv6PnE7XXzs62",
+      "file": "Physics/25 Electromagnetic Waves.pdf",
+      "bytes": 4265448,
+      "pages": 33,
+      "sha256": "e2f4c73b139878e8c0fad4988c6c26209891273e0b53a69add6ac34cbf56a85e"
+    },
+    {
+      "subject": "Physics",
+      "name": "26 Atoms and Nuclei",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/atoms-and-nuclei/1206884",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/5u9XWZNI4XjsOLrCPURL",
+      "file": "Physics/26 Atoms and Nuclei.pdf",
+      "bytes": 7484147,
+      "pages": 53,
+      "sha256": "431855d7ae329c61bd951732c8ceb5b2574c6ada19689130a5e5e9b44785796c"
+    },
+    {
+      "subject": "Physics",
+      "name": "27 Dual Nature of Radiation",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/dual-nature-of-radiation/1206883",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/oljdiFjtH1POEPenqk2U",
+      "file": "Physics/27 Dual Nature of Radiation.pdf",
+      "bytes": 4758235,
+      "pages": 29,
+      "sha256": "5ab6a2b44e4bad8f63893ce38d04d1329bfb5b42869e1eedce3af9e67beecba6"
+    },
+    {
+      "subject": "Physics",
+      "name": "28 Semiconductor Devices and Logic Gates",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/semiconductor-devices-and-logic-gates/1206882",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/RRoMvrjs5xWEDj6HpS30",
+      "file": "Physics/28 Semiconductor Devices and Logic Gates.pdf",
+      "bytes": 31118224,
+      "pages": 42,
+      "sha256": "4f1614984eefb448aa9b303e7627d85c200af03a7a397209b0cae94e40b5593d"
+    },
+    {
+      "subject": "Physics",
+      "name": "29 Communication Systems",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/physics/communication-systems/1206881",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/4lJAl903InPCNnzINDvA",
+      "file": "Physics/29 Communication Systems.pdf",
+      "bytes": 1746698,
+      "pages": 14,
+      "sha256": "c39a1d17572876551f9d823e77825803841ea590e63612931d2b3f9fa45f7901"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "1 Some Basic Concepts of Chemistry",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/some-basic-concepts-of-chemistry/1206987",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/Gq3Jg2zHm8xVGqhXb6dF",
+      "file": "Chemistry/01 Some Basic Concepts of Chemistry.pdf",
+      "bytes": 5313787,
+      "pages": 34,
+      "sha256": "c40b7ae5ddde393238ce23cf48592b24376edaaab996c9387b8dd1a89a70a878"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "2 Atomic Structure",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/atomic-structure/1206986",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/NmwxMlQZO6tlOq32B71A",
+      "file": "Chemistry/02 Atomic Structure.pdf",
+      "bytes": 8173690,
+      "pages": 53,
+      "sha256": "1eb341210ba59577f37ae8b83184fa9b3f5e1442b571b375783a06c16b96a328"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "3 Thermodynamics",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/thermodynamics/1206985",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/tpbbIWuuIgq65e8h1eNC",
+      "file": "Chemistry/03 Thermodynamics.pdf",
+      "bytes": 29530244,
+      "pages": 50,
+      "sha256": "fa344eb90053ed82c379d5c7e901d49ea0bacc377dc2a64dc159bbf63a5fd3b0"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "4 States of Matter",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/states-of-matter/1206984",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/Buw5damuqS8KgJ18YkU2",
+      "file": "Chemistry/04 States of Matter.pdf",
+      "bytes": 11376630,
+      "pages": 49,
+      "sha256": "6cc4821f1cdedb08f207c7a877b248fcfa9ddb5f57cbdd998ddd2296fc9bfeb0"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "5 Chemical Equilibrium",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/chemical-equilibrium/1206983",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/r79r4zKbfcdm1jSybNVG",
+      "file": "Chemistry/05 Chemical Equilibrium.pdf",
+      "bytes": 5765117,
+      "pages": 36,
+      "sha256": "2749104dbf7eef91f8a3b1cc3198251a594101a2b7d35aca982d52df43278314"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "6 Ionic Equilibrium",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/ionic-equilibrium/1206982",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/kKrvlDxWK4GuO3J2Yfku",
+      "file": "Chemistry/06 Ionic Equilibrium.pdf",
+      "bytes": 2440105,
+      "pages": 20,
+      "sha256": "262993ae6ed2907e6e4c136ace03b6d83e9b6d0d82add8e489bbd3a159aeb1b2"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "7 Liquid Solution",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/liquid-solution/1206981",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/GNViylvhgxTS6pgTLfDI",
+      "file": "Chemistry/07 Liquid Solution.pdf",
+      "bytes": 8658564,
+      "pages": 53,
+      "sha256": "5664151647922aac2bc068422f6b9b66eab01718dff3676fd31f6cdfd2c31cd9"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "8 Redox Reactions",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/redox-reactions/1206980",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/5UkihJW5b66x79U6LP0R",
+      "file": "Chemistry/08 Redox Reactions.pdf",
+      "bytes": 4261857,
+      "pages": 23,
+      "sha256": "530326c9fc5d9530bb196efcb8c27967a4910725cde7d795cc56fe6a97169c6d"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "9 Surface Chemistry",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/surface-chemistry/1206979",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/2Akm0iMF1tGD5TVoxppi",
+      "file": "Chemistry/09 Surface Chemistry.pdf",
+      "bytes": 7486011,
+      "pages": 40,
+      "sha256": "47f435ba162a4a2e665273270ad41d41889253dc142d81ae29b6119695738aee"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "10 Solid State",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/solid-state/1206978",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/JUpPAccr2hdIn9JmOf1o",
+      "file": "Chemistry/10 Solid State.pdf",
+      "bytes": 4531108,
+      "pages": 26,
+      "sha256": "51a9e18831fd576d0462fc02e66f1801efbaf4d83e616392924d0edbcb5c07e0"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "11 Electrochemistry",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/electrochemistry/1206977",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/l5qgm9aOZcocyW46T75t",
+      "file": "Chemistry/11 Electrochemistry.pdf",
+      "bytes": 5838366,
+      "pages": 40,
+      "sha256": "b171a4ad20e175911c6c4b87e3ace172e77c73d8ac7a884f3260c663df86cbab"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "12 Chemical Kinetics",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/chemical-kinetics/1206976",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/rfoW9BvlRUfrlMLxtyLU",
+      "file": "Chemistry/12 Chemical Kinetics.pdf",
+      "bytes": 5274283,
+      "pages": 31,
+      "sha256": "407286b087faa62266c9bde7c0e20a243d768c54d060d9a74f94ce20ef864c88"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "13 Chemical Bonding and Molecular Structure",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/chemical-bonding-and-molecular-structure/1206975",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/i5g0WVoAfnGicF2lWg8f",
+      "file": "Chemistry/13 Chemical Bonding and Molecular Structure.pdf",
+      "bytes": 13994082,
+      "pages": 67,
+      "sha256": "80866a3e2814e45307941345ff45870130abbb286d1db00565d743eeec3c9e97"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "14 Periodic Table and Periodicity",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/periodic-table-and-periodicity/1206974",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/KACWrf5e4Cuk1O5Z7mqy",
+      "file": "Chemistry/14 Periodic Table and Periodicity.pdf",
+      "bytes": 5988148,
+      "pages": 33,
+      "sha256": "9a8151f0a769e53f207bf400287b0c5530375dd04db1ca47119fd6dd9b1ffa5a"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "15 Metallurgy",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/metallurgy/1206973",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/J8Z3vxlMhM8V0DMdVQNI",
+      "file": "Chemistry/15 Metallurgy.pdf",
+      "bytes": 2921132,
+      "pages": 20,
+      "sha256": "2dc0492e928cc5bd0ca07a3b4b681038437a9db95531f52497f4c254e860aa16"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "16 Hydrogen and It's Compounds",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/hydrogen-and-its-compounds/1206972",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/WZv4WuSyfjHDUpGPwIIy",
+      "file": "Chemistry/16 Hydrogen and It's Compounds.pdf",
+      "bytes": 3176690,
+      "pages": 15,
+      "sha256": "c56ca7e55c2687d76465705e721c7787cf1db77fc31539dcd158122a436bd4b1"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "17 s-Block Elements",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/s-block-elements/1206971",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/RsEFXdld2duhsmLdWYR0",
+      "file": "Chemistry/17 s-Block Elements.pdf",
+      "bytes": 3922292,
+      "pages": 22,
+      "sha256": "b27d129018803559f32add9f32f994341d4c35638d7e69d04a6e65e0bd8fe25d"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "18 p-Block Elements",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/p-block-elements/1206970",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/Y30fNDBPBnCVCLb9Kefu",
+      "file": "Chemistry/18 p-Block Elements.pdf",
+      "bytes": 7922377,
+      "pages": 47,
+      "sha256": "fa5dabd7eb123aa4bc350551f317c5332ca8ed7590525e7f850b7c8d75d5a891"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "19 d and f Block Elements",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/d-and-f-block-elements/1206969",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/OPzpTzROF6zP0OcV5V0J",
+      "file": "Chemistry/19 d and f Block Elements.pdf",
+      "bytes": 2757512,
+      "pages": 22,
+      "sha256": "9b4f5c088856c5df7f49e524dd00c43cfa63ac4054a539f47d463fd183e0661f"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "20 Coordination Compounds",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/coordination-compounds/1206968",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/jTfGDcredillyEqRFthR",
+      "file": "Chemistry/20 Coordination Compounds.pdf",
+      "bytes": 4569495,
+      "pages": 26,
+      "sha256": "84df99ba28abc0935ca5c4acc18a85ca0f58c1c189b7a40abd35b78ec3963f15"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "21 Environmental Chemistry",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/environmental-chemistry/1206967",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/OuJzzn3pHjhp7Sn4jN89",
+      "file": "Chemistry/21 Environmental Chemistry.pdf",
+      "bytes": 3084833,
+      "pages": 18,
+      "sha256": "1b70f39f2f87e9bce4c3bd185735d5f7eacf98e9df027d2048bd9768bdf098f7"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "22 IUPAC Nomenclatures",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/iupac-nomenclatures/1206966",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/r6XiCdJKklD8WbrM9zRb",
+      "file": "Chemistry/22 IUPAC Nomenclatures.pdf",
+      "bytes": 2514245,
+      "pages": 10,
+      "sha256": "28c1039801f3251a4931598a3defc039961661a353f98fa9a78543976dea64df"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "23 General Organic Chemistry",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/general-organic-chemistry/1206965",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/RRijyo80DbAVDvRx7DPb",
+      "file": "Chemistry/23 General Organic Chemistry.pdf",
+      "bytes": 9321684,
+      "pages": 23,
+      "sha256": "07240e22c6d21e5ab1453fcc3a75220ba0afd13677c722b6571d5ff7f056bb42"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "24 Isomerism",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/isomerism/1206964",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/VOjpSfHoIZgeknWzBs78",
+      "file": "Chemistry/24 Isomerism.pdf",
+      "bytes": 754507,
+      "pages": 5,
+      "sha256": "cd1f7db2e9a7e4ba90af8f3f1ed3a8b1cf6f4bc97f35bffdea53d80e927d104e"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "25 Hydrocarbons",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/hydrocarbons/1206963",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/tSEUcwF3gChGJq9JFvx2",
+      "file": "Chemistry/25 Hydrocarbons.pdf",
+      "bytes": 2171186,
+      "pages": 32,
+      "sha256": "ffbd539373b938dddff0da8ff6dc306ee73e91e130d430741da78f40b75fe9d4"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "26 Haloalkanes and Haloarenes",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/haloalkanes-and-haloarenes/1206961",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/mkGApzk9flfHKwlCUtkP",
+      "file": "Chemistry/26 Haloalkanes and Haloarenes.pdf",
+      "bytes": 3511840,
+      "pages": 49,
+      "sha256": "6a17dbb66a4afd030aeb9e1a55e6240df2cd8fe479f8464dcf05b6bdd902a06c"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "27 Alcohol, Phenols and Ethers",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/alcohol-phenols-and-ethers/1206960",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/Ln7URkX65zMuH7xLbX4A",
+      "file": "Chemistry/27 Alcohol, Phenols and Ethers.pdf",
+      "bytes": 9369466,
+      "pages": 25,
+      "sha256": "166b26ea092ac933ccd3986b150ad4ec3df83ffc6a9394e79c49157a96ab9d0b"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "28 Aldehyde and Ketone",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/aldehyde-and-ketone/1206959",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/BHbIRrhSQcw7EJiTonJD",
+      "file": "Chemistry/28 Aldehyde and Ketone.pdf",
+      "bytes": 14637885,
+      "pages": 35,
+      "sha256": "e5db6dd6086108ebf6155a5f4792603922e6e80534b987ca38122d5c20b2965b"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "29 Carboxylic Acids and Its Derivatives",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/carboxylic-acids-and-its-derivatives/1206936",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/D8rVtB0ibkbxqRqx0ru4",
+      "file": "Chemistry/29 Carboxylic Acids and Its Derivatives.pdf",
+      "bytes": 9940290,
+      "pages": 28,
+      "sha256": "e01423dade726977755a61c6bd55c316f9107f2e3b9e900356db1549ecb38f8c"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "30 Compounds Containing Nitrogen",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/compounds-containing-nitrogen/1206927",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/tluPM8xXlDVxmOGiWZCI",
+      "file": "Chemistry/30 Compounds Containing Nitrogen.pdf",
+      "bytes": 31296855,
+      "pages": 31,
+      "sha256": "fc5006f89f222ad582cc17ef6cf74882ed529057707b1f6c3a9f4d5af5c67213"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "31 Biomolecules",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/biomolecules/1206926",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/vfVXg9lwRNZva5N4RPpE",
+      "file": "Chemistry/31 Biomolecules.pdf",
+      "bytes": 30172677,
+      "pages": 45,
+      "sha256": "0e372167f14af8651ee54b855a4a0e9a9eb1b4410a38c124ef42b8c11d56a939"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "32 Polymers",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/polymers/1206925",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/lkQNKkmE6y56G7VBxnTU",
+      "file": "Chemistry/32 Polymers.pdf",
+      "bytes": 6968733,
+      "pages": 23,
+      "sha256": "cb121f726a98a51ce582da316a0d3817045db5c27f89da74266cc6295e944510"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "33 Chemistry in Everyday Life",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/chemistry-in-everyday-life/1206924",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/7JGyHSkNpW5HjYiRyQqE",
+      "file": "Chemistry/33 Chemistry in Everyday Life.pdf",
+      "bytes": 3291902,
+      "pages": 18,
+      "sha256": "a544d259d4ecd7c019940187dab6162222443a355b1ab9e1d587facc5eb76f30"
+    },
+    {
+      "subject": "Chemistry",
+      "name": "34 Practical Organic Chemistry",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/chemistry/practical-organic-chemistry/1206923",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/jrgseiMXLNyPqIBkN74D",
+      "file": "Chemistry/34 Practical Organic Chemistry.pdf",
+      "bytes": 773050,
+      "pages": 5,
+      "sha256": "476309bcd3d7371eb8981afc6ac8c50f7ed3f855316cf44c076129d6df63fabb"
+    },
+    {
+      "subject": "Maths",
+      "name": "1 Sets and Relations",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/sets-and-relations/1207017",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/SBKQxQSR7yWMdtLNddvB",
+      "file": "Maths/01 Sets and Relations.pdf",
+      "bytes": 287619,
+      "pages": 2,
+      "sha256": "ffc2a95651a62b7840cf4b17810c4ef73e6feb6032109ca0f5023ec1abed049d"
+    },
+    {
+      "subject": "Maths",
+      "name": "2 Logarithms",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/logarithms/1207016",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/LetvYKM2tgdaY6Ar3kN2",
+      "file": "Maths/02 Logarithms.pdf",
+      "bytes": 501103,
+      "pages": 6,
+      "sha256": "d6517f651a163ee9cf927b9618303a76d6371e8f180d5e51abc9b09a8e9ff5d0"
+    },
+    {
+      "subject": "Maths",
+      "name": "3 Quadratic Equations",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/quadratic-equations/1207015",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/bzvmi2eQZ6ceQPz7KfBn",
+      "file": "Maths/03 Quadratic Equations.pdf",
+      "bytes": 10221382,
+      "pages": 87,
+      "sha256": "4b049e88978e8aa1a043bad6615f73ffe45f3c93246d1dd32d0d3f7ee83fd755"
+    },
+    {
+      "subject": "Maths",
+      "name": "4 Sequences and Series",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/sequences-and-series/1207014",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/FGp3Jz0wnfZMXgJc4Fyv",
+      "file": "Maths/04 Sequences and Series.pdf",
+      "bytes": 3365513,
+      "pages": 34,
+      "sha256": "186032d511c65191b57c570240eae3c3342ca9bd9500f0038298ebe85ff0ce08"
+    },
+    {
+      "subject": "Maths",
+      "name": "5 Permutations and Combinations",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/permutations-and-combinations/1207013",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/7KNI4UIYaK1NegEyPxzo",
+      "file": "Maths/05 Permutations and Combinations.pdf",
+      "bytes": 10426407,
+      "pages": 72,
+      "sha256": "278b55480c78e8a9d292c257b6d939066764e1b85178dea0f7f4292ca2917bd3"
+    },
+    {
+      "subject": "Maths",
+      "name": "6 Probability",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/probability/1207012",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/tBfKsJlR6viGtbtNrhUD",
+      "file": "Maths/06 Probability.pdf",
+      "bytes": 20290476,
+      "pages": 100,
+      "sha256": "97504e6db9d13454ade90d4397ac5782167e3a28b858fbc675c7a0387af676ea"
+    },
+    {
+      "subject": "Maths",
+      "name": "7 Binomial Theorem",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/binomial-theorem/1207011",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/jQRkot66NQzi13OIVmWZ",
+      "file": "Maths/07 Binomial Theorem.pdf",
+      "bytes": 5345886,
+      "pages": 40,
+      "sha256": "da9a4dc5ded967f0e624b636b592a389619956a7a1c7b4a2998a588a1934c86a"
+    },
+    {
+      "subject": "Maths",
+      "name": "8 Three Dimensional Geometry",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/three-dimensional-geometry/1207010",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/w3nCPIDu5xLhKGRKJHGY",
+      "file": "Maths/08 Three Dimensional Geometry.pdf",
+      "bytes": 15339475,
+      "pages": 117,
+      "sha256": "758d5bc8aadc9a250498e1e75972dc1ef56592db885d5f7d5e4f0f3a767f1e94"
+    },
+    {
+      "subject": "Maths",
+      "name": "9 Vector Algebra",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/vector-algebra/1207009",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/T4nIy6vSMKruIV1gCJ02",
+      "file": "Maths/09 Vector Algebra.pdf",
+      "bytes": 12567490,
+      "pages": 99,
+      "sha256": "23f602c7626ac494df8cfacbc98a74104cbc404ae1a24392f3d216d9381119df"
+    },
+    {
+      "subject": "Maths",
+      "name": "10 Matrices and Determinants",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/matrices-and-determinants/1207008",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/JZjJF3eyFDKrLsXoZl9S",
+      "file": "Maths/10 Matrices and Determinants.pdf",
+      "bytes": 9629868,
+      "pages": 94,
+      "sha256": "121e99e84c945b9054a7cb351e27dc5831cdff2a599dd7592a87021f58c068ef"
+    },
+    {
+      "subject": "Maths",
+      "name": "11 Statistics",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/statistics/1207007",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/LN1JNzbSUZR5kkmZHfWK",
+      "file": "Maths/11 Statistics.pdf",
+      "bytes": 2916551,
+      "pages": 30,
+      "sha256": "6492b483a3a009303efa5208e1de94d522cfa8c16e80aebfb490c88c27c59388"
+    },
+    {
+      "subject": "Maths",
+      "name": "12 Mathematical Reasoning",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/mathematical-reasoning/1207006",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/CbXxrnKjAs7sAi5THKMY",
+      "file": "Maths/12 Mathematical Reasoning.pdf",
+      "bytes": 268849,
+      "pages": 3,
+      "sha256": "9add22dbd2ef3b584b619689d499ba6b067637edfdb3652fa93d71536378ddf9"
+    },
+    {
+      "subject": "Maths",
+      "name": "13 Complex Numbers",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/complex-numbers/1207005",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/xkh2MZVNH0ReMfXIEsyA",
+      "file": "Maths/13 Complex Numbers.pdf",
+      "bytes": 8005547,
+      "pages": 66,
+      "sha256": "dd32be6066d6c4d7dd7b220833e81a07ef5a501bd44f522054907c2f3985c94c"
+    },
+    {
+      "subject": "Maths",
+      "name": "14 Trigonometric Ratios & Identities",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/trigonometric-ratios-identities/1207004",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/1fMcLCkI3GkrV3dD5TWd",
+      "file": "Maths/14 Trigonometric Ratios & Identities.pdf",
+      "bytes": 20146661,
+      "pages": 82,
+      "sha256": "e399fa2ba13274298212900c7b87933e2c99cd8c0e0e4a555d134637b348f401"
+    },
+    {
+      "subject": "Maths",
+      "name": "15 Trigonometric Equations",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/trigonometric-equations/1207003",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/WuALpkUbzK2SLPZ5OTfs",
+      "file": "Maths/15 Trigonometric Equations.pdf",
+      "bytes": 5790526,
+      "pages": 36,
+      "sha256": "a12f5b15109cab638e2ebc26b753790b205572228b1d989e7874469a452094ee"
+    },
+    {
+      "subject": "Maths",
+      "name": "16 Inverse Trigonometric Functions",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/inverse-trigonometric-functions/1207002",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/V63KgxXoECE8M33MWmyM",
+      "file": "Maths/16 Inverse Trigonometric Functions.pdf",
+      "bytes": 5663654,
+      "pages": 57,
+      "sha256": "dd0a29d53d069a14ec49101784d538d9dc965ac909243d874309b7e4ffa46ad4"
+    },
+    {
+      "subject": "Maths",
+      "name": "17 Properties of Triangles",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/properties-of-triangles/1207001",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/2OpnXRbAvy8vuxpAmv8J",
+      "file": "Maths/17 Properties of Triangles.pdf",
+      "bytes": 10873190,
+      "pages": 94,
+      "sha256": "f7454ed5a97dc3f32304136f38686ea55e0c24d3c474168b230548b2645589f2"
+    },
+    {
+      "subject": "Maths",
+      "name": "18 Functions",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/functions/1207000",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/8l77EZQa3kHXYxCG4LCK",
+      "file": "Maths/18 Functions.pdf",
+      "bytes": 7762924,
+      "pages": 64,
+      "sha256": "7c773de36a60ac54f7b46a5c69b5b50a4353214912397a885e73e28dbb5d5294"
+    },
+    {
+      "subject": "Maths",
+      "name": "19 Limits, Continuity and Differentiability",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/limits-continuity-and-differentiability/1206999",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/cBbM4m0xC8eWLvfKjxSD",
+      "file": "Maths/19 Limits, Continuity and Differentiability.pdf",
+      "bytes": 9510046,
+      "pages": 100,
+      "sha256": "a64c78b6628d578b9485a8f52ed277be3ad9265823e6d05988ba2f95afa3bfa6"
+    },
+    {
+      "subject": "Maths",
+      "name": "20 Application of Derivatives",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/application-of-derivatives/1206998",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/7ybXoZOGtIi8sDtBGf0Q",
+      "file": "Maths/20 Application of Derivatives.pdf",
+      "bytes": 21642268,
+      "pages": 122,
+      "sha256": "fe7faad1543ba5baa2e266f8939e7f96ec61a9841852d8067c89c41e9f559a70"
+    },
+    {
+      "subject": "Maths",
+      "name": "21 Differentiation",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/differentiation/1206997",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/UZJB3POsYvaomDd4kyJe",
+      "file": "Maths/21 Differentiation.pdf",
+      "bytes": 6618147,
+      "pages": 58,
+      "sha256": "9299e08c6f235bfbf93c175bf8199a487d8c192cc13cf536a277bafcbd2e5a9b"
+    },
+    {
+      "subject": "Maths",
+      "name": "22 Indefinite Integration",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/indefinite-integration/1206996",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/BDPfghYHMAUqOa0NUNUm",
+      "file": "Maths/22 Indefinite Integration.pdf",
+      "bytes": 16752373,
+      "pages": 122,
+      "sha256": "2b5e42e20d2a549a6b86ef42ce8fd0372acf322c9b95e7a6f1c42d9d486fd288"
+    },
+    {
+      "subject": "Maths",
+      "name": "23 Definite Integration",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/definite-integration/1206995",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/5J1MUeiPIMLnX90zPKFF",
+      "file": "Maths/23 Definite Integration.pdf",
+      "bytes": 7708315,
+      "pages": 89,
+      "sha256": "3841a7efdd3a05dcd642373a67d7b010f5d3c7598321f543d418ce2a3fbe54ec"
+    },
+    {
+      "subject": "Maths",
+      "name": "24 Area Under The Curves",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/area-under-the-curves/1206994",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/xdZ4PUgAcVNMil4qm6gv",
+      "file": "Maths/24 Area Under The Curves.pdf",
+      "bytes": 3916094,
+      "pages": 19,
+      "sha256": "ea79fcd55161836fc759e350c5076e57d7783cb285206468de615c61f4f8dfdf"
+    },
+    {
+      "subject": "Maths",
+      "name": "25 Differential Equations",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/differential-equations/1206993",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/Kh0CYLrwTGm52JAbJ3tc",
+      "file": "Maths/25 Differential Equations.pdf",
+      "bytes": 8684134,
+      "pages": 76,
+      "sha256": "a6f839e7e2c8c9a7358f63e5ea03ad1ebe4ff9c397929c9051823e9a0d484add"
+    },
+    {
+      "subject": "Maths",
+      "name": "26 Straight Lines and Pair of Straight Lines",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/straight-lines-and-pair-of-straight-lines/1206992",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/7UWPnbjbE6fhMGwCm8j5",
+      "file": "Maths/26 Straight Lines and Pair of Straight Lines.pdf",
+      "bytes": 14872626,
+      "pages": 183,
+      "sha256": "eeece6a906e5e6dc676978fad6262b274fa0fc44fa9c1563ec7a5e2472b610e7"
+    },
+    {
+      "subject": "Maths",
+      "name": "27 Circle",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/circle/1206991",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/ugM26IcdITD0n8k0aoBr",
+      "file": "Maths/27 Circle.pdf",
+      "bytes": 14126176,
+      "pages": 173,
+      "sha256": "db5667a38ef2a821a144f8c435ae9add18048ce19c5668645e67e5d151e77bcc"
+    },
+    {
+      "subject": "Maths",
+      "name": "28 Parabola",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/parabola/1206990",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/WsD3bCAvkHqkAM80s5pQ",
+      "file": "Maths/28 Parabola.pdf",
+      "bytes": 4114801,
+      "pages": 32,
+      "sha256": "03601898a1924a4247e11a4606be684febddea5be65b3a9d505004c285caade5"
+    },
+    {
+      "subject": "Maths",
+      "name": "29 Ellipse",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/ellipse/1206989",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/20Q9HTvJeDX23FYu1YEm",
+      "file": "Maths/29 Ellipse.pdf",
+      "bytes": 3877528,
+      "pages": 33,
+      "sha256": "0a2a92a86581646a0e62cff0a4ad553337ef803338806a14721adfc6ae5e3170"
+    },
+    {
+      "subject": "Maths",
+      "name": "30 Hyperbola",
+      "url": "https://www.selfstudys.com/books/ap-eamcet-previous-year-paper/english/chapter-wise/mathematics/hyperbola/1206988",
+      "pdf_url": "https://www.selfstudys.com/sitepdfs/XvAxYIPCmRRnUgjwAiZG",
+      "file": "Maths/30 Hyperbola.pdf",
+      "bytes": 16085794,
+      "pages": 61,
+      "sha256": "0aee4183cd4ae636232b6f59d890288f49cb651bab3e416730087cc7fd062423"
+    }
+  ]
+}
